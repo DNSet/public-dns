@@ -1,0 +1,7 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+2001:da8::666,,23910,China Next Generation Internet CERNET2,CN,,9.12.0,Unexpected result for wikileaks.org: {[[162 125 82 7]]},,0.01,2023-08-17T21:15:18Z,2019-03-17T05:48:19Z
+240c::6666,,24445,"Henan Mobile Communications Co.,Ltd",CN,Beijing,,Unexpected result for wikileaks.org: {[[31 13 85 169]]},,0.00,2023-08-17T21:17:45Z,2020-04-22T07:11:27Z
+240c::6644,,24445,"Henan Mobile Communications Co.,Ltd",CN,Beijing,,connection refused,,0.00,2023-08-17T21:17:45Z,2020-04-22T07:11:27Z
+2400:3200::1,public1.alidns.com.,37963,"Hangzhou Alibaba Advertising Co.,Ltd.",CN,Hangzhou,,Unexpected result for wikileaks.org: {[[128 242 240 149]]},,0.00,2023-08-17T21:18:23Z,2020-05-16T04:28:33Z
+2400:3200:baba::1,,37963,"Hangzhou Alibaba Advertising Co.,Ltd.",CN,Hangzhou,,Unexpected result for wikileaks.org: {[[69 63 176 59]]},,0.00,2023-08-17T21:18:26Z,2020-05-16T04:28:33Z
+2400:da00::6666,,38365,"Beijing Baidu Netcom Science and Technology Co., Ltd.",CN,,,i/o timeout,,0.00,2023-08-17T21:18:59Z,2020-06-03T03:13:11Z

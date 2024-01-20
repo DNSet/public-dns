@@ -1,0 +1,5 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+2400:6180:0:d0::5f6e:4001,resolver.tiar.app.,14061,DIGITALOCEAN-ASN,SG,Singapore,,,true,1.00,2021-10-03T03:07:38Z,2021-10-02T14:20:46Z
+2402:2c00:1688:162:1643:4989:f51c:7392,,17645,NTT SINGAPORE PTE LTD,SG,,none,,false,0.99,2021-11-29T05:28:28Z,2021-11-05T10:55:04Z
+2402:1f00:8000:800::1d7a,mx-01.naftalie.net.,16276,OVH SAS,SG,Singapore,,REFUSED for example.com,,0.00,2022-12-06T21:51:39Z,2022-04-25T07:43:16Z
+2400:8901::f03c:93ff:fe25:a89b,asia-mx.alojare.com.,63949,"Akamai Technologies, Inc.",SG,,,connection refused,,0.76,2023-02-19T20:01:30Z,2023-01-01T13:17:49Z

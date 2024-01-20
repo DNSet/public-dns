@@ -1,0 +1,2 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+41.242.116.25,haraka.stoinet.com.,37614,STOI-AS,YT,Mamoudzou,,,false,0.56,2021-10-08T08:03:08Z,2021-09-26T00:20:20Z

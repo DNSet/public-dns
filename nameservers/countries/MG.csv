@@ -1,0 +1,5 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+41.204.99.44,static-99-44.blueline.mg.,328411,Gulfsat-Madagascar-AS,MG,Toliara,dnsmasq-2.76,,false,1.00,2023-03-05T23:57:07Z,2023-03-05T23:57:07Z
+102.16.68.12,tgn.16.68.12.tgn.mg.,37054,Telecom-Malagasy,MG,,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:44:10Z,2023-03-16T08:33:14Z
+154.126.92.178,tgn.126.92.178.dts.mg.,37054,Telecom-Malagasy,MG,Antananarivo,,,false,0.62,2023-04-19T19:38:50Z,2023-03-16T17:00:07Z
+41.207.49.92,,37054,Telecom-Malagasy,MG,,,,false,0.83,2023-04-21T21:49:55Z,2023-03-17T09:38:40Z

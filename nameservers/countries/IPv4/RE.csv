@@ -1,0 +1,10 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+102.35.162.43,102-35-162-43.zeop.re.,37002,Reunicable,RE,La Saline,dnsmasq-pi-hole-2.84,,false,1.00,2021-10-01T23:34:26Z,2021-10-01T23:34:26Z
+165.169.240.250,165-169-240-250.zeop.re.,37002,Reunicable,RE,Saint-Louis,,i/o timeout,,0.50,2023-02-26T09:09:55Z,2023-02-23T06:29:10Z
+194.3.180.11,opera011.igcom.fr.,3215,Orange,RE,Saint-Denis,knot 2.x,,false,1.00,2023-03-04T10:46:51Z,2023-03-04T03:39:09Z
+81.248.236.204,lreunion-656-1-39-204.w81-248.abo.wanadoo.fr.,3215,Orange,RE,Sainte-Marie,ZyWALL DNS,,false,0.73,2023-04-20T15:51:51Z,2023-03-13T20:50:53Z
+81.248.214.212,astdenis-653-1-123-212.w81-248.abo.wanadoo.fr.,3215,Orange,RE,Saint-Denis,,i/o timeout,,0.50,2023-03-15T09:54:42Z,2023-03-14T01:52:04Z
+77.143.27.81,81.27.143.77.rev.sfr.net.,49902,Societe Reunionnaise Du Radiotelephone Scs,RE,Saint-Denis,dnsmasq-2.83-180-gabe1ccf,,false,1.00,2023-03-15T08:44:47Z,2023-03-14T15:41:09Z
+81.248.233.53,lreunion-656-1-36-53.w81-248.abo.wanadoo.fr.,3215,Orange,RE,Saint-Denis,ZyWALL DNS,,false,1.00,2023-03-15T04:53:35Z,2023-03-14T18:06:15Z
+81.248.237.119,lreunion-656-1-40-119.w81-248.abo.wanadoo.fr.,3215,Orange,RE,Sainte-Marie,unknown,,false,0.89,2023-03-18T02:49:13Z,2023-03-15T04:06:41Z
+81.248.233.46,lreunion-656-1-36-46.w81-248.abo.wanadoo.fr.,3215,Orange,RE,Saint-Denis,,i/o timeout,,0.00,2023-08-17T21:57:06Z,2023-03-19T20:28:39Z

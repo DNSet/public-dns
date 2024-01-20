@@ -1,0 +1,8 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+197.157.139.254,254-139-157-197.r.airtel.co.rw.,327707,AIRTEL,RW,,,i/o timeout,,0.04,2022-01-19T07:09:40Z,2021-10-12T15:29:24Z
+196.12.156.66,,37006,Liquid Telecommunication Rwanda,RW,Kigali,,,false,0.57,2022-10-29T15:32:23Z,2022-10-01T10:22:18Z
+41.215.248.143,,37006,Liquid Telecommunication Rwanda,RW,,,,true,1.00,2023-02-08T23:51:41Z,2022-10-12T01:15:15Z
+197.243.90.62,,37228,Olleh-Rwanda-Networks,RW,,,,false,0.31,2022-10-27T10:36:00Z,2022-10-18T12:54:37Z
+41.223.226.150,,37006,Liquid Telecommunication Rwanda,RW,Kigali,9.9.4-RedHat-9.9.4-72.el7,,true,0.97,2023-02-28T00:00:35Z,2023-02-26T13:36:47Z
+196.12.149.197,,37006,Liquid Telecommunication Rwanda,RW,Kigali,,,false,1.00,2023-03-18T02:49:53Z,2023-03-15T05:16:37Z
+196.12.158.238,,21174,"RWANDATEL-AS Autonomous System Number for RWANDATEL, Rwanda",RW,Kigali,,i/o timeout,,0.00,2023-08-17T21:07:46Z,2015-01-06T15:39:20Z

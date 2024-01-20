@@ -1,0 +1,5 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+212.9.28.233,mail.2e2.je.,8681,JTGlobal,JE,Saint Helier,,i/o timeout,,0.21,2022-01-10T13:07:59Z,2020-09-01T21:54:15Z
+87.244.76.66,66.76.244.87.jtglobal.com.,8681,JTGlobal,JE,Jersey,unbound 1.4.22,,false,1.00,2023-03-15T02:49:09Z,2023-03-13T12:09:12Z
+185.3.52.19,19.52.3.185.jtglobal.com.,8681,JTGlobal,JE,Saint Helier,dnsmasq-2.84rc2,,false,0.60,2023-04-19T19:37:51Z,2023-03-16T15:30:06Z
+87.244.93.12,12.93.244.87.dyn.jtglobal.com.,8681,JTGlobal,JE,Jersey,,i/o timeout,,0.00,2023-08-17T15:57:25Z,2023-03-19T09:40:33Z

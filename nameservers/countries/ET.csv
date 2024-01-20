@@ -1,0 +1,8 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+213.55.96.166,mail.moe.gov.et.,24757,Ethiopian Telecommunication Corporation,ET,,,,false,1.00,2021-05-03T22:25:41Z,2021-02-12T13:00:55Z
+213.55.96.148,,24757,Ethiopian Telecommunication Corporation,ET,,,,false,0.99,2021-05-03T22:23:52Z,2021-03-30T06:00:06Z
+196.188.168.146,,24757,Ethiopian Telecommunication Corporation,ET,,,i/o timeout,,0.00,2023-02-15T17:12:30Z,2022-12-13T02:04:32Z
+196.190.40.233,,24757,Ethiopian Telecommunication Corporation,ET,,dnsmasq-2.80,,false,1.00,2023-03-13T03:07:59Z,2023-03-13T03:07:59Z
+196.189.117.209,,24757,Ethiopian Telecommunication Corporation,ET,,,,false,1.00,2023-03-15T04:49:12Z,2023-03-14T10:55:07Z
+196.189.124.188,,24757,Ethiopian Telecommunication Corporation,ET,,,,false,1.00,2023-03-15T04:49:48Z,2023-03-14T11:56:48Z
+197.156.88.131,mail.magcoffee.com.,24757,Ethiopian Telecommunication Corporation,ET,Addis Ababa,,,false,0.67,2023-03-15T04:52:24Z,2023-03-14T16:25:45Z

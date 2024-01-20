@@ -1,0 +1,18 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+2a02:6b8:0:1::feed:bad,secondary.safe.dns.yandex.ru.,13238,YANDEX LLC,RU,Moscow,unbound 1.17.0,,true,1.00,2023-03-04T03:44:54Z,2020-09-13T18:04:29Z
+2a02:6b8::feed:bad,safe.dns.yandex.ru.,13238,YANDEX LLC,RU,Moscow,unbound 1.17.0,,true,1.00,2023-03-01T18:47:23Z,2020-09-13T18:04:30Z
+2a02:6b8::feed:a11,family.dns.yandex.ru.,13238,YANDEX LLC,RU,Moscow,,i/o timeout,,1.00,2021-05-03T22:24:35Z,2021-03-28T21:28:14Z
+2a02:6b8:0:1::feed:a11,secondary.family.dns.yandex.ru.,13238,YANDEX LLC,RU,Moscow,PowerDNS Recursor 4.0.8 (built Dec 11 2017 10:39:35 by root@4351f9921268),,false,1.00,2021-04-23T22:25:07Z,2021-03-28T21:28:14Z
+2a0c:a9c7:9::1,b.res-nsdi.ru.,41740,Joint-stock company Internet Exchange MSK-IX,RU,,,Unexpected result for wikileaks.org: {[[195 35 109 53] [195 35 109 44] [185 165 168 41]]},,0.05,2021-09-10T08:47:42Z,2021-09-07T22:50:43Z
+2a02:6b8::feed:ff,dns.yandex.ru.,13238,YANDEX LLC,RU,Moscow,PowerDNS Recursor 4.0.8 (built Dec 11 2017 10:39:35 by root@4351f9921268),,false,1.00,2021-09-24T04:29:06Z,2021-09-24T04:29:06Z
+2a02:6b8:0:1::feed:ff,secondary.dns.yandex.ru.,13238,YANDEX LLC,RU,Moscow,PowerDNS Recursor 4.0.8 (built Dec 11 2017 10:39:35 by root@4351f9921268),,false,1.00,2021-09-24T04:29:10Z,2021-09-24T04:29:10Z
+2a0c:a9c7:8::1,a.res-nsdi.ru.,41740,Joint-stock company Internet Exchange MSK-IX,RU,,,,true,1.00,2021-09-24T04:29:12Z,2021-09-24T04:29:12Z
+2a03:e2c0:73e:a::13,,205125,Network Management Ltd,RU,Moscow,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T18:14:01Z,2021-10-02T18:14:01Z
+2001:470:23:4bd::2,tunnel629696-pt.tunnel.tserv22.tyo1.ipv6.he.net.,6939,HURRICANE,RU,Berdsk,dnsmasq-pi-hole-2.87test3,,false,1.00,2021-10-02T19:08:48Z,2021-10-02T19:08:48Z
+2a00:5a60::1:ff,,199274,"Serveroid, LLC",RU,,,,true,1.00,2021-10-03T11:02:41Z,2021-10-03T10:49:08Z
+2a00:5a60::ad2:ff,,199274,"Serveroid, LLC",RU,,,,true,1.00,2021-11-09T22:22:57Z,2021-10-03T10:49:08Z
+2a0d:8480::fd4,russia.netvpn.net.,48282,Hosting technology LTD,RU,,,,true,1.00,2021-10-25T00:56:50Z,2021-10-25T00:56:50Z
+2a00:5a60::ad1:ff,,199274,"Serveroid, LLC",RU,,,,true,1.00,2022-04-19T07:02:48Z,2022-03-30T15:34:27Z
+2a03:90c0:999d::1,,199524,G-Core Labs S.A.,RU,,PowerDNS Recursor 4.5.6 (built Oct  8 2021 13:31:44 by root@1a0057b4ce3e),,true,1.00,2022-09-09T18:43:57Z,2022-09-09T18:03:08Z
+2a03:90c0:9992::1,,199524,G-Core Labs S.A.,RU,,PowerDNS Recursor 4.5.6 (built Oct  8 2021 13:31:44 by root@1a0057b4ce3e),,true,1.00,2022-09-09T18:44:00Z,2022-09-09T18:03:08Z
+2a0d:8480:2:54::,sergeysedoy97.ru.,48282,Hosting technology LTD,RU,,,i/o timeout,,0.00,2023-04-20T15:48:45Z,2023-03-07T18:48:18Z

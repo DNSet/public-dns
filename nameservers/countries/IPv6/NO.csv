@@ -1,0 +1,5 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+2001:840:100::,ns1.powertech.no.,2116,Globalconnect As,NO,,PowerDNS Recursor 3.5.3 $Id$,,false,1.00,2022-12-17T07:07:15Z,2021-02-12T11:30:58Z
+2001:840:200::,ns2.powertech.no.,5381,Globalconnect As,NO,,9.8.3-P4,Unexpected result for wikileaks.org: {[[141 105 65 113] [185 165 168 41] [195 35 109 44] [195 35 109 53]]},,0.00,2021-08-31T17:10:01Z,2021-02-12T11:31:04Z
+2001:840:2010:413::100,,2116,Globalconnect As,NO,,PowerDNS Recursor 3.5.3 $Id$,Unexpected result for wikileaks.org: {[[51 159 197 136] [80 81 248 21]]},,0.00,2023-01-11T08:28:23Z,2021-10-02T15:06:12Z
+2a03:94e0:1804::1,,56655,TerraHost AS,NO,Sandefjord,9.18.7,,true,1.00,2022-12-06T23:22:20Z,2022-10-07T14:09:34Z

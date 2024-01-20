@@ -1,0 +1,7 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+80.248.193.165,,20634,Telecom Liechtenstein AG,LI,,,connection refused,,0.00,2023-02-13T18:27:39Z,2020-08-23T18:16:34Z
+80.72.49.57,80-72-49-57.dynamic.modem.fl1.li.,20634,Telecom Liechtenstein AG,LI,,,no route to host,,0.00,2023-03-04T17:44:44Z,2020-09-02T20:01:44Z
+2a0e:97c0:210::250,,212271,C1v Edizioni,LI,Vaduz,,Unexpected result for verisignlabs.com: {[[209 131 162 50] [69 58 187 68]]},,0.00,2021-08-24T09:13:46Z,2021-06-19T19:04:48Z
+80.76.3.47,,20914,Bacher EDV-Beratung AG,LI,,,,false,1.00,2023-03-13T12:29:34Z,2023-03-13T12:29:34Z
+85.31.153.151,ns1.tbs.li.,42162,QualityNet AG,LI,Schaan,,,false,1.00,2023-03-15T09:57:33Z,2023-03-14T21:58:42Z
+89.248.152.149,89-248-152-149.dynamic.modem.fl1.li.,20634,Telecom Liechtenstein AG,LI,Schaan,,i/o timeout,,0.00,2023-04-21T21:49:52Z,2023-03-17T09:25:29Z

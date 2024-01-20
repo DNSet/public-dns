@@ -1,0 +1,216 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+93.115.24.204,,16125,UAB Cherry Servers,LT,,,i/o timeout,,0.00,2023-02-25T20:53:19Z,2020-11-30T19:01:34Z
+94.176.233.93,dns.comss.one.,62282,UAB Rakrejus,LT,Vilnius,,,true,0.95,2021-05-03T22:25:18Z,2021-03-26T09:02:23Z
+93.115.24.205,dns.comss.one.,16125,UAB Cherry Servers,LT,,,,true,0.92,2021-05-03T22:24:22Z,2021-04-13T07:01:23Z
+82.135.139.155,82-135-139-155.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Kaunas,Microsoft DNS 6.1.7601 (1DB15EC5),,false,1.00,2021-10-08T08:01:54Z,2021-09-26T00:27:01Z
+85.206.107.169,,8764,"Telia Lietuva, AB",LT,Kaunas,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:01:16Z,2021-10-01T23:01:16Z
+195.189.96.42,pihole2.ispconfig.lt.,59642,UAB Cherry Servers,LT,,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-01T23:26:48Z,2021-10-01T23:26:48Z
+185.254.45.78,,43700,UAB Consilium Optimum,LT,Vilnius,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T00:13:49Z,2021-10-02T00:13:49Z
+5.199.174.240,pihole1.ispconfig.lt.,16125,UAB Cherry Servers,LT,,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-02T00:14:52Z,2021-10-02T00:14:52Z
+195.181.247.251,41004.s.time4vps.cloud.,212531,UAB Interneto vizija,LT,,dnsmasq-pi-hole-2.87test2,,false,1.00,2021-10-02T18:03:19Z,2021-10-02T18:03:19Z
+78.158.19.196,cl-78-158-19-196.fastlink.lt.,43700,UAB Consilium Optimum,LT,Vilnius,,i/o timeout,,0.00,2023-03-05T07:00:44Z,2021-10-10T06:11:12Z
+88.119.204.62,88-119-204-62.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Prienai,,,false,1.00,2023-02-25T20:55:44Z,2021-10-24T11:42:26Z
+109.235.69.38,mail-lietuva.acvan.net.,212531,UAB Interneto vizija,LT,,,,true,1.00,2021-10-25T00:59:32Z,2021-10-25T00:59:32Z
+2a02:7b40:6deb:4526::3,mail-lietuva.acvan.net.,62282,UAB Rakrejus,LT,,,,true,1.00,2021-10-25T00:59:33Z,2021-10-25T00:59:33Z
+84.15.44.135,,13194,UAB Bite Lietuva,LT,Kaunas,,i/o timeout,,0.00,2023-03-05T08:53:46Z,2022-02-12T14:48:14Z
+5.20.55.231,data-55-231.cgates.lt.,21412,UAB Cgates,LT,Alytus,9.9.4-RedHat-9.9.4-61.el7_5.1,,false,1.00,2022-09-08T08:30:20Z,2022-09-08T04:31:38Z
+5.20.124.179,data-124-179.cgates.lt.,21412,UAB Cgates,LT,Vilnius,,,false,1.00,2022-09-08T08:30:20Z,2022-09-08T04:33:08Z
+5.20.139.38,smtp.svytejimas.lt.,21412,UAB Cgates,LT,Vilnius,,,false,1.00,2022-09-08T08:30:20Z,2022-09-08T04:33:30Z
+5.133.65.220,,15440,UAB Baltnetos komunikacijos,LT,,,,false,1.00,2022-09-14T10:43:57Z,2022-09-08T17:45:33Z
+5.199.161.189,,16125,UAB Cherry Servers,LT,,,,false,0.98,2022-09-26T08:32:41Z,2022-09-09T01:47:39Z
+5.20.76.63,data-76-63.cgates.lt.,21412,UAB Cgates,LT,Alytus,,i/o timeout,,0.50,2022-09-10T16:36:47Z,2022-09-10T06:47:21Z
+5.20.82.73,data-82-73.cgates.lt.,21412,UAB Cgates,LT,Alytus,,,false,1.00,2022-09-10T16:36:43Z,2022-09-10T06:47:31Z
+5.20.98.219,data-98-219.cgates.lt.,21412,UAB Cgates,LT,Vilnius,,,false,1.00,2022-09-10T08:37:03Z,2022-09-10T06:47:59Z
+5.20.117.214,data-117-214.cgates.lt.,21412,UAB Cgates,LT,Vilnius,,,false,1.00,2022-09-10T12:36:58Z,2022-09-10T06:48:33Z
+5.20.178.157,data-178-157.cgates.lt.,21412,UAB Cgates,LT,Vilnius,,,false,1.00,2022-09-10T16:36:51Z,2022-09-10T06:50:25Z
+5.199.174.60,,16125,UAB Cherry Servers,LT,,,i/o timeout,,0.00,2023-02-08T23:44:59Z,2022-09-11T05:57:40Z
+62.77.153.21,server.ozbo.lt.,212531,UAB Interneto vizija,LT,,,,true,0.89,2022-10-17T15:32:23Z,2022-09-28T07:19:08Z
+185.25.48.179,s1.smarts.gr.,61272,"Informacines sistemos ir technologijos, UAB",LT,,,,false,1.00,2022-12-06T23:32:51Z,2022-10-15T08:31:22Z
+212.59.30.146,ignet-212-59-30-146.ignet.lt.,8764,"Telia Lietuva, AB",LT,Pabradė,,,false,1.00,2022-10-20T22:35:10Z,2022-10-20T01:52:55Z
+89.40.5.104,cloud.ultrainvest.net.,212531,UAB Interneto vizija,LT,Vilnius,,,false,1.00,2022-10-26T11:39:47Z,2022-10-26T10:52:09Z
+85.206.69.149,,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2022-11-11T01:02:34Z,2022-11-09T22:43:21Z
+82.135.248.229,centrofm.lt.,8764,"Telia Lietuva, AB",LT,Kėdainiai,,,false,1.00,2022-11-24T13:34:51Z,2022-11-13T18:22:34Z
+78.31.231.139,78-31-231-139.ip.airnet.lt.,197225,UAB Airnet,LT,Garliava,,,false,1.00,2022-12-06T22:02:59Z,2022-11-18T14:40:54Z
+88.119.137.220,88-119-137-220.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Klaipėda,,i/o timeout,,0.00,2023-02-09T00:25:06Z,2022-11-19T05:03:06Z
+46.36.88.38,,43627,UAB Besmegeniai,LT,Mažeikiai,,i/o timeout,,0.71,2022-12-06T23:48:57Z,2022-11-22T20:49:32Z
+213.226.186.10,gw.fastlink.lt.,13194,UAB Bite Lietuva,LT,Miriniskiai,,,false,0.98,2022-12-06T23:52:19Z,2022-11-26T19:26:04Z
+85.206.20.125,85-206-20-125.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Kaunas,,connection refused,,0.44,2022-12-06T23:53:37Z,2022-11-28T19:57:46Z
+188.69.227.55,md-188-69-227-55.omni.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,0.98,2023-02-19T17:53:29Z,2022-12-11T22:47:29Z
+213.197.155.226,,15440,UAB Baltnetos komunikacijos,LT,Vilnius,,i/o timeout,,0.50,2023-02-16T16:05:22Z,2022-12-14T10:20:13Z
+80.208.229.180,4dpb.w.time4vps.cloud.,212531,UAB Interneto vizija,LT,,,,false,1.00,2023-02-16T16:05:35Z,2022-12-15T11:21:29Z
+213.164.123.118,,43627,UAB Besmegeniai,LT,Mažeikiai,,,false,0.83,2023-02-19T20:00:16Z,2022-12-19T01:34:39Z
+88.119.87.88,88-119-87-88.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,0.97,2023-02-18T10:12:51Z,2022-12-20T02:24:18Z
+193.216.224.131,static193-216-224-131.cust.tele2.lt.,1257,Tele2 SWIPnet,LT,Vilnius,,,false,0.92,2023-02-18T10:13:21Z,2022-12-20T18:15:31Z
+77.221.95.210,data2-95-210.cgates.lt.,21412,UAB Cgates,LT,Panevezys,,,false,0.98,2023-02-19T02:06:57Z,2022-12-21T09:55:10Z
+212.59.30.150,ignet-212-59-30-150.ignet.lt.,8764,"Telia Lietuva, AB",LT,Pabradė,,,false,0.47,2023-02-19T06:54:50Z,2022-12-25T13:42:51Z
+178.16.32.129,client-178-16-32-129.cgates.lt.,21412,UAB Cgates,LT,Kaunas,,,false,1.00,2023-02-19T07:59:07Z,2022-12-29T15:20:27Z
+81.7.101.26,81-7-101-26.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Pagėgiai,,,false,1.00,2023-02-27T16:51:36Z,2023-02-22T07:10:26Z
+185.8.106.199,,204770,UAB Cherry Servers,LT,,,,false,0.97,2023-02-26T10:51:21Z,2023-02-23T11:18:55Z
+88.119.137.191,88-119-137-191.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Klaipėda,,,false,1.00,2023-02-26T13:52:30Z,2023-02-24T07:15:42Z
+212.59.30.149,ignet-212-59-30-149.ignet.lt.,8764,"Telia Lietuva, AB",LT,Pabradė,,,false,0.32,2023-02-27T23:49:07Z,2023-02-25T04:19:35Z
+141.98.8.113,,209605,UAB Host Baltic,LT,,,,false,1.00,2023-02-28T00:00:09Z,2023-02-25T23:44:05Z
+82.135.130.151,82-135-130-151.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Kaunas,dnsmasq-2.84rc2,,false,0.99,2023-03-01T03:45:21Z,2023-02-26T17:41:35Z
+188.69.130.183,md-188-69-130-183.omni.lt.,8764,"Telia Lietuva, AB",LT,Klaipėda,,,false,1.00,2023-03-02T05:54:36Z,2023-02-26T19:48:29Z
+212.52.39.39,data2-39-39.cgates.lt.,21412,UAB Cgates,LT,Panevezys,,,false,0.98,2023-03-02T22:47:02Z,2023-02-28T10:29:01Z
+81.7.94.169,81-7-94-169.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Marijampolė,,,false,1.00,2023-03-05T18:54:55Z,2023-03-05T06:13:55Z
+89.40.5.204,103r.w.hostens.cloud.,62282,UAB Rakrejus,LT,Vilnius,,,false,1.00,2023-03-10T00:44:55Z,2023-03-09T02:19:35Z
+46.148.26.40,ip-46-148-26-40.infiumhost.net.,50297,"Infium, UAB",LT,,9.11.3-1ubuntu1.3-Ubuntu,,true,1.00,2023-04-12T18:12:34Z,2023-03-12T02:41:52Z
+85.206.44.77,,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,0.84,2023-04-22T08:43:58Z,2023-03-13T00:57:52Z
+85.206.162.242,mail.lmsoftdemo.com.,61272,"Informacines sistemos ir technologijos, UAB",LT,Vilnius,dnsmasq-2.76,,false,1.00,2023-03-13T04:45:48Z,2023-03-13T01:34:50Z
+85.206.34.2,85-206-34-2.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-13T03:13:47Z,2023-03-13T03:13:47Z
+88.119.146.78,88-119-146-78.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-13T03:28:37Z,2023-03-13T03:28:37Z
+46.36.77.154,ip-77-154.rev.kli.lt.,43627,UAB Besmegeniai,LT,Kėdainiai,,,false,1.00,2023-03-13T03:46:44Z,2023-03-13T03:46:44Z
+85.206.44.83,,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-13T04:48:13Z,2023-03-13T04:23:36Z
+88.119.142.145,office.kame.lt.,8764,"Telia Lietuva, AB",LT,Kaunas,,,false,1.00,2023-03-13T08:45:19Z,2023-03-13T05:09:56Z
+88.222.171.192,88-222-171-192.init.lt.,39354,UAB INIT,LT,Kaunas,,,false,1.00,2023-03-13T08:45:27Z,2023-03-13T05:34:13Z
+185.38.167.103,,62282,UAB Rakrejus,LT,,,,false,1.00,2023-03-13T05:51:13Z,2023-03-13T05:51:13Z
+85.206.44.78,,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-13T08:44:57Z,2023-03-13T06:25:39Z
+84.15.44.214,,13194,UAB Bite Lietuva,LT,Kaunas,,,false,1.00,2023-03-13T07:40:55Z,2023-03-13T07:40:55Z
+85.255.111.7,85-255-111-x.csc.lt.,24645,"CSC Telecom, UAB",LT,Kaunas,,,false,1.00,2023-03-14T17:46:21Z,2023-03-13T08:48:50Z
+89.117.114.124,,35913,DEDIPATH-LLC,LT,,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.13,,true,1.00,2023-03-14T17:45:05Z,2023-03-13T08:51:55Z
+85.206.44.2,,8764,"Telia Lietuva, AB",LT,Vilnius,,i/o timeout,,0.86,2023-03-14T17:45:50Z,2023-03-13T09:35:17Z
+82.135.203.178,82-135-203-178.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-14T07:46:35Z,2023-03-13T09:45:39Z
+88.119.135.106,88-119-135-106.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Piliuona,,,false,1.00,2023-03-13T13:46:35Z,2023-03-13T09:46:16Z
+89.190.99.10,ns2.nnt.lt.,41228,UAB NNT,LT,Utena,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.9,,false,1.00,2023-03-13T09:56:15Z,2023-03-13T09:56:15Z
+195.12.166.137,195-12-166-137.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Tytuvenai,,,false,1.00,2023-03-13T10:48:12Z,2023-03-13T10:44:54Z
+88.119.17.38,88-119-17-38.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Masionys,,,false,1.00,2023-03-13T12:27:58Z,2023-03-13T12:27:58Z
+88.119.189.16,88-119-189-16.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Akmene,,,false,1.00,2023-03-13T12:49:38Z,2023-03-13T12:49:38Z
+88.119.49.4,88-119-49-4.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Kaunas,,,false,1.00,2023-03-13T12:52:32Z,2023-03-13T12:52:32Z
+212.122.82.145,,12539,"Penki Kontinentai, Ltd.",LT,Vilnius,Microsoft DNS 6.1.7601 (1DB15F75),,false,1.00,2023-03-14T04:51:13Z,2023-03-13T13:18:37Z
+84.55.40.196,84.55.40.196.ip.greitas.lt.,24877,UAB INIT,LT,Garliava,,,false,1.00,2023-03-13T13:30:49Z,2023-03-13T13:30:49Z
+85.206.25.100,85-206-25-100.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-13T13:33:37Z,2023-03-13T13:33:37Z
+85.206.27.22,,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-13T13:58:11Z,2023-03-13T13:58:11Z
+46.36.77.99,ip-77-99.rev.kli.lt.,43627,UAB Besmegeniai,LT,Kėdainiai,,,false,1.00,2023-03-13T14:30:28Z,2023-03-13T14:30:28Z
+88.119.29.161,mail1.telpro.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-13T14:42:10Z,2023-03-13T14:42:10Z
+91.233.176.248,91-233-176-248.inet.vub.lt.,198345,Viesoji istaiga Vilniaus universiteto bustas,LT,Vilnius,,,false,1.00,2023-03-13T14:45:16Z,2023-03-13T14:45:16Z
+94.232.224.254,host-94-232-224-254.etanetas.lt.,39067,Etanetas Uab,LT,Šalčininkai,dnsmasq-2.76,,false,1.00,2023-03-13T15:30:02Z,2023-03-13T15:30:02Z
+85.206.7.245,85-206-7-245.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-13T23:50:23Z,2023-03-13T15:50:38Z
+88.119.249.83,88-119-249-83.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Kaunas,,,false,1.00,2023-03-15T09:48:11Z,2023-03-13T16:00:31Z
+85.206.161.70,21050-35879.bacloud.info.,61272,"Informacines sistemos ir technologijos, UAB",LT,Šiauliai,,i/o timeout,,0.50,2023-03-15T09:48:13Z,2023-03-13T16:01:58Z
+88.119.98.161,guoba.insec.lt.,8764,"Telia Lietuva, AB",LT,Panevezys,,,false,1.00,2023-03-15T09:48:15Z,2023-03-13T16:17:30Z
+88.119.128.20,kaunas.mediaskopas.lt.,8764,"Telia Lietuva, AB",LT,Radviliškis,,,false,1.00,2023-03-15T09:48:50Z,2023-03-13T17:06:33Z
+94.244.65.12,94-244-65-12.ip.kis.lt.,25190,UAB Kauno interneto sistemos,LT,Kaunas,,,false,0.98,2023-03-17T22:45:28Z,2023-03-13T17:30:58Z
+82.135.215.108,82-135-215-108.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-15T09:49:10Z,2023-03-13T17:38:01Z
+37.156.220.228,mail.prestserv.ru.,62282,UAB Rakrejus,LT,,,,false,1.00,2023-03-15T09:49:47Z,2023-03-13T18:31:37Z
+46.148.26.109,ip-46-148-26-109.infiumhost.net.,50297,"Infium, UAB",LT,,9.16.1-Ubuntu,,true,1.00,2023-03-15T09:51:07Z,2023-03-13T20:30:56Z
+85.254.98.8,,13194,UAB Bite Lietuva,LT,Kaunas,,,false,1.00,2023-03-15T09:51:13Z,2023-03-13T20:39:34Z
+88.216.164.85,,33922,UAB Nacionalinis Telekomunikaciju Tinklas,LT,Vilnius,,,false,1.00,2023-03-15T09:51:45Z,2023-03-13T21:23:56Z
+85.206.44.44,,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-15T09:51:50Z,2023-03-13T21:27:47Z
+82.135.143.176,82-135-143-176.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Kaunas,,,false,1.00,2023-03-15T09:51:45Z,2023-03-13T21:30:44Z
+88.119.203.185,88-119-203-185.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Kaunas,,,false,1.00,2023-03-15T09:52:50Z,2023-03-13T23:06:03Z
+89.117.114.117,,35913,DEDIPATH-LLC,LT,,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.13,,true,1.00,2023-03-15T09:54:16Z,2023-03-14T01:20:42Z
+88.216.116.142,,33922,UAB Nacionalinis Telekomunikaciju Tinklas,LT,Tauragė,,,false,1.00,2023-03-15T09:54:43Z,2023-03-14T02:05:54Z
+46.36.88.37,,43627,UAB Besmegeniai,LT,Mažeikiai,,,false,1.00,2023-03-15T09:54:52Z,2023-03-14T02:17:04Z
+88.119.189.110,88-119-189-110.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Akmene,,,false,1.00,2023-03-14T04:39:46Z,2023-03-14T04:39:46Z
+88.119.143.195,88-119-143-195.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-14T04:42:53Z,2023-03-14T04:42:53Z
+94.232.121.203,94-232-121-203.ip.airnet.lt.,197225,UAB Airnet,LT,Karkazai,,,false,1.00,2023-03-14T05:13:37Z,2023-03-14T05:13:37Z
+82.135.255.112,82-135-255-112.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-14T05:15:58Z,2023-03-14T05:15:58Z
+85.206.149.114,85-206-149-114.static.zebra.lt.,43811,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-14T05:43:36Z,2023-03-14T05:43:36Z
+86.100.63.150,86-100-63-150-ip.balticum.lt.,39007,UAB Balticum TV,LT,Palanga,,,false,1.00,2023-03-14T06:36:16Z,2023-03-14T06:36:16Z
+89.117.114.119,,35913,DEDIPATH-LLC,LT,,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.13,,true,1.00,2023-03-14T06:37:34Z,2023-03-14T06:37:34Z
+46.166.171.76,,16125,UAB Cherry Servers,LT,,,,false,1.00,2023-03-14T18:46:49Z,2023-03-14T08:04:51Z
+88.119.95.68,88-119-95-68.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-15T04:48:19Z,2023-03-14T09:22:45Z
+82.135.200.100,82-135-200-100.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-15T04:48:27Z,2023-03-14T09:36:36Z
+85.206.44.9,,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,0.71,2023-03-15T04:48:56Z,2023-03-14T10:16:54Z
+46.36.70.39,mail.tavopastoge.lt.,43627,UAB Besmegeniai,LT,Mažeikiai,,,false,1.00,2023-03-15T04:49:12Z,2023-03-14T10:45:46Z
+85.206.9.93,85-206-9-93.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-15T04:49:12Z,2023-03-14T10:55:47Z
+84.15.104.40,,13194,UAB Bite Lietuva,LT,Domeikava,,,false,1.00,2023-03-15T04:50:02Z,2023-03-14T12:25:35Z
+81.7.77.3,81-7-77-3.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Utena,,,false,1.00,2023-03-15T04:51:48Z,2023-03-14T15:31:11Z
+89.117.114.8,,35913,DEDIPATH-LLC,LT,,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.13,,true,1.00,2023-03-15T04:51:58Z,2023-03-14T15:49:02Z
+88.119.203.210,88-119-203-210.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Kaunas,,,false,1.00,2023-03-15T04:52:41Z,2023-03-14T16:50:09Z
+85.206.149.115,orca-crew.eu.,43811,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-15T04:53:30Z,2023-03-14T18:03:30Z
+46.166.167.35,,16125,UAB Cherry Servers,LT,,,,false,1.00,2023-03-15T04:55:14Z,2023-03-14T20:56:30Z
+85.206.10.221,85-206-10-221.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Kaunas,,,false,1.00,2023-03-15T04:55:20Z,2023-03-14T21:06:30Z
+81.198.189.160,,24921,Latvijas Mobilais Telefons SIA,LT,Vilnius,,,false,1.00,2023-03-15T09:57:05Z,2023-03-14T21:10:49Z
+88.119.13.25,88-119-13-25.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-15T09:57:20Z,2023-03-14T21:43:49Z
+78.158.4.176,cl-78-158-4-176.fastlink.lt.,43700,UAB Consilium Optimum,LT,Vilnius,,connection refused,,0.30,2023-03-18T02:45:24Z,2023-03-14T22:50:53Z
+85.206.44.15,,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-15T09:58:20Z,2023-03-14T23:27:10Z
+88.119.131.106,88-119-131-106.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Klaipėda,,,false,1.00,2023-03-18T02:46:33Z,2023-03-14T23:47:39Z
+82.135.137.106,82-135-137-106.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Kaunas,,,false,1.00,2023-03-18T02:47:50Z,2023-03-15T01:50:39Z
+88.119.29.160,smtp.telpro.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-18T02:47:59Z,2023-03-15T02:08:03Z
+84.32.130.58,crescent-world.com.,204770,UAB Cherry Servers,LT,,,,false,1.00,2023-03-18T02:48:15Z,2023-03-15T02:33:25Z
+37.156.221.98,,62282,UAB Rakrejus,LT,,,,false,1.00,2023-03-18T02:48:21Z,2023-03-15T02:41:51Z
+213.226.177.6,IN-177-006.rubinetworks.lt.,13194,UAB Bite Lietuva,LT,Miriniskiai,,,false,1.00,2023-04-12T12:19:14Z,2023-03-15T02:46:17Z
+88.119.204.160,88-119-204-160.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Prienai,,,false,0.93,2023-04-23T16:45:28Z,2023-03-15T02:56:05Z
+92.61.44.7,,43811,"Telia Lietuva, AB",LT,,exHostex DNS Recursor,,true,1.00,2023-03-18T02:48:59Z,2023-03-15T03:46:46Z
+81.7.89.171,81-7-89-171.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-18T02:50:06Z,2023-03-15T05:37:00Z
+88.119.153.237,88-119-153-237.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-18T02:50:42Z,2023-03-15T06:40:25Z
+86.100.73.241,86-100-73-241-ip.balticum.lt.,39007,UAB Balticum TV,LT,Klaipėda,,,false,1.00,2023-03-18T02:50:55Z,2023-03-15T07:00:05Z
+46.148.26.147,ip-46-148-26-147.infiumhost.net.,50297,"Infium, UAB",LT,,9.10.3-P4-Ubuntu,,true,1.00,2023-03-18T02:52:40Z,2023-03-15T10:03:19Z
+82.135.197.108,82-135-197-108.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Kretinga,,,false,1.00,2023-03-18T02:53:29Z,2023-03-15T11:22:27Z
+85.254.97.30,,13194,UAB Bite Lietuva,LT,Vilnius,,,false,1.00,2023-03-18T02:54:21Z,2023-03-15T12:46:26Z
+81.7.88.177,81-7-88-177.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-18T02:54:24Z,2023-03-15T12:49:19Z
+81.7.86.154,81-7-86-154.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Kaunas,,,false,1.00,2023-03-18T02:54:45Z,2023-03-15T13:22:37Z
+85.206.44.107,,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-18T02:55:10Z,2023-03-15T14:10:24Z
+88.119.207.170,88-119-207-170.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-03-18T02:55:13Z,2023-03-15T14:13:31Z
+85.206.44.91,,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,0.91,2023-03-18T02:56:18Z,2023-03-15T15:42:14Z
+81.7.99.114,81-7-99-114.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Pakruojis,,,false,0.97,2023-03-18T02:56:11Z,2023-03-15T15:56:22Z
+82.135.237.26,82-135-237-26.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,0.81,2023-03-18T02:56:35Z,2023-03-15T16:37:15Z
+85.206.44.46,,8764,"Telia Lietuva, AB",LT,Vilnius,,i/o timeout,,0.52,2023-04-10T18:11:05Z,2023-03-15T21:52:03Z
+88.119.185.209,88-119-185-209.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Marijampolis,,,false,0.87,2023-04-12T12:18:51Z,2023-03-15T23:13:56Z
+46.36.89.132,,43627,UAB Besmegeniai,LT,Mažeikiai,,SERVFAIL for wikileaks.org,,0.82,2023-04-05T00:38:31Z,2023-03-15T23:26:32Z
+188.69.227.53,md-188-69-227-53.omni.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,0.88,2023-04-12T12:10:41Z,2023-03-16T01:15:44Z
+88.119.144.64,88-119-144-64.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:40:11Z,2023-03-16T02:09:55Z
+93.115.28.114,,16125,UAB Cherry Servers,LT,,,i/o timeout,,0.96,2023-04-05T00:40:31Z,2023-03-16T02:28:49Z
+78.58.152.242,78-58-152-242.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Kaunas,9.11.3-1ubuntu1.11-Ubuntu,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:41:33Z,2023-03-16T04:25:38Z
+77.221.81.189,data2-81-189.cgates.lt.,21412,UAB Cgates,LT,Šiauliai,,i/o timeout,,0.97,2023-04-05T00:42:32Z,2023-03-16T05:53:02Z
+88.119.253.249,88-119-253-249.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:43:41Z,2023-03-16T07:41:31Z
+84.240.27.132,lan-84-240-27-132.vln.penki.lt.,21211,"Penkiu kontinentu komunikaciju centras, Ltd.",LT,Vilnius,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:43:58Z,2023-03-16T08:13:04Z
+88.119.87.180,88-119-87-180.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,i/o timeout,,0.94,2023-04-05T00:44:22Z,2023-03-16T08:40:45Z
+88.119.142.115,88-119-142-115.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Kaunas,,i/o timeout,,0.88,2023-04-05T00:45:03Z,2023-03-16T09:46:13Z
+88.119.94.177,88-119-94-177.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:45:07Z,2023-03-16T10:06:40Z
+88.216.116.47,,33922,UAB Nacionalinis Telekomunikaciju Tinklas,LT,Tauragė,unbound 1.4.12,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:46:01Z,2023-03-16T11:29:11Z
+188.69.243.33,md-188-69-243-33.omni.lt.,8764,"Telia Lietuva, AB",LT,,,,false,0.75,2023-04-19T19:36:08Z,2023-03-16T12:37:22Z
+88.216.116.231,,33922,UAB Nacionalinis Telekomunikaciju Tinklas,LT,Tauragė,,,false,0.38,2023-04-19T19:38:10Z,2023-03-16T16:03:44Z
+88.119.196.153,mail.jerpyliov.lt.,8764,"Telia Lietuva, AB",LT,Marijampolė,,,false,0.56,2023-04-19T19:38:50Z,2023-03-16T17:06:42Z
+85.206.68.155,,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,0.65,2023-04-19T19:39:15Z,2023-03-16T17:48:03Z
+85.206.162.245,skynet.wwts.it.,61272,"Informacines sistemos ir technologijos, UAB",LT,Vilnius,dnsmasq-2.76,,false,0.88,2023-04-19T19:40:00Z,2023-03-16T19:00:59Z
+88.119.153.69,88-119-153-69.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,0.69,2023-04-19T19:40:06Z,2023-03-16T19:08:03Z
+82.135.139.157,82-135-139-157.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Palanga,PowerDNS Authoritative Server 4.0.3,,true,0.64,2023-04-19T19:40:32Z,2023-03-16T19:47:19Z
+85.206.65.213,,8764,"Telia Lietuva, AB",LT,Vilnius,dnsmasq-2.79,,false,0.68,2023-04-19T19:40:59Z,2023-03-16T20:21:14Z
+185.82.92.244,185-82-92-244.datalogistics.lt.,201201,UAB Duomenu logistikos centras,LT,,dnsmasq-2.40,,true,0.68,2023-04-19T19:41:15Z,2023-03-16T20:52:31Z
+93.93.56.1,ns1.ogmios.lt.,44613,AB Ogmios Centras,LT,Vilnius,,,false,0.62,2023-04-21T17:41:50Z,2023-03-16T21:41:08Z
+94.232.224.101,host-94-232-224-101.etanetas.lt.,39067,Etanetas Uab,LT,Šalčininkai,,,false,0.69,2023-04-21T17:42:02Z,2023-03-16T22:02:59Z
+85.206.124.44,,204390,UAB Magnetukas,LT,Kaunas,,,false,0.69,2023-04-21T17:42:08Z,2023-03-16T22:12:02Z
+82.135.241.91,82-135-241-91.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,0.69,2023-04-21T17:42:09Z,2023-03-16T22:13:00Z
+46.36.77.153,ip-77-153.rev.kli.lt.,43627,UAB Besmegeniai,LT,Kėdainiai,,,false,0.60,2023-04-21T17:42:29Z,2023-03-16T22:44:02Z
+185.25.48.178,s2.smarts.gr.,61272,"Informacines sistemos ir technologijos, UAB",LT,,,,false,0.70,2023-04-21T17:42:38Z,2023-03-16T23:00:11Z
+88.119.135.155,88-119-135-155.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Klaipėda,,,false,0.71,2023-04-21T21:44:05Z,2023-03-16T23:50:12Z
+86.100.142.104,86-100-142-104-ip.balticum.lt.,39007,UAB Balticum TV,LT,Klaipėda,,i/o timeout,,0.03,2023-04-21T21:44:59Z,2023-03-17T01:05:33Z
+88.119.136.7,mail.megasy.com.,8764,"Telia Lietuva, AB",LT,Klaipėda,,,false,0.71,2023-04-21T21:45:00Z,2023-03-17T01:21:13Z
+88.119.249.215,88-119-249-215.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Kaunas,,,false,0.71,2023-04-21T21:45:02Z,2023-03-17T01:24:44Z
+85.206.44.68,,8764,"Telia Lietuva, AB",LT,Vilnius,,Unexpected result for example.com: {[[77 247 108 10]]},,0.84,2023-04-21T21:45:26Z,2023-03-17T01:59:22Z
+85.206.12.136,85-206-12-136.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,0.72,2023-04-21T21:45:44Z,2023-03-17T02:36:38Z
+78.63.235.138,78-63-235-138.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Alytus,,,false,0.74,2023-04-21T21:46:08Z,2023-03-17T03:26:33Z
+85.206.28.132,85-206-28-132.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,0.78,2023-04-21T21:46:17Z,2023-03-17T03:44:28Z
+84.15.57.196,,13194,UAB Bite Lietuva,LT,Nemenčinė,unbound 1.4.22,,false,0.72,2023-04-21T21:46:17Z,2023-03-17T03:45:02Z
+193.216.226.211,static193-216-226-211.cust.tele2.lt.,1257,Tele2 SWIPnet,LT,Kaunas,,,false,0.76,2023-04-21T21:46:55Z,2023-03-17T04:50:29Z
+93.115.25.103,,16125,UAB Cherry Servers,LT,,,,false,0.77,2023-04-21T21:48:19Z,2023-03-17T07:15:24Z
+81.7.104.226,81-7-104-226.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Utena,,,false,0.77,2023-04-21T21:48:26Z,2023-03-17T07:26:33Z
+46.148.26.231,ip-46-148-26-231.infiumhost.net.,50297,"Infium, UAB",LT,,9.11.3-1ubuntu1.17-Ubuntu,,true,0.83,2023-04-21T21:49:12Z,2023-03-17T08:36:57Z
+88.119.203.196,88-119-203-196.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Kaunas,,,false,0.83,2023-04-21T21:49:20Z,2023-03-17T08:47:47Z
+81.7.94.177,81-7-94-177.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Marijampolė,,,false,0.87,2023-04-21T21:49:44Z,2023-03-17T09:26:16Z
+85.206.169.155,marsh.dichromatictear.com.,61272,"Informacines sistemos ir technologijos, UAB",LT,Šiauliai,,i/o timeout,,0.00,2023-05-08T07:50:00Z,2023-03-17T11:29:00Z
+86.100.41.75,86-100-41-75-ip.balticum.lt.,39007,UAB Balticum TV,LT,Šiauliai,,i/o timeout,,0.00,2023-05-08T07:52:01Z,2023-03-17T14:36:08Z
+188.69.237.104,md-188-69-237-104.omni.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,connection refused,,0.86,2023-05-08T07:53:29Z,2023-03-17T17:11:13Z
+88.119.26.10,88-119-26-10.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,0.94,2023-05-08T09:48:54Z,2023-03-17T17:36:47Z
+89.117.114.120,,35913,DEDIPATH-LLC,LT,,,connection refused,,0.00,2023-05-12T00:49:05Z,2023-03-17T18:14:35Z
+88.119.17.116,88-119-17-116.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Masionys,,,false,0.98,2023-05-25T07:49:37Z,2023-03-17T20:44:30Z
+86.100.128.63,86-100-128-63-ip.balticum.lt.,39007,UAB Balticum TV,LT,Klaipėda,,i/o timeout,,0.00,2023-05-25T08:49:20Z,2023-03-17T20:58:09Z
+77.221.90.86,data2-90-86.cgates.lt.,21412,UAB Cgates,LT,Šiauliai,,SERVFAIL for rotten.com,,0.26,2023-08-17T21:52:52Z,2023-03-17T21:39:57Z
+78.158.3.198,cl-78-158-3-198.fastlink.lt.,43700,UAB Consilium Optimum,LT,Vilnius,,i/o timeout,,0.00,2023-08-12T20:57:50Z,2023-03-18T04:47:52Z
+85.206.22.168,85-206-22-168.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Panevezys,,i/o timeout,,0.00,2023-08-12T20:58:48Z,2023-03-18T06:39:27Z
+46.36.77.49,ip-77-49.rev.kli.lt.,43627,UAB Besmegeniai,LT,Kėdainiai,,,false,1.00,2023-08-12T21:01:43Z,2023-03-18T11:31:02Z
+85.206.95.90,85-206-95-90.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Ukmerge,,,false,1.00,2023-08-12T21:03:00Z,2023-03-18T13:43:49Z
+88.119.13.76,88-119-13-76.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,,false,1.00,2023-08-12T21:03:15Z,2023-03-18T14:18:33Z
+94.244.101.54,94-244-101-54.ip.kis.lt.,25190,UAB Kauno interneto sistemos,LT,Kaunas,,i/o timeout,,0.00,2023-08-12T21:04:00Z,2023-03-18T15:21:28Z
+94.244.106.88,,25190,UAB Kauno interneto sistemos,LT,Kaunas,,i/o timeout,,0.00,2023-08-12T21:04:09Z,2023-03-18T15:34:22Z
+84.240.32.50,lan-84-240-32-50.vln.penki.lt.,21211,"Penkiu kontinentu komunikaciju centras, Ltd.",LT,Vilnius,,i/o timeout,,0.00,2023-08-17T11:53:44Z,2023-03-19T01:20:13Z
+85.206.44.86,,8764,"Telia Lietuva, AB",LT,Kaunas,,,false,0.67,2023-08-17T11:53:50Z,2023-03-19T01:38:35Z
+93.93.56.4,ns2.ogmios.lt.,44613,AB Ogmios Centras,LT,Vilnius,,i/o timeout,,0.00,2023-08-17T15:55:02Z,2023-03-19T05:06:32Z
+77.90.75.42,,34120,Verslo Tiltas UAB,LT,Jonava,,connection refused,,0.00,2023-08-17T15:55:03Z,2023-03-19T05:28:15Z
+85.206.162.246,gest-two.wwts.it.,61272,"Informacines sistemos ir technologijos, UAB",LT,Vilnius,,i/o timeout,,0.00,2023-08-17T15:56:01Z,2023-03-19T07:03:41Z
+87.239.85.106,87-239-85-106.ip.kis.lt.,25190,UAB Kauno interneto sistemos,LT,Kaunas,,i/o timeout,,0.00,2023-08-17T15:58:06Z,2023-03-19T11:07:46Z
+88.223.27.99,88-223-27-99.init.lt.,24852,UAB INIT,LT,Vilnius,,i/o timeout,,0.00,2023-08-17T15:58:10Z,2023-03-19T11:17:43Z
+82.135.244.131,82-135-244-131.static.zebra.lt.,8764,"Telia Lietuva, AB",LT,Vilnius,,i/o timeout,,0.00,2023-08-17T21:56:53Z,2023-03-19T20:09:10Z
+212.122.67.211,,12539,"Penki Kontinentai, Ltd.",LT,,,i/o timeout,,0.00,2023-08-17T21:09:23Z,2015-01-09T04:17:32Z

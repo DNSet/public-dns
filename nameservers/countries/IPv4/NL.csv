@@ -1,0 +1,1033 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+80.80.80.80,,60679,Freedom Registry BV,NL,,,i/o timeout,,0.00,2023-04-20T15:41:40Z,2020-07-22T16:56:39Z
+37.153.202.186,rt202bb153-37-186.routit.net.,28685,Routit BV,NL,'t Harde,,,false,0.91,2023-03-07T13:46:24Z,2020-08-08T20:16:31Z
+193.239.186.71,provisioning-glashelder.plinq.nl.,35224,PLINQ BV,NL,,,connection refused,,0.00,2023-02-28T15:47:17Z,2020-08-08T20:17:33Z
+137.116.208.102,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,,i/o timeout,,0.00,2022-02-16T07:08:30Z,2020-08-17T19:34:57Z
+185.107.80.84,brabant.deepdns.cryptostorm.net.,43350,NForce Entertainment B.V.,NL,,cryptostorm,SERVFAIL for example.com,,0.11,2022-12-28T00:07:38Z,2020-08-17T19:34:58Z
+195.88.203.248,jebv.nl.,51942,EK-Media B.V.,NL,,,i/o timeout,,0.00,2023-02-26T07:49:05Z,2020-08-17T19:35:02Z
+195.88.203.251,,51942,EK-Media B.V.,NL,,,i/o timeout,,0.00,2022-04-19T07:02:11Z,2020-08-17T19:35:03Z
+213.124.119.218,D57C77DA.static.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Maastricht,,i/o timeout,,0.00,2023-03-04T10:45:57Z,2020-08-17T19:35:06Z
+23.101.74.156,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,,i/o timeout,,0.00,2021-09-01T20:46:33Z,2020-08-17T19:35:08Z
+37.139.11.137,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,,i/o timeout,,0.00,2022-08-08T08:26:04Z,2020-08-17T19:35:09Z
+51.15.98.97,97-98-15-51.instances.scw.cloud.,12876,Online S.a.s.,NL,Amsterdam,,i/o timeout,,0.00,2023-03-08T22:47:55Z,2020-08-17T19:35:10Z
+82.148.207.170,82-148-207-170.fiber.unet.nl.,29396,Eurofiber Nederland BV,NL,Almere Stad,,i/o timeout,,0.00,2023-03-04T03:44:54Z,2020-08-17T19:35:11Z
+82.196.13.196,nldns1.cactusvpn.com.,14061,DIGITALOCEAN-ASN,NL,Amsterdam,SmartDNS 1.0.1,,false,0.52,2023-03-08T20:48:03Z,2020-08-17T19:35:12Z
+87.213.100.113,unlabelled-113-100-213-87.versatel.net.,13127,T-mobile Netherlands B.V.,NL,Delft,dnsmasq-2.55,Unexpected result for wikileaks.org: {[[51 159 197 136] [80 81 248 21]]},,0.25,2023-01-13T14:30:06Z,2020-08-17T19:35:12Z
+92.111.212.210,92-111-212-210.static.v4.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Amsterdam,,i/o timeout,,0.00,2022-03-22T14:17:23Z,2020-08-17T19:35:18Z
+91.229.232.30,,198203,RouteLabel V.O.F.,NL,,,i/o timeout,,0.00,2022-03-06T07:08:54Z,2020-08-17T19:35:21Z
+91.229.232.57,,198203,RouteLabel V.O.F.,NL,,,i/o timeout,,0.00,2022-12-24T13:05:49Z,2020-08-17T19:35:21Z
+91.229.232.58,,198203,RouteLabel V.O.F.,NL,,,i/o timeout,,0.00,2021-09-07T06:47:33Z,2020-08-17T19:35:22Z
+91.229.232.7,,198203,RouteLabel V.O.F.,NL,,,i/o timeout,,0.00,2023-02-28T02:46:13Z,2020-08-17T19:35:22Z
+91.229.232.213,,198203,RouteLabel V.O.F.,NL,,,i/o timeout,,0.00,2022-08-08T08:26:33Z,2020-08-17T19:35:33Z
+91.229.232.216,insane.homeip.net.,198203,RouteLabel V.O.F.,NL,,,i/o timeout,,0.00,2022-01-16T00:08:23Z,2020-08-17T19:35:34Z
+91.229.232.218,,198203,RouteLabel V.O.F.,NL,,,i/o timeout,,0.00,2023-03-02T03:46:27Z,2020-08-17T19:35:34Z
+91.229.232.81,,198203,RouteLabel V.O.F.,NL,,,i/o timeout,,0.00,2023-03-02T20:45:45Z,2020-08-17T19:35:35Z
+91.229.232.170,,198203,RouteLabel V.O.F.,NL,,,i/o timeout,,0.00,2022-12-27T07:07:25Z,2020-08-17T19:35:37Z
+83.223.44.125,,0,,NL,,,i/o timeout,,0.00,2022-12-24T07:06:24Z,2020-08-17T19:35:38Z
+87.213.64.183,unlabelled-183-64-217-87.versatel.net.,13127,T-mobile Netherlands B.V.,NL,Zoetermeer,,i/o timeout,,0.00,2023-02-25T20:46:56Z,2020-08-17T19:35:40Z
+80.112.132.39,50708427.static.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Amstelveen,,i/o timeout,,0.00,2023-03-09T21:48:11Z,2020-09-02T19:19:17Z
+89.255.2.226,william.solidsolutions.eu.,39647,Enreach Netherlands B.V.,NL,Rotterdam,,Unexpected result for wikileaks.org: {[[141 105 65 113] [141 105 69 239] [185 165 168 41] [195 35 109 44] [195 35 109 53]]},,0.96,2021-01-10T04:35:29Z,2020-11-22T11:34:30Z
+213.125.107.179,D57D6BB3.static.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Leiderdorp,,Unexpected result for wikileaks.org: {[[141 105 69 239] [141 105 65 113] [195 35 109 44] [185 165 168 41] [195 35 109 53]]},,0.92,2021-01-11T11:32:13Z,2020-11-22T11:41:25Z
+89.238.177.131,mailbackups.hostnottingham.co.uk.,9009,M247 Europe SRL,NL,Amsterdam,,i/o timeout,,0.00,2023-03-11T12:45:19Z,2020-12-22T01:54:09Z
+5.2.75.231,,60404,The Infrastructure Group B.V.,NL,,,i/o timeout,,0.00,2023-04-21T12:43:34Z,2020-12-27T11:09:18Z
+195.129.12.122,cache0400.ns.eu.uu.net.,702,UUNET,NL,,,,true,0.99,2021-04-23T22:25:24Z,2021-02-12T12:34:21Z
+195.129.12.83,cache0206.ns.eu.uu.net.,702,UUNET,NL,,,,true,1.00,2023-04-20T15:46:14Z,2021-02-12T12:34:22Z
+83.137.137.46,ns4.thenetworkfactory.nl.,33915,Vodafone Libertel B.V.,NL,Winschoten,,REFUSED for example.com,,0.00,2021-09-01T19:46:31Z,2021-02-12T16:49:00Z
+5.2.75.75,nl.ahadns.net.,60404,The Infrastructure Group B.V.,NL,,,,true,1.00,2021-05-03T22:24:40Z,2021-03-19T15:57:29Z
+185.52.0.55,,198203,RouteLabel V.O.F.,NL,Alblasserdam,,i/o timeout,,0.00,2023-03-05T06:49:26Z,2021-04-13T07:51:23Z
+37.48.120.196,,60781,LeaseWeb Netherlands B.V.,NL,,unbound 1.13.1,,true,0.99,2021-05-03T22:25:01Z,2021-04-13T08:22:25Z
+51.15.124.208,dnsnl.alekberg.net.,12876,Online S.a.s.,NL,Amsterdam,,connection refused,,0.00,2021-09-01T12:46:53Z,2021-04-18T01:07:27Z
+193.79.242.39,cache0205.ns.eu.uu.net.,702,UUNET,NL,Rosmalen,,Unexpected result for wikileaks.org: {[[195 35 109 53] [195 35 109 44] [141 105 65 113] [185 165 168 41]]},,0.02,2021-09-02T07:46:51Z,2021-05-06T13:52:23Z
+213.125.105.234,methahodos.nl.,33915,Vodafone Libertel B.V.,NL,Voorburg,Microsoft DNS 6.0.6003 (1773501D),Unexpected result for wikileaks.org: {[[195 35 109 44] [185 165 168 41] [141 105 65 113] [195 35 109 53]]},,0.00,2021-09-01T12:50:16Z,2021-05-14T06:28:44Z
+85.203.37.1,,36351,SOFTLAYER,NL,Amsterdam,,Unexpected result for wikileaks.org: {[[195 35 109 53] [141 105 65 113] [185 165 168 41] [195 35 109 44]]},,0.00,2021-09-01T23:44:46Z,2021-05-15T13:01:13Z
+89.255.2.227,william.solidsolutions.eu.,39647,Enreach Netherlands B.V.,NL,Vriezenveen,,Unexpected result for verisignlabs.com: {[[209 131 162 50] [69 58 187 68]]},,0.90,2021-06-28T13:14:39Z,2021-06-09T14:16:10Z
+89.255.2.229,ns2.solidsolutions.eu.,39647,Enreach Netherlands B.V.,NL,Dordrecht,,Unexpected result for wikileaks.org: {[[195 35 109 44] [195 35 109 53] [185 165 168 41] [141 105 65 113]]},,0.04,2021-09-03T15:58:02Z,2021-06-09T14:16:10Z
+104.40.153.131,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,dnsmasq-2.76,,false,0.87,2022-12-20T13:10:06Z,2021-09-24T02:43:57Z
+195.129.12.114,cache0600.ns.eu.uu.net.,702,UUNET,NL,,,,true,1.00,2021-09-24T04:23:56Z,2021-09-24T04:23:56Z
+46.166.189.68,bdns-15.smartdnsproxy.com.,43350,NForce Entertainment B.V.,NL,,Served by PowerDNS - http://www.powerdns.com,,true,1.00,2021-09-27T23:43:45Z,2021-09-27T23:43:45Z
+193.34.166.34,Plex.,62370,Snel.com B.V.,NL,,dnsmasq-pi-hole-2.80,,false,1.00,2021-09-29T11:46:12Z,2021-09-29T11:46:12Z
+185.66.250.42,rotbot.h0v1n8.nl.,48635,PCextreme B.V.,NL,,dnsmasq-pi-hole-2.81,,true,1.00,2021-09-29T11:47:27Z,2021-09-29T11:47:27Z
+103.119.112.78,,174,COGENT-174,NL,Halfweg,,i/o timeout,,0.00,2023-03-05T07:00:48Z,2021-09-30T09:37:45Z
+185.216.163.129,static.extraip.net.,45040,ExtraIP B.V.,NL,Heerhugowaard,,,false,1.00,2021-10-01T04:26:02Z,2021-10-01T04:26:02Z
+94.212.61.7,94-212-61-7.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Groningen,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T22:54:04Z,2021-10-01T22:54:04Z
+85.144.58.185,185-58-144-85.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Bussum,dnsmasq-pi-hole-2.81,,false,1.00,2021-10-01T22:55:09Z,2021-10-01T22:55:09Z
+51.15.39.119,119-39-15-51.instances.scw.cloud.,12876,Online S.a.s.,NL,Haarlem,dnsmasq-pi-hole-2.84,,false,1.00,2021-10-01T22:58:40Z,2021-10-01T22:58:40Z
+161.35.82.53,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-pi-hole-2.80,,false,1.00,2021-10-01T22:59:58Z,2021-10-01T22:59:58Z
+92.108.98.111,92-108-98-111.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Weesp,,i/o timeout,,0.00,2022-01-06T10:37:53Z,2021-10-01T23:02:31Z
+64.225.81.226,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-01T23:04:08Z,2021-10-01T23:04:08Z
+40.67.192.110,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:04:24Z,2021-10-01T23:04:24Z
+86.91.39.141,86-91-39-141.opennet.kpn.net.,1136,KPN B.V.,NL,Enschede,dnsmasq-pi-hole-2.81,,false,1.00,2021-10-01T23:05:16Z,2021-10-01T23:05:16Z
+134.122.50.50,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-01T23:05:49Z,2021-10-01T23:05:49Z
+95.168.170.31,server1315.seedhost.eu.,60781,LeaseWeb Netherlands B.V.,NL,,dnsmasq-pi-hole-2.87test3,,false,1.00,2021-10-01T23:06:18Z,2021-10-01T23:06:18Z
+213.93.96.233,e96233.upc-e.chello.nl.,33915,Vodafone Libertel B.V.,NL,Asten,dnsmasq-pi-hole-2.80,,false,1.00,2021-10-01T23:06:29Z,2021-10-01T23:06:29Z
+45.128.27.180,,60781,LeaseWeb Netherlands B.V.,NL,,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-01T23:06:41Z,2021-10-01T23:06:41Z
+188.166.125.27,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-01T23:07:45Z,2021-10-01T23:07:45Z
+185.209.22.157,phpru.com.,204601,Zomro B.V.,NL,Dronten,dnsmasq-pi-hole-2.81,,false,1.00,2021-10-01T23:09:57Z,2021-10-01T23:09:57Z
+134.209.195.179,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-pi-hole-2.84,,false,1.00,2021-10-01T23:10:43Z,2021-10-01T23:10:43Z
+45.152.209.145,,60781,LeaseWeb Netherlands B.V.,NL,,dnsmasq-pi-hole-2.80,,false,1.00,2021-10-01T23:11:59Z,2021-10-01T23:11:59Z
+174.138.13.88,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-pi-hole-2.81,,false,1.00,2021-10-01T23:12:01Z,2021-10-01T23:12:01Z
+87.210.167.106,106-167-210-87.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Moordrecht,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:12:34Z,2021-10-01T23:12:34Z
+143.176.18.30,ip30-18-176-143.adsl2.static.versatel.nl.,13127,T-mobile Netherlands B.V.,NL,Groningen,dnsmasq-pi-hole-2.87test3,,false,1.00,2021-10-01T23:12:37Z,2021-10-01T23:12:37Z
+185.101.139.253,test.amsterdam.,199524,G-Core Labs S.A.,NL,Amsterdam,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:13:01Z,2021-10-01T23:13:01Z
+108.61.199.239,mailbox2go.info.,20473,AS-CHOOPA,NL,Amsterdam,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:14:24Z,2021-10-01T23:14:24Z
+40.118.6.236,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,dnsmasq-pi-hole-2.81,,false,1.00,2021-10-01T23:15:55Z,2021-10-01T23:15:55Z
+206.189.15.213,pihole.gbm.services.,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-01T23:18:06Z,2021-10-01T23:18:06Z
+85.145.80.30,30-80-145-85.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Lelystad,dnsmasq-pi-hole-2.81,,false,1.00,2021-10-01T23:19:06Z,2021-10-01T23:19:06Z
+83.85.180.42,83-85-180-42.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Mijdrecht,dnsmasq-pi-hole-2.80,,false,1.00,2021-10-01T23:22:03Z,2021-10-01T23:22:03Z
+185.109.216.35,momo.psyduck.xyz.,48635,PCextreme B.V.,NL,,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:24:17Z,2021-10-01T23:24:17Z
+206.189.8.71,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-01T23:24:51Z,2021-10-01T23:24:51Z
+5.8.248.204,vm2557581.22ssd.had.wf.,204601,Zomro B.V.,NL,,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:27:58Z,2021-10-01T23:27:58Z
+20.101.57.198,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:29:32Z,2021-10-01T23:29:32Z
+40.118.120.83,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,dnsmasq-pi-hole-2.85,,true,1.00,2021-10-01T23:31:40Z,2021-10-01T23:31:40Z
+82.197.214.133,82-197-214-133.dsl.cambrium.nl.,25596,Cambrium IT Services B.V.,NL,Almere Stad,dnsmasq-pi-hole-2.84,,false,1.00,2021-10-01T23:32:11Z,2021-10-01T23:32:11Z
+137.117.185.63,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:37:57Z,2021-10-01T23:37:57Z
+185.130.47.37,,210083,Privex Inc.,NL,Amsterdam,dnsmasq-pi-hole-2.85,,true,1.00,2021-10-01T23:38:05Z,2021-10-01T23:38:05Z
+45.81.52.79,dns2.concera.org.,208418,Sonexus B.V.,NL,,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:38:25Z,2021-10-01T23:38:25Z
+51.15.58.122,122-58-15-51.instances.scw.cloud.,12876,Online S.a.s.,NL,Haarlem,dnsmasq-pi-hole-2.84,,true,1.00,2021-10-01T23:40:47Z,2021-10-01T23:40:47Z
+193.123.32.148,,31898,ORACLE-BMC-31898,NL,Amsterdam,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-01T23:41:06Z,2021-10-01T23:41:06Z
+188.166.41.249,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-pi-hole-2.81,,false,1.00,2021-10-01T23:41:07Z,2021-10-01T23:41:07Z
+185.193.158.106,,62240,Clouvider Limited,NL,Amsterdam,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-01T23:41:33Z,2021-10-01T23:41:33Z
+82.169.145.20,82-169-145-20.biz.kpn.net.,1136,KPN B.V.,NL,Amsterdam,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:42:38Z,2021-10-01T23:42:38Z
+20.105.176.40,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:42:51Z,2021-10-01T23:42:51Z
+83.87.209.20,83-87-209-20.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Leiden,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:48:33Z,2021-10-01T23:48:33Z
+87.214.91.133,ip133-91-214-87.adsl2.static.versatel.nl.,13127,T-mobile Netherlands B.V.,NL,Leiden,dnsmasq-pi-hole-2.81,,false,1.00,2021-10-01T23:50:53Z,2021-10-01T23:50:53Z
+167.71.10.239,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:51:09Z,2021-10-01T23:51:09Z
+84.29.156.244,84-29-156-244.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Boxmeer,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:51:20Z,2021-10-01T23:51:20Z
+51.15.1.44,51-15-1-44.rev.poneytelecom.eu.,12876,Online S.a.s.,NL,Haarlem,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:56:47Z,2021-10-01T23:56:47Z
+64.225.69.237,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:57:03Z,2021-10-01T23:57:03Z
+23.94.143.203,23-94-143-203-host.colocrossing.com.,36352,AS-COLOCROSSING,NL,Amsterdam,dnsmasq-pi-hole-2.84,,false,1.00,2021-10-02T00:00:43Z,2021-10-02T00:00:43Z
+104.248.89.249,unifi.poesaspots.com.,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-pi-hole-2.86,,true,1.00,2021-10-02T00:02:56Z,2021-10-02T00:02:56Z
+23.95.80.14,frankfurt.mkes.com.,36352,AS-COLOCROSSING,NL,Amsterdam,dnsmasq-pi-hole-2.84,,false,1.00,2021-10-02T00:03:08Z,2021-10-02T00:03:08Z
+81.4.108.196,ram81-4-108-196nl.dmzdns.com.,198203,RouteLabel V.O.F.,NL,,dnsmasq-pi-hole-2.84,,false,1.00,2021-10-02T00:06:53Z,2021-10-02T00:06:53Z
+167.99.214.87,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-pi-hole-2.80,,false,1.00,2021-10-02T00:07:35Z,2021-10-02T00:07:35Z
+188.166.106.66,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-02T00:08:58Z,2021-10-02T00:08:58Z
+142.93.136.68,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-pi-hole-2.85,,true,0.70,2021-10-08T08:02:29Z,2021-10-02T00:11:52Z
+152.70.53.73,,31898,ORACLE-BMC-31898,NL,Amsterdam,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T00:13:59Z,2021-10-02T00:13:59Z
+185.193.158.215,,62240,Clouvider Limited,NL,Amsterdam,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-02T00:15:53Z,2021-10-02T00:15:53Z
+194.62.6.159,,205388,Metaliance ISP Systems e.k,NL,,,connection refused,,0.32,2021-10-02T18:02:09Z,2021-10-02T00:16:17Z
+178.162.136.60,178-162-136-60.kriegsman.io.,60781,LeaseWeb Netherlands B.V.,NL,,dnsmasq-pi-hole-2.87test3,,true,1.00,2021-10-02T00:17:02Z,2021-10-02T00:17:02Z
+64.225.83.208,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-02T00:17:03Z,2021-10-02T00:17:03Z
+167.172.39.171,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T00:17:04Z,2021-10-02T00:17:04Z
+80.85.140.8,globalapps3.mdsrv.icu.,204601,Zomro B.V.,NL,,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T00:17:04Z,2021-10-02T00:17:04Z
+13.93.25.101,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T00:17:05Z,2021-10-02T00:17:05Z
+62.133.194.69,,28788,Unilogic Networks B.V.,NL,Veghel,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T00:21:28Z,2021-10-02T00:21:28Z
+51.15.90.13,13-90-15-51.instances.scw.cloud.,12876,Online S.a.s.,NL,Amsterdam,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T00:26:03Z,2021-10-02T00:26:03Z
+77.249.161.4,dhcp-077-249-161-004.chello.nl.,33915,Vodafone Libertel B.V.,NL,Helmond,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T00:26:27Z,2021-10-02T00:26:27Z
+20.82.54.12,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T00:26:38Z,2021-10-02T00:26:38Z
+94.212.241.73,94-212-241-73.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Groningen,dnsmasq-pi-hole-2.80,,false,1.00,2021-10-02T00:30:22Z,2021-10-02T00:30:22Z
+64.225.67.153,ufhost.tuinjie.net.,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T00:31:51Z,2021-10-02T00:31:51Z
+95.211.244.193,,60781,LeaseWeb Netherlands B.V.,NL,,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T00:32:44Z,2021-10-02T00:32:44Z
+31.21.124.226,226-124-21-31.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Waarland,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T00:34:45Z,2021-10-02T00:34:45Z
+5.2.70.70,dnsresolver.hostsnel.nl.,60404,The Infrastructure Group B.V.,NL,,dnsmasq-pi-hole-2.82,,false,1.00,2021-10-02T00:34:57Z,2021-10-02T00:34:57Z
+94.142.242.40,r01.nl.perforlabs.com.,8283,Netwerkvereniging Coloclue,NL,,dnsmasq-pi-hole-2.87test2,,false,1.00,2021-10-02T16:12:52Z,2021-10-02T16:12:52Z
+103.119.112.168,,174,COGENT-174,NL,Halfweg,,connection refused,,0.21,2021-10-08T08:00:44Z,2021-10-02T16:13:25Z
+5.132.59.55,55-59-132-5.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Gouda,dnsmasq-pi-hole-2.86,,true,1.00,2021-10-02T16:15:11Z,2021-10-02T16:15:11Z
+188.166.73.59,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T16:16:13Z,2021-10-02T16:16:13Z
+185.132.110.139,139-110-132-185.internet.netrebel.net.,38919,netrebel b.v.,NL,Grave,dnsmasq-pi-hole-2.87test3,,false,1.00,2021-10-02T16:17:42Z,2021-10-02T16:17:42Z
+95.168.164.232,Andy10gbit.is.rollin.,60781,LeaseWeb Netherlands B.V.,NL,,dnsmasq-pi-hole-2.81,,false,1.00,2021-10-02T16:19:31Z,2021-10-02T16:19:31Z
+40.67.220.232,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,dnsmasq-pi-hole-2.84,,false,1.00,2021-10-02T16:26:00Z,2021-10-02T16:26:00Z
+40.113.99.97,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,dnsmasq-pi-hole-2.79,,false,1.00,2021-10-02T16:28:44Z,2021-10-02T16:28:44Z
+185.249.41.102,,41960,Nextpertise B.V.,NL,Amsterdam,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T16:32:07Z,2021-10-02T16:32:07Z
+178.62.213.94,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-pi-hole-2.81,,true,1.00,2021-10-02T16:39:07Z,2021-10-02T16:39:07Z
+46.23.72.103,ns2.corenoc.com.,13213,UK-2 Limited,NL,Amsterdam,dnsmasq-pi-hole-2.81,,false,1.00,2021-10-02T16:40:19Z,2021-10-02T16:40:19Z
+20.86.101.117,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,dnsmasq-pi-hole-2.80,,false,1.00,2021-10-02T16:42:44Z,2021-10-02T16:42:44Z
+206.189.11.250,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T16:44:50Z,2021-10-02T16:44:50Z
+20.50.58.231,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T16:45:18Z,2021-10-02T16:45:18Z
+82.74.129.16,82-74-129-16.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Hengelo,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T16:46:59Z,2021-10-02T16:46:59Z
+51.15.36.180,180-36-15-51.instances.scw.cloud.,12876,Online S.a.s.,NL,Haarlem,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T16:49:22Z,2021-10-02T16:49:22Z
+136.244.109.95,136.244.109.95.vultr.com.,20473,AS-CHOOPA,NL,Amsterdam,dnsmasq-pi-hole-2.80,,false,1.00,2021-10-02T16:52:00Z,2021-10-02T16:52:00Z
+185.206.214.236,vm1091459.kvm.had.pm.,204601,Zomro B.V.,NL,Dronten,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-02T16:52:49Z,2021-10-02T16:52:49Z
+31.187.147.194,194-147-187-31.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Delft,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-02T16:54:16Z,2021-10-02T16:54:16Z
+45.81.52.69,dns1.concera.org.,208418,Sonexus B.V.,NL,,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T17:05:44Z,2021-10-02T17:05:44Z
+40.119.157.19,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T17:08:04Z,2021-10-02T17:08:04Z
+142.91.9.207,,7979,SERVERS-COM,NL,,dnsmasq-pi-hole-2.80,,false,1.00,2021-10-02T17:18:11Z,2021-10-02T17:18:11Z
+20.76.132.152,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T17:25:50Z,2021-10-02T17:25:50Z
+20.105.131.234,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,,i/o timeout,,0.00,2021-11-09T21:19:46Z,2021-10-02T17:29:15Z
+143.178.67.74,74-67-178-143.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Amsterdam,dnsmasq-pi-hole-2.81,,false,1.00,2021-10-02T17:33:00Z,2021-10-02T17:33:00Z
+198.211.119.180,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-pi-hole-2.81,,false,1.00,2021-10-02T17:43:47Z,2021-10-02T17:43:47Z
+172.245.52.131,172-245-52-131-host.colocrossing.com.,36352,AS-COLOCROSSING,NL,Amsterdam,dnsmasq-pi-hole-2.87test2,,false,1.00,2021-10-02T17:51:15Z,2021-10-02T17:51:15Z
+185.173.235.172,,57717,FiberXpress BV,NL,,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T18:03:20Z,2021-10-02T18:03:20Z
+185.206.213.77,vm950494.had.wf.,204601,Zomro B.V.,NL,Dronten,,connection refused,,0.48,2021-10-03T22:07:36Z,2021-10-02T18:07:26Z
+128.199.45.26,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-2.79,,false,1.00,2021-10-05T05:16:03Z,2021-10-03T06:57:14Z
+51.15.114.30,30-114-15-51.instances.scw.cloud.,12876,Online S.a.s.,NL,Amsterdam,,,true,1.00,2021-11-09T21:19:39Z,2021-10-08T00:19:19Z
+195.129.111.49,cache0704.ns.eu.uu.net.,702,UUNET,NL,,,,true,1.00,2021-10-16T13:15:13Z,2021-10-16T11:27:16Z
+195.129.111.50,cache0705.ns.eu.uu.net.,702,UUNET,NL,,,,true,1.00,2021-10-16T13:15:13Z,2021-10-16T11:28:05Z
+77.165.128.57,77-165-128-57.fixed.kpn.net.,1136,KPN B.V.,NL,Santpoort-Zuid,,i/o timeout,,0.54,2021-10-27T23:02:32Z,2021-10-20T12:02:27Z
+31.160.76.218,31-160-76-218.biz.kpn.net.,1136,KPN B.V.,NL,Amsterdam,,i/o timeout,,0.00,2023-03-03T07:47:15Z,2021-10-20T12:06:51Z
+77.61.132.45,77-61-132-45.biz.kpn.net.,1136,KPN B.V.,NL,Zoetermeer,,i/o timeout,,0.00,2021-11-29T07:32:31Z,2021-10-20T12:09:24Z
+92.65.74.235,92-65-74-235.biz.kpn.net.,1136,KPN B.V.,NL,Vianen,,,false,0.70,2021-10-26T13:08:03Z,2021-10-20T12:11:32Z
+185.224.129.9,cdns.spectraip.net.,62068,SpectraIP B.V.,NL,Amsterdam,,,false,1.00,2021-10-25T17:15:02Z,2021-10-24T21:04:24Z
+91.230.49.9,cdns.spectraip.net.,62068,SpectraIP B.V.,NL,Amsterdam,,i/o timeout,,0.00,2023-02-25T20:55:53Z,2021-10-24T21:04:25Z
+136.244.97.119,136.244.97.119.vultr.com.,20473,AS-CHOOPA,NL,Amsterdam,,i/o timeout,,0.33,2021-11-09T22:30:22Z,2021-11-05T07:43:35Z
+193.78.240.12,cache0204.ns.eu.uu.net.,702,UUNET,NL,,,,true,1.00,2022-02-17T07:09:10Z,2022-02-06T16:29:37Z
+51.15.75.223,223-75-15-51.instances.scw.cloud.,12876,Online S.a.s.,NL,Amsterdam,,,true,0.99,2022-04-13T11:03:28Z,2022-03-24T09:34:34Z
+51.15.42.162,162-42-15-51.instances.scw.cloud.,12876,Online S.a.s.,NL,Haarlem,,,true,1.00,2022-04-22T08:07:51Z,2022-03-24T09:34:34Z
+51.15.78.17,17-78-15-51.instances.scw.cloud.,12876,Online S.a.s.,NL,Amsterdam,,,true,1.00,2022-04-17T08:00:45Z,2022-03-24T09:34:34Z
+51.15.88.152,152-88-15-51.instances.scw.cloud.,12876,Online S.a.s.,NL,Amsterdam,,,true,1.00,2022-04-19T07:02:47Z,2022-03-24T09:34:35Z
+51.15.61.169,169-61-15-51.instances.scw.cloud.,12876,Online S.a.s.,NL,Haarlem,,,true,1.00,2022-04-19T07:04:07Z,2022-03-24T09:34:35Z
+51.15.119.60,60-119-15-51.instances.scw.cloud.,12876,Online S.a.s.,NL,Amsterdam,,connection refused,,0.00,2022-12-06T21:57:01Z,2022-03-24T09:34:36Z
+51.15.69.236,236-69-15-51.instances.scw.cloud.,12876,Online S.a.s.,NL,Amsterdam,,,true,1.00,2022-08-07T02:23:49Z,2022-03-24T09:34:36Z
+80.80.81.81,,60679,Freedom Registry BV,NL,,Freenom World (www.freenom.world) - use 80.80.80.80 to resolve fast and anonymous,,true,0.97,2022-04-22T08:07:54Z,2022-03-25T01:55:34Z
+193.141.116.163,static.kpn.net.,1136,KPN B.V.,NL,,unbound 1.4.22,,false,0.67,2023-03-05T07:19:51Z,2022-04-25T22:35:16Z
+193.58.204.59,,9150,ML Consultancy,NL,,,,false,0.99,2022-08-07T02:30:09Z,2022-04-25T23:24:45Z
+212.72.40.246,level3.te1-1-0.cr1.ams2.nl.euro-transit.net.,3356,LEVEL3,NL,Schiphol,,,false,1.00,2022-08-07T01:18:58Z,2022-08-07T01:18:58Z
+185.246.188.51,,200651,Flokinet Ltd,NL,,,,true,1.00,2022-08-25T08:58:08Z,2022-08-25T08:58:08Z
+2.56.212.249,no-reverse-yet.local.,202448,MVPS LTD,NL,Dronten,9.11.3-1ubuntu1.17-Ubuntu,,true,1.00,2022-08-28T07:06:42Z,2022-08-28T07:06:42Z
+2.56.213.76,no-reverse-yet.local.,202448,MVPS LTD,NL,Dronten,,,false,0.95,2022-09-10T09:36:32Z,2022-09-02T22:39:14Z
+5.2.68.108,,60404,The Infrastructure Group B.V.,NL,Amsterdam,,,false,0.88,2022-09-08T08:23:43Z,2022-09-08T02:32:18Z
+5.2.73.39,,60404,The Infrastructure Group B.V.,NL,,,no route to host,,0.17,2022-11-01T14:32:34Z,2022-09-08T02:32:36Z
+5.2.74.19,,60404,The Infrastructure Group B.V.,NL,,,REFUSED for wikileaks.org,,0.00,2023-03-01T18:47:34Z,2022-09-08T02:32:40Z
+5.34.180.210,nl.stativ.ml.,21100,ITL LLC,NL,Meppel,,,false,1.00,2022-09-08T08:30:18Z,2022-09-08T06:08:53Z
+5.39.191.74,5-39-191-74.colocenter.nl.,58291,ColoCenter b.v.,NL,De Lier,,,false,1.00,2022-09-08T08:30:17Z,2022-09-08T06:43:53Z
+5.39.217.69,,57043,Hostkey B.v.,NL,Numansdorp,,,false,1.00,2022-09-08T08:30:21Z,2022-09-08T06:44:43Z
+5.45.79.183,,58061,Scalaxy B.V.,NL,Meppel,9.8.2rc1-RedHat-9.8.2-0.68.rc1.el6_10.3,,true,1.00,2022-09-08T19:30:00Z,2022-09-08T07:21:30Z
+5.61.55.71,,58061,Scalaxy B.V.,NL,Dronten,,,false,1.00,2022-09-08T09:12:04Z,2022-09-08T09:12:04Z
+5.61.52.177,,58061,Scalaxy B.V.,NL,Dronten,,connection refused,,0.00,2023-02-28T06:47:45Z,2022-09-08T09:12:10Z
+5.79.74.209,,60781,LeaseWeb Netherlands B.V.,NL,,Microsoft DNS 6.1.7601 (1DB15B4F),,false,1.00,2022-09-08T23:30:05Z,2022-09-08T11:20:12Z
+5.79.102.201,hosted-by.Eqservers.com.,60781,LeaseWeb Netherlands B.V.,NL,,,,false,0.97,2022-09-09T07:27:04Z,2022-09-08T11:20:55Z
+5.79.109.74,,60781,LeaseWeb Netherlands B.V.,NL,,,,false,1.00,2022-09-09T11:26:56Z,2022-09-08T11:21:20Z
+5.104.114.19,,57112,F2X Operator B.V.,NL,Rotterdam,PowerDNS Recursor 4.3.6,,false,1.00,2022-09-08T14:19:10Z,2022-09-08T14:19:10Z
+5.104.122.97,,57112,F2X Operator B.V.,NL,Deventer,PowerDNS Recursor 4.3.6,,false,1.00,2022-09-08T14:19:20Z,2022-09-08T14:19:20Z
+5.104.123.175,,57112,F2X Operator B.V.,NL,Tilburg,9.11.4-P2-RedHat-9.11.4-9.P2.el7,,true,1.00,2022-09-08T14:19:20Z,2022-09-08T14:19:20Z
+5.104.123.216,,57112,F2X Operator B.V.,NL,Tilburg,9.11.4-P2-RedHat-9.11.4-9.P2.el7,,true,1.00,2022-09-08T14:19:20Z,2022-09-08T14:19:20Z
+5.104.123.178,,57112,F2X Operator B.V.,NL,Tilburg,9.11.4-P2-RedHat-9.11.4-9.P2.el7,,true,1.00,2022-09-08T14:19:20Z,2022-09-08T14:19:20Z
+5.104.114.251,,57112,F2X Operator B.V.,NL,Rotterdam,,no route to host,,0.00,2022-11-11T00:44:05Z,2022-09-08T14:19:40Z
+5.180.79.161,,212238,Datacamp Limited,NL,Amsterdam,,connection refused,,0.00,2023-02-08T23:44:04Z,2022-09-08T23:26:17Z
+5.180.79.223,,212238,Datacamp Limited,NL,Amsterdam,,connection refused,,0.00,2023-02-28T06:45:14Z,2022-09-08T23:26:20Z
+5.180.79.221,,212238,Datacamp Limited,NL,Amsterdam,,connection refused,,0.00,2023-02-08T23:44:27Z,2022-09-08T23:26:24Z
+5.180.79.235,,212238,Datacamp Limited,NL,Amsterdam,,connection refused,,0.00,2023-02-08T23:44:34Z,2022-09-08T23:26:26Z
+5.206.213.26,mail.janssen-fritsen.nl.,42707,e-Quest IT Projecten B.V.,NL,Helmond,,,false,1.00,2022-09-09T02:41:06Z,2022-09-09T02:41:06Z
+5.206.215.251,ns2.eqcloud.nl.,42707,e-Quest IT Projecten B.V.,NL,Helmond,,,false,1.00,2022-09-09T02:41:15Z,2022-09-09T02:41:15Z
+5.255.81.51,nl.dc2.mp-firewall.core.static.artechhosting.com.,50673,Serverius Holding B.V.,NL,The Hague,dnsmasq-pi-hole-2.87test4-18,,false,1.00,2022-09-09T13:33:11Z,2022-09-09T08:45:46Z
+193.79.237.39,cache0201.ns.eu.uu.net.,702,UUNET,NL,The Hague,,,true,1.00,2022-09-11T04:38:52Z,2022-09-09T17:05:42Z
+5.2.75.138,,60404,The Infrastructure Group B.V.,NL,,,i/o timeout,,0.00,2023-02-08T23:44:13Z,2022-09-10T04:37:00Z
+5.79.78.241,,60781,LeaseWeb Netherlands B.V.,NL,,,,false,1.00,2022-09-25T01:40:57Z,2022-09-10T14:09:53Z
+5.79.74.204,,60781,LeaseWeb Netherlands B.V.,NL,,Microsoft DNS 6.1.7601 (1DB15B4F),,false,1.00,2022-09-15T13:11:34Z,2022-09-10T14:10:01Z
+5.104.118.234,,57112,F2X Operator B.V.,NL,Breda,PowerDNS Recursor 4.3.6,,false,1.00,2022-09-10T17:38:23Z,2022-09-10T17:22:55Z
+5.104.127.211,,57112,F2X Operator B.V.,NL,Amsterdam,9.11.4-P2-RedHat-9.11.4-9.P2.el7,,true,1.00,2022-09-10T17:38:24Z,2022-09-10T17:23:20Z
+5.172.218.133,static.weritech.net.,199139,Weritech B.V.,NL,Middelharnis,dnsmasq-2.40,,true,1.00,2022-09-11T04:38:43Z,2022-09-11T02:22:31Z
+5.178.37.138,powered-by.xenosite.net.,39647,Enreach Netherlands B.V.,NL,Bilthoven,unknown,,false,1.00,2022-09-15T22:52:22Z,2022-09-11T03:04:42Z
+5.178.114.78,dhcp-5-178-114-78.digiglas.nl.,59554,Datacenter Groningen B.V.,NL,Almere Stad,,,false,1.00,2022-09-11T03:07:10Z,2022-09-11T03:07:10Z
+5.180.79.146,,9009,M247 Ltd,NL,Amsterdam,9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6,,true,1.00,2022-09-11T03:22:03Z,2022-09-11T03:22:03Z
+5.180.79.166,,9009,M247 Ltd,NL,Amsterdam,9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6,,true,1.00,2022-09-11T03:22:03Z,2022-09-11T03:22:03Z
+5.180.79.218,,9009,M247 Ltd,NL,Amsterdam,9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6,,true,1.00,2022-09-11T03:22:04Z,2022-09-11T03:22:04Z
+5.180.79.230,,9009,M247 Ltd,NL,Amsterdam,9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6,,true,1.00,2022-09-11T03:22:04Z,2022-09-11T03:22:04Z
+5.180.79.222,,9009,M247 Ltd,NL,Amsterdam,9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6,,true,1.00,2022-09-11T03:22:06Z,2022-09-11T03:22:06Z
+5.180.79.225,,9009,M247 Ltd,NL,Amsterdam,9.16.1-Ubuntu,,true,1.00,2022-09-11T03:22:08Z,2022-09-11T03:22:08Z
+5.180.79.41,,9009,M247 Ltd,NL,Amsterdam,9.16.1-Ubuntu,,true,1.00,2022-09-11T03:22:09Z,2022-09-11T03:22:09Z
+5.180.79.234,,9009,M247 Ltd,NL,Amsterdam,9.16.1-Ubuntu,,true,1.00,2022-09-11T03:22:11Z,2022-09-11T03:22:11Z
+5.180.79.239,,9009,M247 Ltd,NL,Amsterdam,9.16.1-Ubuntu,,true,1.00,2022-09-11T03:22:11Z,2022-09-11T03:22:11Z
+5.180.79.229,,9009,M247 Ltd,NL,Amsterdam,9.16.1-Ubuntu,,true,1.00,2022-09-11T03:22:14Z,2022-09-11T03:22:14Z
+5.181.76.195,gate.more-than-learn.ru.,202422,G-Core Labs S.A.,NL,Amsterdam,,,true,1.00,2022-09-11T03:30:10Z,2022-09-11T03:30:10Z
+5.181.76.126,chr.netadvance.ru.,202422,G-Core Labs S.A.,NL,Amsterdam,,,false,1.00,2022-09-11T03:30:13Z,2022-09-11T03:30:13Z
+5.181.134.158,hosted-by.etheron.nl.,211588,Xyphen IT,NL,Ede,,i/o timeout,,0.22,2022-09-19T09:31:09Z,2022-09-11T03:31:56Z
+5.206.215.250,ns1.eqcloud.nl.,42707,e-Quest IT Projecten B.V.,NL,Tilburg,,,false,1.00,2022-09-16T08:44:46Z,2022-09-11T06:55:55Z
+5.253.63.21,,49981,WorldStream B.V.,NL,,,,true,1.00,2022-09-11T13:15:43Z,2022-09-11T13:15:43Z
+5.255.77.186,5-255-77-186.ip.vdwict.nl.,50673,Serverius Holding B.V.,NL,Twello,,,false,1.00,2022-09-11T13:32:52Z,2022-09-11T13:32:52Z
+5.255.100.5,,60404,The Infrastructure Group B.V.,NL,,,,true,1.00,2022-09-11T13:33:36Z,2022-09-11T13:33:36Z
+145.131.3.148,ahv-id-19375.vps.awcloud.nl.,8315,Sentia Netherlands BV,NL,,,,false,1.00,2022-09-29T20:41:09Z,2022-09-28T22:49:37Z
+45.152.211.113,,60781,LeaseWeb Netherlands B.V.,NL,,dnsmasq-2.76,,false,1.00,2022-09-29T23:40:38Z,2022-09-29T23:21:02Z
+212.78.222.238,tnf-c1006-asd-003_atm2-0-0_5738-aal5-layer.net.es.vodafone.nl.,33915,Vodafone Libertel B.V.,NL,The Hague,dnsmasq-2.78,,false,1.00,2022-09-29T23:41:00Z,2022-09-29T23:36:11Z
+185.161.208.241,185.161.208.241.deltahost-ptr.,42159,Zemlyaniy Dmitro Leonidovich,NL,Dronten,,,false,1.00,2022-11-11T00:44:03Z,2022-09-29T23:55:29Z
+212.78.216.109,static-109-216-78-212.thenetworkfactory.nl.,33915,Vodafone Libertel B.V.,NL,Bladel,,,false,1.00,2022-09-30T02:06:38Z,2022-09-30T02:06:38Z
+62.194.100.24,h100024.upc-h.chello.nl.,33915,Vodafone Libertel B.V.,NL,Amsterdam,,,true,1.00,2022-09-30T03:51:05Z,2022-09-30T03:51:05Z
+81.30.66.149,,57112,F2X Operator B.V.,NL,Rotterdam,9.11.4-P2-RedHat-9.11.4-9.P2.el7,,true,1.00,2022-09-30T06:57:47Z,2022-09-30T06:57:47Z
+212.165.226.58,,12684,Ses Astra S.A.,NL,,,connection refused,,0.00,2023-02-17T06:57:30Z,2022-09-30T12:54:47Z
+194.121.153.185,static.kpn.net.,1136,KPN B.V.,NL,,,i/o timeout,,0.36,2022-10-19T23:49:41Z,2022-09-30T20:24:47Z
+213.125.13.126,D57D0D7E.static.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Capelle aan den IJssel,dnsmasq-2.78,,false,1.00,2022-10-02T21:36:38Z,2022-10-01T17:58:24Z
+83.167.217.11,static-11-217-167-83.thenetworkfactory.nl.,33915,Vodafone Libertel B.V.,NL,Leeuwarden,dnsmasq-2.83,,false,1.00,2022-10-01T18:37:49Z,2022-10-01T18:37:49Z
+45.91.57.85,,57112,F2X Operator B.V.,NL,Baarle-Nassau,9.11.4-P2-RedHat-9.11.4-9.P2.el7,,true,0.69,2022-10-11T08:31:08Z,2022-10-02T13:22:57Z
+88.221.162.7,a88-221-162-7.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,,,true,1.00,2022-10-03T09:10:18Z,2022-10-03T09:10:18Z
+84.104.255.172,84-104-255-172.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Nieuwegein,,,false,0.33,2022-10-04T10:39:00Z,2022-10-04T05:09:01Z
+45.152.211.143,,60781,LeaseWeb Netherlands B.V.,NL,,dnsmasq-2.76,,false,1.00,2022-10-12T08:31:25Z,2022-10-11T18:05:34Z
+159.100.83.138,static-138-83-100-159.thenetworkfactory.nl.,33915,Vodafone Libertel B.V.,NL,Almere Stad,dnsmasq-2.45,,true,0.99,2022-11-11T00:47:34Z,2022-10-12T08:09:25Z
+5.180.79.248,statesmanjournal.com.,212238,Datacamp Limited,NL,Amsterdam,,connection refused,,0.00,2022-12-20T13:18:29Z,2022-10-12T12:24:52Z
+45.128.27.162,www.seedbox.vip.,60781,LeaseWeb Netherlands B.V.,NL,Amsterdam,dnsmasq-2.76,,false,1.00,2023-02-08T23:51:00Z,2022-10-12T21:09:42Z
+92.71.236.101,92-71-236-101.biz.kpn.net.,1136,KPN B.V.,NL,Utrecht,,,true,1.00,2022-10-13T14:30:58Z,2022-10-13T14:30:58Z
+193.107.223.192,192-223-107-193.static.trined.nl.,39647,Enreach Netherlands B.V.,NL,,,,true,1.00,2022-10-20T22:34:34Z,2022-10-14T06:07:26Z
+31.151.41.134,31-151-41-134.dynamic.upc.nl.,33915,Vodafone Libertel B.V.,NL,Apeldoorn,,i/o timeout,,0.00,2023-02-08T23:51:52Z,2022-10-14T06:55:00Z
+167.99.212.130,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-2.80,,false,1.00,2022-10-16T13:35:36Z,2022-10-14T17:53:11Z
+213.126.35.116,D57E2374.static.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Gorredijk,unknown,,false,1.00,2022-10-15T03:53:31Z,2022-10-15T03:53:31Z
+92.64.180.161,92-64-180-161.biz.kpn.net.,1136,KPN B.V.,NL,Rijswijk,,,false,0.96,2023-02-14T05:27:35Z,2022-10-16T05:52:57Z
+95.97.233.134,095-097-233-134.static.chello.nl.,33915,Vodafone Libertel B.V.,NL,Rhoon,,,true,0.72,2022-10-17T06:35:56Z,2022-10-16T07:47:40Z
+45.152.209.52,,60781,LeaseWeb Netherlands B.V.,NL,,dnsmasq-2.76,,false,1.00,2022-10-20T22:34:10Z,2022-10-17T07:27:05Z
+37.1.216.211,mmm-traditional.com.,58061,Scalaxy B.V.,NL,Meppel,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.5,,true,0.52,2022-11-14T16:41:09Z,2022-10-18T15:06:15Z
+128.199.55.185,frontend02.crowdynews.com.,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-2.79,,false,1.00,2022-10-19T10:39:41Z,2022-10-18T15:16:55Z
+20.71.95.97,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,dnsmasq-pi-hole-2.87test8,,false,1.00,2022-10-18T17:28:38Z,2022-10-18T17:28:38Z
+185.204.170.238,,0,,NL,Amsterdam,,i/o timeout,,0.00,2023-02-08T23:58:33Z,2022-10-21T02:16:04Z
+83.232.5.12,83-232-5-12.mobile.kpn.net.,1136,KPN B.V.,NL,,dnsmasq-2.72,,false,1.00,2022-10-21T08:40:06Z,2022-10-21T08:40:06Z
+143.177.62.131,131-62-177-143.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Rotterdam,,,true,0.99,2022-10-27T10:37:34Z,2022-10-22T14:45:35Z
+85.17.205.89,,60781,LeaseWeb Netherlands B.V.,NL,Ankeveen,,,false,1.00,2022-10-27T10:43:16Z,2022-10-24T19:56:39Z
+185.87.158.25,,57112,F2X Operator B.V.,NL,Utrecht,PowerDNS Recursor 4.3.6,,false,0.65,2022-10-26T06:35:22Z,2022-10-25T07:44:35Z
+206.189.5.181,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-2.79,,false,1.00,2022-11-11T02:56:35Z,2022-10-25T21:57:04Z
+52.174.21.29,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,dnsmasq-2.66,,false,0.61,2022-10-28T22:35:54Z,2022-10-26T07:03:05Z
+178.251.26.240,,42093,InterRacks C.V.,NL,Enschede,,,false,1.00,2022-10-28T16:35:43Z,2022-10-28T13:08:36Z
+90.145.82.28,90-145-82-28.bbserv.nl.,29396,Eurofiber Nederland BV,NL,Amsterdam,,,false,1.00,2022-10-28T22:35:06Z,2022-10-28T14:39:46Z
+88.119.171.52,12631-22660.bacloud.info.,61272,"Informacines sistemos ir technologijos, UAB",NL,Amsterdam,unbound 1.6.6,,true,1.00,2023-02-09T00:04:30Z,2022-10-29T09:54:46Z
+34.90.1.179,179.1.90.34.bc.googleusercontent.com.,396982,GOOGLE-CLOUD-PLATFORM,NL,Groningen,dnsmasq-2.79,,false,1.00,2023-02-27T23:50:12Z,2022-10-29T15:02:25Z
+94.168.11.36,94-168-11-36.static.v4.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Groede,,,false,0.53,2022-11-10T23:38:56Z,2022-10-29T17:56:33Z
+213.171.69.18,,211251,A1 Internet BV,NL,,dnsmasq-2.62,,false,1.00,2023-02-09T00:08:03Z,2022-10-30T20:46:39Z
+204.2.64.42,,64404,Stichting EventInfra,NL,Amersfoort,dnsmasq-2.83,,false,0.71,2023-02-18T17:57:26Z,2022-10-31T07:37:49Z
+193.32.2.144,,60781,LeaseWeb Netherlands B.V.,NL,,dnsmasq-2.76,,false,1.00,2022-11-11T00:57:19Z,2022-10-31T16:43:05Z
+89.146.26.214,rt26bb146-89-214.routit.net.,28685,Routit BV,NL,Hooglanderveen,,i/o timeout,,0.75,2022-11-11T00:57:42Z,2022-10-31T19:51:49Z
+82.197.198.205,82-197-198-205.dsl.cambrium.nl.,25596,Cambrium IT Services B.V.,NL,Amsterdam,,,true,0.94,2022-11-11T00:59:06Z,2022-11-05T02:50:03Z
+45.152.209.54,,60781,LeaseWeb Netherlands B.V.,NL,,,,false,1.00,2022-11-11T01:00:11Z,2022-11-06T08:09:27Z
+212.57.63.38,,41960,Nextpertise B.V.,NL,Amsterdam,9.11.5-P4-5.1+deb10u5-Debian,,false,1.00,2022-11-11T01:00:43Z,2022-11-07T07:40:05Z
+185.73.115.99,185-73-115-99.nrp.co.,57935,NRP TEKNOLOJi LiMiTED SiRKETi,NL,Amsterdam,9.16.1-Ubuntu,,false,1.00,2022-11-11T06:00:00Z,2022-11-07T14:09:49Z
+179.61.232.125,,46337,WEBSITE-HOSTING,NL,Naaldwijk,9.16.1-Ubuntu,,true,1.00,2022-11-11T01:01:19Z,2022-11-08T05:33:50Z
+185.244.217.202,2335927.ds.had.pm.,204601,Zomro B.V.,NL,Dronten,,,false,1.00,2022-11-11T01:01:27Z,2022-11-08T10:19:37Z
+82.73.165.240,82-73-165-240.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Groningen,dnsmasq-2.62,,false,1.00,2022-11-11T01:02:19Z,2022-11-09T14:05:05Z
+82.201.104.7,,15879,KPN B.V.,NL,,9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6,REFUSED for example.com,,0.00,2023-01-17T14:28:37Z,2022-11-09T17:21:39Z
+77.61.0.49,77-61-0-49.biz.kpn.net.,1136,KPN B.V.,NL,Rotterdam,,i/o timeout,,0.50,2022-11-11T01:03:10Z,2022-11-10T11:01:01Z
+212.115.204.148,host-cimwuhj.static.zeelandnet.nl.,15542,DELTA Fiber Nederland B.V.,NL,Goes,,,false,1.00,2022-11-14T14:41:16Z,2022-11-11T14:01:59Z
+45.14.224.253,hosted-by.spectraip.net.,62068,SpectraIP B.V.,NL,Amsterdam,9.16.15-Debian,,false,1.00,2022-11-13T23:35:56Z,2022-11-11T21:54:17Z
+217.195.155.189,aumaga.daxitian.org.uk.,395092,SHOCK-1,NL,Amsterdam,,,false,1.00,2023-02-14T05:27:46Z,2022-11-11T22:19:45Z
+91.208.52.252,52-252.static.ipcserver.net.,50673,Serverius Holding B.V.,NL,Amsterdam,9.9.5-9+deb8u15-Debian,,true,1.00,2022-11-12T19:46:27Z,2022-11-12T07:45:01Z
+104.218.120.147,,62731,247RACK,NL,Amsterdam,,,false,0.97,2022-11-13T23:35:56Z,2022-11-12T14:47:43Z
+85.203.37.231,,36351,SOFTLAYER,NL,Amsterdam,,,true,0.80,2023-02-14T05:27:50Z,2022-11-12T15:37:38Z
+92.71.236.118,92-71-236-118.biz.kpn.net.,1136,KPN B.V.,NL,Amsterdam,,i/o timeout,,0.50,2023-02-09T13:40:48Z,2022-11-12T17:58:30Z
+62.133.88.61,host-62-133-88-61.kpn-gprs.nl.,1136,KPN B.V.,NL,Sas van Gent,,i/o timeout,,0.00,2023-02-09T13:41:04Z,2022-11-13T19:08:23Z
+178.132.1.37,178-132-1-37.hosted-by-worldstream.net.,49981,WorldStream B.V.,NL,Naaldwijk,,connection refused,,0.40,2022-12-17T13:12:46Z,2022-11-14T00:08:21Z
+89.200.106.25,89-200-106-25.mobile.kpn.net.,1136,KPN B.V.,NL,Kortenhoef,,i/o timeout,,0.11,2022-11-22T12:41:20Z,2022-11-14T15:17:49Z
+78.40.66.249,,25222,Inmarsat Solutions B.V.,NL,,,,false,0.07,2023-02-08T23:35:36Z,2022-11-14T23:46:33Z
+95.211.66.25,lw-nd14.inf.mycointainer.com.,60781,LeaseWeb Netherlands B.V.,NL,,dnsmasq-2.80,,false,1.00,2022-12-06T22:00:32Z,2022-11-15T20:54:33Z
+46.21.171.193,no-record-set.datafiber.nl.,42755,DataFiber Group B.V.,NL,Rhenen,,,false,0.96,2022-12-06T22:00:45Z,2022-11-16T01:41:03Z
+83.172.181.251,directadmin.3wt.nl.,25459,Dataplace B.V.,NL,,9.8.2rc1-RedHat-9.8.2-0.68.rc1.el6_10.8,,true,1.00,2022-12-06T22:01:54Z,2022-11-17T08:51:33Z
+152.70.51.158,,31898,ORACLE-BMC-31898,NL,Amsterdam,dnsmasq-2.76,,false,1.00,2022-12-06T22:02:05Z,2022-11-17T14:35:35Z
+45.14.48.185,,208951,Itglobal.com Nl B.v.,NL,,9.16.6,,true,1.00,2022-12-06T22:02:26Z,2022-11-17T23:46:03Z
+141.11.37.33,,43350,NForce Entertainment B.V.,NL,Amsterdam,,i/o timeout,,0.40,2022-12-06T23:47:39Z,2022-11-21T11:51:33Z
+37.153.227.21,rt227bb153-37-21.routit.net.,28685,Routit BV,NL,Rotterdam,,i/o timeout,,0.51,2022-12-06T23:49:34Z,2022-11-23T13:46:32Z
+45.128.155.111,,9009,M247 Europe SRL,NL,Amsterdam,,i/o timeout,,0.00,2023-02-09T01:12:47Z,2022-11-25T21:48:14Z
+46.44.148.135,rt148bb44-46-135.routit.net.,28685,Routit BV,NL,Heythuysen,,,true,1.00,2023-02-09T13:52:27Z,2022-11-26T15:26:51Z
+45.128.27.163,www.seedbox.vip.,60781,LeaseWeb Netherlands B.V.,NL,,dnsmasq-2.76,,false,0.94,2022-12-06T23:54:37Z,2022-11-30T00:35:48Z
+185.70.47.183,185.70.47.183.static.ipworks.be.,49544,i3D.net B.V,NL,Heerlen,,,false,0.89,2023-02-09T00:29:51Z,2022-12-03T15:11:17Z
+94.208.206.178,94-208-206-178.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Venlo,,connection refused,,0.00,2023-02-14T19:48:51Z,2022-12-03T17:14:13Z
+81.173.72.103,a81-173-72-103.dsl.pocosnet.nl.,50522,POCOS B.V.,NL,Woerden,dnsmasq-2.87,,false,1.00,2023-02-09T00:30:48Z,2022-12-04T23:37:43Z
+193.32.16.209,www.seedbox.vip.,60781,LeaseWeb Netherlands B.V.,NL,Amsterdam,,i/o timeout,,0.00,2023-02-09T00:30:59Z,2022-12-05T01:37:22Z
+141.148.225.193,,31898,ORACLE-BMC-31898,NL,Amsterdam,,i/o timeout,,0.00,2023-02-26T16:02:33Z,2022-12-05T10:03:10Z
+78.140.154.65,,35415,Webzilla B.V.,NL,,dnsmasq-2.59,,false,1.00,2023-02-09T00:31:52Z,2022-12-07T05:45:53Z
+20.4.41.121,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,,i/o timeout,,0.00,2023-02-25T20:46:03Z,2022-12-07T10:40:05Z
+188.207.33.109,188-207-33-109.mobile.kpn.net.,1136,KPN B.V.,NL,Drunen,dnsmasq-2.79,,false,0.57,2023-02-15T15:52:19Z,2022-12-10T01:13:49Z
+212.192.244.200,,399471,AS-SERVERION,NL,,,i/o timeout,,0.00,2023-02-15T15:52:28Z,2022-12-10T02:54:59Z
+89.146.16.134,rt16bb146-89-134.routit.net.,28685,Routit BV,NL,Asperen,,i/o timeout,,0.31,2023-02-19T04:58:27Z,2022-12-10T23:58:39Z
+213.125.56.198,D57D38C6.static.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Leidschendam,dnsmasq-2.79,,true,1.00,2023-02-15T15:53:29Z,2022-12-12T04:34:49Z
+212.121.115.14,rt115bb121-212-14.routit.net.,28685,Routit BV,NL,Weesp,,,false,1.00,2023-02-19T17:53:38Z,2022-12-13T00:18:18Z
+94.75.216.117,,60781,LeaseWeb Netherlands B.V.,NL,,,,false,1.00,2023-02-15T17:12:45Z,2022-12-13T15:18:45Z
+91.141.211.56,,31615,T-mobile Netherlands B.V.,NL,Cuijk,,i/o timeout,,0.00,2023-02-20T08:55:53Z,2022-12-13T22:30:01Z
+88.221.163.103,a88-221-163-103.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,,REFUSED for example.com,,0.00,2023-02-17T05:15:02Z,2022-12-15T19:53:36Z
+188.166.29.222,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,,i/o timeout,,0.75,2023-02-25T20:50:36Z,2022-12-16T19:52:32Z
+86.105.252.193,,202448,MVPS LTD,NL,Dronten,,,false,1.00,2023-02-18T10:12:19Z,2022-12-19T07:11:29Z
+185.81.8.252,,62353,Eurofiber Cloud Infra B.V.,NL,Utrecht,dnsmasq-2.79,,true,1.00,2023-02-18T10:12:51Z,2022-12-20T02:53:55Z
+185.70.237.164,,57112,F2X Operator B.V.,NL,Cuijk,,no route to host,,0.00,2023-02-19T02:07:00Z,2022-12-21T10:46:58Z
+213.124.216.41,ip-213-124-216-41.ip.prioritytelecom.net.,33915,Vodafone Libertel B.V.,NL,Amsterdam,,i/o timeout,,0.00,2023-02-19T02:07:16Z,2022-12-21T16:23:17Z
+13.94.156.85,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,,,false,1.00,2023-02-19T06:07:11Z,2022-12-22T09:39:15Z
+45.136.49.1,gw.spec.ispiria.net.,58061,Scalaxy B.V.,NL,Amsterdam,,connection refused,,0.00,2023-02-19T21:53:09Z,2022-12-23T09:07:23Z
+92.64.203.129,92-64-203-129.biz.kpn.net.,1136,KPN B.V.,NL,Amsterdam,,,true,0.71,2023-02-19T06:07:49Z,2022-12-23T09:17:46Z
+88.221.162.32,a88-221-162-32.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-02-19T06:54:15Z,2022-12-24T13:41:28Z
+213.127.191.190,ip-213-127-191-190.ip.prioritytelecom.net.,33915,Vodafone Libertel B.V.,NL,Dordrecht,,,false,0.98,2023-02-19T18:00:21Z,2022-12-24T19:16:30Z
+185.161.209.213,185.161.209.213.deltahost-ptr.,42159,Zemlyaniy Dmitro Leonidovich,NL,Dronten,,i/o timeout,,0.80,2023-02-19T06:54:51Z,2022-12-25T06:32:27Z
+45.91.209.84,www.seedbox.vip.,60781,LeaseWeb Netherlands B.V.,NL,Amsterdam,,i/o timeout,,0.00,2023-02-19T06:55:21Z,2022-12-26T10:20:34Z
+87.213.16.123,,13127,T-mobile Netherlands B.V.,NL,Amstelveen,,,false,1.00,2023-02-19T06:55:48Z,2022-12-27T07:54:53Z
+188.207.12.98,188-207-12-98.mobile.kpn.net.,1136,KPN B.V.,NL,Amsterdam,,,false,0.87,2023-02-19T06:56:11Z,2022-12-27T19:23:56Z
+95.97.52.62,095-097-052-062.static.chello.nl.,33915,Vodafone Libertel B.V.,NL,Amsterdam,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.9,,true,1.00,2023-02-19T07:57:56Z,2022-12-27T20:31:07Z
+87.213.68.130,,13127,T-mobile Netherlands B.V.,NL,Zoetermeer,dnsmasq-2.78,,false,1.00,2023-02-19T07:59:16Z,2022-12-30T00:14:56Z
+160.153.253.43,43.253.153.160.host.secureserver.net.,21501,Host Europe GmbH,NL,Amsterdam,,,false,1.00,2023-02-19T07:59:37Z,2022-12-30T12:49:33Z
+89.47.182.33,592fb621.static.cust.trined.nl.,207375,Fiber Operator B.V.,NL,,,,true,0.85,2023-02-20T09:08:01Z,2022-12-31T09:42:06Z
+82.75.44.128,82-75-44-128.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Delft,,i/o timeout,,0.00,2023-02-20T00:59:12Z,2022-12-31T10:01:50Z
+46.145.186.154,46-145-186-154.biz.kpn.net.,1136,KPN B.V.,NL,Hoogvliet,,i/o timeout,,0.94,2023-02-19T20:00:53Z,2022-12-31T11:31:04Z
+45.154.87.87,www.seedbox.vip.,60781,LeaseWeb Netherlands B.V.,NL,Amsterdam,dnsmasq-2.76,,false,1.00,2023-02-19T20:00:55Z,2022-12-31T20:19:56Z
+83.98.230.187,ip5362e6bb.dsl.caiway.nl.,30925,DELTA Fiber Nederland B.V.,NL,Kudelstaart,,,false,0.97,2023-02-19T20:01:05Z,2023-01-01T00:16:30Z
+217.195.155.190,mohga.daxitian.org.uk.,395092,SHOCK-1,NL,Amsterdam,,,false,1.00,2023-02-19T20:01:04Z,2023-01-01T01:19:33Z
+92.67.160.10,92-67-160-10.biz.kpn.net.,1136,KPN B.V.,NL,Leeuwarden,dnsmasq-2.86,,false,1.00,2023-02-19T20:01:29Z,2023-01-01T13:10:08Z
+80.114.150.97,50729661.static.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Leiden,,i/o timeout,,0.17,2023-02-19T20:01:48Z,2023-01-01T18:42:03Z
+80.78.132.65,srv2.it-df.net.,44592,SkyLink Data Center BV,NL,Eygelshoven,none,,true,0.98,2023-02-19T20:02:26Z,2023-01-02T19:23:10Z
+89.255.2.228,ns1.solidsolutions.eu.,39647,Enreach Netherlands B.V.,NL,Bavel,,,false,0.99,2023-02-19T20:02:29Z,2023-01-02T19:37:24Z
+31.160.123.11,31-160-123-11.biz.kpn.net.,1136,KPN B.V.,NL,The Hague,dnsmasq-2.85,SERVFAIL for rotten.com,,0.82,2023-02-20T05:02:28Z,2023-01-03T06:20:43Z
+86.81.250.137,86-81-250-137.fixed.kpn.net.,1136,KPN B.V.,NL,Dieren,,i/o timeout,,0.00,2023-02-20T05:03:22Z,2023-01-04T14:43:31Z
+167.71.15.59,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,1.0.7,,true,1.00,2023-03-08T13:49:48Z,2023-02-19T18:11:40Z
+212.121.100.226,rt100bb121-212-226.routit.net.,28685,Routit BV,NL,Maarsbergen,,i/o timeout,,0.72,2023-02-26T09:06:45Z,2023-02-19T21:57:18Z
+91.205.192.26,www.volontario.nl.,50673,Serverius Holding B.V.,NL,Arnhem,none,,false,1.00,2023-02-26T09:06:53Z,2023-02-20T05:06:15Z
+188.207.14.72,188-207-14-72.mobile.kpn.net.,1136,KPN B.V.,NL,Amsterdam,,i/o timeout,,0.12,2023-02-26T09:07:27Z,2023-02-20T14:25:34Z
+89.37.99.11,,213122,Hyonix LLC,NL,Amsterdam,,,false,1.00,2023-02-28T00:00:01Z,2023-02-20T17:05:42Z
+5.56.133.70,5-56-133-70.static.karizanta.com.,50673,Serverius Holding B.V.,NL,,,,false,0.93,2023-02-26T09:08:17Z,2023-02-21T09:09:42Z
+213.124.167.32,ip-213-124-167-32.ip.prioritytelecom.net.,33915,Vodafone Libertel B.V.,NL,Nijmegen,,i/o timeout,,0.37,2023-02-26T09:08:42Z,2023-02-21T22:13:16Z
+185.79.113.19,office.widem.nl.,50673,Serverius Holding B.V.,NL,,,,false,0.61,2023-02-26T09:08:57Z,2023-02-22T08:06:05Z
+45.128.27.19,www.seedbox.vip.,60781,LeaseWeb Netherlands B.V.,NL,Amsterdam,dnsmasq-2.76,,false,1.00,2023-02-26T09:10:04Z,2023-02-23T14:30:03Z
+87.213.92.62,unlabelled-62-92-213-87.versatel.net.,13127,T-mobile Netherlands B.V.,NL,Utrecht,,SERVFAIL for verisignlabs.com,,0.58,2023-02-26T13:52:00Z,2023-02-23T20:50:21Z
+217.100.143.162,D9648FA2.static.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Nieuwegein,dnsmasq-2.85,,false,1.00,2023-02-26T13:52:16Z,2023-02-24T03:33:11Z
+45.148.140.21,f.45.148.140.21.outlook.whdhead.com.,24875,NovoServe B.V.,NL,,,i/o timeout,,0.58,2023-02-26T13:52:28Z,2023-02-24T04:06:05Z
+185.52.52.68,,60558,"Phoenix Nap, LLC.",NL,Amsterdam,dnsmasq-2.48,,true,1.00,2023-02-26T13:52:46Z,2023-02-24T09:38:07Z
+51.124.197.222,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,,i/o timeout,,0.73,2023-02-27T16:58:51Z,2023-02-24T15:56:48Z
+89.20.74.30,r89-20-74-30.systemec.nl.,41480,Systemec BV,NL,Venlo,,,false,1.00,2023-03-03T02:46:26Z,2023-02-25T12:57:03Z
+195.123.218.127,vds-993376.hosted-by-itldc.com.,21100,ITL LLC,NL,Meppel,9.16.1-Ubuntu,,true,0.99,2023-02-27T23:50:13Z,2023-02-25T16:51:42Z
+40.115.33.62,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,dnsmasq-2.76,,false,0.91,2023-03-01T03:45:23Z,2023-02-26T06:48:39Z
+68.183.13.186,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,,i/o timeout,,0.27,2023-03-02T20:44:53Z,2023-02-26T12:26:14Z
+46.244.5.104,104-5-244-46.a2b-internet.com.,51088,A2b Ip B.v.,NL,Groningen,,,false,0.99,2023-03-01T00:48:30Z,2023-02-26T14:22:04Z
+146.185.134.104,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,,i/o timeout,,0.00,2023-03-05T20:55:19Z,2013-10-06T03:02:00Z
+217.195.155.238,,395092,SHOCK-1,NL,Amsterdam,,,false,1.00,2023-02-28T00:01:00Z,2023-02-27T14:00:53Z
+193.67.79.39,cache0200.ns.eu.uu.net.,702,UUNET,NL,,,,true,1.00,2023-03-02T05:50:22Z,2023-02-28T19:19:46Z
+194.61.59.25,ns1.voipplanet.nl.,49544,i3D.net B.V,NL,Rotterdam,Served by POWERDNS 2.9.21 $Id: packethandler.cc 1036 2007-04-19 20:43:14Z ahu $,,true,1.00,2023-03-01T22:48:11Z,2023-02-28T19:20:12Z
+52.232.119.103,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,,,false,1.00,2023-03-01T22:48:32Z,2023-02-28T23:58:09Z
+92.64.159.142,92-64-159-142.biz.kpn.net.,1136,KPN B.V.,NL,Rhenen,ZyWALL DNS,,false,1.00,2023-03-01T22:13:02Z,2023-03-01T22:13:02Z
+88.221.163.227,a88-221-163-227.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-01T22:42:37Z,2023-03-01T22:42:37Z
+160.153.246.167,167.246.153.160.host.secureserver.net.,21501,Host Europe GmbH,NL,Amsterdam,,,false,1.00,2023-03-04T10:45:51Z,2023-03-02T06:14:02Z
+23.137.249.32,,210630,IncogNET LLC,NL,Naaldwijk,,connection refused,,0.11,2023-03-05T06:52:07Z,2023-03-02T10:17:01Z
+81.173.72.106,a81-173-72-106.dsl.pocosnet.nl.,50522,POCOS B.V.,NL,Woerden,dnsmasq-2.87,,false,1.00,2023-03-05T06:49:24Z,2023-03-02T17:38:36Z
+88.221.163.127,a88-221-163-127.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,0.99,2023-03-04T00:49:19Z,2023-03-02T17:51:48Z
+77.60.131.184,77-60-131-184.biz.kpn.net.,1136,KPN B.V.,NL,Vaals,,i/o timeout,,0.72,2023-03-03T07:46:27Z,2023-03-03T00:47:38Z
+84.243.249.83,,39647,Enreach Netherlands B.V.,NL,Alkmaar,,,false,0.96,2023-03-05T18:55:17Z,2023-03-03T05:42:21Z
+40.91.221.234,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,,,false,1.00,2023-03-03T21:45:04Z,2023-03-03T09:40:27Z
+88.221.162.233,a88-221-162-233.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-05T23:59:18Z,2023-03-05T04:36:39Z
+185.92.149.8,vm3981414.43ssd.had.wf.,204601,Zomro B.V.,NL,,,i/o timeout,,0.26,2023-03-08T13:48:27Z,2023-03-05T19:06:44Z
+87.213.146.218,,13127,T-mobile Netherlands B.V.,NL,,,i/o timeout,,0.57,2023-03-08T17:49:04Z,2023-03-05T21:12:04Z
+79.137.194.94,sergeysedoy97.ru.,210644,AEZA GROUP Ltd,NL,Amsterdam,,i/o timeout,,0.52,2023-03-09T10:55:03Z,2023-03-07T18:47:59Z
+89.22.237.91,sergeysedoy97.ru.,207651,Hosting technology LTD,NL,Meppel,,,true,0.96,2023-03-10T02:52:12Z,2023-03-07T18:48:53Z
+13.95.90.89,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,,,false,1.00,2023-03-10T00:45:18Z,2023-03-09T06:34:34Z
+143.47.180.112,vps2.rhscz.eu.,31898,ORACLE-BMC-31898,NL,Amsterdam,unbound 1.13.1,SERVFAIL for wikileaks.org,,0.49,2023-04-04T08:28:57Z,2023-03-11T05:20:22Z
+145.131.246.100,rt246bb131-145-100.routit.net.,28685,Routit BV,NL,The Hague,,,true,1.00,2023-03-12T00:45:25Z,2023-03-11T17:50:47Z
+13.81.109.62,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,,i/o timeout,,0.11,2023-04-21T12:43:32Z,2023-03-12T02:42:55Z
+94.23.147.246,assangehub.com.,16276,OVH SAS,NL,,none,,false,1.00,2023-03-13T08:45:24Z,2023-03-13T00:49:38Z
+63.250.57.141,,41436,Kamatera Inc,NL,Amsterdam,,,false,1.00,2023-03-13T04:45:31Z,2023-03-13T00:50:34Z
+83.96.244.117,vm-5a41a28d-bb2f-4de0-98bf-9bb8c5093e8c.ams.resource.cloud.,35470,Signet B.V.,NL,,,connection refused,,0.88,2023-03-23T09:46:21Z,2023-03-13T00:53:09Z
+93.88.74.158,srv20091.hosted-by-eurohoster.org.,207728,EUROHOSTER Ltd.,NL,Naaldwijk,,,false,1.00,2023-03-13T08:44:50Z,2023-03-13T01:06:06Z
+83.172.181.252,directadmin.3wt.nl.,25459,Eurofiber Cloud Infra B.V.,NL,,9.8.2rc1-RedHat-9.8.2-0.68.rc1.el6_10.8,,true,1.00,2023-03-13T08:44:44Z,2023-03-13T01:06:56Z
+88.221.163.196,a88-221-163-196.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-14T17:46:08Z,2023-03-13T01:17:15Z
+88.221.163.52,a88-221-163-52.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,0.73,2023-03-13T04:45:08Z,2023-03-13T01:21:14Z
+45.131.108.160,mgmt.tube-hosting.com.,49581,Tube-Hosting,NL,Eygelshoven,,,false,1.00,2023-03-13T02:03:22Z,2023-03-13T02:03:22Z
+83.128.77.3,003-077-128-083.dynamic.caiway.nl.,15435,DELTA Fiber Nederland B.V.,NL,Markelo,dnsmasq-pi-hole-v2.89,,false,1.00,2023-03-13T02:09:44Z,2023-03-13T02:09:44Z
+80.56.228.161,f228161.upc-f.chello.nl.,33915,Vodafone Libertel B.V.,NL,Rotterdam,,,false,1.00,2023-03-13T02:10:43Z,2023-03-13T02:10:43Z
+88.221.162.115,a88-221-162-115.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-13T02:15:06Z,2023-03-13T02:15:06Z
+94.103.81.161,v161436.hosted-by-vdsina.ru.,207651,Hosting technology LTD,NL,Assen,Santa-Atmo DNS,,true,1.00,2023-03-13T08:45:29Z,2023-03-13T02:40:03Z
+213.34.140.206,static-206-140-34-213.thenetworkfactory.nl.,33915,Vodafone Libertel B.V.,NL,Nijmegen,dnsmasq-2.82,,false,1.00,2023-03-13T08:45:27Z,2023-03-13T02:41:23Z
+88.221.163.240,a88-221-163-240.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-13T08:45:27Z,2023-03-13T02:42:26Z
+89.188.14.171,,31477,Duocast B.V.,NL,Leeuwarden,dnsmasq-2.87,,false,1.00,2023-03-13T03:10:29Z,2023-03-13T03:10:29Z
+141.148.239.82,,31898,ORACLE-BMC-31898,NL,Amsterdam,dnsmasq-pi-hole-v2.88rc1,,false,1.00,2023-03-13T03:21:30Z,2023-03-13T03:21:30Z
+93.117.238.110,static-110-238-117-93.thenetworkfactory.nl.,33915,Vodafone Libertel B.V.,NL,Hilversum,dnsmasq-2.83,,false,1.00,2023-03-13T03:25:23Z,2023-03-13T03:25:23Z
+88.221.162.66,a88-221-162-66.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-13T03:33:02Z,2023-03-13T03:33:02Z
+88.221.163.141,a88-221-163-141.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,,REFUSED for example.com,,0.88,2023-03-13T04:46:03Z,2023-03-13T03:36:53Z
+94.209.172.18,94-209-172-18.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Made,,,true,1.00,2023-03-13T03:49:45Z,2023-03-13T03:49:45Z
+88.221.162.28,a88-221-162-28.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-13T03:51:54Z,2023-03-13T03:51:54Z
+80.113.211.170,ip-80-113-211-170.ip.prioritytelecom.net.,33915,Vodafone Libertel B.V.,NL,Werkendam,unknown,,false,1.00,2023-03-13T03:57:40Z,2023-03-13T03:57:40Z
+217.195.155.155,,395092,SHOCK-1,NL,Amsterdam,,,false,1.00,2023-03-13T04:00:26Z,2023-03-13T04:00:26Z
+157.97.61.2,ftth-ap4-157-97-61-2.netvisit.nl.,49784,Netvisit B.V.,NL,Veendam,,,false,1.00,2023-03-13T04:08:00Z,2023-03-13T04:08:00Z
+95.96.71.101,095-096-071-101.static.chello.nl.,33915,Vodafone Libertel B.V.,NL,Amsterdam,DNSServer,,false,1.00,2023-03-13T04:31:17Z,2023-03-13T04:31:17Z
+83.87.202.7,83-87-202-7.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Capelle aan den IJssel,dnsmasq-2.75,,false,1.00,2023-03-13T04:46:31Z,2023-03-13T04:46:31Z
+185.180.196.3,.,14576,HOSTING-SOLUTIONS,NL,Ede,get lost,,false,1.00,2023-03-14T17:46:23Z,2023-03-13T04:58:46Z
+178.62.197.147,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-2.79,,false,1.00,2023-03-13T08:44:44Z,2023-03-13T05:00:24Z
+86.107.187.184,566bbbb8.static.cust.trined.nl.,207375,Fiber Operator B.V.,NL,Leende,,,true,1.00,2023-03-13T08:45:26Z,2023-03-13T05:21:29Z
+88.221.162.133,a88-221-162-133.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-14T21:44:44Z,2023-03-13T05:24:20Z
+45.148.140.25,f.45.148.140.25.outlook.whdhead.com.,24875,NovoServe B.V.,NL,,,i/o timeout,,0.88,2023-03-13T08:45:34Z,2023-03-13T05:24:30Z
+95.97.137.98,095-097-137-098.static.chello.nl.,33915,Vodafone Libertel B.V.,NL,Zuidoostbeemster,,,true,1.00,2023-03-13T08:45:27Z,2023-03-13T05:31:49Z
+87.101.0.52,87-101-0-52.dsl.cambrium.nl.,25596,Cambrium IT Services B.V.,NL,Gennep,dnsmasq-2.45,,true,1.00,2023-03-13T08:45:27Z,2023-03-13T05:32:20Z
+88.221.162.158,a88-221-162-158.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-13T08:45:30Z,2023-03-13T05:36:17Z
+81.4.100.121,,198203,RouteLabel V.O.F.,NL,,Microsoft DNS 6.1.7601 (1DB15F75),,false,1.00,2023-03-13T08:45:31Z,2023-03-13T05:43:12Z
+80.242.226.54,50F2E236.static.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Arnhem,dnsmasq-2.82,,false,1.00,2023-03-13T05:48:13Z,2023-03-13T05:48:13Z
+81.172.159.105,105-159-172-081.dynamic.caiway.nl.,15435,DELTA Fiber Nederland B.V.,NL,Naaldwijk,dnsmasq-2.59,,false,1.00,2023-03-13T05:51:42Z,2023-03-13T05:51:42Z
+84.26.250.191,84-26-250-191.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Loon op Zand,,,true,1.00,2023-03-13T06:04:18Z,2023-03-13T06:04:18Z
+143.178.79.2,2-79-178-143.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Amsterdam,dnsmasq-pi-hole-v2.89,,false,1.00,2023-03-13T06:07:02Z,2023-03-13T06:07:02Z
+152.70.58.91,,31898,ORACLE-BMC-31898,NL,Amsterdam,,,true,1.00,2023-03-13T06:15:48Z,2023-03-13T06:15:48Z
+82.217.227.44,82-217-227-44.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Oosterhout,,,false,0.95,2023-03-14T17:46:23Z,2023-03-13T06:26:04Z
+89.208.106.246,s8.aeza.network.,210644,AEZA GROUP Ltd,NL,Amsterdam,Windows DNS,,true,1.00,2023-03-13T06:39:18Z,2023-03-13T06:39:18Z
+79.137.205.223,limping-arm.aeza.network.,210644,AEZA GROUP Ltd,NL,Amsterdam,dnsmasq-pi-hole-v2.88,,true,1.00,2023-03-13T06:42:17Z,2023-03-13T06:42:17Z
+84.29.11.184,84-29-11-184.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Roelofarendsveen,DNSServer,,false,1.00,2023-03-13T06:42:46Z,2023-03-13T06:42:46Z
+185.2.243.221,,39647,Enreach Netherlands B.V.,NL,Zoeterwoude-Dorp,,,true,1.00,2023-03-13T06:42:49Z,2023-03-13T06:42:49Z
+90.145.226.202,90-145-226-202.bbserv.nl.,29396,Eurofiber Nederland BV,NL,Purmerend,dnsmasq-2.85,,false,1.00,2023-03-13T07:15:44Z,2023-03-13T07:15:44Z
+217.100.95.51,D9645F33.static.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Waalwijk,dnsmasq-2.78,,true,1.00,2023-03-13T07:33:21Z,2023-03-13T07:33:21Z
+88.221.163.204,a88-221-163-204.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-13T07:38:27Z,2023-03-13T07:38:27Z
+81.171.25.145,mailrelay.avirtua.nl.,60781,LeaseWeb Netherlands B.V.,NL,,,,false,1.00,2023-03-13T07:42:12Z,2023-03-13T07:42:12Z
+92.38.184.229,service.bty.spb.ru.,202422,G-Core Labs S.A.,NL,Amsterdam,9.16.11,,true,1.00,2023-03-13T08:02:15Z,2023-03-13T08:02:15Z
+91.220.37.39,khsm2.khsmserver2.nl.,50673,Serverius Holding B.V.,NL,,9.11.26-RedHat-9.11.26-6.el8,,true,1.00,2023-03-13T08:10:30Z,2023-03-13T08:10:30Z
+94.168.87.97,94-168-87-97.static.v4.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Amsterdam,dnsmasq-2.78,,false,1.00,2023-03-13T08:23:32Z,2023-03-13T08:23:32Z
+89.255.26.20,powered-by.xenosite.net.,39647,Enreach Netherlands B.V.,NL,Utrecht,dnsmasq-2.83,,false,1.00,2023-03-13T08:23:49Z,2023-03-13T08:23:49Z
+85.17.17.65,,60781,LeaseWeb Netherlands B.V.,NL,,dnsmasq-2.80,,false,1.00,2023-03-13T08:25:02Z,2023-03-13T08:25:02Z
+88.221.162.94,a88-221-162-94.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-13T08:29:08Z,2023-03-13T08:29:08Z
+80.115.147.176,80-115-147-176.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Heerlen,DNSServer,,false,1.00,2023-03-13T08:30:27Z,2023-03-13T08:30:27Z
+89.20.89.166,r89-20-89-166.systemec.nl.,41480,Systemec BV,NL,Venlo,,,false,1.00,2023-03-13T08:37:34Z,2023-03-13T08:37:34Z
+84.243.194.18,,39647,Enreach Netherlands B.V.,NL,Leerdam,DNSServer,,false,1.00,2023-03-13T08:41:42Z,2023-03-13T08:41:42Z
+88.221.163.33,a88-221-163-33.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-13T08:43:48Z,2023-03-13T08:43:48Z
+89.220.184.35,89-220-184-35.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Utrecht,dnsmasq-2.40,,false,0.75,2023-03-14T17:46:23Z,2023-03-13T08:55:18Z
+87.215.28.58,,13127,T-mobile Netherlands B.V.,NL,Monnickendam,,,true,0.76,2023-03-14T06:46:04Z,2023-03-13T09:05:25Z
+185.100.235.242,185-100-235-242.hosted-by-worldstream.net.,49981,WorldStream B.V.,NL,,,,false,1.00,2023-03-13T14:45:48Z,2023-03-13T09:17:17Z
+82.196.12.86,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-2.68,,true,1.00,2023-03-13T11:45:49Z,2023-03-13T09:30:23Z
+83.128.206.171,171-206-128-083.dynamic.caiway.nl.,15435,DELTA Fiber Nederland B.V.,NL,IJsselstein,,,false,1.00,2023-03-13T21:45:59Z,2023-03-13T09:41:37Z
+92.111.221.246,92-111-221-246.static.v4.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Haarlem,9.11.22,,false,1.00,2023-04-12T12:14:13Z,2023-03-13T09:53:54Z
+84.53.99.226,84-53-99-226.bbserv.nl.,29396,Eurofiber Nederland BV,NL,Delft,9.16,,false,1.00,2023-03-13T10:09:03Z,2023-03-13T10:09:03Z
+94.103.147.225,poweredby.dside.nl.,25459,Eurofiber Cloud Infra B.V.,NL,,,,false,1.00,2023-04-20T15:40:46Z,2023-03-13T10:37:20Z
+83.149.125.95,mail.nmtechnology.net.,60781,LeaseWeb Netherlands B.V.,NL,,,,false,1.00,2023-03-13T10:44:45Z,2023-03-13T10:44:45Z
+88.221.162.37,a88-221-162-37.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-13T10:48:37Z,2023-03-13T10:48:37Z
+160.153.248.91,91.248.153.160.host.secureserver.net.,21501,Host Europe GmbH,NL,Amsterdam,,,false,1.00,2023-03-15T03:44:54Z,2023-03-13T11:00:28Z
+80.115.126.165,80-115-126-165.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Oosterhout,,,false,0.99,2023-04-12T18:12:35Z,2023-03-13T11:02:43Z
+89.38.96.251,89-38-96-251.hosted-by-worldstream.net.,49981,WorldStream B.V.,NL,Naaldwijk,dnsmasq-2.86,,false,1.00,2023-03-14T02:47:52Z,2023-03-13T11:12:29Z
+85.146.233.162,,33915,Vodafone Libertel B.V.,NL,Maastricht,,,true,1.00,2023-03-13T11:47:57Z,2023-03-13T11:14:00Z
+84.233.182.251,samitel.com.,3257,GTT Communications Inc.,NL,,,,false,1.00,2023-03-13T11:48:01Z,2023-03-13T11:15:04Z
+213.124.39.21,D57C2715.static.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Halsteren,,,false,1.00,2023-03-13T12:48:10Z,2023-03-13T11:20:03Z
+40.118.41.248,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,9.11.26-RedHat-9.11.26-6.el8,,true,1.00,2023-03-13T11:26:43Z,2023-03-13T11:26:43Z
+78.109.0.94,78-109-0-94.cloud.bt.com.,13205,British Telecommunications PLC,NL,Warnsveld,dnsmasq-2.76,,false,1.00,2023-03-13T11:32:18Z,2023-03-13T11:32:18Z
+84.245.11.198,84-245-11-198.dsl.cambrium.nl.,25596,Cambrium IT Services B.V.,NL,Oss,dnsmasq-2.84rc2,,false,1.00,2023-03-13T11:45:07Z,2023-03-13T11:40:58Z
+93.158.218.249,,50673,Serverius Holding B.V.,NL,,,,false,1.00,2023-04-03T21:29:17Z,2023-03-13T11:43:03Z
+87.213.192.65,unlabelled-65-192-213-87.versatel.net.,13127,T-mobile Netherlands B.V.,NL,,,,false,1.00,2023-03-13T12:22:31Z,2023-03-13T12:22:31Z
+45.92.0.0,,211112,Trejj Communications Limited,NL,,,,false,1.00,2023-03-13T12:47:45Z,2023-03-13T12:29:59Z
+185.7.81.11,,49981,WorldStream B.V.,NL,Naaldwijk,,,false,1.00,2023-03-13T12:47:45Z,2023-03-13T12:35:38Z
+95.97.113.102,095-097-113-102.static.chello.nl.,33915,Vodafone Libertel B.V.,NL,Rotterdam,,,false,1.00,2023-03-13T12:44:03Z,2023-03-13T12:44:03Z
+74.119.195.122,vm913824.stark-industries.solutions.,44477,Stark Industries Solutions Ltd,NL,Meppel,,,false,1.00,2023-03-13T12:46:39Z,2023-03-13T12:46:39Z
+80.57.38.97,g38097.upc-g.chello.nl.,33915,Vodafone Libertel B.V.,NL,Ermelo,,,false,1.00,2023-03-13T12:59:03Z,2023-03-13T12:59:03Z
+83.174.131.222,83-174-131-222.ngblunetworks.nl.,55795,Verb Data Centre Pty Ltd,NL,Duiven,,,false,1.00,2023-03-13T13:36:03Z,2023-03-13T13:36:03Z
+88.221.162.179,a88-221-162-179.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-13T13:49:07Z,2023-03-13T13:49:07Z
+62.221.253.107,hosted-by.axc.nl.,48635,CLDIN B.V.,NL,,,,false,1.00,2023-03-13T14:21:36Z,2023-03-13T14:21:36Z
+95.97.204.78,095-097-204-078.static.chello.nl.,33915,Vodafone Libertel B.V.,NL,Berkel en Rodenrijs,dnsmasq-2.84rc2,,false,1.00,2023-03-13T14:28:34Z,2023-03-13T14:28:34Z
+92.119.113.176,vm4278447.1nvme.had.wf.,204601,Zomro B.V.,NL,Dronten,,,false,1.00,2023-03-13T14:56:10Z,2023-03-13T14:56:10Z
+88.221.163.24,a88-221-163-24.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-13T15:21:13Z,2023-03-13T15:21:13Z
+95.179.149.159,95.179.149.159.vultrusercontent.com.,20473,AS-CHOOPA,NL,Amsterdam,dnsmasq-2.79,,false,1.00,2023-04-03T18:30:02Z,2023-03-13T15:48:47Z
+88.221.163.45,a88-221-163-45.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-13T22:48:43Z,2023-03-13T15:50:29Z
+88.221.163.15,a88-221-163-15.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-18T17:45:40Z,2023-03-13T16:05:20Z
+95.142.49.38,mail.wijzijnde.it.,34215,@Inet Technology Consultancy B.V.,NL,Amsterdam,dnsmasq-2.86,,false,1.00,2023-03-15T14:45:07Z,2023-03-13T16:10:18Z
+85.146.232.10,,33915,Vodafone Libertel B.V.,NL,Amsterdam,dnsmasq-2.85,,false,1.00,2023-03-18T02:44:59Z,2023-03-13T16:10:56Z
+88.221.163.74,a88-221-163-74.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-15T09:48:26Z,2023-03-13T16:33:00Z
+84.106.112.22,84-106-112-22.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Bodegraven,,,false,1.00,2023-03-15T09:48:46Z,2023-03-13T17:01:37Z
+81.172.206.66,066-206-172-081.dynamic.caiway.nl.,15435,DELTA Fiber Nederland B.V.,NL,The Hague,DNSServer,,false,1.00,2023-03-15T09:49:09Z,2023-03-13T17:29:50Z
+82.217.179.234,82-217-179-234.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Cuijk,,,false,1.00,2023-03-15T22:45:21Z,2023-03-13T17:35:24Z
+185.159.80.206,policeshanghai.top.,14576,HOSTING-SOLUTIONS,NL,Ede,9.8.2rc1-RedHat-9.8.2-0.68.rc1.el6_10.1,,true,1.00,2023-03-15T09:49:19Z,2023-03-13T17:48:08Z
+213.125.127.90,mail.reselco.nl.,33915,Vodafone Libertel B.V.,NL,Oud Gastel,9.11.22,,false,1.00,2023-03-15T09:49:32Z,2023-03-13T18:07:52Z
+157.97.212.10,157-97-212-10.static.ipvisie.com.,198089,IP Visie Networking B.V.,NL,Amsterdam,,,false,1.00,2023-03-15T19:45:20Z,2023-03-13T18:10:57Z
+85.146.163.177,177-163-146-85.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Helmond,,REFUSED for example.com,,0.67,2023-03-15T09:49:38Z,2023-03-13T18:17:57Z
+81.28.95.75,,39647,Enreach Netherlands B.V.,NL,Utrecht,,,false,1.00,2023-03-15T09:49:45Z,2023-03-13T18:28:23Z
+82.139.78.205,customer-082-139-078-205.solcon.nl.,12414,Solcon Internetdiensten B.V.,NL,Nunspeet,NSD,,false,1.00,2023-03-15T09:49:52Z,2023-03-13T18:38:51Z
+94.210.26.35,94-210-26-35.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Rosmalen,DNSServer,,false,1.00,2023-03-15T09:50:53Z,2023-03-13T20:09:08Z
+84.243.225.220,,39647,Enreach Netherlands B.V.,NL,Almere Stad,DNSServer,,false,1.00,2023-03-15T09:50:56Z,2023-03-13T20:16:29Z
+5.255.77.98,,50673,Serverius Holding B.V.,NL,De Bilt,,i/o timeout,,0.50,2023-03-15T09:51:11Z,2023-03-13T20:25:47Z
+88.221.163.200,a88-221-163-200.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,,,true,1.00,2023-03-15T09:51:07Z,2023-03-13T20:33:06Z
+84.24.197.93,84-24-197-93.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Tilburg,DNSServer,,false,1.00,2023-03-15T09:51:10Z,2023-03-13T20:35:28Z
+91.215.148.238,91-215-148-238.imatrix.nl.,34612,Matrix Groep B.V.,NL,Zeewolde,,,false,1.00,2023-03-15T09:51:13Z,2023-03-13T20:39:13Z
+79.137.195.60,nervous-box.aeza.network.,210644,AEZA GROUP Ltd,NL,Amsterdam,,,true,0.93,2023-04-20T15:51:55Z,2023-03-13T20:51:05Z
+88.221.162.157,a88-221-162-157.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-15T09:51:27Z,2023-03-13T21:02:05Z
+20.160.42.161,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,,,true,1.00,2023-03-15T09:51:33Z,2023-03-13T21:06:47Z
+188.92.58.23,dw188925823.amsterdam-tc.dataweb.net.,35332,DataWeb B.V.,NL,Bovenkarspel,,,false,1.00,2023-03-15T09:51:33Z,2023-03-13T21:12:26Z
+80.242.237.178,50F2EDB2.static.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Annen,dnsmasq-2.70,,false,1.00,2023-03-15T09:51:40Z,2023-03-13T21:23:33Z
+185.81.9.44,ip-by.netlan.nl.,62353,Eurofiber Cloud Infra B.V.,NL,Utrecht,,,false,1.00,2023-03-15T09:52:00Z,2023-03-13T21:52:47Z
+82.196.13.125,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-2.75,,false,1.00,2023-03-15T09:52:03Z,2023-03-13T21:58:09Z
+85.159.232.70,,43350,NForce Entertainment B.V.,NL,,dnsmasq-2.85,,false,1.00,2023-03-15T09:52:22Z,2023-03-13T22:27:49Z
+94.131.107.135,vm637829.stark-industries.solutions.,44477,Stark Industries Solutions Ltd,NL,Meppel,,,false,1.00,2023-03-15T09:52:26Z,2023-03-13T22:32:14Z
+81.28.84.171,,39647,Enreach Netherlands B.V.,NL,Nispen,,,false,1.00,2023-03-26T22:05:10Z,2023-03-13T23:19:39Z
+88.221.162.51,a88-221-162-51.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-15T09:52:57Z,2023-03-13T23:26:14Z
+91.189.227.22,,42707,e-Quest IT Projecten B.V.,NL,Deurne,9.6-ESV-R11,,false,1.00,2023-03-15T09:53:17Z,2023-03-13T23:36:20Z
+81.173.72.100,a81-173-72-100.dsl.pocosnet.nl.,50522,POCOS B.V.,NL,Woerden,dnsmasq-2.87,,false,1.00,2023-03-15T09:53:07Z,2023-03-13T23:40:10Z
+81.173.72.107,a81-173-72-107.dsl.pocosnet.nl.,50522,POCOS B.V.,NL,Woerden,dnsmasq-2.87,,false,1.00,2023-03-15T09:53:36Z,2023-03-14T00:21:39Z
+82.176.128.27,host-2hhu8h.cbn1.zeelandnet.nl.,15542,DELTA Fiber Nederland B.V.,NL,Hulst,,i/o timeout,,0.50,2023-03-15T09:53:54Z,2023-03-14T00:37:36Z
+83.83.156.175,83-83-156-175.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Scherpenzeel,DNSServer,,false,1.00,2023-03-15T09:53:52Z,2023-03-14T00:44:40Z
+88.221.163.79,a88-221-163-79.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-15T09:53:58Z,2023-03-14T00:54:00Z
+62.59.246.10,ip10-246-59-62.adsl.versatel.nl.,13127,T-mobile Netherlands B.V.,NL,,unbound 1.16.2,,false,1.00,2023-03-15T09:54:03Z,2023-03-14T01:03:29Z
+84.104.88.125,84-104-88-125.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Zoetermeer,,,false,1.00,2023-03-15T09:54:03Z,2023-03-14T01:05:14Z
+81.30.70.114,,57112,F2X Operator B.V.,NL,Breda,dnsmasq-2.52,,true,1.00,2023-03-15T09:54:05Z,2023-03-14T01:08:19Z
+87.233.147.183,ad04.b2b-infoplaza.nl.,15703,True B.V.,NL,Lijnden,,,false,1.00,2023-03-15T09:54:07Z,2023-03-14T01:10:07Z
+142.93.226.155,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-2.80,,false,1.00,2023-03-15T09:54:10Z,2023-03-14T01:16:21Z
+88.221.162.247,a88-221-162-247.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-15T12:45:28Z,2023-03-14T02:04:02Z
+83.86.208.144,83-86-208-144.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Delft,unbound 1.4.22,,false,1.00,2023-03-15T09:54:42Z,2023-03-14T02:05:28Z
+78.141.214.141,78.141.214.141.vultrusercontent.com.,20473,AS-CHOOPA,NL,Amsterdam,,,true,1.00,2023-03-15T09:54:49Z,2023-03-14T02:11:15Z
+145.131.24.226,ahv-id-8333.vps.awcloud.nl.,8315,Sentia Netherlands BV,NL,Ritthem,,,false,1.00,2023-03-15T09:54:47Z,2023-03-14T02:12:09Z
+88.221.162.153,a88-221-162-153.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,,REFUSED for example.com,,0.50,2023-03-15T09:54:54Z,2023-03-14T02:23:25Z
+188.166.123.73,dns1.pmginfotech.com.,14061,DIGITALOCEAN-ASN,NL,Amsterdam,,,false,1.00,2023-03-14T02:30:25Z,2023-03-14T02:30:25Z
+88.221.163.3,a88-221-163-3.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-14T02:47:23Z,2023-03-14T02:47:23Z
+46.21.167.155,,42755,DataFiber Group B.V.,NL,The Hague,,,false,1.00,2023-03-14T03:31:17Z,2023-03-14T03:31:17Z
+87.215.202.89,,13127,T-mobile Netherlands B.V.,NL,The Hague,,,false,1.00,2023-03-14T03:41:19Z,2023-03-14T03:41:19Z
+83.229.82.151,,41436,Kamatera Inc,NL,Amsterdam,,,false,1.00,2023-03-14T03:47:44Z,2023-03-14T03:47:44Z
+137.117.243.1,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.9,,false,1.00,2023-03-14T07:50:29Z,2023-03-14T03:54:55Z
+88.221.162.228,a88-221-162-228.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-14T04:14:38Z,2023-03-14T04:14:38Z
+84.53.99.228,84-53-99-228.bbserv.unet.nl.,29396,Eurofiber Nederland BV,NL,Delft,,,false,1.00,2023-03-14T04:22:59Z,2023-03-14T04:22:59Z
+85.145.133.133,133-133-145-85.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Groenlo,dnsmasq-2.62,,false,1.00,2023-03-14T04:35:58Z,2023-03-14T04:35:58Z
+94.168.59.202,94-168-59-202.static.v4.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Beekbergen,,,false,1.00,2023-03-14T04:54:59Z,2023-03-14T04:54:59Z
+84.243.192.88,,39647,Enreach Netherlands B.V.,NL,Soesterberg,,,false,1.00,2023-03-14T04:58:43Z,2023-03-14T04:58:43Z
+185.46.30.126,185-46-30-126.static.ipvisie.com.,198089,IP Visie Networking B.V.,NL,Rotterdam,9.11.22,,false,1.00,2023-03-14T05:17:54Z,2023-03-14T05:17:54Z
+77.242.115.104,dw77242115104.amsterdam-tc.dataweb.net.,35332,DataWeb B.V.,NL,Uitgeest,,,false,1.00,2023-03-14T05:50:27Z,2023-03-14T05:25:16Z
+141.11.184.72,,43350,NForce Entertainment B.V.,NL,Amsterdam,,,false,1.00,2023-03-14T05:31:28Z,2023-03-14T05:31:28Z
+212.86.114.222,vm2475829.42ssd.had.wf.,204601,Zomro B.V.,NL,Dronten,,,false,1.00,2023-03-14T05:50:28Z,2023-03-14T05:47:27Z
+95.128.95.72,cust-95-128-95-72.breedbanddelft.nl.,34108,Stichting Breedband Delft,NL,Delft,dnsmasq-2.85,,false,1.00,2023-03-14T05:53:12Z,2023-03-14T05:53:12Z
+94.168.100.244,94-168-100-244.static.v4.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Arnhem,,,false,1.00,2023-03-14T06:08:32Z,2023-03-14T06:08:32Z
+95.211.26.130,,60781,LeaseWeb Netherlands B.V.,NL,,,,true,1.00,2023-03-14T06:10:30Z,2023-03-14T06:10:30Z
+213.5.70.162,backpack.nu.,51430,AltusHost B.V.,NL,,9.16.1-Ubuntu,,true,1.00,2023-03-14T06:18:13Z,2023-03-14T06:18:13Z
+89.22.226.245,v1150322.hosted-by-vdsina.ru.,207651,Hosting technology LTD,NL,,dnsmasq-pi-hole-v2.88,,false,1.00,2023-03-14T06:18:48Z,2023-03-14T06:18:48Z
+109.109.124.203,mail.redstar-trading.nl.,30925,DELTA Fiber Nederland B.V.,NL,Naaldwijk,dnsmasq-2.86,,false,1.00,2023-03-14T06:41:51Z,2023-03-14T06:41:51Z
+94.100.18.8,94-100-18-8.static.hvvc.us.,29802,HVC-AS,NL,Amsterdam,,,false,1.00,2023-03-14T06:43:36Z,2023-03-14T06:43:36Z
+93.184.104.17,,51923,'Nothing But Air' Services B.V.,NL,Amsterdam,,,false,1.00,2023-03-31T02:02:46Z,2023-03-14T06:58:55Z
+87.215.1.186,unlabelled-186-1-215-87.versatel.net.,13127,T-mobile Netherlands B.V.,NL,Enschede,dnsmasq-2.80,,false,1.00,2023-03-14T18:46:32Z,2023-03-14T07:34:50Z
+88.221.162.30,a88-221-162-30.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-14T18:46:47Z,2023-03-14T08:03:23Z
+86.107.197.153,,202448,MVPS LTD,NL,Dronten,,,false,1.00,2023-03-14T18:46:53Z,2023-03-14T08:07:46Z
+89.20.87.54,r89-20-87-54.systemec.nl.,41480,Systemec BV,NL,Venlo,,,false,1.00,2023-03-15T04:47:54Z,2023-03-14T08:32:52Z
+94.131.105.46,vm1046810.stark-industries.solutions.,44477,Stark Industries Solutions Ltd,NL,Meppel,,connection refused,,0.50,2023-03-15T04:47:53Z,2023-03-14T08:40:51Z
+89.208.107.1,modernchannel.x01.site.,210644,AEZA GROUP Ltd,NL,Amsterdam,,i/o timeout,,0.25,2023-03-15T04:48:03Z,2023-03-14T08:42:42Z
+213.34.51.14,,12315,Quality Service Provider BV,NL,Tilburg,dnsmasq-2.83,,false,1.00,2023-03-15T04:47:55Z,2023-03-14T08:43:42Z
+185.170.10.49,,208626,ServTech LTD,NL,,,i/o timeout,,0.25,2023-03-15T04:48:06Z,2023-03-14T08:47:44Z
+88.221.163.190,a88-221-163-190.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,0.75,2023-03-15T04:47:59Z,2023-03-14T08:49:37Z
+81.171.18.91,,60781,LeaseWeb Netherlands B.V.,NL,,,,false,1.00,2023-03-15T04:48:04Z,2023-03-14T08:58:11Z
+88.221.163.205,a88-221-163-205.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-15T08:47:34Z,2023-03-14T09:02:40Z
+95.97.79.58,095-097-079-058.static.chello.nl.,33915,Vodafone Libertel B.V.,NL,Amsterdam,,,false,1.00,2023-03-15T04:48:12Z,2023-03-14T09:05:42Z
+88.221.163.98,a88-221-163-98.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,,REFUSED for example.com,,0.30,2023-04-04T06:30:29Z,2023-03-14T09:16:21Z
+185.255.155.8,,202365,Omer GOLGELI,NL,Dronten,,,false,1.00,2023-03-15T04:48:24Z,2023-03-14T09:25:40Z
+77.91.123.212,nl.t2.info.,44477,Stark Industries Solutions Ltd,NL,Meppel,9.16.1-Ubuntu,,true,1.00,2023-03-15T04:48:43Z,2023-03-14T10:01:46Z
+213.5.71.47,nld-net-ip.as51430.net.,51430,AltusHost B.V.,NL,,,,false,1.00,2023-03-15T04:48:46Z,2023-03-14T10:08:31Z
+81.28.84.75,,39647,Enreach Netherlands B.V.,NL,Nispen,,,false,0.99,2023-04-03T07:20:40Z,2023-03-14T10:22:39Z
+5.44.45.144,vds113176.mgn-host.ru.,202423,Tyurin Viktor Mihaylovich,NL,Meppel,,,false,1.00,2023-03-15T04:49:14Z,2023-03-14T11:01:39Z
+87.236.103.106,vz15.pleskserver.xyz.,60781,LeaseWeb Netherlands B.V.,NL,,none,,false,1.00,2023-03-15T04:49:15Z,2023-03-14T11:02:51Z
+88.221.163.129,a88-221-163-129.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,0.56,2023-03-15T04:49:21Z,2023-03-14T11:13:39Z
+88.221.163.91,a88-221-163-91.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-15T04:49:23Z,2023-03-14T11:17:20Z
+82.75.211.141,82-75-211-141.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Zwolle,,,false,1.00,2023-03-15T04:49:24Z,2023-03-14T11:18:32Z
+88.221.162.199,a88-221-162-199.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,0.80,2023-03-15T04:49:41Z,2023-03-14T11:45:46Z
+88.221.162.203,a88-221-162-203.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-15T04:49:42Z,2023-03-14T11:47:10Z
+217.67.246.225,,39647,Enreach Netherlands B.V.,NL,West-Graftdijk,,,false,1.00,2023-03-15T04:49:46Z,2023-03-14T11:55:05Z
+83.85.40.128,83-85-40-128.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Rijswijk,,,false,1.00,2023-03-15T04:49:50Z,2023-03-14T12:02:23Z
+84.104.52.123,84-104-52-123.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Noordwijk aan Zee,,,false,1.00,2023-03-15T04:50:15Z,2023-03-14T12:44:13Z
+94.210.146.151,94-210-146-151.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Leiden,,i/o timeout,,0.36,2023-04-03T18:29:54Z,2023-03-14T13:02:05Z
+83.167.201.186,static-186-201-167-83.thenetworkfactory.nl.,33915,Vodafone Libertel B.V.,NL,Zwolle,,,true,1.00,2023-03-26T11:01:32Z,2023-03-14T13:07:56Z
+85.209.89.231,vm2145062.42ssd.had.wf.,204601,Zomro B.V.,NL,Dronten,,,false,1.00,2023-03-15T04:50:37Z,2023-03-14T13:24:45Z
+91.232.105.138,91-232-105-138.hosted-by-worldstream.net.,49981,WorldStream B.V.,NL,Naaldwijk,9.11.3-1ubuntu1.18-Ubuntu,,true,1.00,2023-03-15T04:50:49Z,2023-03-14T13:50:55Z
+45.139.157.235,,29014,ScaleUp Technologies GmbH & Co. KG,NL,Amsterdam,dnsmasq-2.80,,false,0.83,2023-03-15T04:50:49Z,2023-03-14T13:52:15Z
+88.221.163.180,a88-221-163-180.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-15T04:50:49Z,2023-03-14T13:52:32Z
+145.131.21.195,ahv-id-6917.vps.awcloud.nl.,8315,Sentia Netherlands BV,NL,Ritthem,,,false,1.00,2023-03-15T04:51:03Z,2023-03-14T14:14:13Z
+213.222.25.130,,3265,Xs4all Internet BV,NL,Alkmaar,,,false,1.00,2023-03-15T04:51:21Z,2023-03-14T14:42:03Z
+87.213.68.86,,13127,T-mobile Netherlands B.V.,NL,Zoetermeer,dnsmasq-2.55,,true,1.00,2023-03-15T04:51:25Z,2023-03-14T14:53:37Z
+216.120.247.231,ams1.dbnoc.net.,29869,DOTBLOCK-3,NL,Amsterdam,dnsmasq-2.48,,true,1.00,2023-03-15T04:51:30Z,2023-03-14T15:01:24Z
+81.4.104.170,epsys35a.epsys.nl.,198203,RouteLabel V.O.F.,NL,Alblasserdam,dnsmasq-2.62,,false,1.00,2023-03-15T04:51:30Z,2023-03-14T15:03:07Z
+87.215.130.138,,13127,T-mobile Netherlands B.V.,NL,,c-root,,false,1.00,2023-03-15T04:51:35Z,2023-03-14T15:09:00Z
+84.243.242.227,,39647,Enreach Netherlands B.V.,NL,Putten,dnsmasq-2.80,,false,1.00,2023-03-15T08:46:10Z,2023-03-14T15:11:48Z
+85.144.244.19,19-244-144-85.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Almere Stad,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.9,,false,1.00,2023-03-15T07:48:30Z,2023-03-14T15:24:00Z
+82.139.78.223,customer-082-139-078-223.solcon.nl.,12414,Solcon Internetdiensten B.V.,NL,Nunspeet,dnsmasq-2.86,,false,0.94,2023-03-15T04:51:48Z,2023-03-14T15:31:47Z
+89.39.104.203,89-39-104-203.hosted-by-worldstream.net.,49981,WorldStream B.V.,NL,Naaldwijk,,,false,1.00,2023-03-15T04:52:05Z,2023-03-14T16:00:01Z
+85.203.37.230,,36351,SOFTLAYER,NL,Amsterdam,,,true,1.00,2023-03-15T04:52:18Z,2023-03-14T16:17:52Z
+45.76.35.187,45.76.35.187.vultrusercontent.com.,20473,AS-CHOOPA,NL,Amsterdam,,,true,1.00,2023-03-15T04:52:18Z,2023-03-14T16:18:16Z
+95.96.58.226,095-096-058-226.static.chello.nl.,33915,Vodafone Libertel B.V.,NL,Amsterdam,dnsmasq-pi-hole-2.87test3,,false,1.00,2023-03-15T04:52:20Z,2023-03-14T16:19:35Z
+212.8.252.104,212-8-252-104.hosted-by-worldstream.net.,49981,WorldStream B.V.,NL,Rotterdam,,,false,1.00,2023-03-15T04:52:19Z,2023-03-14T16:20:25Z
+85.17.15.114,jedro206.adriadns.com.,60781,LeaseWeb Netherlands B.V.,NL,,,,false,1.00,2023-03-15T04:52:21Z,2023-03-14T16:22:52Z
+83.128.119.137,137-119-128-083.dynamic.caiway.nl.,15435,DELTA Fiber Nederland B.V.,NL,Lopik,,,false,1.00,2023-03-15T04:52:23Z,2023-03-14T16:26:15Z
+89.98.136.103,dhcp-089-098-136-103.chello.nl.,33915,Vodafone Libertel B.V.,NL,Oud-Alblas,"kbwzcnsnl18, Customer DNS",,false,1.00,2023-03-15T04:52:32Z,2023-03-14T16:38:54Z
+94.131.107.220,nl5.nterry.info.,44477,Stark Industries Solutions Ltd,NL,Meppel,9.16.1-Ubuntu,,true,1.00,2023-03-15T04:52:37Z,2023-03-14T16:45:20Z
+217.100.251.211,D964FBD3.static.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Groningen,dnsmasq-2.79,,true,1.00,2023-03-15T04:52:43Z,2023-03-14T16:51:56Z
+88.221.162.167,a88-221-162-167.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-15T04:52:57Z,2023-03-14T17:16:05Z
+51.124.34.231,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,dnsmasq-2.85,,false,1.00,2023-03-15T04:52:57Z,2023-03-14T17:17:03Z
+89.255.40.65,powered-by.xenosite.net.,39647,Enreach Netherlands B.V.,NL,Druten,,,true,1.00,2023-03-15T04:53:03Z,2023-03-14T17:24:56Z
+95.97.127.130,095-097-127-130.static.chello.nl.,33915,Vodafone Libertel B.V.,NL,Almere Stad,NSD 4,,false,1.00,2023-03-15T04:53:03Z,2023-03-14T17:25:07Z
+145.131.142.83,rt142bb131-145-83.routit.net.,28685,Routit BV,NL,Rotterdam,dnsmasq-2.85,,false,1.00,2023-03-15T04:53:10Z,2023-03-14T17:33:13Z
+79.137.198.170,hip-celery.aeza.network.,210644,AEZA GROUP Ltd,NL,Amsterdam,,,false,1.00,2023-03-15T04:53:26Z,2023-03-14T17:55:50Z
+94.209.106.63,94-209-106-63.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Zoetermeer,,,false,1.00,2023-03-15T04:53:27Z,2023-03-14T17:56:46Z
+88.221.163.228,a88-221-163-228.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-15T04:53:35Z,2023-03-14T18:08:50Z
+178.132.2.65,178-132-2-65.hosted-by-worldstream.net.,49981,WorldStream B.V.,NL,Naaldwijk,,,true,1.00,2023-03-15T04:53:46Z,2023-03-14T18:20:40Z
+94.210.160.203,94-210-160-203.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Leiden,,,false,1.00,2023-03-15T04:53:47Z,2023-03-14T18:22:18Z
+84.243.200.178,,39647,Enreach Netherlands B.V.,NL,Rotterdam,,,false,1.00,2023-03-15T04:53:52Z,2023-03-14T18:31:41Z
+192.42.132.103,pierogi.ip-eend.nl.,1102,SURF B.V.,NL,,,connection refused,,0.57,2023-03-15T04:54:05Z,2023-03-14T18:55:47Z
+85.17.18.25,vs015.vserver4.nl.kolido.net.,60781,LeaseWeb Netherlands B.V.,NL,,,connection refused,,0.76,2023-03-26T22:05:27Z,2023-03-14T19:10:42Z
+83.81.94.85,83-81-94-85.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Heerlen,unknown,,false,1.00,2023-03-15T04:54:20Z,2023-03-14T19:19:08Z
+88.221.162.196,a88-221-162-196.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-15T08:48:59Z,2023-03-14T19:25:01Z
+212.80.216.127,,50673,Serverius Holding B.V.,NL,,dnsmasq-2.76,,false,1.00,2023-03-15T04:54:31Z,2023-03-14T19:35:35Z
+82.176.24.86,host-eteu8h.obg1.zeelandnet.nl.,15542,DELTA Fiber Nederland B.V.,NL,IJzendijke,dnsmasq-2.62,,true,1.00,2023-03-15T08:46:21Z,2023-03-14T19:46:29Z
+77.250.112.245,dhcp-077-250-112-245.chello.nl.,33915,Vodafone Libertel B.V.,NL,Hoogvliet,,,false,1.00,2023-03-15T04:54:41Z,2023-03-14T19:54:21Z
+94.209.111.121,94-209-111-121.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Zoetermeer,,,false,1.00,2023-03-15T04:54:56Z,2023-03-14T20:23:19Z
+89.207.115.59,,25222,Inmarsat Solutions B.V.,NL,,Microsoft DNS 6.1.7601 (1DB15F75),,false,1.00,2023-03-15T04:55:08Z,2023-03-14T20:32:46Z
+92.108.217.72,92-108-217-72.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Velddriel,,i/o timeout,,0.50,2023-03-15T04:55:15Z,2023-03-14T20:41:32Z
+95.142.51.98,,34215,@Inet Technology Consultancy B.V.,NL,Amsterdam,,,false,1.00,2023-03-15T04:55:09Z,2023-03-14T20:46:06Z
+163.5.182.131,,43350,NForce Entertainment B.V.,NL,Amsterdam,,,false,1.00,2023-03-15T04:55:09Z,2023-03-14T20:46:10Z
+141.224.254.30,030-254-224-141.dynamic.caiway.nl.,15435,DELTA Fiber Nederland B.V.,NL,Tubbergen,DNSServer,,false,1.00,2023-03-15T04:55:10Z,2023-03-14T20:47:08Z
+85.203.37.229,,36351,SOFTLAYER,NL,Amsterdam,,,true,1.00,2023-03-15T04:55:12Z,2023-03-14T20:49:47Z
+88.221.162.253,a88-221-162-253.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,,REFUSED for wikileaks.org,,0.62,2023-03-15T09:57:14Z,2023-03-14T21:31:26Z
+88.221.163.193,a88-221-163-193.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-15T09:57:23Z,2023-03-14T21:48:36Z
+81.173.72.97,a81-173-72-97.dsl.pocosnet.nl.,50522,POCOS B.V.,NL,Woerden,dnsmasq-2.87,,false,1.00,2023-03-15T09:57:27Z,2023-03-14T21:56:05Z
+80.114.49.130,80-114-49-130.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Utrecht,DNSServer,,false,1.00,2023-03-15T09:57:34Z,2023-03-14T22:05:14Z
+88.221.163.120,a88-221-163-120.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-15T09:57:37Z,2023-03-14T22:12:49Z
+83.87.65.29,83-87-65-29.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Wassenaar,DNSServer,,false,1.00,2023-03-15T09:57:46Z,2023-03-14T22:16:31Z
+87.213.163.158,,13127,T-mobile Netherlands B.V.,NL,Dronten,ZyWALL DNS,SERVFAIL for non-existent.example.com,,0.06,2023-03-15T09:57:45Z,2023-03-14T22:26:11Z
+85.146.207.124,,33915,Vodafone Libertel B.V.,NL,Rotterdam,dnsmasq-2.83,,false,1.00,2023-03-15T09:57:51Z,2023-03-14T22:34:50Z
+92.111.7.22,92-111-7-22.static.v4.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Loosdrecht,,,false,1.00,2023-03-15T09:57:51Z,2023-03-14T22:36:09Z
+78.152.48.100,,3257,GTT Communications Inc.,NL,,dnsmasq-2.72,,false,0.40,2023-03-15T09:57:53Z,2023-03-14T22:39:33Z
+40.91.234.65,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,,,false,1.00,2023-03-15T09:57:54Z,2023-03-14T22:40:32Z
+88.221.163.156,a88-221-163-156.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-15T09:58:10Z,2023-03-14T23:14:35Z
+68.183.14.174,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-2.86,,false,1.00,2023-03-15T09:58:18Z,2023-03-14T23:24:15Z
+88.221.163.90,a88-221-163-90.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,,REFUSED for example.com,,0.96,2023-03-18T02:46:37Z,2023-03-14T23:52:39Z
+5.180.183.129,,41436,Kamatera Inc,NL,Amsterdam,,,false,1.00,2023-03-18T02:46:42Z,2023-03-14T23:59:13Z
+46.249.36.55,server16.totallyvps.nl.,50673,Serverius Holding B.V.,NL,Vriezenveen,dnsmasq-2.45,,true,1.00,2023-03-18T02:46:44Z,2023-03-15T00:02:01Z
+85.10.176.36,web43.creamcloud.io.,35470,Signet B.V.,NL,,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.13,,true,1.00,2023-03-18T02:46:57Z,2023-03-15T00:20:17Z
+5.45.76.76,,58061,Scalaxy B.V.,NL,Dronten,9.11.36-RedHat-9.11.36-5.el8,,true,1.00,2023-03-18T02:47:03Z,2023-03-15T00:37:25Z
+88.221.162.219,a88-221-162-219.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-18T02:47:17Z,2023-03-15T01:00:24Z
+83.128.205.83,083-205-128-083.dynamic.caiway.nl.,15435,DELTA Fiber Nederland B.V.,NL,Uithoorn,,,true,0.92,2023-03-18T02:47:20Z,2023-03-15T01:00:35Z
+185.11.146.53,,47674,"Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA",NL,,dnsmasq-2.76,,false,1.00,2023-03-18T02:47:21Z,2023-03-15T01:09:43Z
+88.221.163.58,a88-221-163-58.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-18T02:47:28Z,2023-03-15T01:25:32Z
+46.30.41.129,vm545533.eurodir.ru.,210079,EuroByte LLC,NL,Amsterdam,,,false,1.00,2023-03-26T22:08:07Z,2023-03-15T02:04:28Z
+217.120.101.78,217-120-101-78.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Oosterwolde,DNSServer,,false,1.00,2023-03-18T02:48:04Z,2023-03-15T02:13:24Z
+88.221.163.109,a88-221-163-109.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-18T02:48:18Z,2023-03-15T02:37:50Z
+82.148.212.138,82-148-212-138.bbserv.nl.,29396,Eurofiber Nederland BV,NL,Veenendaal,,,false,1.00,2023-03-18T02:48:22Z,2023-03-15T02:42:00Z
+213.34.51.23,,12315,Quality Service Provider BV,NL,Tilburg,dnsmasq-2.83,,false,1.00,2023-03-18T02:48:26Z,2023-03-15T02:50:15Z
+5.253.18.102,,202602,365 Online Technology Joint Stock Company,NL,Amsterdam,,,false,1.00,2023-03-18T02:48:34Z,2023-03-15T03:07:35Z
+85.146.138.248,248-138-146-85.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Zoetermeer,,i/o timeout,,0.92,2023-03-18T02:48:46Z,2023-03-15T03:17:22Z
+86.107.187.71,566bbb47.static.cust.trined.nl.,207375,Fiber Operator B.V.,NL,Leende,,,true,1.00,2023-03-18T02:48:56Z,2023-03-15T03:41:58Z
+80.85.142.72,vm3598009.24ssd.had.wf.,204601,Zomro B.V.,NL,,,,true,1.00,2023-03-18T02:48:59Z,2023-03-15T03:44:52Z
+88.208.54.40,ip-88-208-54-40.ah-server.com.,39572,DataWeb Global Group B.V.,NL,Amsterdam,dnsmasq-2.76,,false,1.00,2023-03-18T02:49:07Z,2023-03-15T04:01:39Z
+37.1.217.44,,58061,Scalaxy B.V.,NL,Meppel,9.9.4-RedHat-9.9.4-74.el7_6.2,,true,1.00,2023-03-19T18:44:44Z,2023-03-15T04:11:35Z
+92.111.243.98,92-111-243-98.static.v4.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Veldhoven,dnsmasq-2.78,,false,1.00,2023-03-18T02:49:14Z,2023-03-15T04:15:07Z
+87.212.48.125,125-48-212-87.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Winterswijk,,,true,1.00,2023-03-18T02:49:38Z,2023-03-15T04:50:02Z
+89.23.89.31,hosted-by.voipstarr.nl.,64487,Qonexa,NL,Amsterdam,,,false,1.00,2023-03-18T02:49:40Z,2023-03-15T04:59:48Z
+88.221.163.37,a88-221-163-37.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-18T02:50:06Z,2023-03-15T05:42:40Z
+84.243.197.84,,39647,Enreach Netherlands B.V.,NL,Eindhoven,,,false,1.00,2023-03-18T02:50:11Z,2023-03-15T05:49:37Z
+83.229.82.70,lnw.gold-candyroom.com.,41436,Kamatera Inc,NL,Amsterdam,dnsmasq-2.76,,false,1.00,2023-03-18T02:50:11Z,2023-03-15T05:50:01Z
+217.120.103.168,217-120-103-168.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Gennep,,,false,1.00,2023-03-18T02:50:21Z,2023-03-15T06:07:33Z
+88.221.162.60,a88-221-162-60.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-18T02:50:27Z,2023-03-15T06:16:58Z
+83.80.236.210,,33915,Vodafone Libertel B.V.,NL,Utrecht,,i/o timeout,,0.80,2023-03-18T02:50:36Z,2023-03-15T06:17:46Z
+89.32.245.173,5920f5ad.static.cust.trined.nl.,207375,Fiber Operator B.V.,NL,Oss,unknown,,false,1.00,2023-03-18T02:50:35Z,2023-03-15T06:28:40Z
+88.221.163.65,a88-221-163-65.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-18T02:50:42Z,2023-03-15T06:40:18Z
+88.221.163.42,a88-221-163-42.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-18T02:50:43Z,2023-03-15T06:42:41Z
+185.138.210.169,no-record-set.datafiber.nl.,42755,DataFiber Group B.V.,NL,Voorburg,,i/o timeout,,0.86,2023-03-18T02:50:57Z,2023-03-15T06:50:35Z
+83.96.241.46,vm-5a41a28d-bb2f-4de0-98bf-9bb8c5093e8c.ams.resource.cloud.,35470,Signet B.V.,NL,,9.11.13-RedHat-9.11.13-6.el8_2.1,,true,0.89,2023-03-18T02:51:03Z,2023-03-15T07:15:49Z
+95.142.53.154,,34215,@Inet Technology Consultancy B.V.,NL,Amsterdam,,i/o timeout,,0.82,2023-03-18T02:51:20Z,2023-03-15T07:30:20Z
+88.221.162.193,a88-221-162-193.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-18T02:51:29Z,2023-03-15T08:07:55Z
+5.180.79.100,,212238,Datacamp Limited,NL,Amsterdam,9.16.1-Ubuntu,,true,1.00,2023-03-18T02:51:43Z,2023-03-15T08:16:37Z
+86.105.252.74,ip-86-105-252-74-81088.vps.hosted-by-mvps.net.,202448,MVPS LTD,NL,Dronten,,,false,1.00,2023-03-18T02:51:38Z,2023-03-15T08:19:46Z
+88.221.162.204,a88-221-162-204.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,,REFUSED for example.com,,0.82,2023-03-18T02:51:53Z,2023-03-15T08:46:51Z
+93.158.211.102,,50673,Serverius Holding B.V.,NL,,,,false,1.00,2023-03-18T02:51:56Z,2023-03-15T08:50:21Z
+137.117.166.15,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,dnsmasq-2.76,,false,1.00,2023-03-18T02:51:58Z,2023-03-15T08:52:08Z
+88.221.162.172,a88-221-162-172.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-18T02:52:00Z,2023-03-15T08:57:22Z
+85.145.222.167,167-222-145-85.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Leeuwarden,,,true,1.00,2023-03-18T02:52:07Z,2023-03-15T09:10:26Z
+93.158.208.139,,50673,Serverius Holding B.V.,NL,,9.11.26-RedHat-9.11.26-6.el8,,true,1.00,2023-03-18T02:52:16Z,2023-03-15T09:21:31Z
+145.128.210.203,rt210bb128-145-203.routit.net.,28685,Routit BV,NL,Hilvarenbeek,,,true,0.81,2023-03-18T02:52:31Z,2023-03-15T09:41:16Z
+185.102.47.211,185-102-47-211.pool.ictprovider.nl.,206894,Wholesale Connections B.V.,NL,Slagharen,DNS recursor,,true,0.62,2023-03-18T02:52:33Z,2023-03-15T09:49:00Z
+192.81.221.95,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-2.75,,false,0.99,2023-03-18T02:52:42Z,2023-03-15T10:08:23Z
+95.97.77.138,095-097-077-138.static.chello.nl.,33915,Vodafone Libertel B.V.,NL,Hilversum,,,false,0.96,2023-03-18T02:53:02Z,2023-03-15T10:30:50Z
+81.28.94.145,,39647,Enreach Netherlands B.V.,NL,Utrecht,,i/o timeout,,0.42,2023-03-18T02:53:08Z,2023-03-15T10:33:23Z
+74.119.195.86,nl.t.info.,44477,Stark Industries Solutions Ltd,NL,Meppel,9.16.1-Ubuntu,,true,1.00,2023-03-18T02:53:11Z,2023-03-15T10:43:36Z
+95.211.209.41,,60781,LeaseWeb Netherlands B.V.,NL,,dnsmasq-2.48,,true,1.00,2023-03-23T18:50:33Z,2023-03-15T10:55:11Z
+160.153.251.73,73.251.153.160.host.secureserver.net.,21501,Host Europe GmbH,NL,Amsterdam,,,false,1.00,2023-03-18T02:53:16Z,2023-03-15T10:56:38Z
+52.166.202.54,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,,,false,1.00,2023-03-18T02:53:39Z,2023-03-15T11:34:14Z
+20.71.128.65,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,,,false,1.00,2023-03-18T02:53:36Z,2023-03-15T11:35:47Z
+88.221.162.108,a88-221-162-108.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-18T02:53:44Z,2023-03-15T11:49:02Z
+45.91.168.16,,41436,Kamatera Inc,NL,Amsterdam,dnsmasq-pi-hole-2.87test8,,false,0.59,2023-03-18T02:53:54Z,2023-03-15T12:03:17Z
+89.255.27.83,powered-by.xenosite.net.,39647,Enreach Netherlands B.V.,NL,Utrecht,,,true,1.00,2023-03-18T02:54:12Z,2023-03-15T12:33:03Z
+85.17.181.140,sip.vpa.nl.,60781,LeaseWeb Netherlands B.V.,NL,,,,false,1.00,2023-03-18T02:54:26Z,2023-03-15T12:54:12Z
+88.221.162.101,a88-221-162-101.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-18T02:54:31Z,2023-03-15T13:01:54Z
+84.22.116.221,mail.jivi.tech.,196752,Tilaa B.V.,NL,Woerden,,REFUSED for example.com,,0.56,2023-03-18T02:54:31Z,2023-03-15T13:02:07Z
+88.221.162.138,a88-221-162-138.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-18T02:54:39Z,2023-03-15T13:14:20Z
+89.149.223.27,,60781,LeaseWeb Netherlands B.V.,NL,,,,false,0.97,2023-03-18T02:55:14Z,2023-03-15T14:12:31Z
+95.170.77.6,ns2.domainns.nl.,20857,Signet B.V.,NL,,,,true,1.00,2023-03-18T02:55:38Z,2023-03-15T14:59:03Z
+88.221.162.229,a88-221-162-229.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,0.59,2023-03-18T02:55:38Z,2023-03-15T15:00:44Z
+85.144.249.193,193-249-144-85.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Almere Stad,,,true,1.00,2023-03-18T02:55:52Z,2023-03-15T15:26:34Z
+31.14.17.56,wilsouk.,40994,Hohl IT e.U.,NL,Apeldoorn,,,true,1.00,2023-03-18T02:56:00Z,2023-03-15T15:41:18Z
+85.146.204.98,,33915,Vodafone Libertel B.V.,NL,Tilburg,unbound 1.4.22,,false,1.00,2023-03-18T02:56:16Z,2023-03-15T16:07:05Z
+83.86.136.50,83-86-136-50.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,The Hague,DNSServer,,false,1.00,2023-03-18T02:56:19Z,2023-03-15T16:08:00Z
+88.221.163.61,a88-221-163-61.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,0.57,2023-03-18T02:56:27Z,2023-03-15T16:28:37Z
+178.157.90.250,,202448,MVPS LTD,NL,Dronten,,,false,1.00,2023-03-18T02:56:30Z,2023-03-15T16:33:34Z
+88.221.162.23,a88-221-162-23.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-03-18T02:56:30Z,2023-03-15T16:34:01Z
+87.215.200.226,,13127,T-mobile Netherlands B.V.,NL,The Hague,,,true,0.81,2023-03-18T02:56:34Z,2023-03-15T16:38:54Z
+85.144.39.177,177-39-144-85.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Veghel,,,false,1.00,2023-03-18T02:56:44Z,2023-03-15T16:52:54Z
+81.173.72.105,a81-173-72-105.dsl.pocosnet.nl.,50522,POCOS B.V.,NL,Woerden,dnsmasq-2.87,,false,1.00,2023-04-05T00:34:38Z,2023-03-15T17:32:28Z
+88.221.162.14,a88-221-162-14.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,0.64,2023-04-05T00:34:48Z,2023-03-15T17:44:06Z
+88.221.162.89,a88-221-162-89.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-04-05T00:35:10Z,2023-03-15T18:15:04Z
+89.146.48.159,rt48bb146-89-159.routit.net.,28685,Routit BV,NL,Zaandam,,SERVFAIL for wikileaks.org,,0.53,2023-04-05T00:35:28Z,2023-03-15T18:43:49Z
+80.89.229.158,testcrm.local.,204601,Zomro B.V.,NL,,9.16.1-Ubuntu,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:35:32Z,2023-03-15T18:56:58Z
+95.142.53.158,,34215,@Inet Technology Consultancy B.V.,NL,Amsterdam,,no route to host,,0.76,2023-04-05T00:35:36Z,2023-03-15T18:58:35Z
+88.221.163.161,a88-221-163-161.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-04-05T00:35:36Z,2023-03-15T19:02:21Z
+93.186.183.1,firewall.autosoft.nl.,20559,Fundaments B.V.,NL,Goor,dnsmasq-2.39,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:35:46Z,2023-03-15T19:18:19Z
+88.221.163.22,a88-221-163-22.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-04-05T00:35:48Z,2023-03-15T19:20:23Z
+20.4.66.0,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,,i/o timeout,,0.97,2023-04-05T00:36:15Z,2023-03-15T19:53:41Z
+88.221.162.152,a88-221-162-152.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-04-05T00:36:18Z,2023-03-15T20:09:59Z
+88.221.162.55,a88-221-162-55.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-04-05T00:37:06Z,2023-03-15T21:23:06Z
+89.98.186.239,dhcp-089-098-186-239.chello.nl.,33915,Vodafone Libertel B.V.,NL,Oud-Beijerland,DNSServer,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:37:07Z,2023-03-15T21:25:19Z
+20.93.144.220,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:37:12Z,2023-03-15T21:25:55Z
+84.104.117.21,84-104-117-21.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Noordwijk aan Zee,,,false,1.00,2023-04-05T00:37:19Z,2023-03-15T21:43:04Z
+217.63.235.169,217-63-235-169.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Nieuwerkerk aan den IJssel,,i/o timeout,,0.20,2023-04-05T00:37:37Z,2023-03-15T21:55:41Z
+88.221.163.230,a88-221-163-230.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,,REFUSED for example.com,,0.53,2023-04-05T05:12:43Z,2023-03-15T22:07:20Z
+95.97.106.219,095-097-106-219.static.chello.nl.,33915,Vodafone Libertel B.V.,NL,Hoogvliet,dnsmasq-2.82,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:37:46Z,2023-03-15T22:22:00Z
+185.214.10.175,,202602,365 Online Technology Joint Stock Company,NL,Amsterdam,9.11.36-RedHat-9.11.36-3.el8,SERVFAIL for wikileaks.org,,0.75,2023-04-05T08:14:49Z,2023-03-15T22:50:00Z
+77.242.115.101,dw77242115101.amsterdam-tc.dataweb.net.,35332,DataWeb B.V.,NL,Uitgeest,,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:38:05Z,2023-03-15T22:54:27Z
+92.109.238.47,92-109-238-47.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Barendrecht,,,false,0.83,2023-04-05T01:52:26Z,2023-03-15T22:59:54Z
+185.50.209.49,185-50-209-49.imatrix.nl.,34612,Matrix Groep B.V.,NL,Ermelo,,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:38:12Z,2023-03-15T23:02:21Z
+92.111.6.186,92-111-6-186.static.v4.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Loosdrecht,,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:38:27Z,2023-03-15T23:24:59Z
+82.176.215.111,host-2pl28h.gs1.zeelandnet.nl.,15542,DELTA Fiber Nederland B.V.,NL,Goes,,SERVFAIL for wikileaks.org,,0.62,2023-04-05T09:14:59Z,2023-03-15T23:26:25Z
+81.4.126.70,nl.ipnet.hu.,198203,RouteLabel V.O.F.,NL,,Ipnet-DNS-service,SERVFAIL for wikileaks.org,,0.79,2023-04-05T00:38:29Z,2023-03-15T23:28:02Z
+159.100.117.226,static-226-117-100-159.thenetworkfactory.nl.,33915,Vodafone Libertel B.V.,NL,Venlo,,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:38:33Z,2023-03-15T23:36:06Z
+85.204.109.70,55cc6d46.static.cust.trined.nl.,207375,Fiber Operator B.V.,NL,America,,,false,1.00,2023-04-05T00:38:35Z,2023-03-15T23:38:34Z
+91.208.167.2,ip-91.208.167-2.signet.nl.,28878,Signet B.V.,NL,,dnsmasq-2.79,,true,1.00,2023-04-05T00:38:40Z,2023-03-15T23:49:33Z
+88.221.162.161,a88-221-162-161.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-04-05T00:38:43Z,2023-03-15T23:54:02Z
+86.107.197.206,ip-86-107-197-206-74038.vps.hosted-by-mvps.net.,202448,MVPS LTD,NL,Dronten,,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:38:47Z,2023-03-15T23:56:11Z
+91.215.150.74,91-215-150-74.imatrix.nl.,34612,Matrix Groep B.V.,NL,,,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:38:45Z,2023-03-15T23:57:58Z
+88.221.162.223,a88-221-162-223.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,,REFUSED for example.com,,0.43,2023-04-05T00:38:48Z,2023-03-16T00:02:31Z
+89.255.27.238,powered-by.xenosite.net.,39647,Enreach Netherlands B.V.,NL,Utrecht,,,true,1.00,2023-04-05T00:38:54Z,2023-03-16T00:11:14Z
+94.124.98.5,,28022,CRISP S.A.,NL,,,i/o timeout,,0.18,2023-04-05T00:39:11Z,2023-03-16T00:24:40Z
+131.153.18.216,bicoders.hostcarts.com.,60558,"Phoenix Nap, LLC.",NL,Amsterdam,,SERVFAIL for wikileaks.org,,0.95,2023-04-05T00:39:07Z,2023-03-16T00:32:16Z
+188.122.85.176,,49544,i3D.net B.V,NL,Rotterdam,dnsmasq-2.85,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:39:15Z,2023-03-16T00:45:02Z
+37.1.206.9,,58061,Scalaxy B.V.,NL,,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.13,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:39:23Z,2023-03-16T00:54:09Z
+94.213.216.38,94-213-216-38.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Zwolle,,i/o timeout,,0.96,2023-04-05T00:39:34Z,2023-03-16T00:57:03Z
+82.151.47.36,ip-82-151-47-36.dyn.kabeltex.nl.,43995,Glasvezelnetwerk Texel B.V.,NL,Den Burg,,,false,0.70,2023-04-10T18:11:10Z,2023-03-16T00:58:51Z
+83.87.245.45,83-87-245-45.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Nieuwegein,DNSServer,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:39:29Z,2023-03-16T00:58:58Z
+52.157.160.163,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:39:28Z,2023-03-16T00:59:12Z
+85.146.202.50,,33915,Vodafone Libertel B.V.,NL,Zutphen,dnsmasq-2.85,,false,1.00,2023-04-05T00:39:30Z,2023-03-16T01:02:22Z
+20.23.229.150,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:40:00Z,2023-03-16T01:43:04Z
+88.221.163.203,a88-221-163-203.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-04-05T00:40:04Z,2023-03-16T01:55:51Z
+93.117.220.26,static-26-220-117-93.thenetworkfactory.nl.,33915,Vodafone Libertel B.V.,NL,Drunen,,SERVFAIL for wikileaks.org,,0.98,2023-04-05T00:40:52Z,2023-03-16T03:19:32Z
+85.144.78.9,9-78-144-85.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Dordrecht,,,true,0.83,2023-04-05T00:40:54Z,2023-03-16T03:19:56Z
+91.189.226.210,,42707,e-Quest IT Projecten B.V.,NL,Veghel,9.11.22,SERVFAIL for wikileaks.org,,0.94,2023-04-05T00:41:01Z,2023-03-16T03:34:17Z
+87.215.138.234,remote.rembrandtclassic.com.,13127,T-mobile Netherlands B.V.,NL,,unbound 1.16.2,,false,0.53,2023-04-20T15:51:52Z,2023-03-16T04:09:49Z
+88.221.163.255,a88-221-163-255.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,,REFUSED for example.com,,0.62,2023-04-05T00:41:47Z,2023-03-16T04:46:11Z
+46.183.248.45,host-46-183-248-45.businessconnect.nl.,15693,BusinessConnect BV,NL,Moerkapelle,DNS Zonedata secured by BusinessConnect,,false,0.66,2023-04-07T00:12:00Z,2023-03-16T04:48:01Z
+83.167.221.46,static-46-221-167-83.thenetworkfactory.nl.,33915,Vodafone Libertel B.V.,NL,Boxtel,dnsmasq-2.85,SERVFAIL for wikileaks.org,,0.94,2023-04-05T00:41:53Z,2023-03-16T04:58:18Z
+80.115.14.43,80-115-14-43.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Vinkeveen,Q9-P-7.6,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:41:53Z,2023-03-16T04:58:25Z
+185.15.210.98,,52000,MIRholding B.V.,NL,Meppel,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:41:57Z,2023-03-16T05:04:14Z
+94.157.39.193,193-39-157-94.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Maastricht,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:42:18Z,2023-03-16T05:44:24Z
+93.184.103.234,,51923,'Nothing But Air' Services B.V.,NL,Alkmaar,,,false,0.84,2023-04-10T18:11:49Z,2023-03-16T05:53:22Z
+159.180.42.229,229-042-180-159.dynamic.caiway.nl.,15435,DELTA Fiber Nederland B.V.,NL,Ootmarsum,Caiw DNS recursor,SERVFAIL for wikileaks.org,,0.77,2023-04-05T00:42:27Z,2023-03-16T05:59:26Z
+88.221.163.39,a88-221-163-39.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-04-05T00:42:29Z,2023-03-16T06:02:02Z
+89.149.223.4,hosted-by.leaseweb.com.,60781,LeaseWeb Netherlands B.V.,NL,,,i/o timeout,,0.91,2023-04-05T00:42:49Z,2023-03-16T06:19:36Z
+89.22.227.90,v1210339.hosted-by-vdsina.ru.,207651,Hosting technology LTD,NL,,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:42:43Z,2023-03-16T06:19:50Z
+80.85.143.253,vm3864871.25ssd.had.wf.,204601,Zomro B.V.,NL,,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:42:56Z,2023-03-16T06:37:53Z
+188.166.26.227,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,,,false,0.47,2023-04-12T12:18:49Z,2023-03-16T06:38:20Z
+80.56.240.41,f240041.upc-f.chello.nl.,33915,Vodafone Libertel B.V.,NL,Almere Stad,,SERVFAIL for wikileaks.org,,0.67,2023-04-05T00:42:58Z,2023-03-16T06:42:24Z
+83.83.111.128,83-83-111-128.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,De Bilt,DNSServer,,false,1.00,2023-04-05T00:42:59Z,2023-03-16T06:43:12Z
+87.255.51.82,mail.xtraspace.nl.,38930,LeaseWeb Network B.V.,NL,Rotterdam,dnsmasq-2.79,,true,0.98,2023-04-05T00:42:59Z,2023-03-16T06:43:44Z
+95.211.211.17,hosted-by.zenex5ive.com.,60781,LeaseWeb Netherlands B.V.,NL,,,connection refused,,0.97,2023-04-05T00:42:59Z,2023-03-16T06:44:08Z
+88.221.163.28,a88-221-163-28.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-04-05T00:43:41Z,2023-03-16T07:41:13Z
+88.221.163.138,a88-221-163-138.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-04-05T00:43:57Z,2023-03-16T08:10:33Z
+88.221.162.146,a88-221-162-146.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,,,true,0.58,2023-04-05T00:44:12Z,2023-03-16T08:38:31Z
+77.83.163.38,,209561,D&V Global B.V.,NL,,,i/o timeout,,0.91,2023-04-05T00:44:24Z,2023-03-16T08:43:46Z
+80.113.181.170,ip-80-113-181-170.ip.prioritytelecom.net.,33915,Vodafone Libertel B.V.,NL,Een,,i/o timeout,,0.73,2023-04-05T00:44:27Z,2023-03-16T08:47:36Z
+88.221.162.141,a88-221-162-141.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,,REFUSED for rotten.com,,0.45,2023-04-05T00:44:24Z,2023-03-16T08:57:52Z
+88.210.11.120,host-88-210-11-120.hosted-by-vdsina.ru.,207651,Hosting technology LTD,NL,,,,true,0.97,2023-04-05T00:44:26Z,2023-03-16T09:02:01Z
+94.103.94.213,v1213520.hosted-by-vdsina.ru.,207651,Hosting technology LTD,NL,Meppel,,,false,1.00,2023-04-05T00:44:30Z,2023-03-16T09:06:21Z
+88.221.162.72,a88-221-162-72.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,1.00,2023-04-05T00:44:35Z,2023-03-16T09:16:51Z
+88.221.163.238,a88-221-163-238.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,,REFUSED for example.com,,0.42,2023-04-05T00:44:35Z,2023-03-16T09:17:04Z
+79.137.205.156,sassy-cloth.aeza.network.,210644,AEZA GROUP Ltd,NL,Amsterdam,,SERVFAIL for wikileaks.org,,0.94,2023-04-05T00:44:44Z,2023-03-16T09:26:35Z
+87.215.64.2,unlabelled-2-64.215.87.versatel.net.,13127,T-mobile Netherlands B.V.,NL,Goor,,,false,1.00,2023-04-05T00:44:46Z,2023-03-16T09:33:46Z
+88.221.162.231,a88-221-162-231.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,,REFUSED for example.com,,0.41,2023-04-05T00:45:05Z,2023-03-16T10:02:51Z
+83.172.181.67,directadmin.3wt.nl.,25459,Eurofiber Cloud Infra B.V.,NL,,9.8.2rc1-RedHat-9.8.2-0.68.rc1.el6_10.8,SERVFAIL for wikileaks.org,,0.94,2023-04-05T00:45:15Z,2023-03-16T10:17:54Z
+217.114.109.5,rev-5-109.virtu.nl.,47886,Equinix (Netherlands) B.V.,NL,Haaksbergen,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:45:20Z,2023-03-16T10:24:26Z
+141.11.184.15,,43350,NForce Entertainment B.V.,NL,Amsterdam,,SERVFAIL for wikileaks.org,,0.98,2023-04-05T00:45:43Z,2023-03-16T10:56:35Z
+91.215.156.216,,60144,3W Infra B.V.,NL,Amsterdam,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:45:53Z,2023-03-16T11:12:46Z
+83.86.239.235,83-86-239-235.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,The Hague,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:46:05Z,2023-03-16T11:33:58Z
+84.105.15.222,84-105-15-222.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Zeist,dnsmasq-pi-hole-2.81,,false,0.52,2023-04-05T00:46:07Z,2023-03-16T11:35:39Z
+87.213.72.41,unlabelled-41.72.213.87.alphyra.versatel.net.,13127,T-mobile Netherlands B.V.,NL,Spijkenisse,dnsmasq-2.78,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:46:05Z,2023-03-16T11:37:11Z
+77.243.229.102,hippix2.iteeco.net.,25459,Eurofiber Cloud Infra B.V.,NL,,9.11.22,SERVFAIL for wikileaks.org,,0.94,2023-04-05T00:46:13Z,2023-03-16T11:51:38Z
+88.221.162.194,a88-221-162-194.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,0.73,2023-04-12T12:17:25Z,2023-03-16T12:01:30Z
+47.87.238.7,,3214,xTom GmbH,NL,Amsterdam,,i/o timeout,,0.50,2023-04-19T19:36:05Z,2023-03-16T12:18:57Z
+84.29.242.247,84-29-242-247.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Haaksbergen,,,false,0.75,2023-04-19T19:36:02Z,2023-03-16T12:26:20Z
+86.107.187.63,566bbb3f.static.cust.trined.nl.,207375,Fiber Operator B.V.,NL,Leende,,,true,0.75,2023-04-19T19:36:09Z,2023-03-16T12:36:43Z
+145.131.30.106,ahv-id-24649.vps.awcloud.nl.,8315,Sentia Netherlands BV,NL,Ritthem,,,false,0.80,2023-04-19T19:36:29Z,2023-03-16T13:11:13Z
+134.122.63.241,vault.homerouter.me.,14061,DIGITALOCEAN-ASN,NL,Amsterdam,,i/o timeout,,0.00,2023-04-19T19:36:47Z,2023-03-16T13:29:12Z
+83.98.241.31,ip5362f11f.deltazakelijk.nl.,30925,DELTA Fiber Nederland B.V.,NL,Goor,,,true,0.97,2023-04-20T15:42:08Z,2023-03-16T13:47:51Z
+82.176.141.10,host-uf1u8h.cbn1.zeelandnet.nl.,15542,DELTA Fiber Nederland B.V.,NL,Koewacht,,i/o timeout,,0.17,2023-04-19T19:37:01Z,2023-03-16T13:53:22Z
+91.201.25.124,vm3904711.25ssd.had.wf.,204601,Zomro B.V.,NL,,,,false,0.83,2023-04-19T19:37:01Z,2023-03-16T14:09:56Z
+92.111.105.228,92-111-105-228.static.v4.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Apeldoorn,,i/o timeout,,0.22,2023-04-19T19:37:35Z,2023-03-16T14:54:19Z
+46.21.250.23,3138441.ds.had.pm.,204601,Zomro B.V.,NL,,,,false,0.67,2023-04-19T19:37:39Z,2023-03-16T15:13:45Z
+84.106.22.250,84-106-22-250.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Enkhuizen,DNSServer,,false,0.56,2023-04-19T19:37:43Z,2023-03-16T15:19:16Z
+141.11.184.229,,43350,NForce Entertainment B.V.,NL,Amsterdam,,i/o timeout,,0.00,2023-04-19T19:38:03Z,2023-03-16T15:37:57Z
+84.243.234.180,,39647,Enreach Netherlands B.V.,NL,Waarde,ZyWALL DNS,,false,0.75,2023-04-19T19:38:04Z,2023-03-16T15:53:36Z
+89.146.42.63,rt42bb146-89-63.routit.net.,28685,Routit BV,NL,Moordrecht,,,true,0.47,2023-04-19T19:38:37Z,2023-03-16T16:35:06Z
+46.44.171.105,rt171bb44-46-105.routit.net.,28685,Routit BV,NL,Steenbergen,,i/o timeout,,0.00,2023-04-19T19:38:43Z,2023-03-16T16:42:01Z
+89.146.17.1,rt17bb146-89-1.routit.net.,28685,Routit BV,NL,Haarle,,,false,0.58,2023-04-19T19:38:57Z,2023-03-16T17:13:19Z
+95.170.77.5,ns1.domainns.nl.,20857,Signet B.V.,NL,,,,true,0.60,2023-04-19T19:38:58Z,2023-03-16T17:20:19Z
+80.56.152.66,f152066.upc-f.chello.nl.,33915,Vodafone Libertel B.V.,NL,Haarlem,,i/o timeout,,0.22,2023-04-19T19:39:18Z,2023-03-16T17:40:01Z
+88.221.163.67,a88-221-163-67.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,0.78,2023-04-19T19:39:14Z,2023-03-16T17:47:57Z
+89.20.87.166,aol-vrrp-mobile-connect-r89-20-87-166.systemec.nl.,41480,Systemec BV,NL,Venlo,,,false,0.67,2023-04-19T19:39:31Z,2023-03-16T18:09:06Z
+88.221.163.4,a88-221-163-4.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,0.79,2023-04-19T19:39:34Z,2023-03-16T18:18:13Z
+88.221.163.146,a88-221-163-146.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,,REFUSED for example.com,,0.46,2023-04-19T19:39:38Z,2023-03-16T18:24:20Z
+141.11.37.88,,43350,NForce Entertainment B.V.,NL,Amsterdam,,,false,0.69,2023-04-19T19:39:48Z,2023-03-16T18:36:03Z
+80.112.94.129,80-112-94-129.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Utrecht,unbound 1.4.22,,false,0.81,2023-04-19T19:40:00Z,2023-03-16T18:58:14Z
+84.106.72.207,84-106-72-207.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Delft,DNSServer,,false,0.86,2023-04-19T19:40:02Z,2023-03-16T19:00:40Z
+144.178.209.10,144-178-209-10.static.ef-service.nl.,39686,Eurofiber Nederland BV,NL,Nijmegen,,,false,0.65,2023-04-19T19:40:00Z,2023-03-16T19:01:11Z
+85.203.37.2,,36351,SOFTLAYER,NL,Amsterdam,,,true,0.67,2023-04-19T19:40:13Z,2023-03-16T19:19:17Z
+83.87.234.175,83-87-234-175.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Leiden,,,false,0.75,2023-04-19T19:40:29Z,2023-03-16T19:43:04Z
+92.119.112.239,vm4256701.bs.had.pm.,204601,Zomro B.V.,NL,Dronten,,i/o timeout,,0.57,2023-04-19T19:40:50Z,2023-03-16T19:57:28Z
+88.221.163.152,a88-221-163-152.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,0.79,2023-04-19T19:40:50Z,2023-03-16T20:10:07Z
+217.100.187.236,D964BBEC.static.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Volendam,,,false,1.00,2023-04-19T19:41:01Z,2023-03-16T20:26:58Z
+87.99.130.115,115-130-099-087.dynamic.caiway.nl.,15435,DELTA Fiber Nederland B.V.,NL,Sint Odilienberg,unknown,,false,0.68,2023-04-19T19:41:12Z,2023-03-16T20:49:23Z
+213.34.51.7,,12315,Quality Service Provider BV,NL,Tilburg,dnsmasq-2.83,,false,1.00,2023-04-19T19:41:12Z,2023-03-16T20:50:36Z
+77.249.23.101,dhcp-077-249-023-101.chello.nl.,33915,Vodafone Libertel B.V.,NL,Zaandam,,,false,0.69,2023-04-21T17:41:44Z,2023-03-16T21:31:29Z
+82.217.148.162,82-217-148-162.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Amstelveen,,,false,0.76,2023-04-21T17:41:46Z,2023-03-16T21:34:13Z
+37.230.247.16,,42938,LLC Gudauta-net,NL,,,,false,0.69,2023-04-21T17:42:01Z,2023-03-16T21:58:51Z
+141.148.236.12,,31898,ORACLE-BMC-31898,NL,Amsterdam,,i/o timeout,,0.17,2023-04-21T17:42:10Z,2023-03-16T22:00:46Z
+94.231.251.5,,35224,PLINQ BV,NL,Helmond,9.16.22-Debian,,true,0.66,2023-04-21T17:42:03Z,2023-03-16T22:05:31Z
+88.221.163.167,a88-221-163-167.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,0.80,2023-04-21T17:42:20Z,2023-03-16T22:31:32Z
+185.232.249.38,vps.quixote.nl.,48635,CLDIN B.V.,NL,,not currently available,,true,0.70,2023-04-21T17:42:27Z,2023-03-16T22:39:14Z
+88.221.162.180,a88-221-162-180.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,,REFUSED for example.com,,0.00,2023-04-21T17:42:36Z,2023-03-16T22:56:27Z
+91.220.37.38,khsm2.khsmserver2.nl.,50673,Serverius Holding B.V.,NL,,9.11.26-RedHat-9.11.26-6.el8,,true,0.71,2023-04-21T21:43:40Z,2023-03-16T23:08:30Z
+81.173.79.1,a81-173-79-1.dsl.pocosnet.nl.,50522,POCOS B.V.,NL,Eindhoven,,,false,0.58,2023-04-21T21:43:45Z,2023-03-16T23:13:26Z
+87.99.234.254,254-234-099-087.dynamic.caiway.nl.,15435,DELTA Fiber Nederland B.V.,NL,Malden,,,false,0.71,2023-04-21T21:43:50Z,2023-03-16T23:25:20Z
+217.111.189.203,,8220,COLT Technology Services Group Limited,NL,Amsterdam,dnsmasq-2.82,,false,0.71,2023-04-21T21:44:11Z,2023-03-16T23:59:02Z
+5.180.79.207,,212238,Datacamp Limited,NL,Amsterdam,,connection refused,,0.00,2023-04-21T21:44:15Z,2023-03-17T00:06:34Z
+88.221.163.51,a88-221-163-51.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,,REFUSED for example.com,,0.03,2023-04-21T21:44:17Z,2023-03-17T00:10:48Z
+91.189.226.242,,42707,e-Quest IT Projecten B.V.,NL,Veghel,9.11.22,,false,0.68,2023-04-21T21:44:19Z,2023-03-17T00:12:22Z
+45.144.29.141,nl.t.info.,44477,Stark Industries Solutions Ltd,NL,Meppel,,connection refused,,0.00,2023-04-21T21:44:31Z,2023-03-17T00:37:34Z
+88.221.162.191,a88-221-162-191.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,0.95,2023-04-21T21:44:48Z,2023-03-17T01:02:07Z
+74.119.195.127,nl.t.info.,44477,Stark Industries Solutions Ltd,NL,Meppel,,connection refused,,0.03,2023-04-21T21:44:57Z,2023-03-17T01:11:59Z
+84.243.254.2,,39647,Enreach Netherlands B.V.,NL,Amsterdam,,,false,0.71,2023-04-21T21:44:55Z,2023-03-17T01:13:03Z
+82.196.2.7,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,dnsmasq-2.68,,false,1.00,2023-04-21T21:44:59Z,2023-03-17T01:19:15Z
+89.208.105.235,,210644,AEZA GROUP Ltd,NL,Amsterdam,,i/o timeout,,0.00,2023-04-21T21:45:38Z,2023-03-17T02:10:25Z
+91.211.251.250,carlton-baku.ds.had.pm.,204601,Zomro B.V.,NL,Dronten,,,false,0.74,2023-04-21T21:46:03Z,2023-03-17T03:22:01Z
+46.249.39.8,ns2.kp-dns.com.,50673,Serverius Holding B.V.,NL,Vriezenveen,9.16.1-Ubuntu,,false,0.71,2023-04-21T21:46:08Z,2023-03-17T03:26:43Z
+88.221.163.32,a88-221-163-32.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,0.95,2023-04-21T21:46:26Z,2023-03-17T04:01:19Z
+95.211.211.16,hosted-by.zenex5ive.com.,60781,LeaseWeb Netherlands B.V.,NL,,9.9.4-RedHat-9.9.4-51.el7_4.2,,true,0.76,2023-04-21T21:46:38Z,2023-03-17T04:18:17Z
+77.249.205.162,dhcp-077-249-205-162.chello.nl.,33915,Vodafone Libertel B.V.,NL,Amsterdam,DNSServer,,false,0.81,2023-04-21T21:46:46Z,2023-03-17T04:34:42Z
+93.115.18.223,no-reverse-yet.local.,202448,MVPS LTD,NL,Dronten,9.11.3-1ubuntu1.18-Ubuntu,,true,0.76,2023-04-21T21:46:47Z,2023-03-17T04:39:05Z
+95.179.143.35,95.179.143.35.vultrusercontent.com.,20473,AS-CHOOPA,NL,Amsterdam,,,true,0.76,2023-04-21T21:46:48Z,2023-03-17T04:42:25Z
+94.190.206.66,fiber2061909466.heldenvannu.net.,28685,Routit BV,NL,Maasbree,,,false,0.76,2023-04-21T21:46:48Z,2023-03-17T04:42:37Z
+82.74.227.241,82-74-227-241.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Tilburg,,i/o timeout,,0.02,2023-04-21T21:46:57Z,2023-03-17T04:43:01Z
+213.125.64.187,D57D40BB.static.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Westzaan,,,false,0.95,2023-04-21T21:46:56Z,2023-03-17T04:55:02Z
+87.215.208.178,,13127,T-mobile Netherlands B.V.,NL,The Hague,,i/o timeout,,0.60,2023-04-21T21:47:06Z,2023-03-17T04:57:14Z
+95.211.151.38,,60781,LeaseWeb Netherlands B.V.,NL,,,i/o timeout,,0.05,2023-04-21T21:47:08Z,2023-03-17T05:02:02Z
+95.142.53.186,,34215,@Inet Technology Consultancy B.V.,NL,Amsterdam,,no route to host,,0.66,2023-04-21T21:47:11Z,2023-03-17T05:07:23Z
+83.172.181.64,directadmin.3wt.nl.,25459,Eurofiber Cloud Infra B.V.,NL,,9.8.2rc1-RedHat-9.8.2-0.68.rc1.el6_10.8,,true,0.74,2023-04-21T21:47:07Z,2023-03-17T05:13:11Z
+89.208.104.254,ns2.vdsca.ru.,210644,AEZA GROUP Ltd,NL,Amsterdam,,,true,0.68,2023-04-21T21:47:33Z,2023-03-17T05:46:03Z
+79.137.195.250,absent-passenger.aeza.network.,210644,AEZA GROUP Ltd,NL,Amsterdam,dnsmasq-2.85,,false,0.73,2023-04-21T21:47:29Z,2023-03-17T05:49:35Z
+143.177.187.200,200-187-177-143.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Ermelo,,,true,0.98,2023-04-21T21:47:31Z,2023-03-17T05:52:40Z
+13.80.159.66,mailer1.pluvien.top.,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,,,false,0.77,2023-04-21T21:47:33Z,2023-03-17T05:56:05Z
+84.26.74.61,84-26-74-61.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Voorhout,9.11.22,,false,0.84,2023-04-21T21:47:36Z,2023-03-17T06:03:26Z
+84.243.224.236,,39647,Enreach Netherlands B.V.,NL,Wintelre,,,false,0.80,2023-04-21T21:47:54Z,2023-03-17T06:36:47Z
+178.85.75.111,178-85-75-111.dynamic.upc.nl.,33915,Vodafone Libertel B.V.,NL,Amsterdam,,i/o timeout,,0.23,2023-04-21T21:48:11Z,2023-03-17T06:50:47Z
+87.215.209.98,,13127,T-mobile Netherlands B.V.,NL,The Hague,,i/o timeout,,0.70,2023-04-21T21:48:13Z,2023-03-17T06:53:13Z
+20.126.148.52,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,,i/o timeout,,0.02,2023-04-21T21:48:13Z,2023-03-17T06:53:27Z
+87.212.214.147,147-214-212-87.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Hendrik-Ido-Ambacht,,i/o timeout,,0.00,2023-04-21T21:48:17Z,2023-03-17T07:00:41Z
+95.211.160.51,,60781,LeaseWeb Netherlands B.V.,NL,,,,false,0.75,2023-04-21T21:48:20Z,2023-03-17T07:18:44Z
+81.173.126.239,a81-173-126-239.dsl.pocosnet.nl.,50522,POCOS B.V.,NL,Maastricht,,,false,0.77,2023-04-21T21:48:22Z,2023-03-17T07:21:08Z
+84.38.234.244,hosted.at.uniserver.nl.,31673,Uniserver Internet B.V.,NL,Waddinxveen,,,false,0.16,2023-04-21T21:48:46Z,2023-03-17T07:51:22Z
+89.255.26.18,vinkenburg.nelen-schuurmans.nl.,39647,Enreach Netherlands B.V.,NL,Utrecht,dnsmasq-2.83,,false,0.78,2023-04-21T21:48:48Z,2023-03-17T07:59:45Z
+95.96.190.207,095-096-190-207.static.chello.nl.,33915,Vodafone Libertel B.V.,NL,Sommelsdijk,,i/o timeout,,0.67,2023-04-21T21:49:05Z,2023-03-17T08:12:11Z
+185.183.32.48,,49981,WorldStream B.V.,NL,Naaldwijk,,,false,0.81,2023-04-21T21:49:01Z,2023-03-17T08:19:02Z
+95.179.159.117,DC-02.thangreborn.com.,20473,AS-CHOOPA,NL,Amsterdam,,,false,0.94,2023-04-21T21:49:03Z,2023-03-17T08:23:27Z
+95.211.209.150,hosted-by.zenex5ive.com.,60781,LeaseWeb Netherlands B.V.,NL,,9.9.4-RedHat-9.9.4-51.el7_4.2,,true,0.85,2023-04-21T21:49:13Z,2023-03-17T08:39:21Z
+89.106.206.45,,202269,BitCommand,NL,,,,false,0.82,2023-04-21T21:49:18Z,2023-03-17T08:41:12Z
+88.221.162.27,a88-221-162-27.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,0.90,2023-04-21T21:49:20Z,2023-03-17T08:48:31Z
+94.168.100.234,94-168-100-234.static.v4.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Arnhem,,,false,0.98,2023-04-21T21:49:24Z,2023-03-17T08:54:09Z
+88.221.163.147,a88-221-163-147.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,0.88,2023-04-21T21:49:25Z,2023-03-17T08:57:05Z
+217.171.225.98,,39647,Enreach Netherlands B.V.,NL,Oldenzaal,,,false,0.87,2023-04-21T21:49:26Z,2023-03-17T08:58:03Z
+78.140.167.63,,35415,Webzilla B.V.,NL,,,,false,0.80,2023-04-21T21:49:31Z,2023-03-17T09:04:23Z
+108.61.199.32,108.61.199.32.vultrusercontent.com.,20473,AS-CHOOPA,NL,Amsterdam,,i/o timeout,,0.13,2023-04-21T21:49:42Z,2023-03-17T09:08:09Z
+88.221.163.76,a88-221-163-76.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,0.95,2023-04-21T21:49:34Z,2023-03-17T09:08:58Z
+85.203.37.225,,36351,SOFTLAYER,NL,Amsterdam,,,true,0.73,2023-04-21T21:49:37Z,2023-03-17T09:10:39Z
+88.221.162.147,a88-221-162-147.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,0.88,2023-04-21T21:49:37Z,2023-03-17T09:16:33Z
+95.142.53.130,,34215,@Inet Technology Consultancy B.V.,NL,Amsterdam,,connection refused,,0.00,2023-04-21T21:49:56Z,2023-03-17T09:39:24Z
+13.73.139.90,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,,i/o timeout,,0.94,2023-05-08T07:49:22Z,2023-03-17T10:35:44Z
+83.85.214.253,83-85-214-253.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Delft,,i/o timeout,,0.00,2023-05-08T07:50:10Z,2023-03-17T11:43:11Z
+88.221.162.222,a88-221-162-222.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,Akamai Vantio CacheServe 7.7.0.0.d,,true,0.50,2023-05-08T07:50:13Z,2023-03-17T11:59:57Z
+79.110.52.98,,9009,M247 Europe SRL,NL,Amsterdam,,connection refused,,0.67,2023-05-08T07:50:22Z,2023-03-17T12:14:48Z
+89.106.206.26,,202269,BitCommand,NL,,,connection refused,,0.45,2023-05-08T07:50:39Z,2023-03-17T12:38:24Z
+88.221.163.220,a88-221-163-220.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,,REFUSED for example.com,,0.57,2023-05-08T07:50:54Z,2023-03-17T13:00:27Z
+81.171.25.142,mail2.avirtua.nl.,60781,LeaseWeb Netherlands B.V.,NL,,,i/o timeout,,0.52,2023-05-08T07:51:12Z,2023-03-17T13:15:55Z
+83.83.213.165,83-83-213-165.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,The Hague,,i/o timeout,,0.00,2023-05-08T07:51:19Z,2023-03-17T13:26:09Z
+84.107.87.173,84-107-87-173.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Velserbroek,,i/o timeout,,0.00,2023-05-08T07:51:25Z,2023-03-17T13:34:27Z
+89.22.230.57,host-89-22-230-57.hosted-by-vdsina.ru.,207651,Hosting technology LTD,NL,,,i/o timeout,,0.00,2023-05-08T07:51:36Z,2023-03-17T13:53:30Z
+93.115.18.53,no-reverse-yet.local.,202448,MVPS LTD,NL,Dronten,,i/o timeout,,0.38,2023-05-08T07:51:38Z,2023-03-17T13:56:50Z
+95.97.106.92,095-097-106-092.static.chello.nl.,33915,Vodafone Libertel B.V.,NL,Hoogvliet,,i/o timeout,,0.52,2023-05-08T07:51:53Z,2023-03-17T14:23:15Z
+77.95.229.108,,62370,Snel.com B.V.,NL,,,connection refused,,0.00,2023-05-08T07:51:54Z,2023-03-17T14:39:19Z
+5.8.34.128,14----nov----rrdd.example.com.,202422,G-Core Labs S.A.,NL,Haarlem,,connection refused,,0.00,2023-08-17T21:51:48Z,2023-03-17T15:39:38Z
+188.120.47.97,fiber.by.weserve.nl.,50673,Serverius Holding B.V.,NL,Haaksbergen,,,false,0.96,2023-05-08T07:52:40Z,2023-03-17T15:46:36Z
+84.243.203.217,,39647,Enreach Netherlands B.V.,NL,Ridderkerk,,i/o timeout,,0.62,2023-05-12T00:49:14Z,2023-03-17T18:14:52Z
+89.188.18.103,s001.vps.stackvps.nl.,31477,Duocast B.V.,NL,Heerde,,,true,0.78,2023-05-12T00:49:26Z,2023-03-17T18:52:56Z
+79.137.195.32,d1.aeza.network.,210644,AEZA GROUP Ltd,NL,Amsterdam,dnsmasq-2.86,,false,0.93,2023-05-12T00:49:35Z,2023-03-17T19:14:56Z
+84.31.128.12,84-31-128-12.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Ransdaal,srzzcnsnl12-r01 - caching resolver,,false,1.00,2023-08-12T20:53:35Z,2023-03-17T21:23:06Z
+185.13.224.82,,62068,SpectraIP B.V.,NL,,,connection refused,,0.00,2023-08-12T20:53:45Z,2023-03-17T21:39:31Z
+145.128.214.236,remote.truckservicesimons.nl.,28685,Routit BV,NL,Maassluis,,i/o timeout,,0.00,2023-08-12T20:54:12Z,2023-03-17T22:20:17Z
+80.112.147.230,507093E6.static.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Delft,,i/o timeout,,0.00,2023-08-17T21:51:37Z,2023-03-18T00:06:22Z
+87.215.199.26,,13127,T-mobile Netherlands B.V.,NL,The Hague,,i/o timeout,,0.00,2023-08-12T20:55:25Z,2023-03-18T00:26:08Z
+212.165.228.142,,12684,Ses Astra S.A.,NL,,,i/o timeout,,0.00,2023-08-12T20:55:45Z,2023-03-18T01:06:23Z
+212.8.246.225,vm4491834.1nvme.had.wf.,204601,Zomro B.V.,NL,,,i/o timeout,,0.00,2023-08-12T20:55:54Z,2023-03-18T01:25:29Z
+134.209.206.33,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,,i/o timeout,,0.00,2023-08-12T20:56:02Z,2023-03-18T01:43:12Z
+77.250.123.113,dhcp-077-250-123-113.chello.nl.,33915,Vodafone Libertel B.V.,NL,Amsterdam,,,false,1.00,2023-08-12T20:56:24Z,2023-03-18T02:31:40Z
+83.82.248.248,83-82-248-248.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Gorinchem,,i/o timeout,,0.00,2023-08-12T20:56:30Z,2023-03-18T02:32:15Z
+89.35.91.201,tymusz.nl.,207375,Fiber Operator B.V.,NL,,,i/o timeout,,0.00,2023-08-12T20:56:53Z,2023-03-18T03:11:28Z
+80.82.67.57,,202425,IP Volume inc,NL,Amsterdam,,connection refused,,0.00,2023-08-12T20:57:05Z,2023-03-18T03:48:40Z
+93.117.235.238,static-238-235-117-93.thenetworkfactory.nl.,33915,Vodafone Libertel B.V.,NL,Almere Stad,,i/o timeout,,0.00,2023-08-12T20:57:44Z,2023-03-18T04:38:46Z
+213.34.51.17,g0-8a.tlb001.net.qsp.nl.,12315,Quality Service Provider BV,NL,Tilburg,,i/o timeout,,0.00,2023-08-12T20:58:28Z,2023-03-18T06:08:50Z
+47.87.239.220,,0,,NL,Amsterdam,,i/o timeout,,0.00,2023-08-12T20:58:45Z,2023-03-18T06:36:07Z
+88.80.161.139,host-88.80.161.139.stkhlm.telecityredbus.se.,15830,Equinix (EMEA) Acquisition Enterprises B.V.,NL,,,SERVFAIL for example.com,,0.00,2023-08-12T20:59:28Z,2023-03-18T08:04:36Z
+47.87.236.122,,0,,NL,Amsterdam,,i/o timeout,,0.00,2023-08-12T20:59:53Z,2023-03-18T08:27:20Z
+89.149.223.25,,60781,LeaseWeb Netherlands B.V.,NL,,,i/o timeout,,0.00,2023-08-12T21:00:35Z,2023-03-18T09:29:31Z
+93.115.22.22,,202448,MVPS LTD,NL,Dronten,,i/o timeout,,0.00,2023-08-12T21:00:56Z,2023-03-18T10:05:59Z
+213.184.103.35,035-103-184-213.dynamic.caiway.nl.,15435,DELTA Fiber Nederland B.V.,NL,Maassluis,,i/o timeout,,0.00,2023-08-12T21:02:03Z,2023-03-18T11:44:56Z
+94.247.1.167,,39647,Enreach Netherlands B.V.,NL,Amsterdam,,connection refused,,0.00,2023-08-12T21:02:32Z,2023-03-18T12:50:36Z
+93.174.200.148,not-in-use.2at.net.,197219,2AT B.V.,NL,,,i/o timeout,,0.00,2023-08-12T21:03:06Z,2023-03-18T13:40:27Z
+82.176.120.1,host-5jau8h.gry1.zeelandnet.nl.,15542,DELTA Fiber Nederland B.V.,NL,Ede,,i/o timeout,,0.00,2023-08-12T21:03:42Z,2014-12-29T13:02:46Z
+212.7.203.198,,60781,LeaseWeb Netherlands B.V.,NL,Amsterdam,9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6,REFUSED for example.com,,0.00,2023-08-12T21:03:42Z,2023-03-18T15:10:55Z
+185.186.174.147,,58075,X2com BV,NL,Bloemendaal,,i/o timeout,,0.00,2023-08-12T21:04:08Z,2023-03-18T15:32:11Z
+91.220.37.68,ns1.knothded34.nl.,50673,Serverius Holding B.V.,NL,,9.11.26-RedHat-9.11.26-6.el8,,true,1.00,2023-08-12T21:04:03Z,2023-03-18T15:37:29Z
+195.242.7.1,,0,,NL,,,i/o timeout,,0.00,2023-08-12T21:04:20Z,2023-03-18T15:50:15Z
+20.86.159.155,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,NL,Amsterdam,,,false,0.50,2023-08-12T21:04:50Z,2023-03-18T16:51:15Z
+85.146.118.225,225-118-146-85.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,The Hague,,i/o timeout,,0.00,2023-08-12T21:05:21Z,2023-03-18T17:24:07Z
+94.211.169.190,94-211-169-190.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Groningen,,i/o timeout,,0.00,2023-08-12T21:05:53Z,2023-03-18T18:16:42Z
+85.146.241.230,,33915,Vodafone Libertel B.V.,NL,Amsterdam,,connection refused,,0.00,2023-08-12T21:05:52Z,2023-03-18T18:34:51Z
+128.199.34.103,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,,i/o timeout,,0.00,2023-08-12T21:06:07Z,2023-03-18T18:47:31Z
+178.251.26.147,server.scholten-medical.nl.,42093,InterRacks B.V.,NL,Amsterdam,,i/o timeout,,0.00,2023-08-12T21:06:14Z,2023-03-18T18:58:40Z
+91.198.77.79,,211895,Serverius Holding B.V.,NL,Almere Stad,,i/o timeout,,0.00,2023-08-12T21:06:15Z,2023-03-18T19:02:32Z
+164.92.218.199,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,,connection refused,,0.00,2023-08-12T21:06:20Z,2023-03-18T19:27:23Z
+91.189.226.238,,42707,e-Quest IT Projecten B.V.,NL,Veghel,,i/o timeout,,0.00,2023-08-12T21:06:44Z,2023-03-18T20:04:21Z
+185.177.127.100,,49981,WorldStream B.V.,NL,Naaldwijk,,i/o timeout,,0.00,2023-08-12T21:06:53Z,2023-03-18T20:26:27Z
+77.91.123.213,wdnst.local.,44477,Stark Industries Solutions Ltd,NL,Meppel,,connection refused,,0.00,2023-08-12T21:06:51Z,2023-03-18T20:37:34Z
+145.131.241.249,rt241bb131-145-249.routit.net.,28685,Routit BV,NL,Eersel,,i/o timeout,,0.00,2023-08-12T21:07:02Z,2023-03-18T20:39:17Z
+213.34.55.188,,12315,Quality Service Provider BV,NL,Goirle,,i/o timeout,,0.00,2023-08-17T21:52:56Z,2023-03-18T22:13:32Z
+81.171.5.222,,60781,LeaseWeb Netherlands B.V.,NL,Rotterdam,PowerDNS Authoritative Server 4.7.4 (built Apr 17 2023 07:24:18 by root@d457c36e2f97),REFUSED for example.com,,0.00,2023-08-17T07:53:36Z,2023-03-18T23:47:56Z
+83.87.173.42,83-87-173-42.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Bovenkarspel,,i/o timeout,,0.00,2023-08-17T07:54:07Z,2023-03-19T00:40:42Z
+45.32.238.248,45.32.238.248.vultrusercontent.com.,20473,AS-CHOOPA,NL,Amsterdam,,Unexpected result for verisignlabs.com: NXDOMAIN,,0.20,2023-08-17T21:53:18Z,2023-03-19T01:00:36Z
+217.100.8.67,D9640843.static.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Boxtel,,i/o timeout,,0.00,2023-08-17T11:53:42Z,2023-03-19T01:13:08Z
+82.172.45.202,202-45-172-82.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Oude Pekela,,i/o timeout,,0.00,2023-08-17T11:53:58Z,2023-03-19T01:50:47Z
+88.221.162.59,a88-221-162-59.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,,REFUSED for example.com,,0.00,2023-08-17T15:53:31Z,2023-03-19T02:10:09Z
+84.28.145.175,84-28-145-175.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,Tilburg,,,false,1.00,2023-08-17T15:53:34Z,2023-03-19T02:16:59Z
+78.141.217.69,japa.boo.,20473,AS-CHOOPA,NL,Amsterdam,,connection refused,,0.00,2023-08-17T15:54:09Z,2023-03-19T03:26:52Z
+82.176.132.106,host-hbqu8h.cbn1.zeelandnet.nl.,15542,DELTA Fiber Nederland B.V.,NL,Hulst,,i/o timeout,,0.15,2023-08-17T15:54:28Z,2023-03-19T03:48:41Z
+45.137.88.209,connected.by.freedominter.net.,206238,Freedom Internet BV,NL,Amsterdam,,no route to host,,0.00,2023-08-17T15:54:49Z,2023-03-19T04:57:39Z
+198.20.120.117,117.120.20.198.unassigned.ord.singlehop.net.,32475,SINGLEHOP-LLC,NL,Amsterdam,,i/o timeout,,0.00,2023-08-17T15:55:36Z,2023-03-19T06:13:33Z
+80.242.235.18,50F2EB12.static.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Gemert,,i/o timeout,,0.00,2023-08-17T15:56:08Z,2023-03-19T07:18:27Z
+185.100.235.180,,49981,WorldStream B.V.,NL,,,i/o timeout,,0.00,2023-08-17T15:56:09Z,2023-03-19T07:19:10Z
+31.134.200.180,,51088,A2b Ip B.v.,NL,Amsterdam,,i/o timeout,,0.00,2023-08-17T15:57:05Z,2023-03-19T08:58:21Z
+188.166.26.146,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,,i/o timeout,,0.00,2023-08-17T15:57:37Z,2023-03-19T10:09:48Z
+91.229.62.10,ip4-91-229-62-10.rdns.netrouting.net.,47869,Netrouting B.V.,NL,Amsterdam,,,false,0.64,2023-08-17T15:57:38Z,2023-03-19T10:26:50Z
+94.168.78.219,94-168-78-219.static.v4.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Rotterdam,,i/o timeout,,0.00,2023-08-17T15:57:52Z,2023-03-19T10:35:38Z
+145.131.193.46,rt193bb131-145-46.routit.net.,28685,Routit BV,NL,Amsterdam,,,false,0.64,2023-08-17T15:57:51Z,2023-03-19T10:47:00Z
+81.59.39.208,208-39-59-81.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Amsterdam,,i/o timeout,,0.00,2023-08-17T20:53:42Z,2023-03-19T12:23:03Z
+89.146.35.15,rt35bb146-89-15.routit.net.,28685,Routit BV,NL,Egmond-Binnen,,,true,0.79,2023-08-17T21:53:58Z,2023-03-19T13:51:06Z
+5.200.25.106,managed-by-oblako.nl.,49544,i3D.net B.V,NL,Rotterdam,,i/o timeout,,0.00,2023-08-17T21:54:16Z,2023-03-19T14:15:16Z
+217.105.43.205,ip-217-105-43-205.ip.prioritytelecom.net.,33915,Vodafone Libertel B.V.,NL,Eindhoven,,i/o timeout,,0.00,2023-08-17T21:54:20Z,2023-03-19T14:22:51Z
+151.248.16.31,,209288,Solutions4XS B.V.,NL,Papendrecht,,connection refused,,0.00,2023-08-17T21:54:17Z,2023-03-19T14:35:55Z
+77.91.127.35,static.35.127.91.77.ip.webhost1.net.,198178,365.partners INC,NL,,,i/o timeout,,0.00,2023-08-17T21:54:37Z,2023-03-19T15:03:55Z
+78.140.141.238,,35415,Webzilla B.V.,NL,,,i/o timeout,,0.00,2023-08-17T21:55:01Z,2023-03-19T16:08:08Z
+89.255.37.130,powered-by.xenosite.net.,39647,Enreach Netherlands B.V.,NL,Leiden,,i/o timeout,,0.00,2023-08-17T21:55:01Z,2023-03-19T16:08:46Z
+92.38.184.90,28----oct----rrdd.example.com.,202422,G-Core Labs S.A.,NL,Amsterdam,,connection refused,,0.00,2023-08-17T21:55:31Z,2023-03-19T17:34:28Z
+198.211.123.234,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,,i/o timeout,,0.00,2023-08-17T21:56:21Z,2023-03-19T18:55:49Z
+144.178.79.166,144-178-79-166.static.ef-service.nl.,39686,Eurofiber Nederland BV,NL,Amsterdam,,i/o timeout,,0.00,2023-08-17T21:56:27Z,2023-03-19T19:11:42Z
+87.195.37.137,dsl-087-195-037-137.solcon.nl.,12414,Solcon Internetdiensten B.V.,NL,Putten,,i/o timeout,,0.00,2023-08-17T21:56:44Z,2023-03-19T19:46:37Z
+83.81.150.130,83-81-150-130.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,The Hague,,i/o timeout,,0.00,2023-08-17T21:56:46Z,2023-03-19T19:52:48Z
+5.188.86.12,,49453,Global Layer B.V.,NL,,,i/o timeout,,0.00,2023-08-17T21:56:49Z,2023-03-19T19:57:02Z
+80.57.2.138,g2138.upc-g.chello.nl.,33915,Vodafone Libertel B.V.,NL,Rotterdam,,i/o timeout,,0.00,2023-08-17T21:57:29Z,2023-03-19T21:19:32Z
+209.250.244.252,ggsystems.tech.,20473,AS-CHOOPA,NL,Amsterdam,,i/o timeout,,0.00,2023-08-17T21:57:33Z,2023-03-19T21:27:41Z
+87.215.212.106,,13127,T-mobile Netherlands B.V.,NL,Delft,,i/o timeout,,0.00,2023-08-17T21:57:53Z,2023-03-19T22:15:56Z
+143.178.110.81,81-110-178-143.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Alphen aan den Rijn,,i/o timeout,,0.00,2023-08-17T21:58:44Z,2023-04-05T03:02:00Z
+147.123.146.3,,47902,Retelit Digital Services S.p.A.,NL,,,i/o timeout,,0.00,2023-08-17T21:59:10Z,2023-04-06T16:49:51Z
+45.128.27.22,www.seedbox.vip.,60781,LeaseWeb Netherlands B.V.,NL,Amsterdam,,i/o timeout,,0.00,2023-08-17T22:00:06Z,2023-04-09T06:52:12Z
+51.158.152.202,ssl-nl.serverip.co.,12876,Scaleway S.a.s.,NL,Amsterdam,dnsmasq-2.76,,false,1.00,2023-08-17T22:00:13Z,2023-04-09T20:19:14Z
+195.69.225.102,server.smartguyz.nl.,51942,EK-Media B.V.,NL,,,i/o timeout,,0.00,2023-08-17T22:00:34Z,2023-04-10T02:44:53Z
+213.125.136.58,D57D883A.static.ziggozakelijk.nl.,33915,Vodafone Libertel B.V.,NL,Sprundel,,,false,0.73,2023-08-17T22:00:50Z,2023-04-10T18:43:03Z
+37.153.211.73,rt211bb153-37-73.routit.net.,28685,Routit BV,NL,Breukelen,,i/o timeout,,0.00,2023-08-17T22:01:36Z,2023-05-02T00:16:47Z
+145.131.174.234,rt174bb131-145-234.heldenvannu.net.,28685,Routit BV,NL,Zwolle,,i/o timeout,,0.00,2023-08-17T22:01:37Z,2023-05-02T00:33:31Z
+80.113.19.90,ip-80-113-19-90.ip.prioritytelecom.net.,33915,Vodafone Libertel B.V.,NL,Amsterdam,,,true,1.00,2023-08-17T22:02:56Z,2023-05-05T02:04:56Z
+45.144.29.243,vm1522811.stark-industries.solutions.,44477,Stark Industries Solutions Ltd,NL,Meppel,,connection refused,,0.00,2023-08-17T22:03:17Z,2023-05-05T22:56:07Z
+62.131.255.16,62-131-255-16.fixed.kpn.net.,1136,KPN B.V.,NL,Eindhoven,,connection refused,,0.00,2023-08-17T22:03:18Z,2023-05-05T23:26:44Z
+143.177.197.66,66-197-177-143.ftth.glasoperator.nl.,50266,T-Mobile Thuis BV,NL,Wierden,,i/o timeout,,0.00,2023-08-17T22:03:32Z,2023-05-06T03:12:43Z
+46.166.189.67,,43350,NForce Entertainment B.V.,NL,,dnsmasq-2.76,,false,1.00,2023-08-17T22:03:32Z,2023-05-06T07:54:37Z
+88.221.162.33,a88-221-162-33.deploy.static.akamaitechnologies.com.,21342,Akamai International B.V.,NL,,AkamaiRecursive_23.206.213.40_backend,,true,1.00,2023-08-17T22:03:53Z,2023-05-06T23:18:50Z
+185.227.75.169,185-227-75-169.dsl.cambrium.nl.,25596,Cambrium IT Services B.V.,NL,Enschede,,no route to host,,0.46,2023-08-17T22:04:37Z,2023-08-15T15:46:46Z
+217.68.21.208,ns2.xempower.com.,15830,Equinix (EMEA) Acquisition Enterprises B.V.,NL,,,i/o timeout,,0.00,2023-08-17T22:05:50Z,2014-12-30T11:03:11Z
+37.75.227.4,ns2.langeleegte.net.,198508,Plusine Systems B.V.,NL,,,i/o timeout,,0.00,2023-08-17T22:06:24Z,2014-12-30T18:01:31Z
+37.153.197.174,rt197bb153-37-174.routit.net.,28685,Routit BV,NL,Apeldoorn,,i/o timeout,,0.00,2023-08-17T22:06:27Z,2014-12-30T18:37:38Z
+89.146.55.190,rt55bb146-89-190.routit.net.,28685,Routit BV,NL,Zaandam,,i/o timeout,,0.00,2023-08-17T21:07:43Z,2015-01-06T14:13:09Z
+217.68.21.207,ns1.xempower.com.,15830,Equinix (EMEA) Acquisition Enterprises B.V.,NL,,,i/o timeout,,0.00,2023-08-17T21:07:56Z,2015-01-06T18:52:38Z
+87.213.212.57,,13127,T-mobile Netherlands B.V.,NL,Steyl,,i/o timeout,,0.00,2023-08-17T21:08:08Z,2015-01-07T01:49:43Z
+84.246.13.5,rt13bb246-84-5.routit.net.,28685,Routit BV,NL,Rotterdam,,i/o timeout,,0.00,2023-08-17T21:08:29Z,2015-01-07T15:26:36Z
+37.153.219.129,rt219bb153-37-129.routit.net.,28685,Routit BV,NL,Utrecht,,i/o timeout,,0.00,2023-08-17T21:09:11Z,2015-01-08T19:37:57Z
+188.122.89.156,s-coco-ns01.co-co.nl.,49544,i3D.net B.V,NL,Rotterdam,,i/o timeout,,0.00,2023-08-17T21:09:13Z,2015-01-08T20:43:23Z
+206.212.241.14,,207084,Ncryptd Net Ltd,NL,Amsterdam,,i/o timeout,,0.00,2023-08-17T21:09:15Z,2015-01-08T21:53:31Z
+87.215.134.201,,13127,T-mobile Netherlands B.V.,NL,,,i/o timeout,,0.00,2023-08-17T21:09:34Z,2015-01-09T11:22:54Z
+81.23.225.34,ns.garnierprojects.nl.,24730,Garnier Projects BV,NL,,,i/o timeout,,0.00,2023-08-17T21:09:41Z,2015-01-09T15:00:26Z
+146.185.189.61,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,,i/o timeout,,0.00,2023-08-17T21:09:47Z,2015-01-09T18:55:33Z
+84.53.94.28,84-53-94-28.wxdsl.nl.,29396,Eurofiber Nederland BV,NL,Schagen,,i/o timeout,,0.00,2023-08-17T21:10:49Z,2015-01-11T11:28:36Z
+87.213.128.58,unlabelled-58-128-213-87.versatel.net.,13127,T-mobile Netherlands B.V.,NL,,,i/o timeout,,0.00,2023-08-17T21:11:22Z,2015-01-12T07:51:02Z
+146.185.176.36,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,,i/o timeout,,0.00,2023-08-17T21:15:19Z,2017-10-22T02:59:54Z
+92.64.18.114,92-64-18-114.biz.kpn.net.,1136,KPN B.V.,NL,Rotterdam,,i/o timeout,,0.00,2023-08-17T21:15:47Z,2019-06-05T04:43:06Z
+178.162.140.249,,60781,LeaseWeb Netherlands B.V.,NL,,,i/o timeout,,0.00,2023-08-17T21:15:51Z,2019-06-05T04:43:08Z
+83.85.181.48,83-85-181-48.cable.dynamic.v4.ziggo.nl.,33915,Vodafone Libertel B.V.,NL,The Hague,,i/o timeout,,0.00,2023-08-17T21:15:51Z,2019-06-05T04:50:26Z
+91.235.168.254,vpn.at.xsusenet.com.,44016,XS Usenet B.V.,NL,,,i/o timeout,,0.00,2023-08-17T21:16:05Z,2019-06-07T03:38:48Z
+188.122.90.219,mail3.indigoproductions.be.,49544,i3D.net B.V,NL,Rotterdam,,i/o timeout,,0.00,2023-08-17T21:16:40Z,2019-06-11T13:58:40Z
+5.79.84.228,,60781,LeaseWeb Netherlands B.V.,NL,Haarlem,,i/o timeout,,0.00,2023-08-17T21:17:58Z,2020-05-08T19:02:24Z
+95.211.205.214,,60781,LeaseWeb Netherlands B.V.,NL,,,i/o timeout,,0.00,2023-08-17T21:17:59Z,2020-05-09T09:06:41Z
+157.245.66.92,ams.hamberg.no.,14061,DIGITALOCEAN-ASN,NL,Amsterdam,,connection refused,,0.00,2023-08-17T21:18:30Z,2020-05-22T17:47:32Z
+185.50.248.134,,0,,NL,Haarlem,,i/o timeout,,0.00,2023-08-17T21:18:41Z,2020-05-24T18:57:22Z
+95.85.12.56,,14061,DIGITALOCEAN-ASN,NL,Amsterdam,,i/o timeout,,0.00,2023-08-17T21:18:56Z,2020-06-02T08:45:37Z
+95.168.166.52,,60781,LeaseWeb Netherlands B.V.,NL,,,i/o timeout,,0.00,2023-08-17T21:19:14Z,2020-06-10T21:15:19Z
+5.79.87.160,,60781,LeaseWeb Netherlands B.V.,NL,Haarlem,,i/o timeout,,0.00,2023-08-17T21:19:14Z,2020-06-11T15:39:09Z

@@ -1,0 +1,936 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+203.218.101.172,pcd311172.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-03-09T21:48:12Z,2020-08-16T12:32:16Z
+158.132.187.187,,4616,The Hong Kong Polytechnic University,HK,Kowloon,,i/o timeout,,0.00,2023-03-02T22:47:06Z,2020-09-01T21:43:30Z
+120.31.161.114,ns1.eflydns.net.,38372,"Room 203, No.6, PingYuanBei Street, Foshan, GuangDong, China",HK,,,i/o timeout,,0.00,2023-03-02T03:47:29Z,2020-09-02T19:46:32Z
+58.64.188.188,,17444,HKBN Enterprise Solutions Limited,HK,,,i/o timeout,,0.00,2022-03-22T13:18:47Z,2020-09-03T03:09:39Z
+59.148.249.214,059148249214.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,Microsoft DNS 6.0.6002 (1772487D),,false,0.91,2023-03-07T13:46:13Z,2020-09-03T03:09:46Z
+59.152.214.132,mail.tianchengauction.com.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,Microsoft DNS 6.1.7601 (1DB15F75),,false,0.46,2022-04-26T07:03:12Z,2020-09-03T03:09:51Z
+59.188.74.1,,17444,HKBN Enterprise Solutions Limited,HK,,,i/o timeout,,0.00,2022-12-23T07:04:56Z,2020-09-03T03:09:53Z
+61.92.164.145,061092164145.static.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Tuen Mun,,i/o timeout,,0.00,2022-12-24T18:07:23Z,2020-09-03T03:09:55Z
+101.78.189.210,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,dnsmasq-2.78,Unexpected result for wikileaks.org: {[[185 165 168 41] [141 105 65 113] [195 35 109 44] [195 35 109 53]]},,0.09,2021-09-06T03:46:11Z,2020-09-03T03:10:05Z
+101.78.230.189,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,i/o timeout,,0.01,2023-01-17T14:28:30Z,2020-09-03T03:10:08Z
+101.78.230.190,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,i/o timeout,,0.00,2021-09-30T01:00:32Z,2020-09-03T03:10:10Z
+103.240.65.226,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,REFUSED for example.com,,0.00,2022-08-07T18:24:50Z,2020-09-03T03:10:36Z
+103.251.112.62,103.251.112.62.www.huginforce.com.,133380,Layerstack Limited,HK,Central,,i/o timeout,,0.00,2023-02-27T05:47:07Z,2020-09-03T03:10:41Z
+103.251.112.67,103.251.112.67.mail.huginforce.com.,133380,Layerstack Limited,HK,Central,,i/o timeout,,0.00,2023-02-28T06:46:19Z,2020-09-03T03:10:45Z
+123.1.150.117,,10103,HK Broadband Network Ltd.,HK,,,i/o timeout,,0.00,2023-02-27T23:49:54Z,2020-09-03T03:12:43Z
+123.1.150.119,,10103,HK Broadband Network Ltd.,HK,,,i/o timeout,,0.00,2023-02-27T23:49:54Z,2020-09-03T03:12:46Z
+123.1.150.120,,10103,HK Broadband Network Ltd.,HK,,,i/o timeout,,0.00,2023-02-27T23:49:54Z,2020-09-03T03:12:49Z
+123.1.150.121,,10103,HK Broadband Network Ltd.,HK,,,i/o timeout,,0.00,2023-02-26T07:46:45Z,2020-09-03T03:12:51Z
+152.101.179.129,152-101-179-129.static.hk.net.,4058,CITIC Telecom International CPC Limited,HK,,,i/o timeout,,0.00,2023-02-27T23:49:55Z,2020-09-03T03:13:20Z
+175.45.61.220,,9381,HKBN Enterprise Solutions HK Limited,HK,Yau Tsim Mong,,i/o timeout,,0.00,2023-01-09T13:07:51Z,2020-09-03T03:13:34Z
+202.2.76.5,BBIe6005.exasia.net.,133038,Exanet Limited,HK,,,i/o timeout,,0.00,2023-03-07T13:46:38Z,2020-09-03T03:14:08Z
+202.56.8.197,ns1.hkg001.pnap.net.,0,,HK,,,i/o timeout,,0.00,2023-02-27T23:49:53Z,2020-09-03T03:14:24Z
+202.56.8.198,ns2.hkg001.pnap.net.,0,,HK,,,i/o timeout,,0.00,2023-03-09T02:47:04Z,2020-09-03T03:14:30Z
+202.64.161.118,,2706,HKBN Enterprise Solutions HK Limited,HK,,,,false,0.70,2021-09-24T05:01:32Z,2020-09-03T03:14:37Z
+202.88.99.221,202-88-99-221.static.hk.net.,4058,CITIC Telecom International CPC Limited,HK,,,i/o timeout,,0.00,2023-02-27T23:49:46Z,2020-09-03T03:14:57Z
+202.130.102.211,mail.sinocap.com.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,i/o timeout,,0.00,2023-02-27T23:49:45Z,2020-09-03T03:15:07Z
+202.134.72.177,static-ip-177-72-134-202.rev.dyxnet.com.,9584,Diyixian.com Limited,HK,,9.16.1-Ubuntu,REFUSED for example.com,,0.00,2023-01-09T13:04:57Z,2020-09-03T03:15:18Z
+202.155.214.26,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,9.9.4-RedHat-9.9.4-14.el7,SERVFAIL for example.com,,0.00,2022-08-07T18:24:59Z,2020-09-03T03:15:23Z
+202.155.222.251,,9381,HKBN Enterprise Solutions HK Limited,HK,Sai Kung,,i/o timeout,,0.15,2023-02-26T07:49:06Z,2020-09-03T03:15:47Z
+202.174.158.10,,9229,SPEEDCAST Limited,HK,,,i/o timeout,,0.00,2022-02-06T07:09:25Z,2020-09-03T03:15:51Z
+202.181.213.110,ns5.1sthost.com.,7540,HongKong Commercial Internet Exchange,HK,,Microsoft DNS 6.1.7601 (1DB15F75),Unexpected result for wikileaks.org: {[[141 105 69 239] [185 165 168 41] [195 35 109 44] [195 35 109 53] [141 105 65 113]]},,0.00,2021-01-10T04:35:57Z,2020-09-03T03:16:15Z
+203.85.45.24,pc024.chkg.com.,4058,CITIC Telecom International CPC Limited,HK,,named 4.9.6a-Rel-Friday-4-July-97\010\009GregSchueman-LarryKahn-VirajBais-LeonMcCalla,,true,0.55,2022-12-18T08:07:32Z,2020-09-03T03:16:21Z
+203.169.229.63,mail10.exchangespeed.net.,9293,NTT Com Asia Limited,HK,,,i/o timeout,,0.00,2021-08-31T17:09:59Z,2020-09-03T03:16:31Z
+203.186.61.66,203186061066.static.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,Unexpected result for wikileaks.org: {[[80 81 248 21] [51 159 197 136]]},,0.18,2023-01-11T08:28:29Z,2020-09-03T03:16:36Z
+203.186.217.188,203186217188.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.00,2023-01-17T14:28:55Z,2020-09-03T03:16:39Z
+203.198.186.71,mail.smlgroup.com.,4515,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-02-27T23:49:45Z,2020-09-03T03:16:50Z
+210.0.255.216,,9304,HGC Global Communications Limited,HK,Central,,Unexpected result for wikileaks.org: {[[195 35 109 44] [141 105 65 113] [185 165 168 41] [195 35 109 53]]},,0.02,2021-09-03T22:44:32Z,2020-09-03T03:17:22Z
+210.87.250.59,ns5.imsbiz.com.,4515,HKT Limited,HK,,[Secured],Unexpected result for wikileaks.org: {[[80 81 248 21] [51 159 197 136]]},,0.12,2023-01-13T07:28:35Z,2020-09-03T03:17:52Z
+210.176.64.218,,4515,HKT Limited,HK,Central,DNSServer,REFUSED for example.com,,0.00,2023-01-17T14:28:26Z,2020-09-03T03:19:29Z
+210.176.64.219,,4515,HKT Limited,HK,Central,DNSServer,REFUSED for example.com,,0.00,2022-12-30T11:05:38Z,2020-09-03T03:19:31Z
+210.177.222.162,,4515,HKT Limited,HK,Central,,i/o timeout,,0.01,2021-09-20T20:45:21Z,2020-09-03T03:19:44Z
+210.177.230.51,ns2.novelent.com.,4515,HKT Limited,HK,Central,,i/o timeout,,0.00,2022-08-12T11:26:54Z,2020-09-03T03:19:52Z
+210.177.255.186,,4515,HKT Limited,HK,Central,,i/o timeout,,0.67,2023-02-27T23:49:55Z,2020-09-03T03:19:54Z
+210.245.150.62,,17444,AS number for New World Telephone Ltd.,HK,North Point,,i/o timeout,,0.00,2021-08-24T09:10:55Z,2020-09-03T03:20:04Z
+218.103.37.238,238.37.103.218.static.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2022-04-22T07:04:15Z,2020-09-03T03:20:13Z
+218.103.106.109,109.106.103.218.static.netvigator.com.,4515,HKT Limited,HK,Kwai Chung,,i/o timeout,,0.00,2022-08-07T06:25:22Z,2020-09-03T03:20:15Z
+218.103.124.88,088.124.103.218.static.netvigator.com.,4760,HKT Limited,HK,Wanchai,,i/o timeout,,0.00,2023-01-13T07:28:36Z,2020-09-03T03:20:18Z
+220.241.92.140,mail.jkcapitalmanagement.com.,4515,HKT Limited,HK,Kowloon,,i/o timeout,,0.00,2023-02-08T23:35:00Z,2020-09-03T03:20:22Z
+210.0.128.250,ns250.on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,,true,1.00,2023-03-08T22:47:53Z,2020-09-03T03:33:01Z
+210.0.128.251,ns251.on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,,true,0.98,2021-11-29T07:31:22Z,2020-09-03T03:33:04Z
+59.148.214.44,mail1.wahtungmetal.com.,9269,Hong Kong Broadband Network Ltd.,HK,Sha Tin Wai,,i/o timeout,,0.87,2023-03-09T06:48:18Z,2020-11-22T11:32:29Z
+202.46.32.187,ptr.cnsat.com.cn.,24413,263 Shanghai Communications Ltd.,HK,,,i/o timeout,,0.00,2023-03-09T21:48:06Z,2020-11-22T11:39:07Z
+202.76.45.101,,4058,CITIC Telecom International CPC Limited,HK,,,i/o timeout,,0.00,2022-01-03T11:30:41Z,2020-11-22T11:39:16Z
+218.103.92.84,084.92.103.218.static.netvigator.com.,4515,HKT Limited,HK,Central,,i/o timeout,,0.00,2022-12-27T23:05:52Z,2020-11-22T11:41:35Z
+223.197.203.142,mail.onestopitservices.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-03-07T13:46:36Z,2020-11-22T11:42:10Z
+223.255.139.181,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,i/o timeout,,0.00,2023-03-04T07:46:56Z,2020-11-22T11:42:12Z
+47.243.19.250,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,,i/o timeout,,0.00,2022-03-22T14:17:24Z,2021-02-06T08:35:18Z
+202.180.160.1,ns7.imsbiz.com.,4515,HKT Limited,HK,,[Secured],Unexpected result for example.com: NXDOMAIN,,0.00,2023-03-09T08:45:07Z,2021-02-12T16:28:57Z
+203.198.68.197,197.68.198.203.static.netvigator.com.,4515,HKT Limited,HK,Central,,,false,1.00,2021-05-03T22:24:29Z,2021-03-15T08:20:14Z
+47.90.0.25,mail.brightonequipment.com.,45102,"Alibaba US Technology Co., Ltd.",HK,Central,,Unexpected result for wikileaks.org: {[[195 35 109 53] [141 105 65 113] [185 165 168 41] [195 35 109 44]]},,0.02,2021-09-03T07:57:06Z,2021-06-09T14:12:47Z
+103.198.192.43,ioshare.com.,55720,Gigabit Hosting Sdn Bhd,HK,,,Unexpected result for wikileaks.org: {[[195 35 109 53] [141 105 65 113] [195 35 109 44] [185 165 168 41]]},,0.02,2021-09-03T15:57:49Z,2021-06-09T14:17:26Z
+202.14.67.4,ns1.pacific.net.hk.,2706,HKBN Enterprise Solutions HK Limited,HK,,,REFUSED for example.com,,0.00,2023-04-20T15:48:22Z,2021-06-09T14:22:02Z
+202.14.67.14,ns2.pacific.net.hk.,2706,HKBN Enterprise Solutions HK Limited,HK,,,Unexpected result for wikileaks.org: {[[195 35 109 44] [141 105 65 113] [195 35 109 53] [185 165 168 41]]},,0.00,2021-08-31T17:11:49Z,2021-06-09T14:22:05Z
+202.130.97.65,dns1.hkbnes.net.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,[SECURED],Unexpected result for verisignlabs.com: {[[209 131 162 50] [69 58 187 68]]},,0.00,2021-08-24T09:11:08Z,2021-06-09T14:22:26Z
+202.130.97.66,dns2.ibn-ipv6.info.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,[SECURED],Unexpected result for wikileaks.org: {[[195 35 109 53] [185 165 168 41] [141 105 65 113] [195 35 109 44]]},,0.00,2021-08-31T17:10:04Z,2021-06-09T14:22:29Z
+202.130.119.158,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,connection refused,,0.00,2023-01-13T10:29:28Z,2021-06-09T14:22:32Z
+202.131.64.91,mail.tex-knit.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,Microsoft DNS 6.1.7601 (1DB15F75),,false,0.50,2021-09-28T03:01:33Z,2021-06-09T14:22:35Z
+202.180.161.1,ns8.imsbiz.com.,4515,HKT Limited,HK,,[Secured],Unexpected result for example.com: NXDOMAIN,,0.00,2023-04-20T15:48:38Z,2021-06-09T14:22:51Z
+210.87.253.59,ns9.imsbiz.com.,4515,HKT Limited,HK,,9.16.3,Unexpected result for verisignlabs.com: {[[209 131 162 50] [69 58 187 68]]},,0.00,2021-08-24T09:11:15Z,2021-06-09T14:23:52Z
+218.102.1.7,tswc2a007.netvigator.com.,4760,HKT Limited,HK,Central,Microsoft DNS 6.0.6003 (1773501D),Unexpected result for wikileaks.org: {[[195 35 109 44] [195 35 109 53] [141 105 65 113] [185 165 168 41]]},,0.00,2021-09-01T13:46:11Z,2021-06-09T14:25:08Z
+218.102.1.8,tswc2a008.netvigator.com.,4760,HKT Limited,HK,Central,Microsoft DNS 6.0.6003 (1773501D),Unexpected result for wikileaks.org: {[[195 35 109 44] [195 35 109 53] [185 165 168 41]]},,0.07,2021-09-14T01:47:17Z,2021-06-09T14:25:13Z
+223.197.254.24,zetterpictureframer.hk.,4760,HKT Limited,HK,Tseung Kwan O,,i/o timeout,,0.00,2022-12-26T07:07:26Z,2021-06-09T14:26:06Z
+221.125.138.189,,9304,HGC Global Communications Limited,HK,Central,dnsmasq-2.71,,false,0.58,2021-10-02T09:00:53Z,2021-09-23T12:38:55Z
+202.14.80.2,,3363,Hong Kong University of Science and Technology,HK,,,,false,0.59,2021-10-01T16:01:47Z,2021-09-23T15:55:47Z
+117.18.119.36,,7540,HongKong Commercial Internet Exchange,HK,,,,false,0.97,2021-10-01T09:01:12Z,2021-09-25T20:27:24Z
+210.16.73.83,,139327,"HONG KONG EVERGRANDE ENTERPRISE GROUP CO., LIMITED",HK,,,,false,0.83,2021-10-08T08:03:40Z,2021-09-26T16:15:33Z
+113.254.178.224,224-178-254-113-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,i/o timeout,,0.00,2023-01-10T15:05:23Z,2021-09-26T16:17:10Z
+18.166.56.58,ec2-18-166-56-58.ap-east-1.compute.amazonaws.com.,16509,AMAZON-02,HK,,,i/o timeout,,0.00,2023-03-05T06:57:23Z,2021-09-27T11:49:08Z
+123.203.156.79,123203156079.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Fanling,,,false,1.00,2021-09-28T08:02:02Z,2021-09-28T08:02:02Z
+210.16.73.82,,139327,"HONG KONG EVERGRANDE ENTERPRISE GROUP CO., LIMITED",HK,,,,false,0.68,2021-10-08T08:03:20Z,2021-09-28T14:03:42Z
+138.19.40.70,138019040070.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.00,2023-03-05T07:00:37Z,2021-09-30T09:30:21Z
+218.102.23.228,ns3.netvigator.com.,4760,HKT Limited,HK,Kowloon,[Secured],,false,1.00,2021-10-08T08:00:46Z,2021-10-01T14:26:00Z
+210.87.253.61,ns7.imsbiz.com.,4515,HKT Limited,HK,,[Secured],Unexpected result for wikileaks.org: {[[51 159 197 136] [80 81 248 21]]},,0.00,2023-01-11T08:28:32Z,2021-10-01T14:28:37Z
+210.87.250.155,ns10.imsbiz.com.,4515,HKT Limited,HK,,9.16.3,,true,1.00,2021-10-01T14:29:41Z,2021-10-01T14:29:41Z
+210.87.253.60,ns12.imsbiz.com.,4515,HKT Limited,HK,,[Secured],,false,1.00,2023-03-05T07:00:31Z,2021-10-01T14:31:01Z
+152.32.172.144,,135377,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,HK,Central,dnsmasq-pi-hole-2.81,,false,1.00,2021-10-01T22:57:30Z,2021-10-01T22:57:30Z
+43.129.176.217,,132203,"Tencent Building, Kejizhongyi Avenue",HK,Central,,connection refused,,0.04,2021-10-06T14:02:29Z,2021-10-01T23:02:42Z
+116.49.214.152,n11649214152.netvigator.com.,4760,HKT Limited,HK,Kwun Hang,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:07:44Z,2021-10-01T23:07:44Z
+210.6.24.146,210006024146.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Lai Chi Kok,dnsmasq-pi-hole-2.81,,false,1.00,2021-10-01T23:07:54Z,2021-10-01T23:07:54Z
+119.28.87.173,,132203,"Tencent Building, Kejizhongyi Avenue",HK,Central,dnsmasq-pi-hole-2.81,,false,1.00,2021-10-01T23:25:19Z,2021-10-01T23:25:19Z
+47.90.52.170,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,dnsmasq-pi-hole-2.84,,false,1.00,2021-10-01T23:33:44Z,2021-10-01T23:33:44Z
+58.176.233.4,058176233004.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,dnsmasq-pi-hole-2.87test3,,false,1.00,2021-10-01T23:34:47Z,2021-10-01T23:34:47Z
+218.255.177.154,static.reserve.wtt.net.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-01T23:47:42Z,2021-10-01T23:47:42Z
+218.253.214.53,53.214-253-218-static.reserve.wtt.net.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,dnsmasq-pi-hole-2.86,,true,1.00,2021-10-01T23:48:06Z,2021-10-01T23:48:06Z
+47.242.187.215,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,dnsmasq-pi-hole-2.85,,true,1.00,2021-10-01T23:49:42Z,2021-10-01T23:49:42Z
+116.49.109.41,n11649109041.netvigator.com.,4760,HKT Limited,HK,Central,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:55:36Z,2021-10-01T23:55:36Z
+18.166.89.78,ec2-18-166-89-78.ap-east-1.compute.amazonaws.com.,16509,AMAZON-02,HK,,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-02T00:13:47Z,2021-10-02T00:13:47Z
+124.156.153.218,,132203,"Tencent Building, Kejizhongyi Avenue",HK,Central,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T16:18:10Z,2021-10-02T16:18:10Z
+122.128.107.102,122.128.107.102.layerdns.cloud.,133380,Layerstack Limited,HK,Central,dnsmasq-pi-hole-2.84,,false,1.00,2021-10-02T16:31:54Z,2021-10-02T16:31:54Z
+103.207.156.140,,5580,GTT Netherlands B.V.,HK,,dnsmasq-pi-hole-2.80,,false,1.00,2021-10-02T16:32:53Z,2021-10-02T16:32:53Z
+34.96.172.121,121.172.96.34.bc.googleusercontent.com.,15169,GOOGLE,HK,Central,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T17:07:09Z,2021-10-02T17:07:09Z
+210.16.73.85,,139327,"HONG KONG EVERGRANDE ENTERPRISE GROUP CO., LIMITED",HK,,,i/o timeout,,0.00,2023-02-14T05:35:26Z,2021-10-16T14:43:48Z
+210.16.73.80,,139327,"HONG KONG EVERGRANDE ENTERPRISE GROUP CO., LIMITED",HK,,,i/o timeout,,0.00,2023-02-14T05:35:33Z,2021-10-16T14:47:00Z
+210.16.73.81,,139327,"HONG KONG EVERGRANDE ENTERPRISE GROUP CO., LIMITED",HK,,,i/o timeout,,0.16,2022-01-14T19:05:44Z,2021-10-16T14:47:40Z
+210.16.73.84,,139327,"HONG KONG EVERGRANDE ENTERPRISE GROUP CO., LIMITED",HK,,,i/o timeout,,0.00,2023-01-17T14:28:54Z,2021-10-16T14:48:04Z
+218.190.226.53,,9304,HGC Global Communications Limited,HK,,,i/o timeout,,0.02,2021-11-09T15:07:41Z,2021-10-24T06:04:42Z
+203.198.7.66,ns4.netvigator.com.,4760,HKT Limited,HK,Wanchai,[Secured],,false,1.00,2021-11-09T15:08:04Z,2021-10-31T04:22:49Z
+210.3.137.170,static-bbs-170-137-3-210-on-nets.com.,9304,HGC Global Communications Limited,HK,Tuen Mun,,i/o timeout,,0.00,2023-02-25T20:56:23Z,2021-11-05T15:10:01Z
+202.60.225.49,202.60.225.049.static.cyberec.com.,7468,Cyber Express Communication Ltd.,HK,,,,false,0.95,2021-11-09T15:08:01Z,2021-11-08T05:57:01Z
+103.244.159.83,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,i/o timeout,,0.67,2023-02-25T20:56:30Z,2021-11-08T16:20:18Z
+123.203.222.155,123203222155.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.42,2022-04-13T10:01:51Z,2022-04-03T00:32:52Z
+101.32.12.169,,132203,"Tencent Building, Kejizhongyi Avenue",HK,Central,,,false,1.00,2022-08-24T02:35:31Z,2022-08-24T02:35:31Z
+103.246.244.143,sec2.alpinaasia.com.,55933,Cloudie Limited,HK,,,,true,1.00,2022-08-24T03:16:09Z,2022-08-24T03:16:09Z
+103.51.144.212,scdc.worra.com.,55933,Cloudie Limited,HK,,,,true,1.00,2022-08-24T03:16:31Z,2022-08-24T03:16:31Z
+103.51.144.214,scdc.worra.com.,55933,Cloudie Limited,HK,,,,true,1.00,2022-08-24T03:16:34Z,2022-08-24T03:16:34Z
+103.51.144.216,scdc.worra.com.,55933,Cloudie Limited,HK,,,,true,1.00,2022-08-24T03:16:36Z,2022-08-24T03:16:36Z
+103.87.243.149,,135581,"19 Chun Wang Street, Tseung Kwan O Industrial Estate, N.T. Hong Kong",HK,,,,true,1.00,2022-08-24T03:17:11Z,2022-08-24T03:17:11Z
+111.223.244.111,visit.keznews.com.,38197,Sun Network Hong Kong Limited - HongKong Backbone,HK,,Microsoft DNS 6.0.6002 (17724655),,false,1.00,2022-08-24T03:17:21Z,2022-08-24T03:17:21Z
+111.223.244.63,visit.keznews.com.,38197,Sun Network Hong Kong Limited - HongKong Backbone,HK,,Microsoft DNS 6.0.6002 (17724655),,false,1.00,2022-08-24T03:17:23Z,2022-08-24T03:17:23Z
+111.68.6.234,,45753,Netsec Limited,HK,,,,true,1.00,2022-08-24T03:17:26Z,2022-08-24T03:17:26Z
+111.68.9.146,,45753,Netsec Limited,HK,,,,true,1.00,2022-08-24T03:17:28Z,2022-08-24T03:17:28Z
+116.92.184.137,,9381,HKBN Enterprise Solutions HK Limited,HK,Tsuen Wan,9.12.4,,true,1.00,2022-08-24T03:31:54Z,2022-08-24T03:31:54Z
+116.92.184.157,,9381,HKBN Enterprise Solutions HK Limited,HK,Tsuen Wan,9.12.4,,true,1.00,2022-08-24T03:31:56Z,2022-08-24T03:31:56Z
+116.92.184.177,,9381,HKBN Enterprise Solutions HK Limited,HK,Tsuen Wan,9.12.4,,true,1.00,2022-08-24T03:31:58Z,2022-08-24T03:31:58Z
+117.18.114.24,,7540,HongKong Commercial Internet Exchange,HK,,9.2.1,,false,1.00,2022-08-24T03:32:08Z,2022-08-24T03:32:08Z
+118.140.234.50,mail1.elogi.com.,9304,HGC Global Communications Limited,HK,Central,,,false,1.00,2022-08-24T03:32:40Z,2022-08-24T03:32:40Z
+123.1.162.132,,10103,HK Broadband Network Ltd.,HK,,,,false,1.00,2022-08-24T03:33:42Z,2022-08-24T03:33:42Z
+139.5.203.83,,45753,Netsec Limited,HK,,,,true,1.00,2022-08-24T03:34:08Z,2022-08-24T03:34:08Z
+141.193.156.107,,45753,Netsec Limited,HK,,,,true,1.00,2022-08-24T03:34:21Z,2022-08-24T03:34:21Z
+148.66.58.98,,45753,Netsec Limited,HK,Central,,,true,1.00,2022-08-24T03:34:36Z,2022-08-24T03:34:36Z
+154.212.129.20,,137443,Anchnet Asia Limited,HK,,,,true,1.00,2022-08-24T03:34:58Z,2022-08-24T03:34:58Z
+175.159.154.38,,4605,Hong Kong Baptist University,HK,,,,false,1.00,2022-08-24T03:35:19Z,2022-08-24T03:35:19Z
+175.159.154.39,,4605,Hong Kong Baptist University,HK,,,,false,1.00,2022-08-24T03:35:26Z,2022-08-24T03:35:26Z
+175.45.3.226,,9381,HKBN Enterprise Solutions HK Limited,HK,Hung Hom,9.12.3-P1,,false,1.00,2022-08-24T03:35:33Z,2022-08-24T03:35:33Z
+175.45.3.227,,9381,HKBN Enterprise Solutions HK Limited,HK,Hung Hom,9.9.9-P1,,false,1.00,2022-08-24T03:35:35Z,2022-08-24T03:35:35Z
+180.178.33.203,,45753,Netsec Limited,HK,,Microsoft DNS 6.0.6003 (1773501D),,false,1.00,2022-08-24T03:35:42Z,2022-08-24T03:35:42Z
+202.126.222.2,mail2.multisoft.com.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Causeway Bay,,,false,1.00,2022-08-24T03:37:10Z,2022-08-24T03:37:10Z
+202.155.236.99,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6,,false,1.00,2022-08-24T03:38:07Z,2022-08-24T03:38:07Z
+202.181.174.121,,7540,HongKong Commercial Internet Exchange,HK,,9.11.4-P2-RedHat-9.11.4-9.P2.el7,,true,1.00,2022-08-24T03:38:59Z,2022-08-24T03:38:59Z
+202.181.174.122,,7540,HongKong Commercial Internet Exchange,HK,,9.11.4-P2-RedHat-9.11.4-9.P2.el7,,true,1.00,2022-08-24T03:39:08Z,2022-08-24T03:39:08Z
+202.181.178.2,ns1.hostingasia.com.,7540,HongKong Commercial Internet Exchange,HK,,,,false,1.00,2022-08-24T03:39:12Z,2022-08-24T03:39:12Z
+202.181.178.3,ns2.hostingasia.com.,7540,HongKong Commercial Internet Exchange,HK,,,,false,1.00,2022-08-24T03:39:16Z,2022-08-24T03:39:16Z
+202.181.178.5,ns3.hostingasia.com.,7540,HongKong Commercial Internet Exchange,HK,,,,false,1.00,2022-08-24T03:39:18Z,2022-08-24T03:39:18Z
+202.181.178.6,ns4.hostingasia.com.,7540,HongKong Commercial Internet Exchange,HK,,,,false,1.00,2022-08-24T03:39:23Z,2022-08-24T03:39:23Z
+202.181.233.180,,7540,HongKong Commercial Internet Exchange,HK,,9.8.2rc1-RedHat-9.8.2-0.30.rc1.el6_6.2,,true,1.00,2022-08-24T03:39:53Z,2022-08-24T03:39:53Z
+202.62.195.3,,9906,ETNet Limited,HK,,9.3.3rc2,,false,1.00,2022-08-24T03:40:50Z,2022-08-24T03:40:50Z
+202.62.222.220,dns02.etnet.com.hk.,9906,ETNet Limited,HK,,9.3.3rc2,,false,1.00,2022-08-24T03:40:53Z,2022-08-24T03:40:53Z
+202.62.222.222,dns01.etnet.com.hk.,9906,ETNet Limited,HK,,9.3.3rc2,,false,1.00,2022-08-24T03:40:55Z,2022-08-24T03:40:55Z
+202.82.121.113,smtp.netcomputer.com.hk.,4515,HKT Limited,HK,Kowloon,Microsoft DNS 6.1.7601 (1DB15F75),,false,1.00,2022-08-24T03:41:40Z,2022-08-24T03:41:40Z
+202.82.148.186,,4515,HKT Limited,HK,North,not necessary information,,false,1.00,2022-08-24T03:41:42Z,2022-08-24T03:41:42Z
+202.82.84.220,mail.giordano.com.,4515,HKT Limited,HK,Sai Ying Pun,,,false,1.00,2022-08-24T03:41:57Z,2022-08-24T03:41:57Z
+203.186.107.46,smtp.elogi.com.,9269,Hong Kong Broadband Network Ltd.,HK,Tsimshatsui,,,false,1.00,2022-08-24T03:42:42Z,2022-08-24T03:42:42Z
+203.83.75.18,ip075018.hkicable.com.,9513,HK Cable TV Ltd,HK,,,,false,1.00,2022-08-24T03:43:35Z,2022-08-24T03:43:35Z
+203.83.75.19,ip075019.hkicable.com.,9513,HK Cable TV Ltd,HK,,,,false,1.00,2022-08-24T03:43:42Z,2022-08-24T03:43:42Z
+203.98.133.71,ns4.1sthost.com.,17444,HKBN Enterprise Solutions Limited,HK,Ma On Shan,,,false,1.00,2022-08-24T03:44:03Z,2022-08-24T03:44:03Z
+210.17.195.71,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,,false,1.00,2022-08-24T03:44:12Z,2022-08-24T03:44:12Z
+210.87.250.116,ns1.ednet.imsbiz.com.,4515,HKT Limited,HK,,[Secured],,true,1.00,2022-08-24T03:44:51Z,2022-08-24T03:44:51Z
+210.87.250.156,ns11.imsbiz.com.,4515,HKT Limited,HK,,[Secured],,true,1.00,2022-08-24T03:44:54Z,2022-08-24T03:44:54Z
+218.188.25.94,ns.concordns.com.,9304,HGC Global Communications Limited,HK,Central,9.2.4,,false,1.00,2022-08-24T03:45:04Z,2022-08-24T03:45:04Z
+218.255.143.130,mail.unioncameraltd.com.,9381,HKBN Enterprise Solutions HK Limited,HK,Tung Chung,9.16.1-Ubuntu,,true,1.00,2022-08-24T03:45:44Z,2022-08-24T03:45:44Z
+218.255.20.119,static.reserve.wtt.net.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,not necessary information,,false,1.00,2022-08-24T03:45:58Z,2022-08-24T03:45:58Z
+43.243.31.33,,38197,Sun Network Hong Kong Limited - HongKong Backbone,HK,,,i/o timeout,,0.14,2022-09-08T12:27:21Z,2022-08-24T07:26:45Z
+58.177.179.58,058177179058.ctinets.com.,10103,HK Broadband Network Ltd.,HK,Central,,,false,0.97,2022-08-25T10:25:14Z,2022-08-24T07:27:39Z
+58.64.129.13,,17444,HKBN Enterprise Solutions Limited,HK,,9.2.4,Unexpected result for example.com: NXDOMAIN,,0.36,2022-08-25T10:25:14Z,2022-08-24T07:27:45Z
+59.152.204.170,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,9.11.4-P2-RedHat-9.11.4-9.P2.el7,,true,1.00,2022-08-25T10:25:03Z,2022-08-24T07:28:30Z
+59.152.206.146,mail.elogi.com.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,,false,1.00,2022-08-25T10:25:10Z,2022-08-24T07:28:47Z
+59.188.181.43,,17444,HKBN Enterprise Solutions Limited,HK,,9.16.1-Ubuntu,,true,0.59,2022-08-27T23:26:23Z,2022-08-24T07:28:56Z
+59.188.21.219,mail.icewarp.hk.,17444,HKBN Enterprise Solutions Limited,HK,,,i/o timeout,,0.29,2022-09-01T00:26:53Z,2022-08-24T07:29:00Z
+61.244.16.37,061244016037.ctinets.com.,10103,HK Broadband Network Ltd.,HK,Central,,,false,0.99,2022-08-28T08:27:23Z,2022-08-24T07:29:27Z
+61.244.186.188,061244186188.ctinets.com.,10103,HK Broadband Network Ltd.,HK,Central,Microsoft DNS 6.1.7601 (1DB15F75),,false,1.00,2022-08-24T16:31:05Z,2022-08-24T07:29:29Z
+61.244.186.189,061244186189.ctinets.com.,10103,HK Broadband Network Ltd.,HK,Central,Microsoft DNS 6.1.7601 (1DB15F75),,false,1.00,2022-12-06T23:01:00Z,2022-08-24T07:29:31Z
+103.142.147.14,,135581,"19 Chun Wang Street, Tseung Kwan O Industrial Estate, N.T. Hong Kong",HK,,,,true,0.97,2022-09-03T21:27:16Z,2022-08-24T07:43:39Z
+103.143.28.17,,135581,"19 Chun Wang Street, Tseung Kwan O Industrial Estate, N.T. Hong Kong",HK,,,buffer size too small,,0.97,2022-08-29T12:26:07Z,2022-08-24T07:43:41Z
+103.143.29.68,,135581,"19 Chun Wang Street, Tseung Kwan O Industrial Estate, N.T. Hong Kong",HK,,,,true,0.96,2022-08-26T15:25:59Z,2022-08-24T07:43:43Z
+103.244.53.53,,58779,i4HK Limited,HK,,,,false,1.00,2022-08-26T07:26:08Z,2022-08-24T07:45:03Z
+103.244.53.60,,58779,i4HK Limited,HK,,,i/o timeout,,0.42,2022-08-26T07:26:07Z,2022-08-24T07:45:09Z
+103.246.161.74,ip74.globalgroup.com.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,not necessary information,SERVFAIL for non-existent.example.com,,0.74,2022-08-26T13:26:09Z,2022-08-24T07:45:19Z
+103.246.161.78,ip78.globalgroup.com.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,not necessary information,SERVFAIL for non-existent.example.com,,0.85,2022-11-11T00:41:02Z,2022-08-24T07:45:22Z
+103.247.156.200,outgoing.houstonhk.com.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,9.3.6-P1-RedHat-9.3.6-4.P1.el5_4.2,SERVFAIL for non-existent.example.com,,0.56,2022-08-24T21:24:25Z,2022-08-24T07:45:31Z
+103.249.33.206,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,,false,1.00,2022-08-26T07:26:13Z,2022-08-24T07:45:36Z
+103.250.52.190,mx4.orelix.com.,9381,HKBN Enterprise Solutions HK Limited,HK,Kowloon,9.11.36-RedHat-9.11.36-4.el8,,true,0.81,2022-09-01T00:26:49Z,2022-08-24T07:45:41Z
+103.26.120.114,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,,false,1.00,2022-08-26T07:26:10Z,2022-08-24T07:46:01Z
+103.6.137.52,,9381,HKBN Enterprise Solutions HK Limited,HK,Kowloon,,,false,0.89,2022-08-26T07:26:22Z,2022-08-24T07:46:14Z
+103.98.115.155,,132721,CLOUD GUARD LIMITED,HK,,,,false,1.00,2022-08-26T07:26:17Z,2022-08-24T07:47:18Z
+113.208.80.4,ns4.absatellite.net.,38176,ABS Global,HK,,9.9.4-RedHat-9.9.4-74.el7_6.2,,true,1.00,2022-08-25T05:23:44Z,2022-08-24T07:47:59Z
+113.28.94.231,113-28-94-231.static.imsbiz.com.,4515,HKT Limited,HK,Shatin,,i/o timeout,,0.00,2022-12-06T23:01:27Z,2022-08-24T07:48:10Z
+115.126.20.15,,38186,"Forewin Telecom Group Limited, ISP at",HK,,,,true,0.91,2022-08-26T07:26:09Z,2022-08-24T07:48:20Z
+115.160.158.214,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,9.3.6-P1-RedHat-9.3.6-25.P1.el5_11.12,,false,0.88,2022-09-01T18:23:51Z,2022-08-24T07:48:25Z
+115.160.171.168,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,i/o timeout,,0.52,2022-08-26T07:25:36Z,2022-08-24T07:48:33Z
+115.160.171.169,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,i/o timeout,,0.00,2023-02-08T23:35:56Z,2022-08-24T07:48:39Z
+116.92.199.115,,9381,HKBN Enterprise Solutions HK Limited,HK,Tin Shui Wai,,,false,1.00,2022-08-26T07:26:21Z,2022-08-24T08:01:05Z
+117.18.106.116,,7540,HongKong Commercial Internet Exchange,HK,,9.8.2rc1-RedHat-9.8.2-0.68.rc1.el6_10.1,REFUSED for example.com,,0.00,2022-12-17T07:06:17Z,2022-08-24T08:01:20Z
+118.140.111.30,static-bbs-30-111-140-118-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,i/o timeout,,0.86,2022-08-26T04:30:17Z,2022-08-24T08:02:05Z
+13.94.62.13,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,HK,Central,,i/o timeout,,0.58,2022-08-29T06:27:23Z,2022-08-24T08:04:15Z
+14.198.179.215,014198179215.ctinets.com.,10103,HK Broadband Network Ltd.,HK,Tsuen Wan,,,false,0.81,2022-08-27T16:25:14Z,2022-08-24T08:04:38Z
+146.196.52.213,146-196-52-213.layerdns.cloud.,133380,Layerstack Limited,HK,,,,false,1.00,2022-09-12T08:32:04Z,2022-08-24T08:05:09Z
+175.45.0.14,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,,false,1.00,2022-09-10T22:29:37Z,2022-08-24T08:06:46Z
+175.45.59.150,mail.todaysfashion.com.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Yau Ma Tei,9.2.1,,false,0.96,2022-08-29T09:24:17Z,2022-08-24T08:06:59Z
+183.178.15.74,183178015074.static.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Kwun Hang,,i/o timeout,,0.74,2022-10-17T22:32:29Z,2022-08-24T08:10:52Z
+202.131.73.38,ns2.dragonform.com.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Tai Kok Tsui,9.11.36-RedHat-9.11.36-7.el8,,true,1.00,2022-12-06T23:00:58Z,2022-08-24T08:12:16Z
+202.131.75.162,mailout.gtl-group.com.,9381,HKBN Enterprise Solutions HK Limited,HK,Tuen Mun,,,false,0.94,2023-02-26T08:58:46Z,2022-08-24T08:12:24Z
+202.181.165.60,mx12.852telecom.com.,7540,HongKong Commercial Internet Exchange,HK,,,i/o timeout,,0.71,2022-08-30T19:26:12Z,2022-08-24T08:13:23Z
+202.181.178.163,,7540,HongKong Commercial Internet Exchange,HK,,,i/o timeout,,0.76,2022-09-02T13:24:18Z,2022-08-24T08:13:51Z
+202.181.198.199,,7540,HongKong Commercial Internet Exchange,HK,,,connection refused,,0.91,2022-08-26T08:23:50Z,2022-08-24T08:14:08Z
+202.181.224.3,ns2.hkcix.com.,7540,HongKong Commercial Internet Exchange,HK,,9.8.2rc1-RedHat-9.8.2-0.37.rc1.el6_7.2,REFUSED for example.com,,0.47,2022-08-26T11:26:31Z,2022-08-24T08:14:37Z
+202.181.233.243,,7540,HongKong Commercial Internet Exchange,HK,,9.7.3-P3-RedHat-9.7.3-8.P3.el6_2.2,,false,1.00,2022-12-06T23:00:57Z,2022-08-24T08:15:06Z
+202.181.239.227,ns1.hksx.com.,7540,HongKong Commercial Internet Exchange,HK,,,SERVFAIL for example.com,,0.00,2022-12-06T23:01:17Z,2022-08-24T08:15:10Z
+202.181.239.228,ns2.hksx.com.,7540,HongKong Commercial Internet Exchange,HK,,,SERVFAIL for example.com,,0.77,2022-08-27T13:26:15Z,2022-08-24T08:15:14Z
+202.181.240.212,mx.hkckme.com.,7540,HongKong Commercial Internet Exchange,HK,,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.9,SERVFAIL for non-existent.example.com,,0.81,2022-08-30T19:26:53Z,2022-08-24T08:15:43Z
+202.181.240.213,mx2.hkckme.com.,7540,HongKong Commercial Internet Exchange,HK,,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.9,SERVFAIL for non-existent.example.com,,0.71,2022-08-24T20:26:27Z,2022-08-24T08:15:45Z
+202.181.242.136,,7540,HongKong Commercial Internet Exchange,HK,,,,false,0.41,2022-09-14T10:34:55Z,2022-08-24T08:16:04Z
+202.64.71.6,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,9.9.4-RedHat-9.9.4-14.el7_0.1,,true,1.00,2022-08-25T03:30:53Z,2022-08-24T08:17:02Z
+202.64.71.8,ns3.hoplun.com.,9381,HKBN Enterprise Solutions HK Limited,HK,,,i/o timeout,,0.42,2022-09-19T09:31:09Z,2022-08-24T08:17:05Z
+202.77.35.41,202077035041.static.ctinets.com.,10103,HK Broadband Network Ltd.,HK,Central,9.11.26-RedHat-9.11.26-6.el8,,true,0.99,2022-08-29T09:24:03Z,2022-08-24T08:18:04Z
+202.77.35.42,202077035042.static.ctinets.com.,10103,HK Broadband Network Ltd.,HK,Central,9.11.26-RedHat-9.11.26-6.el8,,true,1.00,2022-08-27T07:30:49Z,2022-08-24T08:18:07Z
+203.184.176.150,,9304,HGC Global Communications Limited,HK,,9.2.8-P1,,false,0.82,2022-09-10T22:29:40Z,2022-08-24T08:20:36Z
+203.198.181.53,,4515,HKT Limited,HK,Central,,,false,0.98,2022-09-03T21:24:10Z,2022-08-24T08:21:10Z
+203.198.62.23,023.62.198.203.static.netvigator.com.,4515,HKT Limited,HK,Sha Tin Wai,,,false,1.00,2022-08-26T16:24:00Z,2022-08-24T08:21:24Z
+210.0.134.5,ns1.longshore.com.hk.,9304,HGC Global Communications Limited,HK,Central,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.3,,true,1.00,2022-08-24T18:25:23Z,2022-08-24T08:22:29Z
+210.176.210.4,,4515,HKT Limited,HK,Central,Microsoft DNS 6.1.7601 (1DB15D39),,false,0.73,2022-09-02T13:26:10Z,2022-08-24T08:22:40Z
+210.176.210.5,,4515,HKT Limited,HK,Central,Microsoft DNS 6.0.6001 (17714650),SERVFAIL for non-existent.example.com,,0.38,2022-08-30T18:27:23Z,2022-08-24T08:22:42Z
+210.176.252.245,,4515,HKT Limited,HK,Central,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.9,REFUSED for example.com,,0.33,2022-08-27T18:31:10Z,2022-08-24T08:22:59Z
+210.176.252.246,ns1.nwff.com.hk.,4515,HKT Limited,HK,Central,9.11.26-RedHat-9.11.26-6.el8,REFUSED for example.com,,0.32,2022-08-26T08:30:11Z,2022-08-24T08:23:16Z
+210.176.252.247,ns.nwff.com.hk.,4515,HKT Limited,HK,Central,9.11.26-RedHat-9.11.26-6.el8,REFUSED for example.com,,0.31,2022-08-26T04:26:34Z,2022-08-24T08:23:25Z
+210.177.222.168,mail.n4system.com.,4515,HKT Limited,HK,Mid Levels,,,false,1.00,2023-02-26T08:58:41Z,2022-08-24T08:23:57Z
+210.184.24.65,srv065.orelix.com.,4058,CITIC Telecom International CPC Limited,HK,,9.11.36-RedHat-9.11.36-4.el8,,true,0.92,2022-08-30T19:26:10Z,2022-08-24T08:24:04Z
+210.3.143.206,static-bbs-206-143-3-210-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,i/o timeout,,0.75,2022-08-26T21:24:00Z,2022-08-24T08:24:31Z
+210.3.234.46,mail.etradehk.com.,9304,HGC Global Communications Limited,HK,Central,,,false,0.90,2022-08-25T10:25:16Z,2022-08-24T08:24:35Z
+210.3.252.27,static-bbs-27-252-3-210-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,9.16.8-Ubuntu,,true,1.00,2022-08-26T04:30:29Z,2022-08-24T08:24:39Z
+218.102.13.133,wtsun009133.netvigator.com.,4760,HKT Limited,HK,Central,,,false,1.00,2022-08-24T15:30:57Z,2022-08-24T08:25:01Z
+218.253.232.18,18.232-253-218-static.reserve.wtt.net.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,DNSServer,SERVFAIL for example.com,,0.54,2022-08-25T02:25:18Z,2022-08-24T08:26:15Z
+218.253.232.19,19.232-253-218-static.reserve.wtt.net.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,DNSServer,,false,1.00,2022-08-24T15:31:06Z,2022-08-24T08:26:19Z
+218.255.101.37,emailme.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Sai Kung,9.3.6-P1-RedHat-9.3.6-25.P1.el5_11.12,,false,1.00,2022-08-24T15:31:08Z,2022-08-24T08:26:25Z
+218.255.18.2,static.reserve.wtt.net.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,9.3.6-P1-RedHat-9.3.6-25.P1.el5_11.8,,false,0.85,2022-08-25T06:26:01Z,2022-08-24T08:26:33Z
+218.255.3.85,mail.compomax.com.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,,false,1.00,2022-08-24T15:31:15Z,2022-08-24T08:26:36Z
+221.126.248.195,static-sch-195-248-126-221-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,,false,0.89,2022-08-31T07:23:59Z,2022-08-24T08:27:42Z
+223.197.185.46,223-197-185-46.static.imsbiz.com.,4760,HKT Limited,HK,Central,9.11.3-1ubuntu1.17-Ubuntu,,true,0.99,2022-09-10T22:29:35Z,2022-08-24T08:27:45Z
+223.197.27.139,223-197-27-139.static.imsbiz.com.,4515,HKT Limited,HK,Kowloon,,,false,0.76,2022-08-25T04:30:38Z,2022-08-24T08:27:48Z
+223.197.33.81,223-197-33-81.static.imsbiz.com.,4515,HKT Limited,HK,Tai Wan To,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.5,,true,0.90,2022-08-24T22:30:43Z,2022-08-24T08:27:55Z
+223.255.176.195,,9381,HKBN Enterprise Solutions HK Limited,HK,Wanchai,Microsoft DNS 6.0.6002 (17725FAC),,false,1.00,2022-08-24T23:30:38Z,2022-08-24T08:28:34Z
+23.102.236.129,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,HK,Central,,,false,1.00,2022-08-26T18:25:23Z,2022-08-24T08:28:53Z
+58.64.173.133,svr2.hirasbespoke.com.,17444,HKBN Enterprise Solutions Limited,HK,,,,false,1.00,2022-08-24T08:38:28Z,2022-08-24T08:38:28Z
+58.64.173.134,svr3.hirastailors.com.,17444,HKBN Enterprise Solutions Limited,HK,,,,false,1.00,2022-08-24T08:38:39Z,2022-08-24T08:38:39Z
+58.64.213.180,int-core.com.,17444,HKBN Enterprise Solutions Limited,HK,,9.3.6-P1-RedHat-9.3.6-25.P1.el5_11.8,,false,1.00,2022-08-24T08:39:06Z,2022-08-24T08:39:06Z
+58.64.214.166,,17444,HKBN Enterprise Solutions Limited,HK,,9.10.3-P4-Ubuntu,,true,1.00,2022-08-24T08:39:09Z,2022-08-24T08:39:09Z
+59.148.14.33,ms2.fcsl.com.hk.,9269,Hong Kong Broadband Network Ltd.,HK,Wong Tai Sin,,,false,1.00,2022-08-24T08:39:19Z,2022-08-24T08:39:19Z
+59.152.235.163,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,,false,1.00,2022-08-24T08:39:50Z,2022-08-24T08:39:50Z
+59.152.238.147,,9381,HKBN Enterprise Solutions HK Limited,HK,Tuen Mun,,,false,1.00,2022-08-24T08:40:11Z,2022-08-24T08:40:11Z
+59.152.242.164,mail.infotools.com.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,,false,1.00,2022-08-24T08:40:29Z,2022-08-24T08:40:29Z
+59.152.242.165,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,,false,1.00,2022-08-24T08:40:38Z,2022-08-24T08:40:38Z
+59.188.10.22,59-188-10-22.vlab-hk.com.,17444,HKBN Enterprise Solutions Limited,HK,,Microsoft DNS 6.1.7600 (1DB04001),,false,1.00,2022-08-24T08:40:51Z,2022-08-24T08:40:51Z
+59.188.10.29,,17444,HKBN Enterprise Solutions Limited,HK,,,,false,1.00,2022-08-24T08:41:05Z,2022-08-24T08:41:05Z
+61.238.159.4,061238159004.static.ctinets.com.,10103,HK Broadband Network Ltd.,HK,Central,[secured],,false,1.00,2022-08-24T08:41:42Z,2022-08-24T08:41:42Z
+61.93.244.82,061093244082.static.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,9.10.3-P4-Ubuntu,,true,1.00,2022-08-24T08:41:55Z,2022-08-24T08:41:55Z
+18.167.5.157,ec2-18-167-5-157.ap-east-1.compute.amazonaws.com.,16509,AMAZON-02,HK,,PowerDNS Recursor 4.6.0,,false,1.00,2022-08-24T09:42:42Z,2022-08-24T09:42:42Z
+1.36.42.237,1-36-42-237.ptr.netvigator.com.,4760,HKT Limited,HK,Central,[Secured],,true,1.00,2022-08-26T20:37:20Z,2022-08-26T20:37:20Z
+1.36.53.241,1-36-53-241.ptr.netvigator.com.,4760,HKT Limited,HK,Central,dnsmasq-2.76,,false,1.00,2022-08-26T20:37:40Z,2022-08-26T20:37:40Z
+1.36.115.197,1-36-115-197.ptr.netvigator.com.,4760,HKT Limited,HK,Central,dnsmasq-pi-hole-2.87test8,,false,1.00,2022-08-26T20:39:21Z,2022-08-26T20:39:21Z
+1.36.117.34,1-36-117-034.ptr.netvigator.com.,4760,HKT Limited,HK,Sai Kung,Nominum Vantio CacheServe 7.5.1.0,,true,1.00,2022-08-26T20:39:22Z,2022-08-26T20:39:22Z
+1.36.122.247,1-36-122-247.ptr.netvigator.com.,4760,HKT Limited,HK,Tai Po,,,false,1.00,2022-08-26T20:39:32Z,2022-08-26T20:39:32Z
+1.36.153.231,1-36-153-231.ptr.netvigator.com.,4760,HKT Limited,HK,Central,Nominum Vantio CacheServe 7.5.1.0,,true,1.00,2022-08-26T20:40:23Z,2022-08-26T20:40:23Z
+1.64.71.199,1-64-71-199.static.netvigator.com.,4760,HKT Limited,HK,Central,Nominum Vantio CacheServe 7.5.1.0,,false,1.00,2022-08-26T23:55:31Z,2022-08-26T23:55:31Z
+1.64.111.94,1-64-111-094.static.netvigator.com.,4760,HKT Limited,HK,Central,Nominum Vantio CacheServe 7.5.1.0,,true,1.00,2022-08-26T23:56:36Z,2022-08-26T23:56:36Z
+1.64.200.69,1-64-200-069.static.netvigator.com.,4760,HKT Limited,HK,Central,,,false,1.00,2022-08-26T23:59:03Z,2022-08-26T23:59:03Z
+1.64.209.100,1-64-209-100.static.netvigator.com.,4760,HKT Limited,HK,Central,Nominum Vantio CacheServe 7.5.1.0,,false,1.00,2022-08-26T23:59:25Z,2022-08-26T23:59:25Z
+1.65.182.116,1-65-182-116.static.netvigator.com.,4760,HKT Limited,HK,Central,Nominum Vantio CacheServe 7.5.1.0,,false,1.00,2022-08-27T00:05:38Z,2022-08-27T00:05:38Z
+1.65.187.15,1-65-187-015.static.netvigator.com.,4760,HKT Limited,HK,Central,dnsmasq-2.49,,true,1.00,2022-08-27T00:05:45Z,2022-08-27T00:05:45Z
+1.65.202.61,1-65-202-061.static.netvigator.com.,4760,HKT Limited,HK,Central,,,false,1.00,2022-08-27T00:06:10Z,2022-08-27T00:06:10Z
+1.65.208.107,1-65-208-107.static.netvigator.com.,4760,HKT Limited,HK,Central,[Secured],,false,1.00,2022-08-27T00:06:23Z,2022-08-27T00:06:23Z
+1.65.210.27,1-65-210-027.static.netvigator.com.,4760,HKT Limited,HK,Central,dnsmasq-2.49,,true,1.00,2022-08-27T00:06:27Z,2022-08-27T00:06:27Z
+1.36.155.116,1-36-155-116.ptr.netvigator.com.,4760,HKT Limited,HK,Central,[Secured],,true,1.00,2022-09-01T13:35:12Z,2022-09-01T08:53:21Z
+1.36.158.201,1-36-158-201.ptr.netvigator.com.,4760,HKT Limited,HK,Central,dnsmasq-2.61,,true,1.00,2022-09-01T13:35:13Z,2022-09-01T08:53:30Z
+1.36.227.113,1-36-227-113.ptr.netvigator.com.,4760,HKT Limited,HK,Tai Wan To,dnsmasq-2.80,,true,1.00,2022-09-01T12:30:49Z,2022-09-01T08:55:31Z
+1.64.45.187,1-64-45-187.static.netvigator.com.,4760,HKT Limited,HK,Central,,,false,0.59,2022-09-19T09:31:20Z,2022-09-01T12:27:20Z
+1.64.127.229,1-64-127-229.static.netvigator.com.,4760,HKT Limited,HK,Central,Nominum Vantio CacheServe 7.5.1.0,,false,1.00,2022-09-01T12:29:46Z,2022-09-01T12:29:46Z
+1.64.163.193,1-64-163-193.static.netvigator.com.,4760,HKT Limited,HK,Central,Nominum Vantio CacheServe 7.5.1.0,,true,1.00,2022-09-01T12:30:54Z,2022-09-01T12:30:54Z
+1.64.199.40,1-64-199-040.static.netvigator.com.,4760,HKT Limited,HK,Central,Nominum Vantio CacheServe 7.5.1.0,,false,1.00,2022-09-01T12:31:59Z,2022-09-01T12:31:59Z
+1.64.227.182,1-64-227-182.static.netvigator.com.,4760,HKT Limited,HK,Central,Nominum Vantio CacheServe 7.5.1.0,,false,0.91,2022-09-02T11:26:00Z,2022-09-01T12:32:53Z
+1.65.148.111,1-65-148-111.static.netvigator.com.,4760,HKT Limited,HK,Central,,,false,0.74,2022-09-04T21:31:29Z,2022-09-01T12:38:16Z
+1.65.184.203,1-65-184-203.static.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2022-12-06T23:08:07Z,2022-09-01T12:39:26Z
+5.181.4.158,,9009,M247 Europe SRL,HK,Central,,i/o timeout,,0.00,2023-02-08T23:43:46Z,2022-09-08T23:31:31Z
+5.181.4.136,,9009,M247 Ltd,HK,Central,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.9,,true,0.58,2022-09-13T15:35:23Z,2022-09-08T23:31:31Z
+5.181.4.143,,9009,M247 Europe SRL,HK,Central,,i/o timeout,,0.00,2023-02-08T23:44:34Z,2022-09-08T23:31:31Z
+5.181.4.159,,9009,M247 Europe SRL,HK,Central,,i/o timeout,,0.00,2023-02-08T23:44:11Z,2022-09-08T23:31:33Z
+5.181.4.142,,9009,M247 Ltd,HK,Central,,connection refused,,0.74,2022-09-10T22:29:31Z,2022-09-08T23:31:34Z
+5.181.4.144,,9009,M247 Ltd,HK,Central,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.9,,true,1.00,2022-09-09T13:33:00Z,2022-09-08T23:31:34Z
+5.181.4.151,,9009,M247 Ltd,HK,Central,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.9,,true,0.71,2022-09-27T17:37:44Z,2022-09-08T23:31:34Z
+5.181.4.140,,9009,M247 Europe SRL,HK,Central,,i/o timeout,,0.00,2023-02-08T23:44:46Z,2022-09-08T23:31:34Z
+5.188.230.244,bghk.com.,202422,G-Core Labs S.A.,HK,Central,,,false,1.00,2022-09-09T00:29:25Z,2022-09-09T00:29:25Z
+5.188.33.195,a1.ytdx.cc.,202422,G-Core Labs S.A.,HK,Central,,,true,1.00,2022-09-11T04:24:53Z,2022-09-11T04:24:53Z
+203.198.214.41,203-198-214-041.static.netvigator.com.,4515,HKT Limited,HK,Tseung Kwan O,,,true,0.97,2023-03-01T03:45:20Z,2022-09-28T17:12:26Z
+210.87.250.107,,4515,HKT Limited,HK,,,i/o timeout,,0.00,2023-02-08T23:47:46Z,2022-09-29T21:04:12Z
+58.64.151.75,,17444,HKBN Enterprise Solutions Limited,HK,,,i/o timeout,,0.00,2023-02-08T23:47:52Z,2022-09-30T02:50:44Z
+175.45.31.45,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,i/o timeout,,0.20,2023-02-15T05:01:56Z,2022-09-30T09:09:54Z
+14.0.132.153,14-0-132-153.static.pccw-hkt.com.,38819,HKCSL GPRS NETWORK,HK,Tai Wan,Akamai Vantio CacheServe 7.6.3.1,,false,1.00,2022-09-30T19:29:02Z,2022-09-30T19:29:02Z
+128.1.137.203,,135377,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,HK,Central,dnsmasq-2.79,,false,0.74,2022-10-14T22:29:43Z,2022-10-01T11:05:00Z
+20.187.88.27,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,HK,Central,dnsmasq-2.80,,false,1.00,2022-10-01T23:36:46Z,2022-10-01T17:28:16Z
+218.255.83.54,static.reserve.wtt.net.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Tsimshatsui,[SECURED],,false,0.58,2022-10-04T10:39:07Z,2022-10-01T23:43:14Z
+14.199.100.47,014199100047.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Kowloon,,,true,1.00,2022-10-04T00:40:05Z,2022-10-03T19:15:16Z
+165.154.225.65,,142002,Scloud Pte Ltd,HK,Central,dnsmasq-2.80,,false,0.97,2022-10-17T11:31:46Z,2022-10-08T17:09:03Z
+112.118.247.173,n112118247173.netvigator.com.,4760,HKT Limited,HK,Central,dnsmasq-2.40,,true,1.00,2022-10-12T17:31:04Z,2022-10-10T23:35:38Z
+218.253.142.166,static.reserve.wtt.net.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,i/o timeout,,0.99,2022-10-14T22:32:23Z,2022-10-12T21:27:46Z
+61.244.78.158,061244078158.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,connection refused,,0.00,2023-02-08T23:51:22Z,2022-10-14T04:57:05Z
+1.64.55.14,1-64-55-014.static.netvigator.com.,4760,HKT Limited,HK,Central,[Secured],,true,1.00,2022-10-15T04:44:40Z,2022-10-15T04:44:40Z
+43.230.206.29,,135386,LinkChina Telecom Global Limited.,HK,,,,false,1.00,2022-10-16T13:35:42Z,2022-10-15T11:01:44Z
+202.88.116.166,202-88-116-166.static.hk.net.,4058,CITIC Telecom International CPC Limited,HK,,dnsmasq-,,false,1.00,2022-10-16T06:35:55Z,2022-10-15T20:20:29Z
+103.162.172.65,static-ip-65-172-162-103.TWOWINCOLIMITED-HK.COM.,133929,"TWOWIN CO., LIMITED",HK,,PowerDNS Recursor 4.5.7 (built Nov  5 2021 07:20:14 by root@cbff30d82427),,false,1.00,2022-10-16T06:35:53Z,2022-10-16T05:23:44Z
+42.98.75.247,42-98-75-247.static.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-02-08T23:54:04Z,2022-10-16T20:04:56Z
+154.89.12.55,,134687,TWIDC Limited,HK,Central,dnsmasq-*.*.*,,false,1.00,2022-10-17T11:36:19Z,2022-10-16T21:25:52Z
+116.48.213.199,n11648213199.netvigator.com.,9444,Hong Kong Telecommunications HKT Limited,HK,,Akamai Vantio CacheServe 7.6.3.1,,true,0.70,2022-10-18T10:40:13Z,2022-10-18T07:04:14Z
+113.208.95.73,host-113-208-95-073.absatellite.net.,45572,ABS-Global-SEA,HK,,Microsoft DNS 6.1.7601 (1DB14556),,false,0.95,2022-10-28T09:32:23Z,2022-10-18T16:19:12Z
+183.178.25.68,183178025068.ctinets.com.,10103,HK Broadband Network Ltd.,HK,Kowloon,unbound 1.4.22,,false,1.00,2022-10-19T20:32:22Z,2022-10-19T12:19:33Z
+210.6.134.53,210006134053.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Shatin,,i/o timeout,,0.22,2022-10-24T03:32:56Z,2022-10-19T14:54:37Z
+124.244.197.96,124244197096.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Shatin,DNSServer,,false,1.00,2022-10-28T14:35:23Z,2022-10-20T08:03:28Z
+45.200.105.238,,133929,"TWOWIN CO., LIMITED",HK,,dnsmasq-2.73r8-2015-6-5-fnetlink,,false,1.00,2022-10-21T20:35:40Z,2022-10-21T20:35:40Z
+59.148.247.50,059148247050.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.43,2023-02-14T05:28:01Z,2022-10-23T01:15:36Z
+202.88.116.98,202-88-116-98.static.hk.net.,4058,CITIC Telecom International CPC Limited,HK,,dnsmasq-,,false,0.87,2023-02-26T00:58:01Z,2022-10-23T02:39:05Z
+223.16.125.225,225-125-16-223-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,dnsmasq-2.80,,false,1.00,2022-10-24T03:36:19Z,2022-10-24T02:19:31Z
+183.178.57.8,183178057008.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,,true,1.00,2022-10-24T03:34:50Z,2022-10-24T03:34:50Z
+202.88.116.24,202-88-116-24.static.hk.net.,4058,CITIC Telecom International CPC Limited,HK,,dnsmasq-,,false,1.00,2022-10-24T12:54:01Z,2022-10-24T12:54:01Z
+210.177.175.183,ip183175.imsbiz.com.,4515,HKT Limited,HK,Central,dnsmasq-,,false,0.98,2022-11-29T23:32:31Z,2022-10-24T12:57:17Z
+113.28.71.243,113-28-71-243.static.imsbiz.com.,4515,HKT Limited,HK,Central,dnsmasq-,,false,1.00,2022-10-27T10:37:46Z,2022-10-25T13:10:51Z
+43.134.195.92,,132203,"Tencent Building, Kejizhongyi Avenue",HK,Central,dnsmasq-2.85,,false,1.00,2022-11-08T23:33:29Z,2022-10-25T18:02:58Z
+103.247.140.202,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,9.11.22,,false,0.97,2022-11-26T12:39:49Z,2022-10-26T03:50:57Z
+218.252.205.51,cm218-252-205-51.hkcable.com.hk.,9908,HK Cable TV Ltd,HK,Central,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.5,,false,1.00,2022-10-26T09:47:18Z,2022-10-26T09:47:18Z
+103.253.239.147,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,,false,0.84,2022-10-27T10:37:36Z,2022-10-26T11:49:30Z
+117.18.119.39,,7540,HongKong Commercial Internet Exchange,HK,,,i/o timeout,,0.75,2022-11-11T04:50:03Z,2022-10-28T00:15:46Z
+103.135.103.147,,38136,Akari Networks,HK,Wanchai,dnsmasq-2.80,,false,0.16,2023-03-07T13:46:56Z,2022-10-28T07:18:06Z
+103.48.142.109,mx2.haikuasia.com.,133929,"TWOWIN CO., LIMITED",HK,,PowerDNS Recursor 4.5.9 (built Mar 30 2022 09:10:39 by root@bb055f6cb49e),,false,1.00,2022-10-28T09:35:06Z,2022-10-28T08:38:19Z
+42.2.127.92,42-2-127-092.static.netvigator.com.,4760,HKT Limited,HK,Central,Nominum Vantio CacheServe 7.5.1.0,,true,0.44,2022-11-10T23:38:32Z,2022-10-28T11:25:05Z
+219.77.237.179,n219077237179.netvigator.com.,4760,HKT Limited,HK,Yuen Long,,i/o timeout,,0.00,2023-02-09T00:07:33Z,2022-10-29T16:56:14Z
+152.101.194.88,152-101-194-88.static.hk.net.,4058,CITIC Telecom International CPC Limited,HK,,,i/o timeout,,0.99,2022-12-06T20:47:29Z,2022-10-29T23:10:12Z
+119.28.40.40,,132203,"Tencent Building, Kejizhongyi Avenue",HK,Central,,,true,0.39,2022-11-11T00:49:39Z,2022-10-30T19:51:06Z
+219.77.18.54,n219077018054.netvigator.com.,4760,HKT Limited,HK,Central,[Secured],,false,0.90,2022-11-05T15:38:53Z,2022-10-30T21:47:59Z
+103.29.142.35,,63981,"43F, AIA Tower, 183 Electric Road, North Point, Hong Kong",HK,,,,false,0.94,2022-11-01T16:47:12Z,2022-10-31T03:45:52Z
+219.77.91.86,n219077091086.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.75,2022-11-11T00:58:28Z,2022-11-04T02:13:12Z
+45.251.108.233,,135356,CN CARE NETWORK LTD,HK,,,,false,1.00,2022-11-11T03:02:05Z,2022-11-04T19:47:57Z
+203.218.199.13,pcd409013.netvigator.com.,4760,HKT Limited,HK,Kowloon,,i/o timeout,,0.00,2023-02-15T22:14:53Z,2022-11-05T10:16:20Z
+14.199.176.3,014199176003.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,dnsmasq-2.40,,true,0.56,2022-11-11T01:00:42Z,2022-11-07T00:37:37Z
+61.238.69.21,061238069021.ctinets.com.,10103,HK Broadband Network Ltd.,HK,Kwun Hang,,,false,0.78,2022-11-13T23:35:45Z,2022-11-08T01:44:29Z
+52.184.96.253,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,HK,Central,dnsmasq-2.80,,false,1.00,2022-11-11T01:01:41Z,2022-11-08T08:32:29Z
+175.45.16.252,ns1.diversity.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Kowloon,,,false,1.00,2022-11-11T01:02:21Z,2022-11-09T14:09:44Z
+223.18.20.125,125-20-18-223-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,i/o timeout,,0.35,2022-11-11T01:02:41Z,2022-11-09T22:09:16Z
+84.17.37.141,unn-84-17-37-141.cdn77.com.,60068,Datacamp Limited,HK,,PowerDNS Recursor 4.1.4 (built Oct 24 2018 15:00:58 by portage@frankfurt-ns02),,false,1.00,2022-11-11T01:03:01Z,2022-11-10T13:28:24Z
+113.254.8.35,35-8-254-113-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,dnsmasq-2.62,,false,0.88,2022-11-11T01:03:15Z,2022-11-10T15:15:41Z
+103.163.154.141,static-ip-141-154-163-103.TWOWINCOLIMITED-HK.COM.,133929,"TWOWIN CO., LIMITED",HK,,PowerDNS Recursor 4.5.7 (built Nov  5 2021 07:20:14 by root@cbff30d82427),,false,1.00,2022-11-12T19:40:57Z,2022-11-11T15:20:28Z
+124.244.215.197,124244215197.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,,true,0.98,2022-11-16T14:38:15Z,2022-11-12T17:59:47Z
+43.252.151.213,,58411,"Unit A-E, 13F, Golden Sun Centre",HK,,dnsmasq-2.48,,true,1.00,2022-11-13T23:35:34Z,2022-11-12T20:46:54Z
+45.200.104.55,,133929,"TWOWIN CO., LIMITED",HK,,PowerDNS Recursor 4.5.9 (built Mar 30 2022 09:10:39 by root@bb055f6cb49e),,false,0.98,2022-11-14T14:34:09Z,2022-11-13T10:43:15Z
+103.71.252.35,,45753,Netsec Limited,HK,,,,false,1.00,2023-02-09T00:21:47Z,2022-11-14T05:39:01Z
+58.176.22.187,058176022187.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,,true,0.43,2023-02-14T14:05:37Z,2022-11-14T06:50:34Z
+42.200.141.141,42-200-141-141.static.imsbiz.com.,4760,HKT Limited,HK,Central,ZyWALL DNS,,false,1.00,2023-02-09T00:22:09Z,2022-11-14T11:00:36Z
+182.160.11.208,ecs-182-160-11-208.compute.hwclouds-dns.com.,136907,HUAWEI CLOUDS,HK,Central,9.13.7,,false,1.00,2023-02-25T21:53:02Z,2022-11-14T20:45:56Z
+218.253.35.122,cm218-253-35-122.hkcable.com.hk.,9908,HK Cable TV Ltd,HK,Tai Wan,,i/o timeout,,0.00,2023-02-09T00:22:00Z,2022-11-15T16:19:04Z
+198.44.255.252,,134196,"ANYUN INTERNET TECHNOLOGY HK CO.,LIMITED",HK,Central,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.9,,true,1.00,2022-12-06T22:01:11Z,2022-11-16T13:51:08Z
+123.203.241.168,123203241168.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Kowloon,,i/o timeout,,0.00,2023-02-14T07:52:12Z,2022-11-16T17:23:16Z
+182.239.78.192,182.239.78.192.hk.chinamobile.com.,9231,China Mobile Hong Kong Company Limited,HK,Central,dnsmasq-2.79,,false,1.00,2022-12-06T22:02:47Z,2022-11-18T08:20:37Z
+219.78.38.16,n219078038016.netvigator.com.,4760,HKT Limited,HK,Fanling,Nominum Vantio CacheServe 7.5.1.0,,true,1.00,2022-12-06T22:03:01Z,2022-11-18T14:39:10Z
+103.38.144.78,,131189,Livecom Limited,HK,,,,true,1.00,2022-12-06T22:03:16Z,2022-11-18T21:48:19Z
+61.244.47.21,061244047021.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,,false,0.98,2022-12-12T17:18:22Z,2022-11-19T05:35:07Z
+119.8.106.199,ecs-119-8-106-199.compute.hwclouds-dns.com.,136907,HUAWEI CLOUDS,HK,Central,,i/o timeout,,0.97,2022-12-06T22:03:41Z,2022-11-19T06:42:07Z
+223.255.158.82,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,,true,1.00,2022-12-06T22:03:52Z,2022-11-19T10:13:41Z
+113.254.148.86,86-148-254-113-on-nets.com.,9304,HGC Global Communications Limited,HK,Ngau Kok Wan,,,false,1.00,2022-12-06T22:04:10Z,2022-11-19T22:55:15Z
+183.179.55.157,183179055157.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Kowloon,,i/o timeout,,0.00,2023-02-09T00:28:31Z,2022-11-20T11:52:30Z
+61.238.97.254,061238097254.ctinets.com.,10103,HK Broadband Network Ltd.,HK,Central,,,true,1.00,2022-12-06T22:04:47Z,2022-11-20T14:30:44Z
+103.152.206.97,,138456,OceanBlue Cloud Technology Limited,HK,,dnsmasq-2.80,,false,1.00,2022-12-06T22:04:52Z,2022-11-20T17:48:55Z
+14.136.16.86,014136016086.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,,true,0.86,2022-12-06T23:47:33Z,2022-11-21T10:23:34Z
+183.179.189.91,183179189091.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.31,2022-12-06T23:49:10Z,2022-11-23T03:30:54Z
+219.73.50.208,n219073050208.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-02-19T07:51:10Z,2022-11-23T07:18:43Z
+183.179.245.121,183179245121.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.00,2023-02-18T17:08:41Z,2022-11-23T11:46:48Z
+113.252.100.135,135-100-252-113-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,,false,0.98,2022-12-06T23:50:23Z,2022-11-24T12:29:56Z
+58.176.173.177,058176173177.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,,true,0.75,2022-12-13T18:06:23Z,2022-11-24T23:22:15Z
+154.91.63.86,,54600,PEGTECHINC,HK,,,,false,0.87,2022-12-10T21:17:49Z,2022-11-25T14:08:27Z
+116.49.199.121,n11649199121.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-02-08T23:36:11Z,2022-11-25T19:59:27Z
+119.247.48.183,119247048183.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,dnsmasq-2.76,,false,0.80,2022-12-06T23:52:26Z,2022-11-26T15:11:22Z
+103.198.19.2,,131189,Livecom Limited,HK,,Microsoft DNS 6.1.7601 (1DB15F75),,false,0.58,2023-02-14T14:57:48Z,2022-11-27T03:15:46Z
+183.178.36.185,183178036185.ctinets.com.,10103,HK Broadband Network Ltd.,HK,Central,dnsmasq-,,false,1.00,2022-12-06T23:52:58Z,2022-11-27T10:04:56Z
+42.3.27.209,42-3-27-209.ptr.netvigator.com.,4760,HKT Limited,HK,Central,dnsmasq-2.40,,true,0.52,2022-12-06T23:53:23Z,2022-11-28T12:56:45Z
+103.100.113.210,,133527,HuaBo Technology International Limited,HK,,,,true,1.00,2023-02-09T14:00:00Z,2022-11-29T06:29:13Z
+18.163.222.240,ec2-18-163-222-240.ap-east-1.compute.amazonaws.com.,16509,AMAZON-02,HK,,,,false,1.00,2022-12-06T23:54:35Z,2022-11-29T21:16:05Z
+103.169.96.34,static-ip-34-96-169-103.TWOWINCOLIMITED-HK.COM.,133929,"TWOWIN CO., LIMITED",HK,,PowerDNS Recursor 4.5.7 (built Nov  5 2021 07:20:14 by root@cbff30d82427),,false,0.98,2022-12-06T23:55:09Z,2022-11-30T17:51:44Z
+37.123.196.149,,41378,Kirino LLC,HK,Central,,connection refused,,0.00,2023-02-09T00:29:21Z,2022-12-02T22:29:14Z
+203.198.147.128,128.147.198.203.static.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-02-09T00:30:04Z,2022-12-03T17:20:47Z
+203.198.78.180,180.78.198.203.static.netvigator.com.,4515,HKT Limited,HK,Central,dnsmasq-,,false,1.00,2023-02-09T00:30:20Z,2022-12-04T08:00:08Z
+138.19.151.193,138019151193.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,connection refused,,0.00,2023-02-09T00:30:42Z,2022-12-04T18:32:27Z
+112.120.135.244,n112120135244.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-02-27T16:49:51Z,2022-12-05T01:48:58Z
+182.153.17.252,m182-153-17-252.smartone.com.,17924,SmarTone Mobile Communications Ltd,HK,Tai Kok Tsui,,i/o timeout,,0.00,2023-02-19T11:51:08Z,2022-12-07T00:21:47Z
+42.3.20.115,42-3-20-115.ptr.netvigator.com.,4760,HKT Limited,HK,Wong Tai Sin,,,false,0.19,2023-02-14T05:48:33Z,2022-12-07T20:29:02Z
+52.229.172.73,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,HK,Central,dnsmasq-2.48,,false,0.70,2023-02-19T13:07:30Z,2022-12-08T19:35:32Z
+183.178.62.246,183178062246.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,,false,0.83,2023-02-15T15:51:46Z,2022-12-08T22:30:05Z
+103.152.206.100,,138456,OceanBlue Cloud Technology Limited,HK,,dnsmasq-2.80,,false,1.00,2023-02-19T17:53:25Z,2022-12-10T18:29:14Z
+167.179.59.42,,135273,NTC ASIA LIMITED,HK,,,connection refused,,0.00,2023-02-15T15:52:57Z,2022-12-11T00:18:19Z
+47.243.201.32,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,,,true,1.00,2023-02-15T15:53:17Z,2022-12-11T12:13:29Z
+182.153.18.14,m182-153-18-14.smartone.com.,17924,SmarTone Mobile Communications Ltd,HK,Yuen Long,,connection refused,,0.00,2023-02-15T15:53:25Z,2022-12-11T22:33:38Z
+113.28.253.6,113-28-253-6.static.imsbiz.com.,4760,HKT Limited,HK,Central,9.8.2rc1-RedHat-9.8.2-0.62.rc1.el6_9.4,,true,0.64,2023-02-15T17:12:35Z,2022-12-13T05:58:33Z
+116.48.109.90,n11648109090.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-02-15T17:12:47Z,2022-12-13T11:42:18Z
+14.199.27.169,014199027169.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Kowloon,DNSServer,,false,1.00,2023-02-16T16:05:35Z,2022-12-15T06:55:10Z
+210.176.88.93,,4515,HKT Limited,HK,Tsimshatsui,9.10.3-P4-Ubuntu,,true,1.00,2023-02-16T16:05:38Z,2022-12-15T11:46:56Z
+47.243.54.10,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,dnsmasq-2.80,Unexpected result for example.com: NXDOMAIN,,0.24,2023-02-17T05:15:16Z,2022-12-16T03:34:58Z
+119.247.175.95,119247175095.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Kowloon,,i/o timeout,,0.67,2023-02-17T05:15:39Z,2022-12-16T04:26:31Z
+14.199.42.193,014199042193.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.10,2023-02-17T05:15:36Z,2022-12-16T13:39:32Z
+112.118.66.35,n11211866035.netvigator.com.,4760,HKT Limited,HK,Central,dnsmasq-2.85,,false,0.86,2023-02-17T05:15:29Z,2022-12-16T14:26:25Z
+45.128.210.132,45.128.210.132.static.xtom.com.,55933,Cloudie Limited,HK,,,,false,1.00,2023-02-17T05:15:40Z,2022-12-17T01:20:32Z
+219.77.79.111,n219077079111.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-02-17T05:15:52Z,2022-12-17T06:08:11Z
+65.181.78.77,65-181-78-077.static.imsbiz.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-02-18T10:12:17Z,2022-12-19T01:10:49Z
+113.253.137.208,208-137-253-113-on-nets.com.,9304,HGC Global Communications Limited,HK,Kowloon,,i/o timeout,,0.00,2023-02-18T10:12:32Z,2022-12-19T09:53:05Z
+117.103.149.26,,10118,Hutchison Telephone Company Limited,HK,Central,,,false,0.75,2023-02-18T10:12:37Z,2022-12-19T12:07:37Z
+113.28.10.178,113-28-10-178.static.imsbiz.com.,4515,HKT Limited,HK,Central,UNKNOWN,,true,0.97,2023-02-18T10:13:11Z,2022-12-20T15:24:42Z
+202.155.202.75,mail.sunlighthk.com.,9381,HKBN Enterprise Solutions HK Limited,HK,Tsimshatsui,Microsoft DNS 6.1.7601 (1DB1446A),,false,0.91,2023-02-24T01:46:02Z,2022-12-21T08:22:46Z
+115.160.160.146,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,i/o timeout,,0.27,2023-02-19T06:07:27Z,2022-12-22T15:41:05Z
+223.18.106.95,95-106-18-223-on-nets.com.,9304,HGC Global Communications Limited,HK,Yuen Long San Hui,,i/o timeout,,0.63,2023-02-19T06:54:20Z,2022-12-24T11:41:30Z
+124.244.117.217,124244117217.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.00,2023-02-19T06:54:37Z,2022-12-24T19:50:47Z
+156.249.17.13,,135386,LinkChina Telecom Global Limited.,HK,Central,,i/o timeout,,0.49,2023-02-20T01:50:08Z,2022-12-25T00:50:38Z
+156.252.21.37,,138456,OceanBlue Cloud Technology Limited,HK,Central,dnsmasq-2.80,,false,1.00,2023-02-20T01:50:19Z,2022-12-26T14:21:08Z
+61.93.197.46,061093197046.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Wong Tai Sin,Microsoft DNS 6.1.7601 (1DB15F75),,false,1.00,2023-02-19T06:55:54Z,2022-12-27T10:14:24Z
+161.81.10.18,161.81.10.18.hk.chinamobile.com.,137872,China Mobile Hong Kong Company Limited,HK,Yuen Long,,i/o timeout,,0.00,2023-02-26T10:01:20Z,2022-12-27T17:35:09Z
+125.59.205.141,cm125-59-205-141.hkcable.com.hk.,9908,HK Cable TV Ltd,HK,Kowloon,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.5,,false,0.55,2023-02-19T07:58:19Z,2022-12-28T08:19:50Z
+156.241.7.91,,132585,SkyExchange Internet Access,HK,,dnsmasq-2.80,,false,1.00,2023-02-19T07:58:40Z,2022-12-28T23:48:20Z
+119.247.145.208,119247145208.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.00,2023-02-19T07:59:34Z,2022-12-30T06:29:55Z
+154.92.105.66,,140595,YunJie Communication HK Company Limited,HK,,,,false,0.99,2023-02-21T21:55:27Z,2022-12-30T09:26:46Z
+119.247.17.84,119247017084.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.00,2023-02-19T18:03:50Z,2022-12-31T03:47:26Z
+223.119.49.244,,58453,"Level 30, Tower 1",HK,Central,dnsmasq-*.*.*,,false,0.92,2023-02-20T01:57:00Z,2022-12-31T05:02:59Z
+119.13.92.87,ecs-119-13-92-87.compute.hwclouds-dns.com.,136907,HUAWEI CLOUDS,HK,Central,,,true,0.74,2023-02-19T20:01:27Z,2023-01-01T11:41:16Z
+210.0.128.241,,9304,HGC Global Communications Limited,HK,Central,,,true,1.00,2023-02-19T20:02:28Z,2023-01-02T18:03:48Z
+210.0.128.242,,9304,HGC Global Communications Limited,HK,Central,,,true,0.99,2023-02-19T20:02:26Z,2023-01-02T18:03:54Z
+152.101.4.130,ns7.hk.net.,4058,CITIC Telecom International CPC Limited,HK,,PowerDNS Recursor 4.5.12 (built Nov 25 2022 13:19:11 by root@6381c4270946),,false,0.99,2023-02-19T20:02:24Z,2023-01-02T19:22:40Z
+175.45.16.253,ns2.diversity.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,,false,1.00,2023-02-19T20:02:26Z,2023-01-02T19:22:45Z
+1.64.50.162,1-64-50-162.static.netvigator.com.,4760,HKT Limited,HK,Yuen Long,,i/o timeout,,0.00,2023-02-20T05:03:22Z,2023-01-04T15:10:56Z
+162.14.21.178,,132203,"Tencent Building, Kejizhongyi Avenue",HK,,,,false,1.00,2023-02-26T10:00:40Z,2023-02-09T23:10:58Z
+162.14.21.56,,132203,"Tencent Building, Kejizhongyi Avenue",HK,,,,false,1.00,2023-02-25T02:07:49Z,2023-02-09T23:11:50Z
+103.244.159.82,mail.leehungfat.com.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,Microsoft DNS 6.1.7601 (1DB15F75),,false,0.99,2023-02-26T10:01:13Z,2023-02-15T17:02:45Z
+116.48.150.197,197.150.48.116.static.netvigator.com.,4760,HKT Limited,HK,Central,Microsoft DNS 6.1.7601 (1DB15CD4),,false,1.00,2023-02-25T02:07:54Z,2023-02-15T17:02:46Z
+202.134.87.4,static-ip-4-87-134-202.rev.dyxnet.com.,9584,Diyixian.com Limited,HK,Yau Ma Tei,,,false,0.89,2023-02-26T07:48:46Z,2023-02-15T17:02:50Z
+202.153.110.47,,9925,Powerbase DataCenter Services HK Ltd.,HK,,,,false,1.00,2023-02-25T20:47:19Z,2023-02-15T17:02:54Z
+202.181.242.131,ns1.apricot.com.hk.,7540,HongKong Commercial Internet Exchange,HK,,,,false,0.99,2023-02-21T21:55:34Z,2023-02-15T17:02:57Z
+210.0.255.144,,9304,HGC Global Communications Limited,HK,,,,true,1.00,2023-02-25T20:46:37Z,2023-02-15T17:03:05Z
+210.0.255.250,bbdns1.on-nets.com.,9304,HGC Global Communications Limited,HK,,,,true,0.98,2023-02-25T20:46:23Z,2023-02-15T17:03:11Z
+210.0.255.251,bbdns2.on-nets.com.,9304,HGC Global Communications Limited,HK,,,,true,0.98,2023-02-26T13:09:23Z,2023-02-15T17:03:14Z
+218.188.215.94,static-bbs-94-215-188-218-on-nets.com.,9304,HGC Global Communications Limited,HK,Sai Kung,,i/o timeout,,0.63,2023-02-26T10:01:23Z,2023-02-15T17:03:27Z
+59.148.213.230,059148213230.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Sha Tin Wai,,,false,0.96,2023-02-26T10:01:04Z,2023-02-15T17:03:34Z
+61.93.207.118,061093207118.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,Microsoft DNS 6.0.6002 (17724655),,false,1.00,2023-02-21T21:58:56Z,2023-02-15T17:03:42Z
+221.125.130.98,,9304,HGC Global Communications Limited,HK,Tsimshatsui,,i/o timeout,,0.66,2023-02-26T13:11:14Z,2023-02-19T15:55:55Z
+45.194.124.173,,138456,OceanBlue Cloud Technology Limited,HK,,dnsmasq-2.75,,false,1.00,2023-02-26T09:06:41Z,2023-02-19T23:58:40Z
+43.228.180.186,,64096,BIH-Global Internet Harbor,HK,Central,PowerDNS Recursor 4.7.0-beta1 (built Apr 13 2022 12:10:09 by root@1ad353981044),SERVFAIL for wikileaks.org,,0.68,2023-02-26T09:06:50Z,2023-02-20T03:30:36Z
+210.3.205.172,,9304,HGC Global Communications Limited,HK,Central,,i/o timeout,,0.73,2023-02-26T09:07:21Z,2023-02-20T06:23:07Z
+156.0.107.152,,328227,CLOUD-TELECOMS,HK,,,i/o timeout,,0.84,2023-02-26T09:07:10Z,2023-02-20T07:02:28Z
+124.244.108.155,124244108155.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,dnsmasq-2.85,,false,0.67,2023-02-26T09:07:04Z,2023-02-20T08:50:08Z
+164.52.51.69,,63199,CDSC-AS1,HK,Central,,,false,0.90,2023-02-28T05:53:05Z,2023-02-20T14:59:16Z
+161.81.133.20,161.81.133.20.hk.chinamobile.com.,137872,China Mobile Hong Kong Company Limited,HK,Central,,i/o timeout,,0.14,2023-02-26T09:07:33Z,2023-02-20T18:01:39Z
+118.140.142.222,static-bbs-222-142-140-118-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,dnsmasq-2.55,,true,0.84,2023-02-26T09:07:50Z,2023-02-20T20:01:06Z
+112.119.145.214,n112119145214.netvigator.com.,4760,HKT Limited,HK,Central,Nominum Vantio CacheServe 7.5.1.0,,false,0.88,2023-02-26T09:07:40Z,2023-02-20T21:03:51Z
+223.122.92.217,,137872,China Mobile Hong Kong Company Limited,HK,Central,,i/o timeout,,0.97,2023-02-26T09:08:46Z,2023-02-21T23:53:00Z
+218.188.220.213,static-bbs-213-220-188-218-on-nets.com.,9304,HGC Global Communications Limited,HK,Kowloon,,,false,1.00,2023-02-26T09:09:35Z,2023-02-22T20:05:49Z
+58.176.232.167,058176232167.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,DNSServer,,false,1.00,2023-02-26T09:09:27Z,2023-02-22T22:28:56Z
+173.248.232.249,173-248-232-249.static.imsbiz.com.,132585,SkyExchange Internet Access,HK,,,i/o timeout,,0.56,2023-02-27T16:50:20Z,2023-02-23T21:53:10Z
+72.255.243.137,72-255-243-137.static.imsbiz.com.,4760,HKT Limited,HK,Central,,,false,0.99,2023-02-27T03:59:52Z,2023-02-23T23:19:18Z
+103.169.96.122,static-ip-122-96-169-103.TWOWINCOLIMITED-HK.COM.,133929,"TWOWIN CO., LIMITED",HK,,PowerDNS Recursor 4.5.7 (built Nov  5 2021 07:20:14 by root@cbff30d82427),SERVFAIL for verisignlabs.com,,0.99,2023-02-26T13:52:20Z,2023-02-24T03:45:16Z
+1.64.16.225,1-64-16-225.static.netvigator.com.,4760,HKT Limited,HK,Tseung Kwan O,,,true,0.96,2023-02-26T13:52:30Z,2023-02-24T03:46:54Z
+156.0.107.170,,328227,CLOUD-TELECOMS,HK,,,i/o timeout,,0.07,2023-02-26T13:52:31Z,2023-02-24T04:05:12Z
+103.169.96.95,static-ip-95-96-169-103.TWOWINCOLIMITED-HK.COM.,133929,"TWOWIN CO., LIMITED",HK,,PowerDNS Recursor 4.5.9 (built Mar 30 2022 09:10:39 by root@bb055f6cb49e),,false,1.00,2023-02-27T16:58:18Z,2023-02-24T10:05:33Z
+118.143.145.71,static-DIA-71-145-140-118.on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,i/o timeout,,0.74,2023-02-27T23:48:45Z,2023-02-24T13:30:27Z
+103.172.53.144,,133329,"HONGKONG HUANG SHENG LONG TECHNOLOGY CO.,LIMITED",HK,,,,true,0.83,2023-02-27T16:58:52Z,2023-02-24T22:16:40Z
+210.6.250.126,210006250126.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Kowloon,,,true,0.82,2023-02-28T05:53:09Z,2023-02-25T03:57:48Z
+119.247.17.105,119247017105.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,dnsmasq-2.33,,true,0.75,2023-03-03T21:49:29Z,2023-02-26T10:53:16Z
+218.188.52.18,,9304,HGC Global Communications Limited,HK,Central,9.11.22,,false,0.83,2023-02-28T00:00:50Z,2023-02-27T04:36:36Z
+220.241.140.56,,4515,HKT Limited,HK,Central,dnsmasq-2.83,,false,0.98,2023-02-28T00:00:52Z,2023-02-27T05:51:53Z
+129.227.56.32,,21859,ZEN-ECN,HK,Central,,i/o timeout,,0.87,2023-02-28T18:48:27Z,2023-02-27T10:02:34Z
+103.141.119.218,,133329,"HONGKONG HUANG SHENG LONG TECHNOLOGY CO.,LIMITED",HK,,,i/o timeout,,0.63,2023-03-01T03:45:08Z,2023-02-28T08:53:04Z
+18.163.103.200,ec2-18-163-103-200.ap-east-1.compute.amazonaws.com.,16509,AMAZON-02,HK,,unbound 1.6.6,,false,1.00,2023-03-01T22:45:20Z,2023-02-28T10:46:59Z
+218.190.233.178,,9304,HGC Global Communications Limited,HK,Shatin,,,true,0.98,2023-03-01T16:47:18Z,2023-02-28T11:24:29Z
+45.200.105.61,,133929,"TWOWIN CO., LIMITED",HK,,PowerDNS Recursor 4.5.7 (built Nov  5 2021 07:20:14 by root@cbff30d82427),,false,1.00,2023-02-28T23:48:15Z,2023-02-28T12:04:23Z
+202.77.0.1,dns1.chevalier.net.,4623,Chevalier Internet Limited autonomous system # 1,HK,Central,8.2.2-P5,,false,1.00,2023-03-01T22:45:20Z,2023-02-28T19:28:16Z
+203.85.45.131,www.chkg.com.,4058,CITIC Telecom International CPC Limited,HK,,,i/o timeout,,0.15,2023-03-01T22:45:31Z,2023-02-28T19:30:43Z
+203.85.45.20,adv.chkg.com.,4058,CITIC Telecom International CPC Limited,HK,,,i/o timeout,,0.22,2023-03-01T22:47:50Z,2023-02-28T19:30:46Z
+203.85.45.26,pc026.chkg.com.,4058,CITIC Telecom International CPC Limited,HK,,named 4.9.6a-Rel-Friday-4-July-97\010\009GregSchueman-LarryKahn-VirajBais-LeonMcCalla,,false,0.35,2023-03-02T05:50:56Z,2023-02-28T19:30:50Z
+45.194.127.79,,138456,OceanBlue Cloud Technology Limited,HK,,dnsmasq-2.75,,false,1.00,2023-03-02T05:51:40Z,2023-03-01T05:19:12Z
+218.189.41.234,,9304,HGC Global Communications Limited,HK,Central,,,false,1.00,2023-03-02T03:55:01Z,2023-03-01T07:30:17Z
+154.213.1.248,,138456,OceanBlue Cloud Technology Limited,HK,,dnsmasq-2.75,,false,1.00,2023-03-02T20:45:42Z,2023-03-01T12:22:16Z
+45.255.126.214,,135391,AOFEI DATA INTERNATIONAL COMPANY LIMITED,HK,,,i/o timeout,,0.90,2023-03-03T02:46:14Z,2023-03-01T16:37:21Z
+20.24.203.150,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,HK,Central,dnsmasq-2.66,,false,1.00,2023-03-01T22:45:47Z,2023-03-01T17:42:52Z
+43.231.187.44,,58879,"Shanghai Anchang Network Security Technology Co.,Ltd.",HK,,,,true,1.00,2023-03-02T20:45:05Z,2023-03-02T16:05:35Z
+16.162.239.17,ec2-16-162-239-17.ap-east-1.compute.amazonaws.com.,16509,AMAZON-02,HK,,,connection refused,,0.64,2023-03-09T13:47:17Z,2023-03-03T02:20:22Z
+42.200.83.8,42-200-83-8.static.imsbiz.com.,4760,HKT Limited,HK,Central,dnsmasq-2.40,,true,1.00,2023-03-03T07:20:32Z,2023-03-03T07:20:32Z
+38.55.96.9,,42960,VH Global Limited,HK,,,,true,1.00,2023-03-05T20:55:13Z,2023-03-04T02:49:50Z
+103.141.237.13,static-ip-13-237-141-103.TWOWINCOLIMITED-HK.COM.,133929,"TWOWIN CO., LIMITED",HK,,PowerDNS Recursor 4.5.7 (built Nov  5 2021 07:20:14 by root@cbff30d82427),,false,0.99,2023-03-08T22:48:16Z,2023-03-04T04:55:48Z
+218.188.217.219,ns01.kcs.edu.hk.,9304,HGC Global Communications Limited,HK,Central,9.11.13-RedHat-9.11.13-5.el8_2,,true,1.00,2023-03-05T23:59:32Z,2023-03-05T11:58:23Z
+202.88.116.181,202-88-116-181.static.hk.net.,4058,CITIC Telecom International CPC Limited,HK,,dnsmasq-,,false,0.93,2023-03-08T13:48:06Z,2023-03-05T13:26:08Z
+124.156.140.197,,132203,"Tencent Building, Kejizhongyi Avenue",HK,Central,dnsmasq-2.76,,false,1.00,2023-03-05T19:44:46Z,2023-03-05T17:49:15Z
+58.176.18.2,058176018002.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,,true,0.59,2023-03-09T21:47:33Z,2023-03-09T12:35:39Z
+103.48.140.111,static-ip-111-140-48-103.TWOWINCOLIMITED-HK.COM.,133929,"TWOWIN CO., LIMITED",HK,,,i/o timeout,,0.65,2023-03-11T12:45:02Z,2023-03-09T17:08:33Z
+183.178.100.24,183178100024.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.98,2023-03-11T12:45:38Z,2023-03-10T01:54:35Z
+103.99.75.93,static-ip-93-74.99.103.TWOWINCOLIMITED-HK.COM.,133929,"TWOWIN CO., LIMITED",HK,,PowerDNS Recursor 4.7.4 (built Nov 23 2022 11:57:15 by root@0cc02782e0ed),,false,0.98,2023-03-15T00:46:06Z,2023-03-10T06:29:02Z
+20.239.78.167,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,HK,Central,dnsmasq-2.76,,false,0.94,2023-03-11T10:44:45Z,2023-03-10T07:12:39Z
+218.252.192.159,cm218-252-192-159.hkcable.com.hk.,9908,HK Cable TV Ltd,HK,Central,dnsmasq-2.76,,false,0.99,2023-04-12T12:11:16Z,2023-03-11T13:34:08Z
+62.216.92.48,,9009,M247 Europe SRL,HK,Central,,,true,0.77,2023-03-13T08:45:06Z,2023-03-11T20:28:41Z
+154.213.1.46,,138456,OceanBlue Cloud Technology Limited,HK,,dnsmasq-2.75,,false,1.00,2023-03-13T08:45:26Z,2023-03-12T13:45:30Z
+45.194.127.159,,138456,OceanBlue Cloud Technology Limited,HK,,dnsmasq-2.75,,false,1.00,2023-03-14T17:45:21Z,2023-03-12T16:49:47Z
+123.176.98.140,123-176-98-140.layerdns.cloud.,133380,Layerstack Limited,HK,,,,false,0.99,2023-04-22T08:43:53Z,2023-03-13T00:58:21Z
+38.59.254.30,,41378,Kirino LLC,HK,Central,,,true,1.00,2023-03-13T04:45:00Z,2023-03-13T01:05:14Z
+165.84.188.244,165084188244.ctinets.com.,10103,HK Broadband Network Ltd.,HK,Sha Tin Wai,dnsmasq-2.78,,false,1.00,2023-03-13T04:45:23Z,2023-03-13T01:23:25Z
+45.112.24.210,,63888,TISP LIMITED,HK,,dnsmasq-2.80,,false,1.00,2023-03-13T03:30:23Z,2023-03-13T03:30:23Z
+218.102.73.185,pcd541185.netvigator.com.,4760,HKT Limited,HK,Central,DNSServer,,false,1.00,2023-03-13T03:33:52Z,2023-03-13T03:33:52Z
+116.48.132.6,006.132.48.116.static.netvigator.com.,4760,HKT Limited,HK,Central,,,false,1.00,2023-03-13T03:45:55Z,2023-03-13T03:45:55Z
+202.126.145.120,mail.wizvision.net.,4637,Telstra Global,HK,,none,,false,1.00,2023-03-13T03:54:26Z,2023-03-13T03:54:26Z
+218.253.201.121,static.reserve.wtt.net.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Kowloon,[SECURED],,true,1.00,2023-03-13T03:55:23Z,2023-03-13T03:55:23Z
+94.190.213.50,94-190-213-050.static.imsbiz.com.,4760,HKT Limited,HK,Central,dnsmasq-2.76,,false,1.00,2023-03-13T04:14:21Z,2023-03-13T04:14:21Z
+94.190.228.158,94-190-228-158.static.imsbiz.com.,4760,HKT Limited,HK,Central,DNSServer,,false,1.00,2023-03-13T04:19:19Z,2023-03-13T04:19:19Z
+223.17.139.88,88-139-17-223-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,,true,1.00,2023-03-13T04:20:05Z,2023-03-13T04:20:05Z
+84.17.37.143,unn-84-17-37-143.cdn77.com.,60068,Datacamp Limited,HK,Central,PowerDNS Recursor 4.1.4 (built Oct 24 2018 15:00:58 by portage@frankfurt-ns02),,false,1.00,2023-03-15T00:44:46Z,2023-03-13T05:13:33Z
+23.99.100.127,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,HK,Central,dnsmasq-2.48,,false,1.00,2023-03-13T07:46:59Z,2023-03-13T05:21:16Z
+94.190.227.193,94-190-227-193.static.imsbiz.com.,4760,HKT Limited,HK,Central,dnsmasq-2.80,,false,1.00,2023-03-13T08:45:30Z,2023-03-13T05:33:07Z
+61.239.175.85,061239175085.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,dnsmasq-2.76,,false,1.00,2023-03-13T07:47:07Z,2023-03-13T05:37:46Z
+202.88.116.37,202-88-116-37.static.hk.net.,4058,CITIC Telecom International CPC Limited,HK,,dnsmasq-,Unexpected result for wikileaks.org: {[[154 92 16 97]]},,0.84,2023-04-05T07:16:26Z,2023-03-13T05:41:07Z
+72.255.242.63,72-255-242-063.static.imsbiz.com.,4760,HKT Limited,HK,Central,,,false,1.00,2023-03-15T00:44:46Z,2023-03-13T06:33:24Z
+18.162.249.100,warejobber.com.,16509,AMAZON-02,HK,,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.5,,false,1.00,2023-03-13T06:53:33Z,2023-03-13T06:53:33Z
+183.178.56.122,183178056122.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,,true,1.00,2023-03-13T06:55:12Z,2023-03-13T06:55:12Z
+202.88.116.126,202-88-116-126.static.hk.net.,4058,CITIC Telecom International CPC Limited,HK,,dnsmasq-,,false,1.00,2023-03-13T07:11:36Z,2023-03-13T07:11:36Z
+113.28.67.147,113-28-67-147.static.imsbiz.com.,4515,HKT Limited,HK,Central,dnsmasq-,,false,1.00,2023-03-13T07:49:35Z,2023-03-13T07:49:35Z
+119.237.199.168,n119237199168.netvigator.com.,4760,HKT Limited,HK,Shatin,,,false,1.00,2023-03-14T17:44:47Z,2023-03-13T08:46:44Z
+119.9.104.189,,45187,Rackspace IT Hosting AS IT Hosting Provider Hong Kong,HK,,none,,false,1.00,2023-03-14T17:45:21Z,2023-03-13T09:01:50Z
+223.18.226.33,33-226-18-223-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,,false,1.00,2023-03-13T22:46:01Z,2023-03-13T09:28:22Z
+8.210.245.24,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,,,true,0.94,2023-03-14T17:45:38Z,2023-03-13T09:30:11Z
+45.123.188.223,,133398,Tele Asia Limited,HK,,dnsmasq-2.76,,false,1.00,2023-04-20T14:42:59Z,2023-03-13T11:06:32Z
+61.92.78.219,061092078219.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,,false,1.00,2023-03-13T11:38:46Z,2023-03-13T11:38:46Z
+218.250.200.192,n218250200192.netvigator.com.,4760,HKT Limited,HK,Peng Chau,,,false,0.79,2023-03-15T03:46:51Z,2023-03-13T12:08:27Z
+103.143.160.59,static-ip-59-117-229-43.TWOWINCOLIMITED-HK.COM.,133929,"TWOWIN CO., LIMITED",HK,,PowerDNS Recursor 4.5.7 (built Nov  5 2021 07:20:14 by root@cbff30d82427),,false,1.00,2023-03-13T13:46:35Z,2023-03-13T13:00:59Z
+103.1.159.100,,150318,"Tokyo Online Co.,Ltd.",HK,,,,false,0.97,2023-03-15T03:48:33Z,2023-03-13T13:03:00Z
+101.33.33.85,,132203,"Tencent Building, Kejizhongyi Avenue",HK,Central,bbibc-bind:1.0.24,,false,1.00,2023-03-13T14:00:12Z,2023-03-13T14:00:12Z
+218.250.227.190,n218250227190.netvigator.com.,4760,HKT Limited,HK,Central,,,false,1.00,2023-03-13T14:04:19Z,2023-03-13T14:04:19Z
+161.81.189.142,161.81.189.142.hk.chinamobile.com.,137872,China Mobile Hong Kong Company Limited,HK,Tai Wai,,,false,1.00,2023-03-13T14:55:09Z,2023-03-13T14:55:09Z
+103.162.172.208,static-ip-208-172-162-103.TWOWINCOLIMITED-HK.COM.,133929,"TWOWIN CO., LIMITED",HK,,PowerDNS Recursor 4.5.7 (built Nov  5 2021 07:20:14 by root@cbff30d82427),,false,1.00,2023-03-13T14:56:48Z,2023-03-13T14:56:48Z
+210.3.239.131,static-bbs-131-239-3-210-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,dnsmasq-,,false,1.00,2023-03-13T15:11:48Z,2023-03-13T15:11:48Z
+183.178.238.89,183178238089.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Tsuen Wan,DNSServer,,false,1.00,2023-03-13T15:39:09Z,2023-03-13T15:39:09Z
+61.18.174.9,cm61-18-174-9.hkcable.com.hk.,9908,HK Cable TV Ltd,HK,Central,DNSServer,,false,1.00,2023-03-15T09:48:23Z,2023-03-13T16:24:28Z
+103.108.180.1,,133762,NETWORK JOINT HK LIMITED,HK,,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.3,,false,1.00,2023-03-15T09:48:28Z,2023-03-13T16:24:58Z
+59.149.150.83,059149150083.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Eastern,DNSServer,,false,1.00,2023-03-15T09:48:35Z,2023-03-13T16:35:53Z
+219.79.95.220,n219079095220.netvigator.com.,4760,HKT Limited,HK,Yuen Long,dnsmasq-2.75,,false,1.00,2023-03-15T09:48:33Z,2023-03-13T16:39:02Z
+118.140.73.82,,9304,HGC Global Communications Limited,HK,Central,,i/o timeout,,0.50,2023-03-15T09:48:43Z,2023-03-13T16:43:08Z
+8.210.111.32,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,,connection refused,,0.00,2023-04-20T15:52:23Z,2023-03-13T17:13:17Z
+42.2.230.61,42-2-230-061.static.netvigator.com.,4760,HKT Limited,HK,Central,[Secured],,false,1.00,2023-03-15T09:49:08Z,2023-03-13T17:31:13Z
+202.88.116.86,202-88-116-86.static.hk.net.,4058,CITIC Telecom International CPC Limited,HK,,dnsmasq-,,false,1.00,2023-03-15T09:49:14Z,2023-03-13T17:38:07Z
+42.98.150.215,42-98-150-215.static.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.67,2023-03-15T09:49:48Z,2023-03-13T18:20:16Z
+119.28.51.108,,132203,"Tencent Building, Kejizhongyi Avenue",HK,Central,,i/o timeout,,0.50,2023-03-15T09:49:50Z,2023-03-13T18:23:46Z
+42.200.196.122,42-200-196-122.static.imsbiz.com.,4760,HKT Limited,HK,Central,DNSServer,,false,1.00,2023-03-15T09:50:00Z,2023-03-13T18:49:27Z
+43.230.206.76,,135386,LinkChina Telecom Global Limited.,HK,,,Unexpected result for wikileaks.org: {[[69 63 181 12]]},,0.56,2023-03-16T01:45:26Z,2023-03-13T18:50:02Z
+124.244.165.25,124244165025.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,,false,1.00,2023-03-15T09:50:08Z,2023-03-13T19:01:49Z
+84.17.37.140,unn-84-17-37-140.cdn77.com.,60068,Datacamp Limited,HK,Central,PowerDNS Recursor 4.1.4 (built Oct 24 2018 15:00:58 by portage@frankfurt-ns02),,false,1.00,2023-03-15T09:50:17Z,2023-03-13T19:14:22Z
+202.77.5.67,202077005067.static.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Kowloon Bay,,,false,1.00,2023-03-15T09:50:22Z,2023-03-13T19:17:47Z
+113.28.67.105,113-28-67-105.static.imsbiz.com.,4515,HKT Limited,HK,Central,dnsmasq-,,false,1.00,2023-03-15T09:50:19Z,2023-03-13T19:20:13Z
+154.3.35.115,Host-By.DMIT.com.,906,DMIT,HK,,dnsmasq-2.76,,false,1.00,2023-03-15T09:50:41Z,2023-03-13T19:50:07Z
+43.249.31.24,,133115,HK Kwaifong Group Limited,HK,,,,false,1.00,2023-03-15T09:50:47Z,2023-03-13T19:59:08Z
+84.17.37.153,unn-84-17-37-153.cdn77.com.,60068,Datacamp Limited,HK,Central,PowerDNS Recursor 4.1.4 (built Oct 24 2018 15:00:58 by portage@frankfurt-ns02),,false,1.00,2023-03-15T09:50:54Z,2023-03-13T20:08:55Z
+20.205.110.238,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,HK,Central,dnsmasq-2.76,,false,1.00,2023-03-15T09:50:55Z,2023-03-13T20:10:25Z
+203.86.233.5,203.86.233.5.layerdns.cloud.,133380,Layerstack Limited,HK,,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.9,SERVFAIL for wikileaks.org,,0.94,2023-04-05T00:32:17Z,2023-03-13T20:49:40Z
+8.210.159.58,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,9.16.1-Ubuntu,,true,1.00,2023-03-15T09:51:35Z,2023-03-13T21:12:46Z
+91.149.236.78,,26383,ASNET,HK,Central,dnsmasq-2.76,,false,1.00,2023-03-15T09:51:57Z,2023-03-13T21:46:41Z
+58.177.158.254,058177158254.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,,false,1.00,2023-03-15T09:52:00Z,2023-03-13T21:50:37Z
+47.242.120.144,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,9.16.1-Ubuntu,,true,1.00,2023-03-15T09:52:04Z,2023-03-13T21:55:00Z
+58.153.227.88,n058153227088.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.50,2023-03-15T09:52:13Z,2023-03-13T21:58:46Z
+183.178.68.215,183178068215.ctinets.com.,10103,HK Broadband Network Ltd.,HK,Central,PowerDNS Recursor 4.5.7 (built Nov  5 2021 07:20:14 by root@cbff30d82427),,false,1.00,2023-03-15T09:52:06Z,2023-03-13T22:00:30Z
+61.239.66.40,061239066040.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,DNSServer,,false,1.00,2023-03-15T09:52:22Z,2023-03-13T22:18:10Z
+84.17.37.131,unn-84-17-37-131.cdn77.com.,60068,Datacamp Limited,HK,Central,PowerDNS Recursor 4.1.4 (built Oct 24 2018 15:00:58 by portage@frankfurt-ns02),,false,1.00,2023-03-15T09:52:24Z,2023-03-13T22:28:53Z
+129.227.148.124,,21859,ZEN-ECN,HK,,dnsmasq-2.80,,false,1.00,2023-03-15T09:52:44Z,2023-03-13T22:59:35Z
+123.176.98.198,M2-SERVER.,133380,Layerstack Limited,HK,,,,false,1.00,2023-03-15T09:52:49Z,2023-03-13T23:09:24Z
+203.198.161.89,089.161.198.203.static.netvigator.com.,4515,HKT Limited,HK,Central,dnsmasq-,,false,1.00,2023-03-15T09:53:23Z,2023-03-13T23:57:31Z
+210.177.175.173,ip173175.imsbiz.com.,4515,HKT Limited,HK,Central,dnsmasq-,,false,1.00,2023-03-15T09:53:33Z,2023-03-14T00:12:16Z
+149.129.115.175,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,dnsmasq-2.80,,false,1.00,2023-03-15T09:53:46Z,2023-03-14T00:36:30Z
+43.155.111.180,,132203,"Tencent Building, Kejizhongyi Avenue",HK,Central,,connection refused,,0.50,2023-03-15T09:53:46Z,2023-03-14T00:38:03Z
+47.240.169.62,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,dnsmasq-2.76,Unexpected result for example.com: NXDOMAIN,,0.50,2023-03-15T09:54:02Z,2023-03-14T00:52:13Z
+84.17.37.134,unn-84-17-37-134.cdn77.com.,60068,Datacamp Limited,HK,Central,PowerDNS Recursor 4.1.4 (built Oct 24 2018 15:00:58 by portage@frankfurt-ns02),,false,1.00,2023-03-15T09:54:25Z,2023-03-14T01:33:53Z
+183.178.58.215,183178058215.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Yuen Long,,,false,1.00,2023-03-15T09:54:29Z,2023-03-14T01:42:06Z
+42.200.207.42,42-200-207-42.static.imsbiz.com.,4760,HKT Limited,HK,Central,DNSServer,,false,1.00,2023-03-15T09:54:41Z,2023-03-14T02:00:45Z
+94.190.231.72,94-190-231-072.static.imsbiz.com.,4760,HKT Limited,HK,Central,,,true,1.00,2023-03-15T09:54:52Z,2023-03-14T02:18:39Z
+72.255.228.168,72-255-228-168.static.imsbiz.com.,4760,HKT Limited,HK,Central,Nominum Vantio CacheServe 7.5.1.0,,false,1.00,2023-03-14T02:40:23Z,2023-03-14T02:40:23Z
+202.155.212.82,,9381,HKBN Enterprise Solutions HK Limited,HK,Yuen Long San Hui,dnsmasq-,,false,1.00,2023-03-14T03:11:29Z,2023-03-14T03:11:29Z
+190.102.109.41,190-102-109-41.static.hvvc.us.,29802,HVC-AS,HK,Tsuen Wan,dnsmasq-2.85,,false,1.00,2023-03-14T03:12:47Z,2023-03-14T03:12:47Z
+61.244.133.224,061244133224.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,dnsmasq-2.76,,false,1.00,2023-03-14T03:16:21Z,2023-03-14T03:16:21Z
+43.155.111.88,,132203,"Tencent Building, Kejizhongyi Avenue",HK,Central,dnsmasq-2.76,,false,1.00,2023-03-14T04:08:29Z,2023-03-14T04:08:29Z
+43.154.142.84,,132203,"Tencent Building, Kejizhongyi Avenue",HK,Central,dnsmasq-2.76,,false,1.00,2023-03-14T04:12:33Z,2023-03-14T04:12:33Z
+61.93.156.45,061093156045.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Kowloon,,,false,1.00,2023-03-14T04:13:28Z,2023-03-14T04:13:28Z
+118.143.42.161,static-DIA-161-42-143-118-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,,true,1.00,2023-03-14T04:29:25Z,2023-03-14T04:29:25Z
+45.125.217.61,,132721,CLOUD GUARD LIMITED,HK,,,,true,1.00,2023-03-14T04:38:11Z,2023-03-14T04:38:11Z
+91.199.84.159,,199524,G-Core Labs S.A.,HK,Central,dnsmasq-2.79,,false,1.00,2023-03-14T04:38:29Z,2023-03-14T04:38:29Z
+182.239.79.44,182.239.79.44.hk.chinamobile.com.,9231,China Mobile Hong Kong Company Limited,HK,Central,,,false,1.00,2023-03-14T05:28:02Z,2023-03-14T05:28:02Z
+112.119.202.47,n112119202047.netvigator.com.,4760,HKT Limited,HK,Central,Nominum Vantio CacheServe 7.5.1.0,,false,1.00,2023-03-14T06:03:53Z,2023-03-14T06:03:53Z
+94.190.214.173,94-190-214-173.static.imsbiz.com.,4760,HKT Limited,HK,Central,Nominum Vantio CacheServe 7.5.1.0,,true,1.00,2023-03-14T06:22:21Z,2023-03-14T06:22:21Z
+116.48.144.195,195.144.48.116.static.netvigator.com.,4760,HKT Limited,HK,Central,,,false,1.00,2023-03-14T06:24:36Z,2023-03-14T06:24:36Z
+219.77.224.228,n219077224228.netvigator.com.,4760,HKT Limited,HK,San Po Kong,Nominum Vantio CacheServe 7.5.1.0,,false,1.00,2023-03-14T06:25:15Z,2023-03-14T06:25:15Z
+114.112.238.133,static-ip-133-116-229-43.TWOWINCOLIMITED-HK.COM.,133107,"FNETLINK CO .,LIMITED",HK,,PowerDNS Recursor 4.5.7 (built Nov  5 2021 07:20:14 by root@cbff30d82427),,false,1.00,2023-03-14T06:43:49Z,2023-03-14T06:43:49Z
+61.93.123.113,061093123113.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Discovery Bay,,,false,1.00,2023-03-14T09:45:30Z,2023-03-14T06:47:43Z
+91.149.236.189,,26383,ASNET,HK,Central,9.16.33-Debian,,true,1.00,2023-03-14T09:46:55Z,2023-03-14T06:51:54Z
+72.255.229.210,72-255-229-210.static.imsbiz.com.,4760,HKT Limited,HK,Central,,,false,1.00,2023-03-24T19:08:13Z,2023-03-14T07:18:20Z
+103.162.173.55,static-ip-55-173-162-103.TWOWINCOLIMITED-HK.COM.,133929,"TWOWIN CO., LIMITED",HK,,PowerDNS Recursor 4.5.7 (built Nov  5 2021 07:20:14 by root@cbff30d82427),,false,1.00,2023-03-14T18:46:46Z,2023-03-14T07:58:12Z
+47.57.147.61,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,,SERVFAIL for wikileaks.org,,0.98,2023-04-05T00:32:18Z,2023-03-14T08:09:19Z
+115.160.132.26,,9381,HKBN Enterprise Solutions HK Limited,HK,Wanchai,,i/o timeout,,0.75,2023-03-15T04:48:13Z,2023-03-14T08:58:07Z
+219.77.224.88,n219077224088.netvigator.com.,4760,HKT Limited,HK,San Po Kong,Nominum Vantio CacheServe 7.5.1.0,,false,1.00,2023-03-15T04:48:28Z,2023-03-14T09:36:07Z
+218.255.17.73,static.reserve.wtt.net.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Ma Yau Tong,dnsmasq-,,false,1.00,2023-04-12T18:18:35Z,2023-03-14T10:08:12Z
+124.244.162.211,124244162211.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.46,2023-04-12T12:19:01Z,2023-03-14T10:29:57Z
+203.198.167.39,039.167.198.203.static.netvigator.com.,4515,HKT Limited,HK,Central,dnsmasq-,,false,1.00,2023-03-15T04:49:05Z,2023-03-14T10:39:29Z
+14.198.73.217,014198073217.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,,true,1.00,2023-03-15T04:49:08Z,2023-03-14T10:41:15Z
+42.200.76.137,42-200-76-137.static.imsbiz.com.,4760,HKT Limited,HK,Central,dnsmasq-,,false,1.00,2023-03-15T04:49:16Z,2023-03-14T10:57:16Z
+218.102.98.101,pcd566101.netvigator.com.,4760,HKT Limited,HK,Central,,,false,1.00,2023-03-15T04:49:36Z,2023-03-14T11:37:51Z
+94.190.213.131,94-190-213-131.static.imsbiz.com.,4760,HKT Limited,HK,Central,,,false,1.00,2023-03-15T04:49:50Z,2023-03-14T11:51:25Z
+103.177.248.114,,38136,Akari Networks,HK,Central,dnsmasq-2.85,,false,1.00,2023-03-15T04:49:48Z,2023-03-14T11:55:37Z
+218.252.105.24,cm218-252-105-24.hkcable.com.hk.,9908,HK Cable TV Ltd,HK,Central,dnsmasq-2.76,,false,1.00,2023-03-15T04:50:36Z,2023-03-14T13:17:39Z
+218.255.17.67,static.reserve.wtt.net.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Ma Yau Tong,dnsmasq-,,false,1.00,2023-03-15T04:50:56Z,2023-03-14T14:02:29Z
+149.129.119.137,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,dnsmasq-2.76,,false,1.00,2023-03-15T04:51:04Z,2023-03-14T14:17:51Z
+59.148.56.84,059148056084.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Tai Peng,,,false,1.00,2023-03-15T04:51:15Z,2023-03-14T14:33:32Z
+218.188.223.182,static-bbs-182-223-188-218-on-nets.com.,9304,HGC Global Communications Limited,HK,Tai Po,dnsmasq-,,false,1.00,2023-03-15T04:51:31Z,2023-03-14T15:02:19Z
+14.199.181.236,014199181236.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Man Kok,dnsmasq-2.76,,false,1.00,2023-03-15T04:51:49Z,2023-03-14T15:24:50Z
+42.98.206.219,42-98-206-219.static.netvigator.com.,4760,HKT Limited,HK,Central,dnsmasq-2.80,,false,1.00,2023-03-15T04:51:53Z,2023-03-14T15:39:45Z
+8.218.13.84,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,dnsmasq-2.76,,false,1.00,2023-03-15T04:52:02Z,2023-03-14T15:53:31Z
+220.241.227.4,,4515,HKT Limited,HK,Central,dnsmasq-,,false,1.00,2023-03-15T04:52:08Z,2023-03-14T16:00:57Z
+118.143.149.28,static-bbs-28-149-143-118-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,Microsoft DNS 6.1.7601 (1DB15D39),,false,1.00,2023-03-15T08:46:14Z,2023-03-14T16:08:03Z
+123.253.45.165,,133929,"TWOWIN CO., LIMITED",HK,,PowerDNS Recursor 4.5.7 (built Nov  5 2021 07:20:14 by root@cbff30d82427),,false,1.00,2023-03-15T04:52:16Z,2023-03-14T16:12:12Z
+72.255.245.68,72-255-245-068.static.imsbiz.com.,4760,HKT Limited,HK,Central,DNSServer,,false,1.00,2023-03-15T04:52:18Z,2023-03-14T16:14:57Z
+119.28.56.103,,132203,"Tencent Building, Kejizhongyi Avenue",HK,Central,dnsmasq-2.76,,false,1.00,2023-03-15T04:52:49Z,2023-03-14T16:59:32Z
+118.140.207.122,static-bbs-122-207-140-118.on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,i/o timeout,,0.67,2023-03-15T04:53:00Z,2023-03-14T17:05:33Z
+183.178.88.13,183178088013.ctinets.com.,10103,HK Broadband Network Ltd.,HK,Central,,,false,1.00,2023-03-15T04:52:59Z,2023-03-14T17:19:05Z
+160.20.53.10,,58411,"Unit A-E, 13F, Golden Sun Centre",HK,,dnsmasq-2.48,,true,1.00,2023-03-15T04:53:05Z,2023-03-14T17:23:16Z
+103.141.237.27,static-ip-27-237-141-103.TWOWINCOLIMITED-HK.COM.,133929,"TWOWIN CO., LIMITED",HK,,PowerDNS Recursor 4.5.10 (built Aug 10 2022 09:01:32 by root@e147c5cf0a7f),,false,1.00,2023-03-15T04:53:18Z,2023-03-14T17:41:06Z
+202.82.66.142,,4515,HKT Limited,HK,Pak Kok San Tsuen,,,false,1.00,2023-03-15T04:53:48Z,2023-03-14T18:22:39Z
+183.179.138.7,183179138007.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,dnsmasq-2.76,,false,1.00,2023-03-15T04:53:53Z,2023-03-14T18:30:54Z
+202.88.116.8,202-88-116-8.static.hk.net.,4058,CITIC Telecom International CPC Limited,HK,,dnsmasq-,,false,1.00,2023-03-15T04:54:21Z,2023-03-14T19:18:24Z
+43.154.57.173,,132203,"Tencent Building, Kejizhongyi Avenue",HK,Central,dnsmasq-2.80,,false,1.00,2023-04-12T12:19:09Z,2023-03-14T19:22:37Z
+194.62.19.62,194.62.19.62.static.hostflyby.net.,60591,Support Chain LLC,HK,,,,false,1.00,2023-03-15T04:54:29Z,2023-03-14T19:33:53Z
+202.88.116.1,202-88-116-1.static.hk.net.,4058,CITIC Telecom International CPC Limited,HK,,dnsmasq-,,false,1.00,2023-03-15T04:54:34Z,2023-03-14T19:40:36Z
+118.143.86.157,,9304,HGC Global Communications Limited,HK,Central,dnsmasq-,,false,1.00,2023-03-15T04:54:44Z,2023-03-14T20:00:03Z
+91.199.84.171,,199524,G-Core Labs S.A.,HK,Central,dnsmasq-2.79,,false,1.00,2023-03-15T04:54:55Z,2023-03-14T20:19:54Z
+8.210.135.216,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,,,false,1.00,2023-03-15T04:55:01Z,2023-03-14T20:30:14Z
+202.80.140.232,,9304,HGC Global Communications Limited,HK,Kowloon,,,true,1.00,2023-03-15T04:55:15Z,2023-03-14T20:43:39Z
+203.198.63.71,071.63.198.203.static.netvigator.com.,4515,HKT Limited,HK,Central,,,false,1.00,2023-03-15T04:55:17Z,2023-03-14T20:58:42Z
+61.92.117.42,061092117042.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Tsuen Wan,dnsmasq-2.76,,false,1.00,2023-03-15T09:57:08Z,2023-03-14T21:15:50Z
+119.237.121.199,n119237121199.netvigator.com.,4760,HKT Limited,HK,Central,Nominum Vantio CacheServe 7.5.1.0,,false,1.00,2023-03-15T09:57:14Z,2023-03-14T21:30:14Z
+103.162.172.24,static-ip-24-172-162-103.TWOWINCOLIMITED-HK.COM.,133929,"TWOWIN CO., LIMITED",HK,,,,false,1.00,2023-03-15T09:57:20Z,2023-03-14T21:36:15Z
+42.200.91.189,42-200-91-189.static.imsbiz.com.,4760,HKT Limited,HK,Central,dnsmasq-,,false,1.00,2023-03-15T09:57:18Z,2023-03-14T21:37:45Z
+129.227.148.68,,21859,ZEN-ECN,HK,,dnsmasq-2.80,,false,1.00,2023-03-15T09:57:20Z,2023-03-14T21:43:17Z
+45.125.217.60,,132721,CLOUD GUARD LIMITED,HK,,,,true,1.00,2023-03-15T09:57:21Z,2023-03-14T21:43:45Z
+123.203.33.92,123203033092.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,DNSServer,,false,1.00,2023-03-15T09:57:27Z,2023-03-14T21:50:08Z
+42.3.182.44,42-3-182-044.ptr.netvigator.com.,4760,HKT Limited,HK,Shatin,Nominum Vantio CacheServe 7.5.1.0,,false,1.00,2023-03-15T09:57:38Z,2023-03-14T22:09:47Z
+103.141.236.178,static-ip-178-236-141-103.TWOWINCOLIMITED-HK.COM.,133929,"TWOWIN CO., LIMITED",HK,,PowerDNS Recursor 4.5.7 (built Nov  5 2021 07:20:14 by root@cbff30d82427),,false,1.00,2023-03-15T09:57:38Z,2023-03-14T22:10:09Z
+42.200.154.186,42-200-154-186.static.imsbiz.com.,4760,HKT Limited,HK,Central,dnsmasq-,,false,1.00,2023-03-15T09:58:01Z,2023-03-14T22:49:24Z
+42.3.66.14,42-3-66-014.ptr.netvigator.com.,4760,HKT Limited,HK,Central,dnsmasq-2.80,,false,1.00,2023-03-15T09:58:05Z,2023-03-14T23:00:10Z
+218.103.112.100,100.112.103.218.static.netvigator.com.,4760,HKT Limited,HK,Pui O,dnsmasq-2.40,,true,1.00,2023-03-15T09:58:09Z,2023-03-14T23:06:35Z
+118.143.86.152,,9304,HGC Global Communications Limited,HK,Central,dnsmasq-,,false,1.00,2023-03-15T09:58:15Z,2023-03-14T23:17:52Z
+123.202.1.16,123202001016.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,dnsmasq-2.76,,false,1.00,2023-04-12T12:19:02Z,2023-03-15T01:28:38Z
+121.202.148.156,m121-202-148-156.smartone.com.,17924,SmarTone Mobile Communications Ltd,HK,Tuen Mun,,,false,1.00,2023-04-12T12:19:05Z,2023-03-15T01:37:20Z
+103.98.8.67,,135391,AOFEI DATA INTERNATIONAL COMPANY LIMITED,HK,,PowerDNS Recursor 4.5.7 (built Nov  5 2021 07:20:14 by root@cbff30d82427),,false,1.00,2023-03-18T02:48:03Z,2023-03-15T02:13:03Z
+103.114.192.48,,137816,Cloud Net Technologies Limited,HK,,Microsoft DNS 6.1.7600 (1DB04001),,false,1.00,2023-03-18T02:48:07Z,2023-03-15T02:18:04Z
+101.32.10.160,,132203,"Tencent Building, Kejizhongyi Avenue",HK,Central,,,false,1.00,2023-03-18T02:48:34Z,2023-03-15T03:06:35Z
+183.178.110.4,183178110004.ctinets.com.,10103,HK Broadband Network Ltd.,HK,Central,unbound 1.4.22,,false,1.00,2023-03-18T02:49:04Z,2023-03-15T03:52:17Z
+118.140.216.62,sr-62-216-140-118-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,i/o timeout,,0.91,2023-03-18T02:49:22Z,2023-03-15T04:13:19Z
+203.166.221.152,,63981,"43F, AIA Tower, 183 Electric Road, North Point, Hong Kong",HK,,,,false,1.00,2023-03-18T02:49:45Z,2023-03-15T04:38:29Z
+112.119.219.25,n112119219025.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.93,2023-03-18T02:49:39Z,2023-03-15T04:41:17Z
+209.146.104.28,,38008,Aperture Science Limited,HK,Central,dnsmasq-2.80,,false,1.00,2023-03-18T02:49:46Z,2023-03-15T05:06:12Z
+103.163.154.247,static-ip-247-154-163-103.TWOWINCOLIMITED-HK.COM.,133929,"TWOWIN CO., LIMITED",HK,,PowerDNS Recursor 4.5.7 (built Nov  5 2021 07:20:14 by root@cbff30d82427),,false,1.00,2023-03-26T22:08:13Z,2023-03-15T05:13:24Z
+223.19.120.55,55-120-19-223-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,,false,1.00,2023-03-18T02:49:51Z,2023-03-15T05:13:58Z
+124.244.83.94,124244083094.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,,false,1.00,2023-03-18T02:50:02Z,2023-03-15T05:31:39Z
+14.198.32.28,014198032028.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,dnsmasq-2.76,,false,0.99,2023-04-03T18:30:45Z,2023-03-15T05:42:21Z
+220.246.77.172,172.77.246.220.static.netvigator.com.,4760,HKT Limited,HK,Ma On Shan,Microsoft DNS 6.1.7601 (1DB15D39),,false,1.00,2023-03-18T02:50:16Z,2023-03-15T05:54:51Z
+117.103.158.19,,10118,Hutchison Telephone Company Limited,HK,Central,dnsmasq-2.72,,false,0.64,2023-03-18T02:50:40Z,2023-03-15T06:35:14Z
+119.246.15.30,119246015030.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,,false,1.00,2023-03-18T02:50:50Z,2023-03-15T06:48:55Z
+42.98.224.120,42-98-224-120.static.netvigator.com.,4760,HKT Limited,HK,Central,dnsmasq-2.36,,true,1.00,2023-03-26T22:08:10Z,2023-03-15T07:00:19Z
+164.52.33.246,,63199,CDSC-AS1,HK,Central,,,false,1.00,2023-03-18T02:51:03Z,2023-03-15T07:13:55Z
+218.253.238.86,86.238-253-218-static.reserve.wtt.net.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,,false,1.00,2023-03-18T02:51:18Z,2023-03-15T07:41:32Z
+183.178.252.148,183178252148.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,dnsmasq-2.76,,false,1.00,2023-03-18T02:51:21Z,2023-03-15T07:47:21Z
+103.141.236.162,static-ip-162-236-141-103.TWOWINCOLIMITED-HK.COM.,133929,"TWOWIN CO., LIMITED",HK,,PowerDNS Recursor 4.5.7 (built Nov  5 2021 07:20:14 by root@cbff30d82427),,false,1.00,2023-03-18T02:51:28Z,2023-03-15T08:01:25Z
+125.214.250.212,,4515,HKT Limited,HK,Kowloon,dnsmasq-,,false,1.00,2023-03-18T02:51:44Z,2023-03-15T08:26:34Z
+183.178.61.10,183178061010.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,,false,0.73,2023-03-18T02:51:47Z,2023-03-15T08:29:04Z
+8.210.163.231,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,,,true,1.00,2023-03-18T02:51:52Z,2023-03-15T08:41:05Z
+202.181.197.246,ns5.hkuser.net.,7540,HongKong Commercial Internet Exchange,HK,,,,false,0.83,2023-03-18T02:51:55Z,2023-03-15T08:45:19Z
+43.231.196.18,,63888,TISP LIMITED,HK,,,,true,1.00,2023-03-18T02:51:54Z,2023-03-15T08:46:24Z
+220.241.140.60,,4515,HKT Limited,HK,Central,dnsmasq-2.83,,false,0.97,2023-03-18T02:52:06Z,2023-03-15T09:05:27Z
+43.251.159.2,,55799,IPTELECOM ASIA,HK,Central,dnsmasq-2.80,,false,1.00,2023-03-18T02:52:19Z,2023-03-15T09:24:33Z
+94.190.215.72,94-190-215-072.static.imsbiz.com.,4760,HKT Limited,HK,Central,dnsmasq-2.76,,false,1.00,2023-03-18T02:52:50Z,2023-03-15T10:20:34Z
+8.210.50.240,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,,,false,0.99,2023-03-18T02:52:58Z,2023-03-15T10:28:42Z
+103.141.237.213,static-ip-213-237-141-103.TWOWINCOLIMITED-HK.COM.,133929,"TWOWIN CO., LIMITED",HK,,PowerDNS Recursor 4.5.7 (built Nov  5 2021 07:20:14 by root@cbff30d82427),,false,1.00,2023-03-18T02:53:08Z,2023-03-15T10:47:36Z
+223.17.78.254,254-78-17-223-on-nets.com.,9304,HGC Global Communications Limited,HK,Shatin,,,false,1.00,2023-03-18T02:54:04Z,2023-03-15T12:15:47Z
+223.17.250.63,63-250-17-223-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,,false,1.00,2023-03-18T02:54:25Z,2023-03-15T12:42:12Z
+103.150.212.105,,139726,"Guangdong Yunjie Communication Co., Ltd.",HK,,,,false,0.87,2023-03-18T02:54:53Z,2023-03-15T13:22:49Z
+218.255.196.90,90.196-255-218-static.reserve.wtt.net.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,ZyWALL DNS,,false,1.00,2023-03-18T02:54:58Z,2023-03-15T13:44:21Z
+129.227.148.78,,21859,ZEN-ECN,HK,,dnsmasq-2.80,,false,1.00,2023-03-18T02:56:01Z,2023-03-15T15:41:04Z
+218.188.154.39,,9304,HGC Global Communications Limited,HK,Central,dnsmasq-2.85,,false,0.94,2023-03-18T02:56:18Z,2023-03-15T15:57:56Z
+218.255.233.121,static.reserve.wtt.net.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,dnsmasq-,,false,1.00,2023-03-18T02:56:13Z,2023-03-15T15:59:40Z
+221.125.225.38,,9304,HGC Global Communications Limited,HK,Central,,i/o timeout,,0.97,2023-03-18T02:56:36Z,2023-03-15T16:28:05Z
+58.153.98.203,n058153098203.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.13,2023-03-18T02:56:38Z,2023-03-15T16:31:13Z
+119.247.21.150,119247021150.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,dnsmasq-2.76,,false,0.97,2023-03-18T02:56:37Z,2023-03-15T16:42:33Z
+118.140.150.222,skyda.org.,9304,HGC Global Communications Limited,HK,Central,,,false,0.97,2023-03-18T02:56:50Z,2023-03-15T16:52:23Z
+202.66.134.39,static-ip-39-134-66-202.rev.dyxnet.com.,9584,Diyixian.com Limited,HK,,Microsoft DNS 6.1.7601 (1DB1446A),,false,1.00,2023-03-18T02:56:49Z,2023-03-15T16:57:02Z
+8.218.35.169,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,dnsmasq-2.76,,false,0.97,2023-03-18T02:56:50Z,2023-03-15T17:06:26Z
+125.59.162.103,cm125-59-162-103.hkcable.com.hk.,9908,HK Cable TV Ltd,HK,Yau Tsim Mong,dnsmasq-2.76,,false,1.00,2023-04-05T00:35:00Z,2023-03-15T17:54:52Z
+61.238.104.37,061238104037.ctinets.com.,10103,HK Broadband Network Ltd.,HK,Central,PowerDNS Recursor 4.5.7 (built Nov  5 2021 07:20:14 by root@cbff30d82427),SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:35:43Z,2023-03-15T19:12:43Z
+203.174.48.83,4883.abchk.net.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,9.3.6-P1-RedHat-9.3.6-20.P1.el5_8.6,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:35:50Z,2023-03-15T19:19:55Z
+121.202.203.182,m121-202-203-182.smartone.com.,17924,SmarTone Mobile Communications Ltd,HK,,,i/o timeout,,0.97,2023-04-05T00:35:59Z,2023-03-15T19:25:11Z
+118.143.97.54,d1-54-97-143-118-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,unbound 1.4.22,SERVFAIL for wikileaks.org,,0.90,2023-04-05T00:35:53Z,2023-03-15T19:31:04Z
+94.190.216.177,94-190-216-177.static.imsbiz.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.97,2023-04-05T00:36:12Z,2023-03-15T19:48:02Z
+8.218.63.3,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,dnsmasq-2.79,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:36:15Z,2023-03-15T20:05:40Z
+8.210.229.38,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,dnsmasq-2.87,,false,1.00,2023-04-05T00:36:26Z,2023-03-15T20:18:59Z
+112.213.98.143,,64050,BGPNET Global ASN,HK,,,SERVFAIL for wikileaks.org,,0.93,2023-04-05T00:36:35Z,2023-03-15T20:38:40Z
+103.135.251.225,Host-By.DMIT.com.,906,DMIT,HK,,dnsmasq-2.85,,false,0.97,2023-04-05T00:36:41Z,2023-03-15T20:47:41Z
+223.16.218.230,230-218-16-223-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,dnsmasq-2.76,SERVFAIL for wikileaks.org,,0.63,2023-04-05T00:36:44Z,2023-03-15T20:53:09Z
+103.119.47.61,,135330,ADCDATA.COM,HK,Central,,i/o timeout,,0.97,2023-04-05T00:37:06Z,2023-03-15T21:08:27Z
+175.159.169.248,,4528,The University of Hong Kong,HK,Central,,,false,0.97,2023-04-05T00:37:06Z,2023-03-15T21:21:04Z
+61.92.18.186,061092018186.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,9.11.22,,false,0.88,2023-04-12T12:18:55Z,2023-03-15T21:45:54Z
+183.178.69.52,183178069052.ctinets.com.,10103,HK Broadband Network Ltd.,HK,Central,PowerDNS Recursor 4.7.4 (built Nov 23 2022 11:57:15 by root@0cc02782e0ed),SERVFAIL for wikileaks.org,,0.98,2023-04-05T00:37:42Z,2023-03-15T22:12:43Z
+219.77.54.202,n219077054202.netvigator.com.,4760,HKT Limited,HK,Central,dnsmasq-2.33,FORMERR for wikileaks.org,,0.96,2023-04-05T00:38:25Z,2023-03-15T23:21:40Z
+154.3.37.139,Host-By.DMIT.com.,906,DMIT,HK,,dnsmasq-2.80,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:38:32Z,2023-03-15T23:31:26Z
+223.17.108.137,137-108-17-223-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,SERVFAIL for wikileaks.org,,0.93,2023-04-05T00:38:34Z,2023-03-15T23:35:03Z
+210.6.27.234,210006027234.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Causeway Bay,,,false,0.95,2023-04-21T11:43:07Z,2023-03-16T00:01:09Z
+103.141.236.6,static-ip-6-236-141-103.TWOWINCOLIMITED-HK.COM.,133929,"TWOWIN CO., LIMITED",HK,,PowerDNS Recursor 4.5.9 (built Mar 30 2022 09:10:39 by root@bb055f6cb49e),SERVFAIL for wikileaks.org,,0.93,2023-04-05T04:13:19Z,2023-03-16T00:25:14Z
+141.193.155.154,,45753,Netsec Limited,HK,,,,true,1.00,2023-04-05T00:39:20Z,2023-03-16T00:48:16Z
+202.155.197.230,,9381,HKBN Enterprise Solutions HK Limited,HK,Sai Kung,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:39:24Z,2023-03-16T00:50:35Z
+203.176.237.36,203176237036.ctinets.com.,10103,HK Broadband Network Ltd.,HK,Central,,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:39:25Z,2023-03-16T00:51:27Z
+14.198.40.196,014198040196.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Kwun Hang,,SERVFAIL for wikileaks.org,,0.89,2023-04-05T00:39:40Z,2023-03-16T01:14:11Z
+8.210.22.68,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,dnsmasq-2.80,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:39:54Z,2023-03-16T01:36:56Z
+183.178.36.240,mail.csci.com.hk.,10103,HK Broadband Network Ltd.,HK,Central,,SERVFAIL for wikileaks.org,,0.93,2023-04-05T00:39:56Z,2023-03-16T01:37:31Z
+219.76.13.181,tswc11b181.netvigator.com.,4760,HKT Limited,HK,Central,,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:40:02Z,2023-03-16T01:53:11Z
+202.88.116.191,202-88-116-191.static.hk.net.,4058,CITIC Telecom International CPC Limited,HK,,dnsmasq-,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:40:08Z,2023-03-16T02:01:25Z
+43.132.205.118,,132203,"Tencent Building, Kejizhongyi Avenue",HK,Central,dnsmasq-2.84rc2,,false,1.00,2023-04-05T00:40:19Z,2023-03-16T02:17:08Z
+42.2.151.86,42-2-151-086.static.netvigator.com.,4760,HKT Limited,HK,Central,Nominum Vantio CacheServe 7.5.1.0,Unexpected result for wikileaks.org: NXDOMAIN,,0.82,2023-04-05T05:14:27Z,2023-03-16T02:34:37Z
+129.227.56.43,,21859,ZEN-ECN,HK,Central,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:40:45Z,2023-03-16T02:57:53Z
+185.224.171.170,,132721,CLOUD GUARD LIMITED,HK,,,i/o timeout,,0.93,2023-04-05T00:40:52Z,2023-03-16T03:06:19Z
+8.212.10.42,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,dnsmasq-2.75,SERVFAIL for wikileaks.org,,0.38,2023-04-05T00:40:48Z,2023-03-16T03:12:42Z
+175.159.166.25,socialwork.hku.hk.,4528,The University of Hong Kong,HK,Central,,SERVFAIL for wikileaks.org,,0.94,2023-04-05T00:41:22Z,2023-03-16T04:00:08Z
+202.88.116.76,202-88-116-76.static.hk.net.,4058,CITIC Telecom International CPC Limited,HK,,dnsmasq-,Unexpected result for wikileaks.org: {[[108 160 165 9]]},,0.80,2023-04-09T17:11:18Z,2023-03-16T04:07:31Z
+43.251.159.130,,55799,IPTELECOM ASIA,HK,Central,dnsmasq-2.80,,false,1.00,2023-04-05T00:41:33Z,2023-03-16T04:20:49Z
+218.253.95.98,static.reserve.wtt.net.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,9.11.4-P2-RedHat-9.11.4-9.P2.el7,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:41:44Z,2023-03-16T04:39:39Z
+14.198.169.236,014198169236.ctinets.com.,10103,HK Broadband Network Ltd.,HK,Central,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:41:51Z,2023-03-16T04:46:56Z
+167.179.50.84,,135273,NTC ASIA LIMITED,HK,,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:41:49Z,2023-03-16T04:49:06Z
+34.150.1.9,9.1.150.34.bc.googleusercontent.com.,396982,GOOGLE-CLOUD-PLATFORM,HK,Central,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:42:20Z,2023-03-16T05:38:37Z
+210.177.75.56,,4515,HKT Limited,HK,Central,dnsmasq-,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:42:18Z,2023-03-16T05:42:29Z
+110.235.21.29,110235021029.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.95,2023-04-05T00:42:42Z,2023-03-16T06:07:54Z
+8.218.136.244,www.eoc.org.hk.,45102,"Alibaba US Technology Co., Ltd.",HK,Central,,,false,0.76,2023-04-07T22:11:47Z,2023-03-16T06:11:23Z
+161.81.178.202,161.81.178.202.hk.chinamobile.com.,137872,China Mobile Hong Kong Company Limited,HK,Sha Tin Wai,,i/o timeout,,0.86,2023-04-05T00:43:11Z,2023-03-16T06:50:21Z
+221.125.164.232,,9304,HGC Global Communications Limited,HK,Sha Tin Wai,,i/o timeout,,0.33,2023-04-05T00:43:30Z,2023-03-16T07:16:48Z
+37.123.199.198,,41378,Kirino LLC,HK,Central,dnsmasq-2.85,,false,1.00,2023-04-05T00:43:44Z,2023-03-16T07:47:43Z
+202.65.192.146,static-ip-146-192-65-202.rev.dyxnet.com.,9584,Diyixian.com Limited,HK,,,,false,0.84,2023-04-10T18:12:11Z,2023-03-16T09:41:08Z
+94.190.225.79,94-190-225-079.static.imsbiz.com.,4760,HKT Limited,HK,Central,unknown,,false,0.75,2023-04-07T14:12:00Z,2023-03-16T09:43:33Z
+103.150.212.12,,139726,"Guangdong Yunjie Communication Co., Ltd.",HK,,,,false,0.73,2023-04-05T00:44:58Z,2023-03-16T09:49:59Z
+202.88.116.129,202-88-116-129.static.hk.net.,4058,CITIC Telecom International CPC Limited,HK,,dnsmasq-,Unexpected result for wikileaks.org: {[[185 45 7 185]]},,0.78,2023-04-05T08:16:00Z,2023-03-16T10:16:40Z
+66.203.146.122,,59371,Dimension Network & Communication Limited,HK,Central,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:45:21Z,2023-03-16T10:23:47Z
+103.140.238.146,,139293,UFO Network Limited,HK,,,i/o timeout,,0.91,2023-04-05T00:45:47Z,2023-03-16T10:47:13Z
+59.148.136.149,059148136149.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.98,2023-04-05T00:45:52Z,2023-03-16T10:57:34Z
+138.19.241.26,138019241026.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,,false,0.88,2023-04-11T19:13:03Z,2023-03-16T11:20:01Z
+114.112.236.47,static-ip-47-236-112-114.TWOWINCOLIMITED-HK.COM.,133107,"FNETLINK CO .,LIMITED",HK,,PowerDNS Recursor 4.7.4 (built Nov 23 2022 11:57:15 by root@0cc02782e0ed),,false,0.93,2023-04-19T01:18:41Z,2023-03-16T11:23:05Z
+210.17.198.152,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,ZyWALL DNS,,false,0.75,2023-04-19T19:36:09Z,2023-03-16T12:35:09Z
+182.153.21.112,m182-153-21-112.smartone.com.,17924,SmarTone Mobile Communications Ltd,HK,Central,,i/o timeout,,0.60,2023-04-19T19:36:29Z,2023-03-16T12:57:16Z
+14.198.168.140,014198168140.ctinets.com.,10103,HK Broadband Network Ltd.,HK,Central,dnsmasq-2.85,,false,0.80,2023-04-19T19:36:27Z,2023-03-16T13:03:26Z
+1.36.204.229,1-36-204-229.ptr.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.20,2023-04-19T19:36:44Z,2023-03-16T13:24:00Z
+218.253.86.122,static.reserve.wtt.net.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Kowloon,,,false,0.83,2023-04-19T19:37:06Z,2023-03-16T14:16:53Z
+203.176.208.10,203176208010.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Kwai Chung,DNSServer,,false,0.75,2023-04-19T19:37:22Z,2023-03-16T14:46:03Z
+14.136.151.52,014136151052.ctinets.com.,10103,HK Broadband Network Ltd.,HK,Kwun Hang,PowerDNS Recursor 4.5.7 (built Nov  5 2021 07:20:14 by root@cbff30d82427),,false,0.60,2023-04-19T19:37:43Z,2023-03-16T15:17:34Z
+58.177.253.249,058177253249.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,,false,0.31,2023-04-19T19:37:56Z,2023-03-16T15:34:13Z
+218.253.87.134,static.reserve.wtt.net.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Kowloon,,,false,1.00,2023-04-19T19:38:04Z,2023-03-16T15:47:53Z
+203.186.128.68,203186128068.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,,false,0.58,2023-04-19T19:38:07Z,2023-03-16T15:54:40Z
+14.136.107.135,014136107135.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,DNSServer,,false,0.52,2023-04-19T19:38:16Z,2023-03-16T16:11:24Z
+203.198.215.209,ipvpn106209.netvigator.com.,4515,HKT Limited,HK,Tseung Kwan O,,i/o timeout,,0.29,2023-04-19T19:38:31Z,2023-03-16T16:12:30Z
+202.88.116.78,202-88-116-78.static.hk.net.,4058,CITIC Telecom International CPC Limited,HK,,dnsmasq-,,false,0.53,2023-04-19T19:38:26Z,2023-03-16T16:28:12Z
+14.199.134.228,014199134228.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Yuen Long San Hui,,i/o timeout,,0.13,2023-04-19T19:38:40Z,2023-03-16T16:37:22Z
+42.200.206.60,42-200-206-60.static.imsbiz.com.,4760,HKT Limited,HK,Central,,,false,0.53,2023-04-19T19:38:42Z,2023-03-16T16:51:45Z
+42.2.251.168,42-2-251-168.static.netvigator.com.,4760,HKT Limited,HK,Central,,SERVFAIL for example.com,,0.21,2023-04-19T19:38:54Z,2023-03-16T17:14:00Z
+61.29.250.184,,135391,AOFEI DATA INTERNATIONAL COMPANY LIMITED,HK,,PowerDNS Recursor 4.8.2 (built Jan 30 2023 10:00:26 by root@48c523f95be0),,false,0.60,2023-04-19T19:38:58Z,2023-03-16T17:19:07Z
+202.130.80.34,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,i/o timeout,,0.00,2023-04-19T19:39:26Z,2023-03-16T17:51:30Z
+103.143.160.6,static-ip-6-117-229-43.TWOWINCOLIMITED-HK.COM.,133929,"TWOWIN CO., LIMITED",HK,,PowerDNS Recursor 4.5.7 (built Nov  5 2021 07:20:14 by root@cbff30d82427),,false,0.84,2023-04-19T19:39:29Z,2023-03-16T18:07:47Z
+119.247.241.64,119247241064.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.04,2023-04-19T19:39:45Z,2023-03-16T18:20:24Z
+125.59.48.88,cm125-59-48-88.hkcable.com.hk.,9908,HK Cable TV Ltd,HK,Central,dnsmasq-2.62,,false,0.88,2023-04-19T19:39:46Z,2023-03-16T18:32:48Z
+183.178.70.111,183178070111.ctinets.com.,10103,HK Broadband Network Ltd.,HK,Central,PowerDNS Recursor 4.8.2 (built Jan 30 2023 10:00:26 by root@48c523f95be0),,false,0.95,2023-04-19T19:40:39Z,2023-03-16T19:54:53Z
+14.136.100.226,014136100226.ctinets.com.,10103,HK Broadband Network Ltd.,HK,,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.10,,false,0.68,2023-04-19T19:41:21Z,2023-03-16T20:58:14Z
+203.169.34.81,,17975,AS # for peering purpose with IX and ISP.,HK,,9.8.2rc1-RedHat-9.8.2-0.68.rc1.el6_10.1,,false,0.68,2023-04-19T19:41:27Z,2023-03-16T21:08:22Z
+103.141.237.211,static-ip-211-237-141-103.TWOWINCOLIMITED-HK.COM.,133929,"TWOWIN CO., LIMITED",HK,,,i/o timeout,,0.04,2023-04-19T19:41:44Z,2023-03-16T21:20:11Z
+72.255.239.69,eclass.taknga.edu.hk.,4760,HKT Limited,HK,Central,dnsmasq-,,false,0.69,2023-04-21T17:41:45Z,2023-03-16T21:30:50Z
+8.210.220.123,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,,connection refused,,0.00,2023-04-21T17:42:00Z,2023-03-16T21:59:37Z
+148.66.19.61,,45753,Netsec Limited,HK,,,,true,0.69,2023-04-21T17:42:04Z,2023-03-16T22:04:22Z
+203.186.102.170,203186102170.static.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Tuen Mun,,,false,0.69,2023-04-21T17:42:07Z,2023-03-16T22:09:24Z
+47.89.17.114,,45102,"Alibaba US Technology Co., Ltd.",HK,,,i/o timeout,,0.66,2023-04-21T17:42:17Z,2023-03-16T22:11:56Z
+61.244.14.62,061244014062.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,PowerDNS Recursor 4.7.4 (built Nov 23 2022 11:57:15 by root@0cc02782e0ed),,false,0.94,2023-04-21T17:42:23Z,2023-03-16T22:33:03Z
+103.163.154.168,static-ip-168-154-163-103.TWOWINCOLIMITED-HK.COM.,133929,"TWOWIN CO., LIMITED",HK,,PowerDNS Recursor 4.5.9 (built Mar 30 2022 09:10:39 by root@bb055f6cb49e),,false,0.95,2023-04-21T17:42:28Z,2023-03-16T22:39:42Z
+47.243.93.95,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,dnsmasq-2.80,,false,0.90,2023-04-21T17:42:32Z,2023-03-16T22:47:29Z
+59.148.170.126,059148170126.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.03,2023-04-21T17:42:44Z,2023-03-16T22:54:16Z
+218.189.82.194,,9304,HGC Global Communications Limited,HK,Central,,,true,0.70,2023-04-21T17:42:44Z,2023-03-16T23:01:49Z
+194.169.55.133,194.169.55.133.static.v.ps.,9312,xTom,HK,Central,,i/o timeout,,0.06,2023-04-21T21:43:50Z,2023-03-16T23:10:34Z
+223.122.117.144,,137872,China Mobile Hong Kong Company Limited,HK,Central,,i/o timeout,,0.13,2023-04-21T21:43:54Z,2023-03-16T23:18:31Z
+72.255.226.250,72-255-226-250.static.imsbiz.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-04-21T21:44:21Z,2023-03-17T00:01:02Z
+8.218.58.169,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,,,true,0.71,2023-04-21T21:44:19Z,2023-03-17T00:12:04Z
+59.152.219.12,std.com.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Kowloon,9.11.36-RedHat-9.11.36-5.el8_7.2,,true,0.92,2023-04-21T21:44:28Z,2023-03-17T00:24:39Z
+103.150.212.33,,139726,"Guangdong Yunjie Communication Co., Ltd.",HK,,,,false,0.90,2023-04-21T21:44:27Z,2023-03-17T00:25:52Z
+182.239.72.65,182.239.72.65.hk.chinamobile.com.,9231,China Mobile Hong Kong Company Limited,HK,Central,dnsmasq-2.71,,false,0.48,2023-04-21T21:44:33Z,2023-03-17T00:36:56Z
+1.64.187.198,1-64-187-198.static.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.03,2023-04-21T21:44:46Z,2023-03-17T00:48:21Z
+223.18.45.242,242-45-18-223-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,dnsmasq-pi-hole-2.87test3,,false,0.74,2023-04-21T21:44:49Z,2023-03-17T01:00:53Z
+221.124.101.185,,9304,HGC Global Communications Limited,HK,Central,,,false,0.88,2023-04-21T21:45:15Z,2023-03-17T01:42:20Z
+119.237.250.81,n119237250081.netvigator.com.,4760,HKT Limited,HK,Central,DNSServer,,false,0.72,2023-04-21T21:45:14Z,2023-03-17T01:43:37Z
+103.169.96.11,static-ip-11-96-169-103.TWOWINCOLIMITED-HK.COM.,133929,"TWOWIN CO., LIMITED",HK,,PowerDNS Recursor 4.8.2 (built Jan 30 2023 10:00:26 by root@48c523f95be0),,false,0.98,2023-05-02T12:49:30Z,2023-03-17T01:56:19Z
+118.140.53.62,ns3.cits.com.hk.,9304,HGC Global Communications Limited,HK,Central,9.10.4-P4-RedHat-9.10.4-2.P4.fc23,,true,0.94,2023-04-21T21:45:39Z,2023-03-17T02:20:30Z
+210.3.162.14,static-bbs-14-162-3-210-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,dnsmasq-2.85,,false,0.90,2023-04-21T21:46:00Z,2023-03-17T03:08:20Z
+114.112.238.145,static-ip-145-116-229-43.TWOWINCOLIMITED-HK.COM.,133107,"FNETLINK CO .,LIMITED",HK,,,i/o timeout,,0.00,2023-04-21T21:46:11Z,2023-03-17T03:18:18Z
+43.229.54.31,,63888,TISP LIMITED,HK,,,,true,0.78,2023-04-21T21:46:18Z,2023-03-17T03:44:12Z
+8.218.162.35,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,,connection refused,,0.00,2023-04-21T21:46:32Z,2023-03-17T04:09:15Z
+84.17.37.150,unn-84-17-37-150.cdn77.com.,60068,Datacamp Limited,HK,Central,PowerDNS Recursor 4.1.4 (built Oct 24 2018 15:00:58 by portage@frankfurt-ns02),,false,0.77,2023-04-21T21:47:25Z,2023-03-17T05:36:43Z
+84.17.37.147,unn-84-17-37-147.cdn77.com.,60068,Datacamp Limited,HK,Central,PowerDNS Recursor 4.1.4 (built Oct 24 2018 15:00:58 by portage@frankfurt-ns02),,false,0.77,2023-04-21T21:47:31Z,2023-03-17T05:48:45Z
+94.190.209.180,94-190-209-180.static.imsbiz.com.,4760,HKT Limited,HK,Central,DNSServer,,false,0.77,2023-04-21T21:47:40Z,2023-03-17T06:11:00Z
+94.190.228.223,94-190-228-223.static.imsbiz.com.,4760,HKT Limited,HK,Central,,,false,0.75,2023-04-21T21:47:45Z,2023-03-17T06:13:41Z
+218.188.210.196,,9304,HGC Global Communications Limited,HK,Mid Levels,,,false,0.55,2023-04-21T21:48:19Z,2023-03-17T07:13:52Z
+152.32.173.240,,135377,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,HK,Central,dnsmasq-2.75,Unexpected result for wikileaks.org: {[[162 125 34 133]]},,0.43,2023-04-21T21:48:33Z,2023-03-17T07:33:04Z
+61.238.90.30,061238090030.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,,false,0.76,2023-04-21T21:49:01Z,2023-03-17T08:11:37Z
+219.77.218.183,n219077218183.netvigator.com.,4760,HKT Limited,HK,North,,SERVFAIL for example.com,,0.41,2023-04-21T21:48:59Z,2023-03-17T08:15:07Z
+43.154.11.188,,132203,"Tencent Building, Kejizhongyi Avenue",HK,Central,,,false,0.91,2023-04-21T21:49:00Z,2023-03-17T08:15:37Z
+218.250.91.158,n218250091158.netvigator.com.,4760,HKT Limited,HK,Central,,,false,0.82,2023-04-21T21:49:23Z,2023-03-17T08:49:44Z
+202.88.116.89,202-88-116-89.static.hk.net.,4058,CITIC Telecom International CPC Limited,HK,,dnsmasq-,,false,0.84,2023-04-21T21:49:34Z,2023-03-17T09:06:49Z
+121.202.197.182,m121-202-197-182.smartone.com.,17924,SmarTone Mobile Communications Ltd,HK,,dnsmasq-2.71,,false,0.44,2023-05-08T07:49:40Z,2023-03-17T11:10:36Z
+219.78.177.92,n219078177092.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-05-08T07:50:03Z,2023-03-17T11:33:29Z
+110.235.85.212,110235085212.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Tsimshatsui,,i/o timeout,,0.50,2023-05-08T07:50:19Z,2023-03-17T11:55:54Z
+8.210.148.24,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,Dnomd343 - DNS,,true,0.89,2023-05-08T07:50:24Z,2023-03-17T12:11:48Z
+58.176.130.246,058176130246.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.00,2023-05-08T07:50:40Z,2023-03-17T12:26:50Z
+121.202.204.154,m121-202-204-154.smartone.com.,17924,SmarTone Mobile Communications Ltd,HK,,dnsmasq-2.71,,false,0.94,2023-05-08T07:50:43Z,2023-03-17T12:33:18Z
+118.140.15.19,,9304,HGC Global Communications Limited,HK,Hung Hom,,,false,0.95,2023-05-08T07:51:01Z,2023-03-17T13:08:41Z
+72.255.226.226,72-255-226-226.static.imsbiz.com.,4760,HKT Limited,HK,Central,Nominum Vantio CacheServe 7.5.1.0,,true,0.81,2023-05-08T07:51:17Z,2023-03-17T13:31:57Z
+43.154.155.241,,132203,"Tencent Building, Kejizhongyi Avenue",HK,Central,9.18.12-0ubuntu0.22.04.1-Ubuntu,REFUSED for example.com,,0.95,2023-05-08T07:51:20Z,2023-03-17T13:41:02Z
+112.119.215.123,n112119215123.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.95,2023-05-08T07:51:31Z,2023-03-17T13:46:08Z
+113.255.140.60,60-140-255-113-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,i/o timeout,,0.00,2023-05-08T07:52:05Z,2023-03-17T14:43:06Z
+210.3.138.237,,9304,HGC Global Communications Limited,HK,Ma On Shan,dnsmasq-*.*.*,,false,0.96,2023-05-08T07:53:17Z,2023-03-17T16:51:44Z
+124.244.134.61,124244134061.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,DNSServer,,false,0.96,2023-05-12T00:48:54Z,2023-03-17T17:47:21Z
+8.212.23.204,,45102,"Alibaba US Technology Co., Ltd.",HK,Central,,i/o timeout,,0.15,2023-05-12T00:49:14Z,2023-03-17T18:14:00Z
+112.120.106.155,n112120106155.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.33,2023-05-12T00:49:26Z,2023-03-17T18:36:41Z
+203.198.230.197,awork047197.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-05-25T08:49:21Z,2023-03-17T21:00:00Z
+113.255.4.150,150-4-255-113-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,i/o timeout,,0.00,2023-08-12T20:53:54Z,2023-03-17T21:39:08Z
+8.210.99.38,,45102,"Alibaba US Technology Co., Ltd.",HK,Hong Kong,,i/o timeout,,0.00,2023-08-12T20:53:59Z,2023-03-17T21:52:45Z
+1.36.133.76,1-36-133-076.ptr.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-08-12T20:55:33Z,2023-03-18T00:41:19Z
+61.238.59.107,061238059107.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Cheung Sha Lan,,i/o timeout,,0.00,2023-08-12T20:56:00Z,2023-03-18T01:38:15Z
+42.98.215.38,42-98-215-038.static.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-08-12T20:56:26Z,2023-03-18T02:27:33Z
+103.143.160.46,static-ip-46-117-229-43.TWOWINCOLIMITED-HK.COM.,133929,"TWOWIN CO., LIMITED",HK,Hong Kong,,i/o timeout,,0.00,2023-08-12T20:56:45Z,2023-03-18T03:02:00Z
+219.77.61.230,n219077061230.netvigator.com.,4760,HKT Limited,HK,Yuen Long San Hui,,i/o timeout,,0.00,2023-08-12T20:57:02Z,2023-03-18T03:33:14Z
+112.119.94.246,n11211994246.netvigator.com.,4760,HKT Limited,HK,Kowloon,,i/o timeout,,0.00,2023-08-12T20:57:15Z,2023-03-18T03:52:06Z
+119.236.243.238,n119236243238.netvigator.com.,4760,HKT Limited,HK,Kowloon,,i/o timeout,,0.00,2023-08-12T20:58:28Z,2023-03-18T06:06:45Z
+1.36.133.15,1-36-133-015.ptr.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-08-12T20:58:38Z,2023-03-18T06:24:38Z
+112.118.39.77,n11211839077.netvigator.com.,4760,HKT Limited,HK,Central,,SERVFAIL for example.com,,0.00,2023-08-12T20:59:59Z,2023-03-18T08:46:35Z
+221.124.105.249,,9304,HGC Global Communications Limited,HK,Yuen Long San Hui,,i/o timeout,,0.00,2023-08-12T21:00:44Z,2023-03-18T09:43:52Z
+223.17.163.67,67-163-17-223-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,SERVFAIL for example.com,,0.00,2023-08-12T21:00:57Z,2023-03-18T10:17:01Z
+223.17.73.141,141-73-17-223-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,i/o timeout,,0.00,2023-08-12T21:01:09Z,2023-03-18T10:22:36Z
+103.165.17.47,static-ip-47-17-165-103.TWOWINCOLIMITED-HK.COM.,133929,"TWOWIN CO., LIMITED",HK,,,i/o timeout,,0.00,2023-08-12T21:01:23Z,2023-03-18T10:45:43Z
+210.3.25.68,,9304,HGC Global Communications Limited,HK,Central,,i/o timeout,,0.00,2023-08-12T21:01:58Z,2023-03-18T11:38:27Z
+203.218.180.73,pcd390073.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-08-12T21:02:22Z,2023-03-18T12:16:07Z
+8.210.42.227,,45102,"Alibaba US Technology Co., Ltd.",HK,Hong Kong,,connection refused,,0.00,2023-08-12T21:02:23Z,2023-03-18T12:36:35Z
+138.19.145.254,138019145254.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Tai Po,,i/o timeout,,0.00,2023-08-12T21:02:34Z,2023-03-18T12:40:47Z
+45.248.69.238,,0,,HK,,,i/o timeout,,0.00,2023-08-12T21:02:42Z,2023-03-18T12:54:36Z
+123.202.145.93,123202145093.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.00,2023-08-12T21:02:55Z,2023-03-18T13:22:00Z
+42.98.173.27,42-98-173-027.static.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-08-12T21:03:07Z,2023-03-18T13:42:34Z
+112.119.179.219,n112119179219.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-08-12T21:03:24Z,2023-03-18T14:21:48Z
+59.152.223.114,,9381,HKBN Enterprise Solutions HK Limited,HK,Man Kok,ZyWALL DNS,,false,1.00,2023-08-12T21:04:21Z,2023-03-18T16:05:46Z
+77.72.80.123,,0,,HK,,,i/o timeout,,0.00,2023-08-12T21:05:48Z,2023-03-18T18:10:02Z
+118.140.176.230,static-bbs-230-176-140-118-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,i/o timeout,,0.00,2023-08-12T21:06:04Z,2023-03-18T18:39:49Z
+43.154.235.48,,132203,"Tencent Building, Kejizhongyi Avenue",HK,Hong Kong,,i/o timeout,,0.00,2023-08-12T21:06:04Z,2023-03-18T18:39:58Z
+20.187.76.178,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,HK,Hong Kong,,i/o timeout,,0.00,2023-08-12T21:06:08Z,2023-03-18T18:49:30Z
+20.239.195.157,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,HK,Hong Kong,,i/o timeout,,0.00,2023-08-12T21:06:34Z,2023-03-18T19:41:02Z
+61.92.108.105,061092108105.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.00,2023-08-12T21:08:10Z,2023-03-18T23:05:39Z
+203.186.182.254,203186182254.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.50,2023-08-17T07:54:14Z,2014-12-29T13:36:09Z
+116.48.78.98,n1164878098.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-08-17T11:53:54Z,2023-03-19T01:40:39Z
+218.103.32.72,072.32.103.218.static.netvigator.com.,4760,HKT Limited,HK,Yuen Long San Hui,,i/o timeout,,0.00,2023-08-17T11:53:54Z,2023-03-19T01:44:08Z
+218.103.189.192,n218103189192.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-08-17T15:54:26Z,2023-03-19T03:42:41Z
+223.19.151.67,67-151-19-223-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,SERVFAIL for example.com,,0.00,2023-08-17T15:54:38Z,2023-03-19T04:28:01Z
+113.252.19.182,182-19-252-113-on-nets.com.,9304,HGC Global Communications Limited,HK,Tai Wai,,i/o timeout,,0.00,2023-08-17T15:54:54Z,2023-03-19T04:49:27Z
+118.143.36.92,d1-92-36-143-118-on-nets.com.,133929,"TWOWIN CO., LIMITED",HK,Tseung Kwan O,,i/o timeout,,0.00,2023-08-17T15:55:06Z,2023-03-19T05:15:57Z
+112.121.174.100,,45753,Netsec Limited,HK,,,no route to host,,0.00,2023-08-17T15:55:30Z,2023-03-19T06:18:50Z
+59.149.59.36,059149059036.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.00,2023-08-17T15:56:34Z,2023-03-19T07:55:50Z
+103.103.245.106,,40065,CNSERVERS,HK,,,i/o timeout,,0.00,2023-08-17T15:56:41Z,2023-03-19T08:12:28Z
+58.176.75.16,058176075016.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,SERVFAIL for example.com,,0.00,2023-08-17T15:56:46Z,2023-03-19T08:35:48Z
+1.36.227.99,1-36-227-099.ptr.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-08-17T15:56:58Z,2023-03-19T08:45:10Z
+113.253.84.16,16-84-253-113-on-nets.com.,9304,HGC Global Communications Limited,HK,Hung Hom,,SERVFAIL for non-existent.example.com,,0.00,2023-08-17T15:58:20Z,2023-03-19T11:53:20Z
+223.16.75.85,85-75-16-223-on-nets.com.,9304,HGC Global Communications Limited,HK,Tuen Mun,,i/o timeout,,0.00,2023-08-17T21:53:57Z,2023-03-19T13:31:11Z
+1.64.102.8,1-64-102-008.static.netvigator.com.,4760,HKT Limited,HK,Lai Chi Kok,,i/o timeout,,0.00,2023-08-17T21:54:03Z,2023-03-19T13:40:41Z
+223.18.102.249,249-102-18-223-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,i/o timeout,,0.00,2023-08-17T21:54:43Z,2023-03-19T15:17:49Z
+218.253.88.90,static.reserve.wtt.net.hk.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,i/o timeout,,0.00,2023-08-17T21:54:58Z,2023-03-19T16:01:42Z
+113.252.254.107,107-254-252-113-on-nets.com.,9304,HGC Global Communications Limited,HK,Sai Kung,,i/o timeout,,0.00,2023-08-17T21:55:39Z,2023-03-19T17:32:12Z
+72.255.228.180,72-255-228-180.static.imsbiz.com.,4760,HKT Limited,HK,Central,,,true,1.00,2023-08-17T21:56:09Z,2023-03-19T18:45:27Z
+42.200.73.31,42-200-73-31.static.imsbiz.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-08-17T21:57:30Z,2023-03-19T21:23:16Z
+8.218.13.128,,45102,"Alibaba US Technology Co., Ltd.",HK,Hong Kong,,i/o timeout,,0.00,2023-08-17T21:58:05Z,2023-03-22T20:59:22Z
+223.16.30.42,42-30-16-223-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,i/o timeout,,0.00,2023-08-17T21:59:07Z,2023-04-06T14:21:43Z
+190.92.234.14,ecs-190-92-234-14.compute.hwclouds-dns.com.,136907,HUAWEI CLOUDS,HK,Hong Kong,,i/o timeout,,0.00,2023-08-17T21:59:07Z,2023-04-06T14:42:09Z
+14.136.13.1,014136013001.ctinets.com.,10103,HK Broadband Network Ltd.,HK,Central,,i/o timeout,,0.00,2023-08-17T21:59:39Z,2023-04-07T14:14:29Z
+45.194.127.86,,138456,OceanBlue Cloud Technology Limited,HK,,,i/o timeout,,0.00,2023-08-17T21:59:55Z,2023-04-08T22:15:38Z
+219.78.193.143,n219078193143.netvigator.com.,4760,HKT Limited,HK,Sha Tin Wai,DNSServer,,false,1.00,2023-08-17T22:00:02Z,2023-04-09T09:36:30Z
+45.194.125.250,,138456,OceanBlue Cloud Technology Limited,HK,,,i/o timeout,,0.00,2023-08-17T22:00:13Z,2023-04-09T12:54:58Z
+156.225.0.55,,138456,OceanBlue Cloud Technology Limited,HK,,,i/o timeout,,0.00,2023-08-17T22:00:25Z,2023-04-09T21:36:53Z
+103.100.113.195,,133527,HuaBo Technology International Limited,HK,,,i/o timeout,,0.00,2023-08-17T22:00:36Z,2023-04-10T06:53:27Z
+61.15.149.90,cm61-15-149-90.hkcable.com.hk.,9908,HK Cable TV Ltd,HK,Central,,i/o timeout,,0.00,2023-08-17T22:01:28Z,2023-05-01T12:15:13Z
+113.255.5.34,34-5-255-113-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,,true,0.86,2023-08-17T22:01:25Z,2023-05-01T17:29:20Z
+203.218.195.31,pcd405031.netvigator.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-08-17T22:02:04Z,2023-05-03T01:29:28Z
+221.126.236.36,static-sch-36-236-126-221-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,dnsmasq-,,false,0.80,2023-08-17T22:02:00Z,2023-05-03T03:56:32Z
+218.102.252.216,pcd720216.netvigator.com.,4760,HKT Limited,HK,Tai Kok Tsui,,i/o timeout,,0.00,2023-08-17T22:02:13Z,2023-05-03T07:43:15Z
+103.210.243.5,,58411,"Unit A-E, 13F, Golden Sun Centre",HK,,,i/o timeout,,0.00,2023-08-17T22:02:22Z,2023-05-03T15:26:39Z
+175.45.38.50,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,i/o timeout,,0.00,2023-08-17T22:02:33Z,2023-05-04T02:27:15Z
+61.10.82.46,cm61-10-82-46.hkcable.com.hk.,9908,HK Cable TV Ltd,HK,Central,,i/o timeout,,0.42,2023-08-17T22:02:56Z,2023-05-04T19:34:16Z
+42.3.117.64,42-3-117-064.ptr.netvigator.com.,4760,HKT Limited,HK,Central,dnsmasq-2.85,,false,0.79,2023-08-17T22:02:54Z,2023-05-04T22:02:09Z
+34.96.142.93,93.142.96.34.bc.googleusercontent.com.,396982,GOOGLE-CLOUD-PLATFORM,HK,Hong Kong,,i/o timeout,,0.00,2023-08-17T22:03:25Z,2023-05-05T21:52:11Z
+61.244.59.9,061244059009.static.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Yuen Long San Hui,,i/o timeout,,0.00,2023-08-17T22:03:36Z,2023-05-06T06:02:03Z
+119.9.73.44,,45187,Rackspace IT Hosting AS IT Hosting Provider Hong Kong,HK,,dnsmasq-2.68,,false,1.00,2023-08-17T22:03:33Z,2023-05-06T07:54:31Z
+223.255.177.202,mail.creation-tv.com.,9381,HKBN Enterprise Solutions HK Limited,HK,Central,Microsoft DNS 6.1.7601 (1DB15F75),,false,1.00,2023-08-17T22:04:06Z,2023-05-07T05:43:32Z
+209.146.104.69,,38008,Aperture Science Limited,HK,Hong Kong,dnsmasq-2.85,,false,1.00,2023-08-17T22:04:17Z,2023-05-07T17:46:46Z
+118.140.0.238,static-bbs-238-0-140-118-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,i/o timeout,,0.17,2023-08-17T22:05:12Z,2014-12-29T19:02:13Z
+119.246.12.68,119246012068.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.00,2023-08-17T22:06:32Z,2014-12-30T19:55:20Z
+219.76.206.244,244.206.76.219.static.netvigator.com.,4515,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-08-17T22:06:33Z,2014-12-30T20:15:32Z
+183.179.147.14,183179147014.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.00,2023-08-17T22:06:52Z,2015-01-06T00:46:17Z
+111.92.237.107,,0,,HK,,,i/o timeout,,0.00,2023-08-17T21:07:29Z,2015-01-06T06:41:07Z
+121.202.135.11,m121-202-135-11.smartone.com.,17924,SmarTone Mobile Communications Ltd,HK,Central,,i/o timeout,,0.00,2023-08-17T21:07:38Z,2015-01-06T12:32:49Z
+168.70.212.197,,4515,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-08-17T21:07:59Z,2015-01-06T20:38:16Z
+59.148.214.148,059148214148.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Yuen Long San Hui,,i/o timeout,,0.00,2023-08-17T21:08:27Z,2015-01-07T14:44:21Z
+210.87.250.154,ns8.imsbiz.com.,4515,HKT Limited,HK,,[Secured],Unexpected result for example.com: {[[127 0 0 1]]},,0.00,2023-08-17T21:08:25Z,2015-01-07T15:59:09Z
+223.197.238.226,223-197-238-226.static.imsbiz.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-08-17T21:08:42Z,2015-01-07T23:00:36Z
+121.202.228.25,m121-202-228-25.smartone.com.,17924,SmarTone Mobile Communications Ltd,HK,Central,,i/o timeout,,0.00,2023-08-17T21:08:46Z,2015-01-08T01:03:19Z
+218.188.215.66,static-bbs-66-215-188-218-on-nets.com.,9304,HGC Global Communications Limited,HK,Central,,i/o timeout,,0.00,2023-08-17T21:08:47Z,2015-01-08T01:08:37Z
+115.160.156.42,,9381,HKBN Enterprise Solutions HK Limited,HK,Central,,i/o timeout,,0.00,2023-08-17T21:08:52Z,2015-01-08T03:14:26Z
+118.140.3.165,,9304,HGC Global Communications Limited,HK,Ha Kwai Chung,,i/o timeout,,0.00,2023-08-17T21:08:53Z,2015-01-08T04:36:10Z
+202.181.238.98,ip98.in51.com.,7540,HongKong Commercial Internet Exchange,HK,Central,not currently available,REFUSED for example.com,,0.00,2023-08-17T21:08:57Z,2015-01-08T14:14:57Z
+202.181.213.108,web18.1sthost.com.,7540,HongKong Commercial Internet Exchange,HK,,,i/o timeout,,0.00,2023-08-17T21:09:41Z,2015-01-09T13:40:42Z
+218.103.8.74,pcd732074.netvigator.com.,4515,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-08-17T21:09:54Z,2015-01-10T00:08:40Z
+59.188.30.70,srv02.extremesys.com.hk.,10103,HK Broadband Network Ltd.,HK,,,i/o timeout,,0.00,2023-08-17T21:10:23Z,2015-01-10T15:03:02Z
+14.198.92.130,014198092130.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.00,2023-08-17T21:10:47Z,2015-01-11T10:50:31Z
+210.3.1.38,mail.ypicallmc.edu.hk.,9304,HGC Global Communications Limited,HK,Central,,i/o timeout,,0.00,2023-08-17T21:11:03Z,2015-01-11T21:41:32Z
+223.197.220.88,223-197-220-88.static.imsbiz.com.,4760,HKT Limited,HK,Central,,i/o timeout,,0.00,2023-08-17T21:11:23Z,2015-01-12T07:52:01Z
+203.198.143.141,141.143.198.203.static.netvigator.com.,4760,HKT Limited,HK,Tai Po,,i/o timeout,,0.00,2023-08-17T21:11:28Z,2015-01-12T13:33:38Z
+124.244.224.239,124244224239.ctinets.com.,9269,Hong Kong Broadband Network Ltd.,HK,Central,,i/o timeout,,0.00,2023-08-17T21:11:31Z,2015-01-12T17:44:35Z
+210.3.136.50,static-bbs-50-136-3-210-on-nets.com.,9304,HGC Global Communications Limited,HK,Tai Wai,,i/o timeout,,0.00,2023-08-17T21:11:37Z,2015-01-12T22:44:10Z
+103.232.35.101,,5580,GTT Communications Netherlands B.V.,HK,,,i/o timeout,,0.00,2023-08-17T21:12:39Z,2017-03-03T22:50:16Z
+117.18.119.42,,7540,HongKong Commercial Internet Exchange,HK,,,i/o timeout,,0.00,2023-08-17T21:12:59Z,2017-03-22T23:08:32Z
+202.153.112.221,,9925,Powerbase DataCenter Services HK Ltd.,HK,,,i/o timeout,,0.00,2023-08-17T21:13:02Z,2017-03-28T23:04:31Z
+103.196.125.2,,17213,SSCLOUD,HK,,,i/o timeout,,0.00,2023-08-17T21:13:43Z,2017-04-04T01:09:10Z
+103.196.125.3,,17213,SSCLOUD,HK,,,i/o timeout,,0.00,2023-08-17T21:13:43Z,2017-04-04T01:09:59Z
+103.196.125.1,,17213,SSCLOUD,HK,,,i/o timeout,,0.00,2023-08-17T21:13:44Z,2017-04-04T01:10:17Z
+103.196.124.3,,17213,SSCLOUD,HK,,,i/o timeout,,0.00,2023-08-17T21:13:44Z,2017-04-04T01:10:18Z
+103.196.124.1,,17213,SSCLOUD,HK,,,i/o timeout,,0.00,2023-08-17T21:13:44Z,2017-04-04T01:10:21Z
+202.46.32.19,ns1.cnsat.com.cn.,24413,263 Shanghai Communications Ltd.,HK,,,i/o timeout,,0.00,2023-08-17T21:14:17Z,2017-09-05T23:53:31Z
+103.205.58.129,,133744,Better Cloud Limited,HK,,,connection refused,,0.00,2023-08-17T21:14:55Z,2017-09-10T13:17:32Z
+113.253.224.2,2-224-253-113-on-nets.com.,9304,HGC Global Communications Limited,HK,Kowloon,,i/o timeout,,0.00,2023-08-17T21:17:47Z,2020-03-27T10:14:20Z
+203.205.235.63,,132203,"Tencent Building, Kejizhongyi Avenue",HK,Hong Kong,,i/o timeout,,0.00,2023-08-17T21:18:00Z,2020-05-10T05:02:06Z
+119.81.170.18,12.aa.5177.ip4.static.sl-reverse.com.,36351,SOFTLAYER,HK,Hong Kong,,i/o timeout,,0.00,2023-08-17T21:18:47Z,2020-05-27T16:32:15Z
+113.253.239.102,102-239-253-113-on-nets.com.,9304,HGC Global Communications Limited,HK,Kwun Hang,,i/o timeout,,0.00,2023-08-17T21:19:02Z,2020-06-05T08:29:30Z

@@ -1,0 +1,4 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+2001:de4::101,twnic-public-dns.twnic.tw.,131621,Taiwan Network Information Center,TW,,101,,true,1.00,2021-10-03T11:02:31Z,2021-10-03T10:48:42Z
+2001:de4::102,twnic-public-dns.twnic.tw.,131621,Taiwan Network Information Center,TW,,101,Unexpected result for wikileaks.org: {[[51 159 197 136] [80 81 248 21]]},,0.00,2023-01-10T17:21:09Z,2021-10-03T10:48:45Z
+2001:b000:168::1,dns.hinet.net.,3462,Data Communication Business Group,TW,,,,false,1.00,2023-03-01T00:47:24Z,2023-02-28T18:57:06Z

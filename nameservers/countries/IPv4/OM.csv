@@ -1,0 +1,71 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+5.21.5.130,dynamic.isp.ooredoo.om.,50010,Omani Qatari Telecommunications Company SAOC,OM,Muscat,,,false,1.00,2022-09-08T08:30:21Z,2022-09-08T04:36:43Z
+5.21.241.87,,50010,Omani Qatari Telecommunications Company SAOC,OM,Muscat,,,false,1.00,2022-09-08T08:30:22Z,2022-09-08T04:42:52Z
+5.21.241.85,,50010,Omani Qatari Telecommunications Company SAOC,OM,Muscat,,,false,1.00,2022-09-08T08:30:22Z,2022-09-08T04:42:52Z
+5.21.242.41,,50010,Omani Qatari Telecommunications Company SAOC,OM,Muscat,,,false,0.59,2022-09-19T09:31:12Z,2022-09-08T04:42:53Z
+5.21.242.81,,50010,Omani Qatari Telecommunications Company SAOC,OM,Muscat,,,false,0.83,2022-09-10T17:35:57Z,2022-09-08T04:42:54Z
+5.21.242.111,,50010,Omani Qatari Telecommunications Company SAOC,OM,Muscat,,i/o timeout,,0.67,2022-09-09T00:33:50Z,2022-09-08T04:42:54Z
+5.21.242.103,,50010,Omani Qatari Telecommunications Company SAOC,OM,Muscat,,,false,1.00,2022-09-08T08:30:22Z,2022-09-08T04:42:54Z
+5.21.243.47,,50010,Omani Qatari Telecommunications Company SAOC,OM,Muscat,,,false,1.00,2022-09-08T08:30:21Z,2022-09-08T04:42:56Z
+5.36.19.35,5.36.19.35.dynamic-dsl-ip.omantel.net.om.,28885,Oman Telecommunications Company (S.A.O.G),OM,Seeb,,,false,1.00,2022-09-09T01:33:23Z,2022-09-08T06:18:37Z
+5.36.21.237,5.36.21.237.dynamic-dsl-ip.omantel.net.om.,28885,Oman Telecommunications Company (S.A.O.G),OM,Muscat,,i/o timeout,,0.00,2023-02-08T23:43:29Z,2022-09-08T06:18:44Z
+5.36.65.91,5.36.65.91.dynamic-dsl-ip.omantel.net.om.,28885,Oman Telecommunications Company (S.A.O.G),OM,Muscat,,i/o timeout,,0.06,2022-09-10T17:36:01Z,2022-09-08T06:19:57Z
+5.36.112.118,5.36.112.118.dynamic-dsl-ip.omantel.net.om.,28885,Oman Telecommunications Company (S.A.O.G),OM,Muscat,,i/o timeout,,0.52,2022-09-12T20:30:02Z,2022-09-08T06:21:11Z
+5.36.189.209,5.36.189.209.dynamic-dsl-ip.omantel.net.om.,28885,Oman Telecommunications Company (S.A.O.G),OM,Muscat,,i/o timeout,,0.01,2022-09-13T23:30:33Z,2022-09-08T06:23:21Z
+5.162.223.209,dynamic.isp.ooredoo.om.,50010,Omani Qatari Telecommunication Company SAOC,OM,Muscat,,i/o timeout,,0.02,2023-02-17T13:50:13Z,2022-09-08T21:19:42Z
+5.21.5.186,dynamic.isp.ooredoo.om.,50010,Omani Qatari Telecommunications Company SAOC,OM,Al Qabil,,,false,1.00,2022-09-10T16:40:48Z,2022-09-10T06:52:40Z
+5.21.5.185,dynamic.isp.ooredoo.om.,50010,Omani Qatari Telecommunications Company SAOC,OM,Al Qabil,,,false,1.00,2022-09-10T16:40:54Z,2022-09-10T06:52:42Z
+5.21.242.209,,50010,Omani Qatari Telecommunications Company SAOC,OM,Muscat,,,false,1.00,2022-09-10T06:59:36Z,2022-09-10T06:59:36Z
+5.21.242.97,,50010,Omani Qatari Telecommunications Company SAOC,OM,Muscat,,,false,1.00,2022-09-10T06:59:37Z,2022-09-10T06:59:37Z
+5.36.1.80,5.36.1.80.dynamic-dsl-ip.omantel.net.om.,28885,Oman Telecommunications Company (S.A.O.G),OM,Sohar,,i/o timeout,,0.72,2022-09-10T22:29:40Z,2022-09-10T08:43:03Z
+5.36.63.155,5.36.63.155.dynamic-dsl-ip.omantel.net.om.,28885,Oman Telecommunications Company (S.A.O.G),OM,Sohar,dnsmasq-2.78,,false,0.80,2022-09-10T12:35:30Z,2022-09-10T08:44:52Z
+5.36.158.104,5.36.158.104.dynamic-dsl-ip.omantel.net.om.,28885,Oman Telecommunications Company (S.A.O.G),OM,Muscat,,i/o timeout,,0.54,2022-09-11T00:35:33Z,2022-09-10T08:47:27Z
+5.37.157.112,5.37.157.112.dynamic-dsl-ip.omantel.net.om.,28885,Oman Telecommunications Company (S.A.O.G),OM,Muscat,,i/o timeout,,0.05,2022-09-14T15:29:39Z,2022-09-10T08:54:56Z
+5.37.178.251,5.37.178.251.dynamic-dsl-ip.omantel.net.om.,28885,Oman Telecommunications Company (S.A.O.G),OM,Muscat,,i/o timeout,,0.04,2022-09-13T03:36:22Z,2022-09-10T08:55:31Z
+5.37.224.86,5.37.224.86.dynamic-dsl-ip.omantel.net.om.,28885,Oman Telecommunications Company (S.A.O.G),OM,Muscat,,,false,1.00,2022-09-11T00:35:33Z,2022-09-10T08:56:51Z
+188.135.12.158,static.isp.ooredoo.om.,50010,Omani Qatari Telecommunication Company SAOC,OM,Muscat,,,false,1.00,2023-02-08T23:47:20Z,2022-09-29T04:35:14Z
+46.40.216.90,,50010,Omani Qatari Telecommunications Company SAOC,OM,Muscat,,,false,0.84,2022-10-03T01:36:10Z,2022-10-01T08:20:13Z
+46.40.213.53,static.isp.ooredoo.om.,50010,Omani Qatari Telecommunications Company SAOC,OM,Muscat,,,false,1.00,2022-10-02T09:35:54Z,2022-10-02T06:59:25Z
+46.40.213.169,static.isp.ooredoo.om.,50010,Omani Qatari Telecommunications Company SAOC,OM,Muscat,,,false,1.00,2022-10-04T15:13:06Z,2022-10-04T15:13:06Z
+46.40.244.249,,50010,Omani Qatari Telecommunication Company SAOC,OM,Muscat,,i/o timeout,,0.00,2023-02-08T23:54:49Z,2022-10-19T08:24:29Z
+46.40.219.164,,50010,Omani Qatari Telecommunications Company SAOC,OM,Muscat,,,false,1.00,2022-10-22T13:35:38Z,2022-10-22T13:35:38Z
+188.135.60.42,static.isp.ooredoo.om.,50010,Omani Qatari Telecommunications Company SAOC,OM,Ibra',,,false,0.64,2022-10-26T06:37:49Z,2022-10-25T11:49:28Z
+46.40.246.221,static.isp.ooredoo.om.,50010,Omani Qatari Telecommunications Company SAOC,OM,Muscat,,,false,1.00,2022-10-26T03:46:36Z,2022-10-26T03:46:36Z
+37.41.114.0,,28885,Oman Telecommunications Company (S.A.O.G),OM,Muscat,,,false,1.00,2022-10-26T07:48:26Z,2022-10-26T07:48:26Z
+46.40.215.42,,50010,Omani Qatari Telecommunications Company SAOC,OM,Muscat,,i/o timeout,,0.56,2022-11-29T23:32:32Z,2022-11-04T13:20:21Z
+46.40.219.223,,50010,Omani Qatari Telecommunications Company SAOC,OM,Muscat,,i/o timeout,,0.50,2022-11-11T00:59:44Z,2022-11-05T16:18:15Z
+188.135.14.80,,50010,Omani Qatari Telecommunication Company SAOC,OM,,,,false,1.00,2023-02-09T00:11:04Z,2022-11-06T15:43:19Z
+5.21.242.127,,50010,Omani Qatari Telecommunication Company SAOC,OM,,,,false,1.00,2023-02-09T00:11:29Z,2022-11-09T02:44:55Z
+46.40.227.57,,50010,Omani Qatari Telecommunication Company SAOC,OM,Muscat,,,false,0.81,2023-02-19T09:53:58Z,2022-11-15T01:31:27Z
+188.135.50.94,,50010,Omani Qatari Telecommunications Company SAOC,OM,Muscat,,,false,0.79,2022-12-15T10:12:07Z,2022-11-18T22:43:07Z
+145.255.67.96,dynamic.isp.ooredoo.om.,50010,Omani Qatari Telecommunications Company SAOC,OM,Muscat,,,false,0.71,2022-12-27T17:09:11Z,2022-11-19T12:07:01Z
+5.21.243.71,,50010,Omani Qatari Telecommunications Company SAOC,OM,Muscat,,i/o timeout,,0.81,2022-12-06T23:47:11Z,2022-11-20T22:29:43Z
+46.40.214.43,,50010,Omani Qatari Telecommunication Company SAOC,OM,Muscat,,i/o timeout,,0.83,2023-02-14T06:36:32Z,2022-11-24T00:51:42Z
+188.135.50.178,,50010,Omani Qatari Telecommunications Company SAOC,OM,Muscat,,,false,0.61,2022-12-06T23:50:33Z,2022-11-24T20:07:54Z
+46.40.245.69,,50010,Omani Qatari Telecommunication Company SAOC,OM,Muscat,,i/o timeout,,0.00,2023-02-09T00:31:56Z,2022-12-07T02:25:43Z
+188.135.16.72,,50010,Omani Qatari Telecommunication Company SAOC,OM,Muscat,,,false,0.64,2023-02-19T13:07:10Z,2022-12-08T18:11:36Z
+46.40.204.50,,50010,Omani Qatari Telecommunication Company SAOC,OM,Muscat,,i/o timeout,,0.00,2023-02-26T03:50:35Z,2022-12-15T06:04:51Z
+5.21.239.143,,50010,Omani Qatari Telecommunication Company SAOC,OM,Muscat,,i/o timeout,,0.00,2023-02-18T10:13:07Z,2022-12-20T09:44:35Z
+85.154.37.161,i161.37.154.85.omantel.net.om.,28885,Oman Telecommunications Company (S.A.O.G),OM,Muscat,,,true,0.96,2023-02-19T06:07:43Z,2022-12-23T01:58:25Z
+145.255.74.133,dynamic.isp.ooredoo.om.,50010,Omani Qatari Telecommunication Company SAOC,OM,Muscat,,i/o timeout,,0.00,2023-02-19T06:54:42Z,2022-12-24T22:50:47Z
+46.40.247.21,static.isp.ooredoo.om.,50010,Omani Qatari Telecommunication Company SAOC,OM,Muscat,,i/o timeout,,0.45,2023-02-19T06:55:23Z,2022-12-26T11:13:01Z
+188.135.50.138,,50010,Omani Qatari Telecommunication Company SAOC,OM,Seeb,,,false,0.66,2023-02-19T20:00:42Z,2022-12-31T05:43:29Z
+188.135.49.95,,50010,Omani Qatari Telecommunication Company SAOC,OM,Muscat,,i/o timeout,,0.74,2023-02-19T20:00:42Z,2022-12-31T06:07:32Z
+188.135.62.7,,50010,Omani Qatari Telecommunication Company SAOC,OM,,,i/o timeout,,0.59,2023-02-20T09:07:09Z,2022-12-31T10:18:27Z
+188.135.61.168,,50010,Omani Qatari Telecommunication Company SAOC,OM,,,,false,0.62,2023-02-19T20:01:54Z,2023-01-02T01:45:54Z
+46.40.247.116,static.isp.ooredoo.om.,50010,Omani Qatari Telecommunication Company SAOC,OM,Muscat,Akamai Vantio CacheServe 7.6.3.1,,false,0.21,2023-02-19T20:02:08Z,2023-01-02T10:32:44Z
+145.255.72.190,dynamic.isp.ooredoo.om.,50010,Omani Qatari Telecommunication Company SAOC,OM,,,,false,0.74,2023-02-20T05:02:28Z,2023-01-03T06:33:49Z
+46.40.244.136,,50010,Omani Qatari Telecommunication Company SAOC,OM,Muscat,,i/o timeout,,0.46,2023-02-25T20:46:35Z,2023-02-19T06:08:30Z
+134.0.202.105,,28885,Oman Telecommunications Company (S.A.O.G),OM,Muscat,,,true,1.00,2023-02-28T18:48:02Z,2023-02-22T00:20:53Z
+46.40.244.137,,50010,Omani Qatari Telecommunication Company SAOC,OM,Muscat,,i/o timeout,,0.85,2023-03-02T22:46:40Z,2023-02-26T00:41:39Z
+46.40.218.15,,50010,Omani Qatari Telecommunication Company SAOC,OM,Muscat,,,false,0.77,2023-02-28T06:46:35Z,2023-02-26T20:58:35Z
+46.40.245.248,,50010,Omani Qatari Telecommunication Company SAOC,OM,Muscat,Akamai Vantio CacheServe 7.6.3.1,,false,0.86,2023-03-02T01:01:07Z,2023-02-27T17:30:56Z
+188.135.51.143,,50010,Omani Qatari Telecommunication Company SAOC,OM,,,,false,0.96,2023-03-03T18:48:27Z,2023-03-03T02:08:05Z
+145.255.65.43,dynamic.isp.ooredoo.om.,50010,Omani Qatari Telecommunication Company SAOC,OM,,,,false,0.85,2023-03-11T12:47:11Z,2023-03-10T06:58:46Z
+188.135.14.78,,50010,Omani Qatari Telecommunication Company SAOC,OM,,,i/o timeout,,0.86,2023-03-31T03:00:15Z,2023-03-11T12:12:46Z
+89.147.180.107,static-host-89-147-180-107.awasr.om.,204170,Awaser Oman LLC,OM,Muscat,,,false,1.00,2023-03-15T04:48:28Z,2023-03-14T09:36:14Z
+89.147.154.110,static-host-89-147-154-110.awasr.om.,204170,Awaser Oman LLC,OM,Muscat,,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:37:14Z,2023-03-15T21:36:14Z
+188.135.60.50,static.isp.ooredoo.om.,50010,Omani Qatari Telecommunication Company SAOC,OM,Muscat,,i/o timeout,,0.00,2023-08-17T21:59:56Z,2023-04-08T23:04:56Z
+91.132.64.87,,50010,Omani Qatari Telecommunication Company SAOC,OM,,,,true,1.00,2023-08-17T22:04:07Z,2023-05-07T12:06:23Z
+188.135.60.222,static.isp.ooredoo.om.,50010,Omani Qatari Telecommunication Company SAOC,OM,Muscat,,,false,0.97,2023-08-17T22:04:28Z,2023-05-08T09:16:47Z
+46.243.148.126,,0,,OM,Muscat,,i/o timeout,,0.00,2023-08-17T21:18:51Z,2020-05-30T20:56:53Z

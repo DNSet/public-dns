@@ -1,0 +1,8 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+41.86.33.132,,36958,Cable & Wireless (Seychelles),SC,Mont Buxton,,,false,1.00,2021-09-24T04:31:00Z,2021-09-24T04:31:00Z
+91.217.81.165,000.example.com.,204997,First Server Limited,SC,,,Unexpected result for wikileaks.org: {[[51 159 197 136] [80 81 248 21]]},,0.00,2023-01-11T08:28:25Z,2021-10-01T08:26:43Z
+160.119.72.32,,212032,Per-Ola Kjell Hammar,SC,,,i/o timeout,,0.00,2023-02-25T20:56:15Z,2021-11-26T13:10:03Z
+196.13.208.10,ns2.gov.sc.,327861,ICT-Department-Seychelles-Govt,SC,,9.16.1-Ubuntu,,true,0.95,2022-08-29T12:26:11Z,2022-08-25T01:26:12Z
+45.141.58.191,server.stdcarriers.com.,213373,IP Connect Inc,SC,,,,false,1.00,2022-08-26T15:25:13Z,2022-08-25T01:26:52Z
+185.247.225.17,,200651,Flokinet Ltd,SC,,,,true,1.00,2022-08-25T08:58:27Z,2022-08-25T08:58:27Z
+154.81.12.161,,0,,SC,,,i/o timeout,,0.00,2023-02-20T05:03:13Z,2023-01-04T07:30:46Z

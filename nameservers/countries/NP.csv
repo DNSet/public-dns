@@ -1,0 +1,60 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+202.53.1.2,,38217,Dataspace Pvt. Ltd.,NP,,not currently available,Unexpected result for wikileaks.org: {[[195 35 109 44] [141 105 65 113] [195 35 109 53] [185 165 168 41]]},,0.01,2021-09-04T14:46:21Z,2021-05-04T05:12:03Z
+202.51.74.97,,23647,Communications & Communicate Nepal Pvt Ltd,NP,,,Unexpected result for wikileaks.org: {[[141 105 65 113] [195 35 109 53] [195 35 109 44] [185 165 168 41]]},,0.00,2021-09-03T11:54:11Z,2021-06-09T14:22:09Z
+103.124.97.11,,138388,Pokhara Internet Pvt. Ltd.,NP,Kaski,,,false,0.69,2021-10-08T08:02:52Z,2021-09-24T02:43:47Z
+103.1.93.184,,55915,Classic Tech Pvt. Ltd.,NP,,,,false,0.37,2021-11-09T15:04:17Z,2021-09-24T14:26:54Z
+182.93.83.33,,4007,"Subisu Cablenet Pvt Ltd, Baluwatar, Kathmandu, Nepal",NP,Kathmandu,,,false,1.00,2023-03-05T06:57:29Z,2021-09-27T10:31:00Z
+124.41.240.53,server.kusoe.edu.np.,17501,WorldLink Communications Pvt Ltd,NP,,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.7,,false,1.00,2021-09-27T14:58:32Z,2021-09-27T14:58:32Z
+118.91.161.210,,24550,Websurfer Nepal Internet Service Provider,NP,,dnsmasq-pi-hole-2.85,,false,1.00,2021-09-29T11:44:29Z,2021-09-29T11:44:29Z
+202.70.75.241,,23752,"Nepal Telecommunications Corporation, Internet Services",NP,,,i/o timeout,,0.52,2021-10-08T08:02:05Z,2021-10-03T16:20:58Z
+110.44.124.220,,45650,Vianet Communications Pvt. Ltd.,NP,Kathmandu,,,false,0.57,2021-11-09T15:06:37Z,2021-10-29T07:50:31Z
+182.93.95.226,,4007,"Subisu Cablenet Pvt Ltd, Baluwatar, Kathmandu, Nepal",NP,Kathmandu,,Unexpected result for wikileaks.org: NXDOMAIN,,0.75,2022-10-17T22:35:38Z,2022-10-17T19:40:18Z
+182.93.83.118,,4007,"Subisu Cablenet Pvt Ltd, Baluwatar, Kathmandu, Nepal",NP,Kathmandu,,,false,0.97,2022-10-24T07:37:15Z,2022-10-23T11:15:18Z
+103.10.29.221,,45650,Vianet Communications Pvt. Ltd.,NP,Kathmandu,,Unexpected result for rotten.com: {[[110 44 112 35]]},,0.48,2023-02-22T16:47:32Z,2022-10-28T14:02:55Z
+110.34.5.181,,4007,"Subisu Cablenet Pvt Ltd, Baluwatar, Kathmandu, Nepal",NP,Kathmandu,,,false,1.00,2022-11-11T01:02:59Z,2022-11-09T22:43:50Z
+103.162.234.22,,141732,Aone Network Pvt. Ltd,NP,,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.4,,true,1.00,2023-02-09T00:12:07Z,2022-11-10T10:06:50Z
+103.126.245.139,,138495,Alisha Communication Link Pvt.Ltd,NP,,9.11.4-P2-RedHat-9.11.4-9.P2.el7,,false,1.00,2022-11-11T01:03:18Z,2022-11-10T22:52:57Z
+120.89.126.65,,23752,"Nepal Telecommunications Corporation, Internet Services",NP,Kathmandu,,i/o timeout,,0.83,2022-12-06T22:03:39Z,2022-11-19T04:14:32Z
+182.93.69.112,,4007,"Subisu Cablenet Pvt Ltd, Baluwatar, Kathmandu, Nepal",NP,Kathmandu,,i/o timeout,,0.33,2022-12-06T22:04:31Z,2022-11-20T01:49:42Z
+103.154.47.129,,135335,Max Net Solutions Pvt Ltd,NP,Pokhara,,i/o timeout,,0.13,2022-12-06T23:51:13Z,2022-11-25T14:07:41Z
+110.44.123.48,,45650,Vianet Communications Pvt. Ltd.,NP,Kathmandu,,,false,0.96,2022-12-06T23:51:23Z,2022-11-25T18:05:44Z
+103.160.22.215,,141459,Clean Network Pvt. Ltd,NP,Lahan,,i/o timeout,,0.54,2022-12-06T23:53:43Z,2022-11-28T18:33:11Z
+182.93.75.197,,4007,"Subisu Cablenet Pvt Ltd, Baluwatar, Kathmandu, Nepal",NP,Kathmandu,,,false,0.91,2023-02-17T05:15:40Z,2022-12-16T21:56:36Z
+103.233.57.52,c3-52.accessworld.net.,59370,Access World Tech Pvt. Ltd.,NP,,,i/o timeout,,0.00,2023-03-05T08:49:19Z,2022-12-17T04:20:23Z
+103.235.197.78,,4007,"Subisu Cablenet Pvt Ltd, Baluwatar, Kathmandu, Nepal",NP,,,,false,0.82,2023-02-19T06:07:06Z,2022-12-22T02:57:28Z
+103.28.86.177,,58504,TECHMINDS NETWORKS PVT. LTD.,NP,,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.7,,true,0.98,2023-03-01T00:47:34Z,2023-02-28T01:13:02Z
+202.51.74.187,BARCODE-VM-EC2.datahub.cloud.,23647,Communications & Communicate Nepal Pvt Ltd,NP,,,,false,1.00,2023-03-01T22:50:15Z,2023-02-28T19:28:01Z
+103.147.63.200,,139922,Simple Media Network Private Limited,NP,Dadakharka,,,false,1.00,2023-03-04T04:04:08Z,2023-03-02T20:27:31Z
+110.44.112.19,,45650,Vianet Communications Pvt. Ltd.,NP,Kathmandu,,,false,1.00,2023-03-11T22:47:37Z,2023-03-10T17:10:05Z
+103.134.216.94,94.216.134.103.fsln.com.np.,149768,Fast Speed Link Network Pvt Ltd,NP,,,i/o timeout,,0.85,2023-03-14T16:45:00Z,2023-03-13T10:22:40Z
+110.34.3.149,,4007,"Subisu Cablenet Pvt Ltd, Baluwatar, Kathmandu, Nepal",NP,Kathmandu,,,false,0.93,2023-03-14T17:45:24Z,2023-03-13T10:32:22Z
+103.180.240.132,,139922,Simple Media Network Private Limited,NP,,,,false,1.00,2023-04-20T15:50:40Z,2023-03-13T13:19:38Z
+103.124.98.99,,138388,Pokhara Internet Pvt. Ltd.,NP,,,,false,1.00,2023-03-15T09:50:33Z,2023-03-13T19:37:47Z
+150.107.206.13,,58504,TECHMINDS NETWORKS PVT. LTD.,NP,,,,false,1.00,2023-03-15T09:52:29Z,2023-03-13T22:31:01Z
+202.70.77.101,,23752,"Nepal Telecommunications Corporation, Internet Services",NP,Kathmandu,,i/o timeout,,0.50,2023-03-15T09:53:33Z,2023-03-14T00:01:43Z
+202.63.243.159,,4007,"Subisu Cablenet Pvt Ltd, Baluwatar, Kathmandu, Nepal",NP,,,,false,1.00,2023-03-15T09:54:33Z,2023-03-14T01:47:42Z
+110.44.123.114,,45650,Vianet Communications Pvt. Ltd.,NP,Kathmandu,,,false,1.00,2023-03-15T04:47:46Z,2023-03-14T08:20:12Z
+45.116.20.185,,23752,"Nepal Telecommunications Corporation, Internet Services",NP,,,,false,1.00,2023-03-15T04:50:59Z,2023-03-14T14:03:10Z
+110.34.3.185,,4007,"Subisu Cablenet Pvt Ltd, Baluwatar, Kathmandu, Nepal",NP,Kathmandu,,,false,1.00,2023-03-15T04:51:00Z,2023-03-14T14:09:05Z
+182.93.75.172,,4007,"Subisu Cablenet Pvt Ltd, Baluwatar, Kathmandu, Nepal",NP,Kathmandu,,,false,1.00,2023-03-15T04:51:33Z,2023-03-14T15:03:52Z
+202.70.68.12,,23752,"Nepal Telecommunications Corporation, Internet Services",NP,Kathmandu,,,false,1.00,2023-03-15T04:52:14Z,2023-03-14T16:04:00Z
+202.70.76.13,,23752,"Nepal Telecommunications Corporation, Internet Services",NP,Kathmandu,,,false,1.00,2023-03-15T09:58:08Z,2023-03-14T23:00:19Z
+202.70.87.25,,23752,"Nepal Telecommunications Corporation, Internet Services",NP,Kathmandu,,,false,1.00,2023-03-15T09:58:34Z,2023-03-14T23:44:57Z
+45.116.21.185,,23752,"Nepal Telecommunications Corporation, Internet Services",NP,,,i/o timeout,,0.97,2023-03-18T02:56:30Z,2023-03-15T16:15:31Z
+124.41.193.46,,17501,WorldLink Communications Pvt Ltd,NP,Jawalakhel,,,false,0.97,2023-04-05T00:37:18Z,2023-03-15T21:38:38Z
+202.63.241.68,,4007,"Subisu Cablenet Pvt Ltd, Baluwatar, Kathmandu, Nepal",NP,,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:42:48Z,2023-03-16T06:27:44Z
+202.52.254.10,,4613,Mercantile Office Systems,NP,,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:44:04Z,2023-03-16T08:15:08Z
+202.63.244.21,,4007,"Subisu Cablenet Pvt Ltd, Baluwatar, Kathmandu, Nepal",NP,,,i/o timeout,,0.00,2023-05-04T23:47:54Z,2023-03-16T13:19:55Z
+182.93.84.123,,4007,"Subisu Cablenet Pvt Ltd, Baluwatar, Kathmandu, Nepal",NP,Kathmandu,,i/o timeout,,0.36,2023-04-19T19:38:23Z,2023-03-16T16:08:46Z
+202.51.70.38,38.70.51.202.static.niig.com.np.,45845,NEPAL INTERNATIONAL INTERNET GATEWAY,NP,,,i/o timeout,,0.43,2023-04-19T19:41:29Z,2023-03-16T20:59:43Z
+202.63.243.213,,4007,"Subisu Cablenet Pvt Ltd, Baluwatar, Kathmandu, Nepal",NP,,,,false,0.66,2023-04-21T21:45:53Z,2023-03-17T02:54:39Z
+103.137.201.121,,138964,Barahi Internet Technologies Pvt. Ltd.,NP,Taulihawa,,,false,0.96,2023-05-08T07:53:08Z,2023-03-17T16:25:43Z
+103.167.228.5,,140072,Fiberworld Communication Pvt.ltd,NP,,,connection refused,,0.00,2023-08-12T20:54:01Z,2023-03-17T22:11:51Z
+202.79.36.55,staff-vpn.wlink.com.np.,17501,WorldLink Communications Pvt Ltd,NP,Kathmandu,,i/o timeout,,0.00,2023-08-12T20:55:29Z,2023-03-18T00:32:58Z
+103.167.228.10,,140072,Fiberworld Communication Pvt.ltd,NP,,,connection refused,,0.00,2023-08-12T20:58:47Z,2023-03-18T06:54:29Z
+103.137.10.193,,137880,Prime Network Pvt.ltd,NP,,,,false,1.00,2023-08-12T21:05:02Z,2023-03-18T17:03:19Z
+202.166.218.218,218.218.166.202.wireless.static.wlink.com.np.,17501,WorldLink Communications Pvt Ltd,NP,Kathmandu,,i/o timeout,,0.00,2023-08-17T21:53:58Z,2023-03-19T13:31:47Z
+103.74.14.134,,132799,DISH MEDIA NETWORK PUBLIC LIMITED,NP,,dnsmasq-pi-hole-v2.89-9461807,SERVFAIL for example.com,,0.37,2023-08-17T22:04:38Z,2023-08-17T13:13:10Z
+116.66.197.183,,4007,"Subisu Cablenet Pvt Ltd, Baluwatar, Kathmandu, Nepal",NP,Janakpur Dham,,i/o timeout,,0.00,2023-08-17T21:12:35Z,2017-02-06T01:52:31Z
+103.197.104.239,,135327,Asianet,NP,Kathmandu,,i/o timeout,,0.00,2023-08-17T21:13:44Z,2017-04-04T01:15:28Z
+103.114.24.19,ns2.ewnet.com.np.,137580,Everest Wireless Network pvt. ltd,NP,,,REFUSED for example.com,,0.00,2023-08-17T21:15:16Z,2018-07-01T03:03:41Z

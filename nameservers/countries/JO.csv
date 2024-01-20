@@ -1,0 +1,36 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+212.118.0.1,mail2.nets.com.jo.,9038,Batelco Jordan,JO,Amman,,SERVFAIL for example.com,,0.00,2023-04-20T15:41:46Z,2020-11-22T11:41:19Z
+82.212.67.100,,47887,Al-hadatheh Lil-itisalat Wa Al-technologia Co.,JO,Amman,,i/o timeout,,0.00,2021-05-03T22:24:55Z,2021-02-12T13:15:22Z
+217.144.6.6,,21088,Farah Trading & Contracting Co.,JO,,Microsoft DNS 6.1.7601 (1DB15D39),,false,0.93,2022-08-27T07:26:58Z,2022-08-20T18:11:20Z
+5.198.243.202,,9038,Batelco Jordan,JO,,dnsmasq-2.45,,false,1.00,2023-02-08T23:44:31Z,2022-09-09T01:42:57Z
+86.108.44.67,86.108.x.67.go.com.jo.,8376,Jordan Data Communications Company LLC,JO,Amman,,i/o timeout,,0.10,2022-10-11T13:32:02Z,2022-09-29T20:49:50Z
+86.108.63.111,86.108.x.111.go.com.jo.,8376,Jordan Data Communications Company LLC,JO,Amman,,i/o timeout,,0.67,2022-10-27T11:52:09Z,2022-10-24T02:29:36Z
+149.200.251.61,,8376,Jordan Data Communications Company LLC,JO,Irbid,,i/o timeout,,0.00,2022-11-09T18:43:22Z,2022-10-25T06:06:31Z
+92.253.127.65,,8376,Jordan Data Communications Company LLC,JO,Amman,,,false,1.00,2022-10-26T19:36:18Z,2022-10-26T17:06:35Z
+80.90.161.26,jorisa02.joramco.com.jo.,48832,Linkdotnet-Jordan,JO,Amman,Microsoft DNS 6.1.7601 (1DB1446A),,false,1.00,2023-03-01T19:53:55Z,2023-03-01T12:11:27Z
+212.34.0.140,,8697,Jordan Telecommunications PSC,JO,,dnsmasq-2.62,,false,1.00,2023-03-03T21:35:39Z,2023-03-03T21:35:39Z
+176.28.250.235,,48832,Linkdotnet-Jordan,JO,Amman,9.6-ESV-R11,,false,1.00,2023-03-13T07:46:57Z,2023-03-13T05:16:07Z
+92.253.23.8,,8376,Jordan Data Communications Company LLC,JO,Amman,,,false,1.00,2023-03-13T08:45:30Z,2023-03-13T05:36:38Z
+176.28.250.122,,48832,Linkdotnet-Jordan,JO,Amman,dnsmasq-2.83,,false,1.00,2023-03-13T15:16:42Z,2023-03-13T15:16:42Z
+92.253.101.67,,8376,Jordan Data Communications Company LLC,JO,Amman,,,false,1.00,2023-03-15T09:48:07Z,2023-03-13T15:58:55Z
+185.98.225.173,,8376,Jordan Data Communications Company LLC,JO,Zarqa,dnsmasq-2.40,,false,1.00,2023-03-15T09:52:46Z,2023-03-13T23:04:54Z
+82.212.107.34,,47887,Al-hadatheh Lil-itisalat Wa Al-technologia Co.,JO,Amman,dnsmasq-2.40,,true,1.00,2023-03-15T09:53:15Z,2023-03-13T23:49:14Z
+149.200.254.136,,8376,Jordan Data Communications Company LLC,JO,Amman,,,false,1.00,2023-03-15T09:53:19Z,2023-03-13T23:54:14Z
+87.236.233.70,gateway2.ahu.edu.jo.,35656,Jordanian Universities Network L.L.C.,JO,Amman,,,false,1.00,2023-03-15T09:54:40Z,2023-03-14T01:54:27Z
+109.237.202.116,,50670,Vtel Holdings Limited/jordan Co.,JO,Amman,,,false,1.00,2023-03-14T05:03:45Z,2023-03-14T05:03:45Z
+94.249.14.227,94.249.x.227.go.com.jo.,8376,Jordan Data Communications Company LLC,JO,Amman,,,false,1.00,2023-03-14T06:45:21Z,2023-03-14T06:45:21Z
+185.96.70.36,,50670,Vtel Holdings Limited/jordan Co.,JO,Amman,,,false,1.00,2023-04-12T12:15:50Z,2023-03-14T09:29:30Z
+92.253.60.133,,8376,Jordan Data Communications Company LLC,JO,Amman,,,false,1.00,2023-03-15T04:48:33Z,2023-03-14T09:42:59Z
+37.220.121.75,,9038,Batelco Jordan,JO,Amman,ZyWALL DNS,SERVFAIL for non-existent.example.com,,0.14,2023-03-15T04:50:49Z,2023-03-14T13:51:51Z
+79.134.152.192,gw192-152.jcsfiberlink.net.,44702,Jordan Tv Cable & Internet Services Co,JO,Amman,dnsmasq-2.78,,false,1.00,2023-03-15T04:52:53Z,2023-03-14T17:07:57Z
+86.108.15.199,,8376,Jordan Data Communications Company LLC,JO,Amman,,,false,1.00,2023-03-15T09:57:07Z,2023-03-14T21:17:29Z
+91.106.107.227,,9038,Batelco Jordan,JO,,,,false,1.00,2023-03-15T09:57:56Z,2023-03-14T22:43:33Z
+79.173.251.155,,8376,Jordan Data Communications Company LLC,JO,Amman,,,false,0.91,2023-03-18T02:51:20Z,2023-03-15T07:48:08Z
+46.185.139.130,,8376,Jordan Data Communications Company LLC,JO,Amman,dnsmasq-2.40,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:44:49Z,2023-03-16T09:36:36Z
+91.106.105.218,,9038,Batelco Jordan,JO,,,,false,0.69,2023-04-21T17:41:55Z,2023-03-16T21:48:30Z
+91.106.105.142,,9038,Batelco Jordan,JO,,,,false,0.69,2023-04-21T17:42:01Z,2023-03-16T22:00:27Z
+79.173.253.186,,8376,Jordan Data Communications Company LLC,JO,Amman,dnsmasq-2.84rc2,,false,0.71,2023-04-21T21:43:42Z,2023-03-16T23:10:08Z
+109.237.192.226,,50670,Vtel Holdings Limited/Jordan Co.,JO,,,i/o timeout,,0.00,2023-08-12T21:04:09Z,2023-03-18T15:34:16Z
+188.247.93.122,ip188-247-93-122.zaindata.jo.,48832,Linkdotnet-Jordan,JO,Zarqa,,,false,0.33,2023-08-12T21:07:51Z,2023-03-18T22:45:00Z
+87.236.233.117,dns2.bau.edu.jo.,35656,Jordanian Universities Network L.L.C.,JO,Amman,,,false,1.00,2023-08-17T15:57:52Z,2023-03-19T10:50:08Z
+46.248.192.229,,9038,Batelco Jordan,JO,Amman,,i/o timeout,,0.00,2023-08-17T21:57:12Z,2023-03-19T20:43:53Z

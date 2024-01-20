@@ -1,0 +1,9 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+102.116.108.83,,23889,MauritiusTelecom,MU,Quatre Bornes,dnsmasq-pi-hole-2.84,,false,1.00,2021-10-01T23:12:25Z,2021-10-01T23:12:25Z
+41.174.184.222,,30844,Liquid Telecommunications Ltd,MU,,,i/o timeout,,0.66,2021-11-29T07:32:48Z,2021-10-20T10:10:29Z
+41.216.125.179,41.216.125.179.liquidtelecom.net.,30844,Liquid Telecommunications Ltd,MU,,,,true,1.00,2023-02-09T00:11:58Z,2022-11-06T20:15:18Z
+102.112.116.33,,23889,MauritiusTelecom,MU,Centre de Flacq,,i/o timeout,,0.04,2022-12-06T22:01:59Z,2022-11-17T06:24:28Z
+41.76.43.1,,30999,EMTEL-AS-AP,MU,,,i/o timeout,,0.88,2022-12-06T22:02:14Z,2022-11-17T14:26:03Z
+102.117.22.215,,23889,MauritiusTelecom,MU,Quatre Bornes,,i/o timeout,,0.00,2023-02-19T18:03:48Z,2022-12-31T02:53:23Z
+102.113.125.213,,23889,MauritiusTelecom,MU,Vacoas,,connection refused,,0.05,2023-02-26T09:06:54Z,2023-02-20T05:37:36Z
+41.198.247.199,,328306,Avanti-AS,MU,,,,false,1.00,2023-03-15T04:48:44Z,2023-03-14T09:51:57Z

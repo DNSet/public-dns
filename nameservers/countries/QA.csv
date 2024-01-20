@@ -1,0 +1,21 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+212.77.217.193,dns1.cna-qatar.edu.qa.,8781,Ooredoo Q.S.C.,QA,Doha,,SERVFAIL for example.com,,0.00,2023-03-02T05:47:45Z,2020-08-18T17:16:39Z
+86.36.50.135,,29384,"Qatar Foundation for Education, Science and Community Development",QA,Doha,,i/o timeout,,0.00,2023-03-02T01:46:59Z,2020-08-18T17:16:44Z
+89.211.53.228,edge01.qbcf.gov.qa.,8781,Ooredoo Q.S.C.,QA,Doha,Microsoft DNS 6.0.6001 (17714650),Unexpected result for wikileaks.org: {[[51 159 197 136] [80 81 248 21]]},,0.78,2023-01-06T14:07:30Z,2020-08-18T17:21:42Z
+178.153.192.159,,42298,Ooredoo Q.S.C.,QA,Doha,,i/o timeout,,0.00,2023-02-08T23:47:46Z,2022-10-02T09:20:08Z
+54.38.216.11,ip11.ip-54-38-216.eu.,16276,OVH SAS,QA,Doha,,i/o timeout,,0.00,2023-02-08T23:58:02Z,2022-10-20T15:09:23Z
+78.101.73.142,,42298,Ooredoo Q.S.C.,QA,Doha,,,false,1.00,2023-03-13T05:54:12Z,2023-03-13T05:54:12Z
+78.101.21.137,,42298,Ooredoo Q.S.C.,QA,Doha,,i/o timeout,,0.00,2023-05-08T03:48:58Z,2023-03-13T13:12:05Z
+89.211.60.76,,8781,Ooredoo Q.S.C.,QA,Doha,dnsmasq-2.48,,false,1.00,2023-04-03T21:30:06Z,2023-03-14T01:16:27Z
+37.211.150.188,,42298,Ooredoo Q.S.C.,QA,Doha,dnsmasq-2.76,,false,1.00,2023-03-14T18:46:51Z,2023-03-14T08:06:58Z
+37.210.226.217,,42298,Ooredoo Q.S.C.,QA,Doha,,,false,1.00,2023-03-15T04:49:58Z,2023-03-14T12:16:11Z
+78.101.71.168,,42298,Ooredoo Q.S.C.,QA,Doha,,,false,1.00,2023-03-15T09:57:34Z,2023-03-14T22:03:31Z
+78.101.157.63,,42298,Ooredoo Q.S.C.,QA,Doha,unbound 1.4.22,,false,1.00,2023-03-15T09:58:09Z,2023-03-14T23:10:18Z
+78.100.236.124,,42298,Ooredoo Q.S.C.,QA,Doha,,,false,1.00,2023-03-18T02:51:16Z,2023-03-15T07:33:01Z
+178.152.116.32,,42298,Ooredoo Q.S.C.,QA,Doha,,i/o timeout,,0.13,2023-04-10T18:11:24Z,2023-03-16T03:38:44Z
+178.153.15.79,,42298,Ooredoo Q.S.C.,QA,Doha,,,false,0.73,2023-04-21T21:47:26Z,2023-03-17T05:39:32Z
+78.100.176.120,,8781,Ooredoo Q.S.C.,QA,Doha,,i/o timeout,,0.00,2023-08-12T20:55:19Z,2023-03-18T00:16:20Z
+89.211.170.61,,42298,Ooredoo Q.S.C.,QA,Doha,,i/o timeout,,0.00,2023-08-12T20:58:54Z,2023-03-18T06:51:56Z
+78.100.241.44,,42298,Ooredoo Q.S.C.,QA,Doha,,i/o timeout,,0.00,2023-08-12T21:03:06Z,2023-03-18T13:40:18Z
+89.211.186.135,,42298,Ooredoo Q.S.C.,QA,Doha,,i/o timeout,,0.00,2023-08-12T21:07:30Z,2023-03-18T21:40:28Z
+78.100.99.171,,8781,Ooredoo Q.S.C.,QA,Doha,,i/o timeout,,0.00,2023-08-17T22:06:49Z,2015-01-05T21:32:58Z

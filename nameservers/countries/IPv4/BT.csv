@@ -1,0 +1,9 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+103.29.225.241,,23955,"TashiCell Domestic AS, Thimphu, Bhutan",BT,Samdrup Jongkhar,,i/o timeout,,0.00,2022-01-24T07:08:34Z,2020-09-03T20:13:34Z
+103.119.126.68,ns1.bnb.bt.,137994,Bhutan National Bank limited,BT,,,i/o timeout,,0.36,2023-02-25T11:45:05Z,2021-06-09T14:17:18Z
+43.241.138.152,cust-Sangay-Dorji-gw3-plg.tashicell.com.,23955,Tashi InfoComm Limited,BT,Tsimasham,,,false,1.00,2023-03-15T09:50:47Z,2023-03-13T19:48:08Z
+202.144.140.220,,18024,Bhutan Telecom Ltd,BT,Thimphu,dnsmasq-2.79,,false,1.00,2023-03-14T02:30:39Z,2023-03-14T02:30:39Z
+202.144.139.180,ppp139-180.dialup.thimphu.druknet.bt.,18024,Bhutan Telecom Ltd,BT,Thimphu,dnsmasq-2.76,,false,0.66,2023-04-06T11:55:45Z,2023-03-16T09:33:36Z
+119.2.116.187,host187.dbfclvpn.druknet.bt.,18024,Bhutan Telecom Ltd,BT,Jakar,unbound 1.4.22,SERVFAIL for example.com,,0.29,2023-04-19T19:38:14Z,2023-03-16T16:09:25Z
+202.144.130.61,,18024,Bhutan Telecom Ltd,BT,Thimphu,unbound 1.4.22,,false,0.71,2023-04-21T21:44:15Z,2023-03-16T23:58:57Z
+119.2.107.238,ll-cust-119.2-107-238.gw2.lungtenzampa.druknet.bt.,18024,Bhutan Telecom Ltd,BT,Thimphu,,,true,0.67,2023-04-21T21:48:50Z,2023-03-17T08:00:08Z

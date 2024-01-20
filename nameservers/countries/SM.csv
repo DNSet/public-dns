@@ -1,0 +1,2 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+194.183.81.131,host-194-183-81-131-static.telecomitalia.sm.,15433,Telecom Italia San Marino S.p.A,SM,Borgo Maggiore,,no route to host,,0.00,2023-04-20T15:41:47Z,2020-09-02T20:09:52Z

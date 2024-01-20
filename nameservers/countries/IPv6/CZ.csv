@@ -1,0 +1,4 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+2001:148f:fffe::1,odvr.nic.cz.,20701,"CZ.NIC, z.s.p.o.",CZ,,,,true,0.99,2021-05-03T22:24:01Z,2021-03-30T21:54:20Z
+2001:148f:ffff::1,odvr.nic.cz.,20701,"CZ.NIC, z.s.p.o.",CZ,,,,true,1.00,2023-04-20T15:48:10Z,2021-09-24T04:08:47Z
+2001:1488:800:400::130,,25192,"CZ.NIC, z.s.p.o.",CZ,,,i/o timeout,,0.00,2023-02-28T00:00:48Z,2013-11-04T07:39:42Z

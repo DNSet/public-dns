@@ -1,0 +1,139 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+185.81.41.81,,44543,Rooyekhat Media Company Ltd,IR,,,i/o timeout,,0.00,2023-03-08T22:47:55Z,2020-07-16T12:54:15Z
+31.24.200.4,dns-fw2.baharnet.ir.,24631,Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS,IR,Tehran,[UPDATED],Unexpected result for wikileaks.org: {[[10 10 34 36]]},,0.00,2023-02-25T21:47:26Z,2020-08-10T08:56:33Z
+194.225.152.10,ns3.iranet.ir.,6736,Institute for Research in Fundamental Sciences,IR,,PowerDNS Recursor 4.1.4 (built Aug 31 2018 11:35:40 by buildbot@5c2a07a68304),Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.00,2022-12-24T18:07:26Z,2020-08-21T06:20:03Z
+185.51.200.2,dns.shecan.ir.,48715,Sefroyek Pardaz Engineering Co. LTD,IR,,,Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.00,2023-04-20T15:41:36Z,2020-08-21T20:52:44Z
+185.20.163.2,,41881,Fanava Group,IR,,9.11.13-RedHat-9.11.13-6.el8_2.1,Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.00,2022-03-01T07:08:45Z,2020-09-14T18:24:36Z
+194.60.210.66,ns1.farzaneganpars.ir.,200370,Farzanegan Pars Communications Company PJS,IR,,9.18.3-1-Debian,Unexpected result for wikileaks.org: {[[10 10 34 36]]},,0.00,2022-11-14T14:35:24Z,2020-09-20T20:27:16Z
+185.53.143.3,hosted-by.mobinhost.com.,204544,Dade Pardazi Mobinhost Co LTD,IR,,,Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.00,2023-03-04T04:46:54Z,2020-09-30T23:04:42Z
+185.64.179.89,dec01.susc.ac.ir.,59962,Shiraz University,IR,,,i/o timeout,,0.00,2023-03-04T10:45:57Z,2020-10-03T10:51:08Z
+81.163.3.1,irfcp.ir-1.3.163.81.in-addr.arpa.,58303,Rasana Pishtaz Iranian Service Cooperative Co.,IR,,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.13,Unexpected result for wikileaks.org: {[[10 10 34 36]]},,0.00,2023-02-28T07:50:09Z,2020-10-16T20:15:20Z
+89.144.144.144,,39308,Andishe Sabz Khazar Co. P.j.s.,IR,,9.11.4-P2-RedHat-9.11.4-9.P2.el7,Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.00,2023-04-12T18:12:35Z,2020-10-18T17:22:29Z
+194.36.174.161,,43754,Asiatech Data Transmission company,IR,Tehran,,SERVFAIL for example.com,,0.00,2023-03-04T03:44:47Z,2020-10-19T10:01:46Z
+5.202.100.100,,49100,Pishgaman Toseeh Ertebatat Company (Private Joint Stock),IR,,PTE,Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.00,2023-04-20T15:41:44Z,2020-10-31T20:08:56Z
+5.200.200.200,,58224,Iran Telecommunication Company PJS,IR,,,i/o timeout,,0.00,2022-03-23T07:18:48Z,2020-11-05T09:51:50Z
+45.159.151.220,,201691,Fannavari Etelaate Samane Kavoshgar Ide Ltd.,IR,,,i/o timeout,,0.00,2023-03-01T19:51:42Z,2020-11-17T05:40:14Z
+46.224.1.43,ns2.hiweb.ir.,56402,Dadeh Gostar Asr Novin P.J.S. Co.,IR,Tehran,,Unexpected result for wikileaks.org: {[[10 10 34 36]]},,0.00,2023-02-25T21:50:35Z,2020-12-08T13:23:54Z
+82.99.242.155,82.99.242.155.parsonline.net.,60976,Pars Online PJS,IR,,,Unexpected result for wikileaks.org: {[[10 10 34 36]]},,0.00,2023-03-04T04:46:59Z,2020-12-10T06:10:01Z
+79.175.176.42,,25184,Afranet,IR,,,i/o timeout,,0.00,2023-03-03T15:44:53Z,2020-12-23T04:51:54Z
+37.19.90.65,,206065,Farabord Dadeh Haye Iranian Co.,IR,,,i/o timeout,,0.00,2023-04-21T12:43:29Z,2020-12-23T04:54:01Z
+37.19.90.62,,206065,Farabord Dadeh Haye Iranian Co.,IR,,,i/o timeout,,0.00,2023-05-03T21:47:09Z,2020-12-23T04:54:16Z
+217.219.250.200,,58224,Iran Telecommunication Company PJS,IR,,,i/o timeout,,0.00,2023-03-09T21:48:06Z,2020-12-23T04:56:05Z
+217.219.250.201,,58224,Iran Telecommunication Company PJS,IR,,,i/o timeout,,0.00,2023-04-20T15:43:38Z,2020-12-23T04:56:09Z
+217.219.250.202,,58224,Iran Telecommunication Company PJS,IR,,,i/o timeout,,0.00,2023-03-08T17:48:15Z,2020-12-23T04:56:10Z
+5.145.112.38,,60256,E-Money Net Developers 24 Company Private Joint Stock,IR,,,Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.00,2023-03-04T20:46:55Z,2020-12-23T04:59:21Z
+5.145.112.39,,60256,E-Money Net Developers 24 Company Private Joint Stock,IR,,,Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.00,2023-02-28T07:50:31Z,2020-12-23T04:59:25Z
+217.219.72.194,,58224,Iran Telecommunication Company PJS,IR,,Microsoft DNS 6.1.7601 (1DB15F75),Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.00,2022-12-06T21:54:38Z,2020-12-23T04:59:41Z
+85.185.67.235,,58224,Iran Telecommunication Company PJS,IR,,,Unexpected result for wikileaks.org: {[[195 35 109 53] [195 35 109 44] [141 105 69 239] [185 165 168 41] [141 105 65 113]]},,0.93,2021-01-11T12:45:34Z,2020-12-23T05:01:46Z
+85.185.6.3,,58224,Iran Telecommunication Company PJS,IR,,,i/o timeout,,0.00,2023-02-27T23:49:41Z,2020-12-23T05:03:50Z
+185.55.225.25,,201999,Fanavari Serverpars Argham Gostar Company Ltd.,IR,,,i/o timeout,,0.00,2023-03-03T07:47:14Z,2021-01-02T07:05:02Z
+185.55.226.26,dns2.begzar.ir.,201999,Fanavari Serverpars Argham Gostar Company Ltd.,IR,,,Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.00,2023-03-02T20:44:47Z,2021-01-02T07:10:45Z
+31.24.200.3,dns-fw1.baharnet.ir.,24631,Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS,IR,Tehran,[NONE],Unexpected result for wikileaks.org: {[[10 10 34 36]]},,0.00,2023-04-20T15:46:17Z,2021-01-03T11:30:14Z
+31.24.234.37,,56547,Tehran Municipality ICT Organization,IR,,,Unexpected result for wikileaks.org: {[[10 10 34 36]]},,0.00,2023-03-11T22:45:30Z,2021-01-27T06:11:15Z
+185.23.131.73,,199082,Razavi Information and communication technology company Plc,IR,,,i/o timeout,,0.00,2021-10-01T09:01:09Z,2021-01-30T22:59:46Z
+212.80.20.243,,58224,Iran Telecommunication Company PJS,IR,,,i/o timeout,,0.00,2023-03-09T21:47:59Z,2021-02-11T15:11:00Z
+185.161.112.33,fw1.parvazsys.ir.,50057,Parvaz System Information Technology Company (Ltd),IR,,9.11.3-1ubuntu1.15-Ubuntu,,false,0.86,2021-05-03T22:25:03Z,2021-03-04T05:42:19Z
+185.161.112.34,fw2.parvazsys.ir.,50057,Parvaz System Information Technology Company (Ltd),IR,,9.11.3-1ubuntu1.15-Ubuntu,,false,0.97,2021-05-03T22:25:03Z,2021-03-08T04:28:44Z
+185.161.112.38,,50057,Parvaz System Information Technology Company (Ltd),IR,,,Unexpected result for wikileaks.org: {[[141 105 65 113] [195 35 109 44] [185 165 168 41] [195 35 109 53]]},,0.00,2021-09-01T12:44:48Z,2021-03-08T04:33:09Z
+5.202.100.101,server2.dns.service.pishgaman.net.,49100,Pishgaman Toseeh Ertebatat Company (Private Joint Stock),IR,,,i/o timeout,,0.00,2021-09-26T16:00:19Z,2021-04-03T09:12:14Z
+185.51.200.10,185.51.200.10.shahrad.net.,48715,Sefroyek Pardaz Engineering Co. LTD,IR,,,,false,0.99,2021-05-03T22:25:03Z,2021-04-28T18:34:55Z
+31.24.234.35,,56547,Tehran Municipality ICT Organization,IR,,,Unexpected result for wikileaks.org: {[[10 10 34 36]]},,0.00,2023-01-03T13:06:41Z,2021-05-05T14:36:59Z
+78.157.40.158,,62442,Dade Samane Fanava Company (PJS),IR,,,connection refused,,0.00,2023-01-11T06:28:23Z,2021-05-05T14:38:41Z
+185.128.139.128,recursive1.dnspro.ir.,48715,Sefroyek Pardaz Engineering Co. LTD,IR,,dnsmasq-2.76,Unexpected result for wikileaks.org: {[[195 35 109 53] [141 105 65 113] [195 35 109 44] [185 165 168 41]]},,0.02,2021-09-01T18:47:23Z,2021-05-10T12:05:39Z
+185.128.139.139,recursive2.dnspro.ir.,48715,Sefroyek Pardaz Engineering Co. LTD,IR,,,i/o timeout,,0.00,2022-04-26T13:04:05Z,2021-05-10T12:05:46Z
+82.99.202.164,82.99.202.164.parsonline.net.,16322,Pars Online PJS,IR,Tehran,,i/o timeout,,0.00,2023-04-20T15:48:12Z,2021-05-14T06:33:40Z
+185.164.73.148,,201194,Kavoshgar Novin Karamad Company LLC,IR,,,i/o timeout,,0.00,2021-09-01T18:47:32Z,2021-05-25T20:52:04Z
+185.164.73.180,,60631,Pars Parva System LLC,IR,,,connection refused,,0.00,2023-04-20T15:48:10Z,2021-05-25T20:52:06Z
+185.51.200.6,185.51.200.6.shahrad.net.,48715,Sefroyek Pardaz Engineering Co. LTD,IR,,,Unexpected result for example.com: NXDOMAIN,,0.00,2023-02-21T12:45:35Z,2021-06-05T09:37:53Z
+185.229.29.214,,39650,Atrin Communications and Information Technology Co. (PJS),IR,,,i/o timeout,,0.00,2021-10-04T15:04:09Z,2021-06-11T18:10:53Z
+185.229.29.215,,39650,Atrin Information & Communications Technology Company PJS,IR,,,i/o timeout,,0.00,2023-04-20T15:48:22Z,2021-06-11T18:10:54Z
+78.157.40.157,,62442,Dade Samane Fanava Company (PJS),IR,,,i/o timeout,,0.00,2023-04-20T15:48:38Z,2021-06-16T05:48:01Z
+185.231.182.126,,202468,Noyan Abr Arvan Co. ( Private Joint Stock),IR,,,,false,1.00,2021-09-03T17:53:27Z,2021-09-03T17:53:27Z
+46.224.1.42,,56402,Dadeh Gostar Asr Novin P.J.S. Co.,IR,,Microsoft DNS 6.1.7601 (1DB15F75),,false,1.00,2021-09-24T04:17:36Z,2021-09-24T04:17:36Z
+194.225.62.80,ourdns1.tums.ac.ir.,43965,Tehran University of Medical Science,IR,,PowerDNS Recursor 4.5.0-alpha0.93.master.g7e5969749 (built Sep 28 2020 12:12:31 by root@12a549363c7c),,true,1.00,2021-09-24T04:17:46Z,2021-09-24T04:17:46Z
+213.176.123.5,dns.irost.net.,15611,Iranian Research Organization for Science & Technology,IR,,,,false,1.00,2021-09-24T04:18:00Z,2021-09-24T04:18:00Z
+81.163.3.2,ns2.rasanapishtaz.ir.,58303,Rasana Pishtaz Iranian Service Cooperative Co.,IR,,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.8,Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.00,2022-01-07T09:38:20Z,2021-09-24T04:18:03Z
+185.83.197.154,,43212,Pejvak Ertebatat Atiyeh Roshan Company (P.J.S.),IR,,,i/o timeout,,0.00,2023-03-07T13:46:23Z,2021-09-24T12:45:59Z
+217.219.187.3,,58224,Iran Telecommunication Company PJS,IR,,,i/o timeout,,0.00,2023-02-28T18:48:05Z,2021-09-25T20:29:02Z
+91.99.101.12,91.99.101.12.parsonline.net.,60976,Pars Online PJS,IR,,,,false,0.95,2021-10-01T11:02:09Z,2021-09-25T20:29:06Z
+2.188.166.22,,42337,Respina Networks & Beyond PJSC,IR,,,i/o timeout,,0.00,2022-12-18T07:07:35Z,2021-09-28T09:35:04Z
+185.187.84.15,,212907,Hamkaran System Co. PJS,IR,,,,false,1.00,2021-10-06T14:02:21Z,2021-09-30T21:35:36Z
+37.156.145.229,,43754,Asiatech Data Transmission company,IR,Tehran,,,false,1.00,2021-10-02T20:01:53Z,2021-09-30T21:36:31Z
+185.97.117.187,,202468,Noyan Abr Arvan Co. ( Private Joint Stock),IR,,dnsmasq-pi-hole-2.84,,false,1.00,2021-10-01T22:56:39Z,2021-10-01T22:56:39Z
+185.113.59.253,,60627,Rayankadeh Apadana Company Ltd,IR,,,,false,0.76,2021-10-08T08:01:12Z,2021-10-03T10:07:33Z
+80.191.40.41,,58224,Iran Telecommunication Company PJS,IR,,,,false,1.00,2021-10-03T11:02:09Z,2021-10-03T10:26:31Z
+194.225.73.141,persia.iranet.ir.,6736,Institute for Research in Fundamental Sciences,IR,,9.9.4-RedHat-9.9.4-61.el7_5.1,,true,1.00,2021-10-03T12:26:20Z,2021-10-03T12:26:20Z
+91.245.229.1,ns1.kcpcloud.ir.,209596,Kish Cell Pars Co. (PJS),IR,,9.11.20-RedHat-9.11.20-5.el8,,true,0.97,2021-10-08T08:02:14Z,2021-10-05T08:02:18Z
+91.245.229.2,ns2.kcpcloud.ir.,209596,Kish Cell Pars Co. (PJS),IR,,,i/o timeout,,0.00,2023-03-08T04:46:12Z,2021-10-05T19:54:12Z
+5.202.122.222,,49100,Pishgaman Toseeh Ertebatat Company (Private Joint Stock),IR,,,connection refused,,0.00,2023-03-05T07:00:32Z,2021-10-07T08:00:20Z
+46.36.105.100,,51759,Pirooz Leen LLC,IR,,,i/o timeout,,0.20,2021-10-08T08:02:53Z,2021-10-07T15:53:28Z
+185.51.200.50,185.51.200.50.shahrad.net.,48715,Sefroyek Pardaz Engineering Co. LTD,IR,,,,false,0.99,2021-10-14T09:02:32Z,2021-10-07T21:11:40Z
+37.156.145.18,linux-zone.org.,43754,Asiatech Data Transmission company,IR,Tehran,,SERVFAIL for rotten.com,,0.50,2021-10-08T08:01:26Z,2021-10-08T07:08:14Z
+37.156.145.21,linux-zone.org.,43754,Asiatech Data Transmission company,IR,Tehran,9.9.5-9+deb8u4-Debian,,false,1.00,2021-10-08T08:02:23Z,2021-10-08T07:08:30Z
+80.75.5.100,,25184,Afranet,IR,Tehran,,connection refused,,0.00,2023-02-27T23:47:46Z,2021-10-10T15:11:06Z
+94.139.190.190,,34636,Laser Company Ltd,IR,,,REFUSED for example.com,,0.00,2023-03-05T07:00:48Z,2021-10-15T20:30:22Z
+77.238.109.196,,43754,Asiatech Data Transmission company,IR,,,REFUSED for example.com,,0.11,2021-11-02T05:00:32Z,2021-10-18T07:17:08Z
+37.156.29.27,27.mobinnet.net.,47330,Mobin Net Communication Company (Private Joint Stock),IR,Tehran,,i/o timeout,,0.00,2023-02-14T09:38:57Z,2021-10-18T07:28:40Z
+78.38.23.216,,58224,Iran Telecommunication Company PJS,IR,,,i/o timeout,,0.00,2023-03-05T07:03:56Z,2021-10-23T14:43:31Z
+217.218.234.221,,58224,Iran Telecommunication Company PJS,IR,,,Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.00,2023-02-25T20:56:36Z,2021-10-26T05:12:44Z
+31.47.37.92,,25184,Afranet,IR,Karaj,,i/o timeout,,0.00,2023-02-25T20:56:34Z,2021-10-26T15:48:30Z
+178.22.122.100,free.shecan.ir.,43754,Asiatech Data Transmission company,IR,,,Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.00,2023-03-03T02:46:18Z,2021-10-28T10:38:52Z
+91.98.64.222,91.98.64.222.pol.ir.,16322,Pars Online PJS,IR,,,Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.53,2021-11-09T15:07:28Z,2021-10-30T06:09:21Z
+93.115.231.100,,58224,Iran Telecommunication Company PJS,IR,Tehran,,i/o timeout,,0.00,2021-11-09T15:06:12Z,2021-10-31T02:38:04Z
+81.91.144.190,,206065,Farabord Dadeh Haye Iranian Co.,IR,Tehran,,i/o timeout,,0.00,2023-01-13T10:32:55Z,2021-10-31T02:45:32Z
+217.218.155.155,recursive2.dci.ir.,12880,Information Technology Company (ITC),IR,,Yokhdi!,,false,1.00,2023-02-25T20:59:15Z,2022-08-04T04:20:14Z
+2.189.44.44,,49666,Telecommunication Infrastructure Company,IR,,,,false,1.00,2022-08-29T05:30:17Z,2022-08-29T01:46:15Z
+2.188.17.145,,49666,Telecommunication Infrastructure Company,IR,,,i/o timeout,,0.05,2022-09-09T05:30:35Z,2022-09-03T18:04:49Z
+5.160.246.253,,42337,Respina Networks & Beyond PJSC,IR,,,Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.09,2022-09-11T08:32:24Z,2022-09-08T21:05:43Z
+2.188.21.131,,12880,Information Technology Company (ITC),IR,,Yokhdi!,,false,1.00,2023-02-15T15:52:00Z,2022-12-09T15:12:45Z
+2.188.21.132,,12880,Information Technology Company (ITC),IR,,Yokhdi!,,false,1.00,2023-02-19T02:06:40Z,2022-12-09T15:32:42Z
+80.191.233.33,,58224,Iran Telecommunication Company PJS,IR,,,i/o timeout,,0.00,2023-02-19T17:56:34Z,2013-08-27T13:34:49Z
+80.191.233.17,,58224,Iran Telecommunication Company PJS,IR,,,i/o timeout,,0.00,2023-02-17T05:15:31Z,2013-08-27T13:34:51Z
+91.98.124.109,91.98.124.109.pol.ir.,16322,Pars Online PJS,IR,,,i/o timeout,,0.00,2023-02-20T04:59:17Z,2013-08-27T13:35:16Z
+103.215.221.111,,3177,Visparad Web Hosting Service LLC,IR,Bushehr,,i/o timeout,,0.00,2023-02-17T07:11:31Z,2022-12-18T12:55:10Z
+81.91.144.116,,206065,Farabord Dadeh Haye Iranian Co.,IR,Tehran,,,false,0.98,2023-02-19T07:59:51Z,2022-12-30T20:19:53Z
+2.185.239.133,,58224,Iran Telecommunication Company PJS,IR,,,Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.00,2023-02-19T20:01:11Z,2013-08-27T14:56:03Z
+2.185.239.138,,58224,Iran Telecommunication Company PJS,IR,,,Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.00,2023-02-19T20:01:11Z,2013-08-27T14:56:06Z
+2.185.239.139,,58224,Iran Telecommunication Company PJS,IR,,,Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.00,2023-02-20T00:59:00Z,2013-08-27T14:56:10Z
+2.185.239.134,,58224,Iran Telecommunication Company PJS,IR,,,Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.00,2023-02-19T20:01:11Z,2013-08-27T14:56:16Z
+2.185.239.136,,58224,Iran Telecommunication Company PJS,IR,,,Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.00,2023-02-19T20:01:12Z,2013-08-27T14:56:17Z
+2.185.239.137,,58224,Iran Telecommunication Company PJS,IR,,,Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.00,2023-02-19T20:01:14Z,2013-08-27T14:56:18Z
+2.188.21.130,,12880,Information Technology Company (ITC),IR,,Yokhdi!,,false,1.00,2023-02-25T20:46:20Z,2023-02-12T11:33:53Z
+85.185.85.6,,58224,Iran Telecommunication Company PJS,IR,,dnsmasq-2.48,Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.00,2023-03-02T20:45:39Z,2013-08-27T15:42:51Z
+78.38.117.206,,58224,Iran Telecommunication Company PJS,IR,,,i/o timeout,,0.00,2023-03-05T06:49:26Z,2013-08-27T16:09:08Z
+92.119.56.162,,57935,Nrp Teknoloji Limited Sirketi,IR,Isfahan,,,false,1.00,2023-03-18T02:55:31Z,2023-03-15T14:46:22Z
+46.36.105.99,,51759,Pirooz Leen LLC,IR,,,i/o timeout,,0.00,2023-08-17T22:04:57Z,2014-12-29T16:44:29Z
+185.11.70.174,,43212,Pejvak Ertebatat Atiyeh Roshan Company (P.J.S.),IR,,,i/o timeout,,0.00,2023-08-17T22:05:11Z,2014-12-29T19:22:41Z
+95.38.61.50,,41881,Fanava Group,IR,,,i/o timeout,,0.00,2023-08-17T22:05:17Z,2014-12-29T20:15:31Z
+178.215.3.142,,57366,IRAN POST Company,IR,,,i/o timeout,,0.00,2023-08-17T21:06:11Z,2014-12-30T09:31:49Z
+217.219.157.2,www.aped.ir.,58224,Iran Telecommunication Company PJS,IR,,,i/o timeout,,0.00,2023-08-17T22:06:30Z,2014-12-30T19:37:51Z
+217.219.132.88,,58224,Iran Telecommunication Company PJS,IR,,,Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.00,2023-08-17T21:07:35Z,2015-01-06T13:46:59Z
+78.38.122.12,ns1.bums.ac.ir.,58224,Iran Telecommunication Company PJS,IR,,,SERVFAIL for example.com,,0.00,2023-08-17T21:07:49Z,2015-01-06T20:27:15Z
+217.219.103.5,,58224,Iran Telecommunication Company PJS,IR,,,i/o timeout,,0.00,2023-08-17T21:08:13Z,2015-01-07T05:44:28Z
+31.24.234.34,,56547,Tehran Municipality ICT Organization,IR,,,Unexpected result for wikileaks.org: {[[10 10 34 36]]},,0.00,2023-08-17T21:09:06Z,2015-01-08T21:49:04Z
+31.47.37.35,,25184,Afranet,IR,Tehran,,Unexpected result for wikileaks.org: {[[10 10 34 36]]},,0.00,2023-08-17T21:09:17Z,2015-01-09T02:07:31Z
+212.80.20.244,,58224,Iran Telecommunication Company PJS,IR,,,i/o timeout,,0.00,2023-08-17T21:10:05Z,2015-01-10T05:26:45Z
+80.191.209.105,,58224,Iran Telecommunication Company PJS,IR,Tabriz,,Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.00,2023-08-17T21:11:04Z,2015-01-12T01:43:42Z
+217.219.133.21,,58224,Iran Telecommunication Company PJS,IR,,,i/o timeout,,0.00,2023-08-17T21:11:13Z,2015-01-12T02:58:13Z
+5.160.211.66,ns1.namvaran.ir.,42337,Respina Networks & Beyond PJSC,IR,,,i/o timeout,,0.00,2023-08-17T21:11:38Z,2015-01-12T23:26:25Z
+94.183.42.232,94-183-42-232.shatel.ir.,31549,Aria Shatel Company Ltd,IR,,,i/o timeout,,0.00,2023-08-17T21:11:53Z,2017-01-06T23:30:43Z
+78.39.101.186,,58224,Iran Telecommunication Company PJS,IR,,,i/o timeout,,0.00,2023-08-17T21:15:16Z,2017-10-04T20:56:56Z
+85.185.157.2,,58224,Iran Telecommunication Company PJS,IR,,,Unexpected result for wikileaks.org: {[[10 10 34 35]]},,0.00,2023-08-17T21:15:15Z,2018-04-08T06:51:42Z
+31.130.180.120,,49100,Pishgaman Toseeh Ertebatat Company (Private Joint Stock),IR,,,i/o timeout,,0.00,2023-08-17T21:15:24Z,2018-05-21T13:16:27Z
+5.202.100.102,,49100,Pishgaman Toseeh Ertebatat Company (Private Joint Stock),IR,,,i/o timeout,,0.00,2023-08-17T21:17:38Z,2020-01-26T17:36:52Z
+5.202.100.99,,49100,Pishgaman Toseeh Ertebatat Company (Private Joint Stock),IR,,,i/o timeout,,0.00,2023-08-17T21:17:39Z,2020-01-26T17:36:52Z
+185.186.242.161,mail.almahdi.org.,206495,Resaneh Pardaz Sepahan Co,IR,,,i/o timeout,,0.00,2023-08-17T21:17:38Z,2020-01-30T19:38:27Z
+194.225.125.12,,6736,Institute for Research in Fundamental Sciences,IR,Tehran,,i/o timeout,,0.00,2023-08-17T21:17:53Z,2020-05-06T08:00:24Z
+31.24.200.1,ns1.baharnet.ir.,24631,Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS,IR,Tehran,9.16.1-Ubuntu,REFUSED for example.com,,0.00,2023-08-17T21:17:59Z,2020-05-13T14:30:56Z
+31.24.200.2,ns2.baharnet.ir.,24631,Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS,IR,Tehran,9.16.1-Ubuntu,REFUSED for example.com,,0.00,2023-08-17T21:17:59Z,2020-05-13T14:31:10Z
+185.8.173.236,,60631,Pars Parva System LLC,IR,,,i/o timeout,,0.00,2023-08-17T21:18:31Z,2020-05-17T10:37:09Z
+185.143.235.253,,205585,Noyan Abr Arvan Co. ( Private Joint Stock),IR,,,NOTAUTH for example.com,,0.00,2023-08-17T21:18:35Z,2020-05-26T11:27:02Z
+188.159.159.159,,39501,Parvaresh Dadeha Co. Private Joint Stock,IR,,,i/o timeout,,0.00,2023-08-17T21:18:54Z,2020-06-01T08:53:28Z
+188.158.158.158,nsc1.sabanet.ir.,39501,Parvaresh Dadeha Co. Private Joint Stock,IR,,,i/o timeout,,0.00,2023-08-17T21:18:55Z,2020-06-01T08:53:28Z
+92.42.49.43,irancell.network.,44244,Iran Cell Service and Communication Company,IR,,,i/o timeout,,0.00,2023-08-17T21:19:04Z,2020-06-06T18:02:53Z
+95.80.184.184,ns3.maxnet.ir.,48431,Bozorg Net-e Aria,IR,Tabriz,noVersion,REFUSED for wikileaks.org,,0.00,2023-08-17T21:19:01Z,2020-06-08T21:17:53Z
+185.98.113.113,rdns-one.asiatech.ir.,43754,Asiatech Data Transmission company,IR,,,i/o timeout,,0.00,2023-08-17T21:19:12Z,2020-06-09T10:24:05Z
+185.98.114.114,rdns-two.asiatech.ir.,43754,Asiatech Data Transmission company,IR,,,i/o timeout,,0.00,2023-08-17T21:19:12Z,2020-06-09T10:24:05Z
+185.98.115.135,web.asiatech.ir.,43754,Asiatech Data Transmission company,IR,,,i/o timeout,,0.00,2023-08-17T21:19:12Z,2020-06-09T10:24:05Z
+185.109.74.85,,201540,Pishgaman Toseeh Fanavari Etelaat Va Ertebatat Jonoub (Joint Stock Company),IR,,,i/o timeout,,0.00,2023-08-17T21:19:12Z,2020-06-09T13:54:11Z
+171.22.26.14,s217.bitcommand.com.,60631,Pars Parva System LLC,IR,,9.11.4-P2-RedHat-9.11.4-16.P2.el7_8.6,REFUSED for example.com,,0.00,2023-08-17T21:19:06Z,2020-06-12T00:31:37Z

@@ -1,0 +1,12 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+196.3.132.154,nssec.tstt.net.tt.,5639,Telecommunication Services of Trinidad and Tobago,TT,,CNR cdns 1.4.22,,false,1.00,2023-03-09T02:44:56Z,2020-11-30T14:01:33Z
+190.58.23.133,NS23-133.tstt.net.tt.,5639,Telecommunication Services of Trinidad and Tobago,TT,Chaguanas,CNR cdns 1.4.22,Unexpected result for wikileaks.org: {[[195 35 109 44] [141 105 65 113] [195 35 109 53] [185 165 168 41]]},,0.00,2021-08-31T17:11:47Z,2021-06-09T14:20:30Z
+200.7.91.210,mail.brydenpi.com.,27800,Digicel Trinidad and Tobago Ltd.,TT,Chaguanas,,,false,0.99,2023-02-25T20:47:16Z,2022-04-25T22:35:39Z
+190.213.95.58,,27665,Columbus Communications Trinidad Limited.,TT,Port of Spain,,connection refused,,0.68,2022-10-24T02:35:33Z,2022-10-20T14:34:02Z
+181.188.118.86,,27665,Columbus Communications Trinidad Limited.,TT,Las Lomas,,i/o timeout,,0.93,2022-12-06T23:49:35Z,2022-11-23T14:03:52Z
+200.1.104.35,ns1.flowtrinidad.com.,27665,Columbus Communications Trinidad Limited.,TT,San Juan,Not Available,,false,1.00,2023-02-28T18:47:50Z,2022-12-01T13:45:14Z
+196.3.132.153,ns.tstt.net.tt.,5639,Telecommunication Services of Trinidad and Tobago,TT,,CNR cdns 1.4.22,,false,1.00,2023-02-19T20:02:29Z,2023-01-02T20:11:01Z
+161.0.153.29,,27800,Digicel Trinidad and Tobago Ltd.,TT,Port of Spain,,i/o timeout,,0.00,2023-08-17T21:11:54Z,2017-01-08T23:03:26Z
+131.100.36.162,,27800,Digicel Trinidad and Tobago Ltd.,TT,Chaguanas,,i/o timeout,,0.00,2023-08-17T21:11:54Z,2017-01-08T23:05:24Z
+131.100.38.99,,27800,Digicel Trinidad and Tobago Ltd.,TT,Port of Spain,,i/o timeout,,0.00,2023-08-17T21:11:54Z,2017-01-08T23:05:27Z
+179.60.213.118,,27800,Digicel Trinidad and Tobago Ltd.,TT,Port of Spain,none,Unexpected result for example.com: NXDOMAIN,,0.00,2023-08-17T21:19:00Z,2020-06-07T21:46:36Z

@@ -1,0 +1,24 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+154.72.212.113,,327724,NITA,UG,Kampala,,i/o timeout,,0.00,2023-03-05T14:46:09Z,2020-09-03T20:18:27Z
+154.72.205.98,,327724,NITA,UG,Kampala,,no route to host,,0.00,2023-03-01T00:47:11Z,2020-09-03T20:18:29Z
+154.72.204.122,,327724,NITA,UG,Kampala,,i/o timeout,,0.00,2023-03-09T21:47:56Z,2020-09-03T20:18:48Z
+154.72.207.126,,327724,NITA,UG,Kampala,,i/o timeout,,0.00,2023-02-27T23:49:51Z,2020-09-03T20:20:49Z
+154.72.202.86,h56.gou.go.ug.,327724,NITA,UG,Kampala,Unavailable,Unexpected result for non-existent.example.com: {[[154 72 193 28]]},,0.10,2023-04-21T12:41:35Z,2020-09-03T20:21:05Z
+154.72.212.38,,327724,NITA,UG,Kampala,,i/o timeout,,0.00,2023-02-27T23:49:52Z,2020-09-03T20:21:06Z
+154.72.197.138,mail.udc.go.ug.,327724,NITA,UG,Kampala,,i/o timeout,,0.00,2023-03-07T13:46:13Z,2020-09-03T20:21:11Z
+154.72.198.186,hba.gou.go.ug.,327724,NITA,UG,Kampala,,i/o timeout,,0.00,2021-10-08T08:03:05Z,2021-06-09T14:18:52Z
+41.222.4.34,static-41-222-4-34.metronet.imul.com.,30844,Liquid Telecommunications Ltd,UG,,,,false,1.00,2021-09-26T02:42:19Z,2021-09-26T02:42:19Z
+196.43.185.129,renu-129.renu.ac.ug.,327687,RENU,UG,,dnsmasq-pi-hole-2.85,,false,0.83,2021-10-08T08:03:41Z,2021-10-01T22:57:58Z
+196.43.185.99,renu-099.renu.ac.ug.,327687,RENU,UG,,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:01:32Z,2021-10-01T23:01:32Z
+196.43.185.88,renu-088.renu.ac.ug.,327687,RENU,UG,,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:41:26Z,2021-10-01T23:41:26Z
+154.72.199.202,hca.gou.go.ug.,327724,NITA,UG,Kampala,,,false,1.00,2021-10-18T14:47:09Z,2021-10-18T14:47:09Z
+129.205.25.127,,37063,Roke Investments International,UG,Kampala,,i/o timeout,,0.00,2023-03-05T07:04:21Z,2021-10-26T06:12:00Z
+197.221.136.162,,36977,Airtel,UG,Kampala,,connection refused,,0.00,2023-02-08T23:57:30Z,2022-10-21T17:34:47Z
+41.173.6.42,,30844,Liquid Telecommunications Ltd,UG,Kampala,,,false,0.73,2022-11-11T00:57:13Z,2022-10-31T11:11:16Z
+160.119.151.226,,328198,BLUECRANE,UG,,,,false,0.82,2022-12-06T22:00:28Z,2022-11-15T15:19:19Z
+41.221.94.54,,37075,ZAINUGAS,UG,Kajansi,,i/o timeout,,0.50,2022-12-06T22:04:39Z,2022-11-20T08:49:20Z
+102.223.88.10,,37075,ZAINUGAS,UG,,,i/o timeout,,0.00,2023-02-26T15:58:52Z,2022-12-02T22:16:03Z
+41.190.150.98,,30844,Liquid Telecommunications Ltd,UG,Kampala,,,false,1.00,2023-03-14T18:46:36Z,2023-03-14T07:38:07Z
+81.199.137.188,81.199.137.188.gilat.net.,12491,Gilat Telecom Ltd.,UG,Kampala,,,false,1.00,2023-03-15T04:47:45Z,2023-03-14T08:22:27Z
+81.199.17.203,,12491,Gilat Telecom Ltd.,UG,Kampala,,,true,0.85,2023-05-25T07:49:25Z,2023-03-17T20:10:29Z
+197.221.144.0,,36977,Airtel,UG,Kampala,,i/o timeout,,0.00,2023-08-17T21:18:44Z,2020-05-26T14:22:08Z

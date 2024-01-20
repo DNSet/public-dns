@@ -1,0 +1,1144 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+203.89.226.24,rbs1.globalcenter.net.au.,9328,DATACOM SYSTEMS AU PTY LTD,AU,,,i/o timeout,,0.00,2023-02-28T18:47:25Z,2020-08-08T20:29:46Z
+203.89.226.26,mdbs2.globalcenter.net.au.,9328,DATACOM SYSTEMS AU PTY LTD,AU,Melbourne,,i/o timeout,,0.00,2022-04-19T07:03:42Z,2020-08-08T20:29:49Z
+45.124.52.17,landrover.captiveye.cloud.,133159,Mammoth Media Pty Ltd,AU,Melbourne,,connection refused,,0.00,2023-03-02T03:47:05Z,2020-08-20T00:24:06Z
+103.16.128.53,orthoregen.3cx.com.au.,133159,Mammoth Media Pty Ltd,AU,Brisbane,,i/o timeout,,0.00,2023-03-01T00:47:12Z,2020-08-20T00:24:10Z
+103.1.187.162,relay.dimtar.net.,133159,Mammoth Media Pty Ltd,AU,Sydney,,connection refused,,0.00,2022-04-19T07:04:01Z,2020-08-20T00:24:20Z
+45.124.53.159,,133159,Mammoth Media Pty Ltd,AU,Melbourne,,i/o timeout,,0.00,2022-08-11T10:23:49Z,2020-08-20T00:24:23Z
+1.0.0.2,,13335,CLOUDFLARENET,AU,Melbourne,,,true,1.00,2023-03-01T22:46:56Z,2020-09-05T14:05:36Z
+1.0.0.3,,13335,CLOUDFLARENET,AU,Melbourne,,,true,1.00,2023-02-28T06:45:14Z,2020-09-05T14:05:36Z
+1.1.1.3,,13335,CLOUDFLARENET,AU,,,,true,1.00,2023-03-05T23:47:27Z,2020-10-16T13:18:01Z
+43.229.60.176,optustelcom.,133159,Mammoth Media Pty Ltd,AU,Macquarie Park,,connection refused,,0.00,2021-11-29T07:34:37Z,2020-11-04T05:41:46Z
+43.229.62.192,DC.RWWM-AA.com.au.,133159,Mammoth Media Pty Ltd,AU,Sydney,,i/o timeout,,0.00,2023-03-03T15:44:53Z,2020-11-04T06:26:25Z
+103.230.156.88,server.case3.com.,133159,Mammoth Media Pty Ltd,AU,,,i/o timeout,,0.00,2023-03-04T05:46:39Z,2020-11-04T06:27:06Z
+103.224.162.40,ns1.webtraf.com.au.,133324,Ezi-Web,AU,,,connection refused,,0.00,2023-04-20T15:41:48Z,2020-11-22T11:35:05Z
+192.232.128.21,,23922,BOX HILL INSTITUTE,AU,,,i/o timeout,,0.00,2023-04-20T15:41:47Z,2020-11-22T11:37:42Z
+202.139.96.50,,7474,SingTel Optus Pty Ltd,AU,,,i/o timeout,,0.00,2023-03-11T12:46:21Z,2020-11-22T11:39:22Z
+115.70.249.182,182.249.70.115.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Perth,,i/o timeout,,0.00,2023-03-07T13:47:52Z,2021-02-08T08:52:06Z
+139.130.4.4,uneeda.telstra.net.,1221,Telstra Corporation Ltd,AU,Melbourne,unknown,Unexpected result for wikileaks.org: {[[51 159 197 136] [80 81 248 21]]},,0.00,2023-01-12T09:29:23Z,2021-02-12T06:02:12Z
+139.134.5.51,,1221,Telstra Corporation Ltd,AU,,unknown,,false,1.00,2023-04-20T15:46:00Z,2021-02-12T06:02:28Z
+149.28.179.196,doma7.syd3-veepshosting.net.,20473,AS-CHOOPA,AU,Sydney,,i/o timeout,,0.00,2023-03-05T06:50:04Z,2021-02-15T22:19:44Z
+172.105.162.206,sydney.cdn.parrot.sh.,63949,"Linode, LLC",AU,Sydney,PowerDNS Recursor 4.1.11,,false,1.00,2021-05-03T22:24:05Z,2021-04-13T07:49:51Z
+139.218.224.166,166.224.218.139.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Adelaide,,i/o timeout,,0.04,2021-05-03T22:26:04Z,2021-04-15T12:30:41Z
+103.217.165.53,103-217-165-53.myrepublic.net.,9310,MYREPUBLIC PTY LTD,AU,Sydney,,i/o timeout,,0.00,2021-10-06T14:02:12Z,2021-05-14T06:18:12Z
+139.99.130.99,ns537105.ip-139-99-130.net.,16276,OVH SAS,AU,Sydney,,Unexpected result for wikileaks.org: {[[195 35 109 44] [185 165 168 41] [195 35 109 53] [141 105 65 113]]},,0.00,2021-09-01T12:49:31Z,2021-05-14T06:20:45Z
+203.63.219.26,,45671,Wholesale Services Provider,AU,Perth,Microsoft DNS 6.1.7601 (1DB15F75),Unexpected result for wikileaks.org: {[[195 35 109 44] [185 165 168 41] [141 105 65 113] [195 35 109 53]]},,0.04,2021-09-03T08:54:16Z,2021-05-14T06:26:57Z
+45.248.197.53,,9310,MYREPUBLIC PTY LTD,AU,,,i/o timeout,,0.00,2023-04-20T15:48:06Z,2021-05-14T06:30:23Z
+61.8.0.113,,1221,Telstra Corporation Ltd,AU,,,i/o timeout,,0.00,2023-04-20T15:48:43Z,2021-06-09T14:13:22Z
+103.61.69.185,,134691,Fastway Global Limited,AU,Brisbane,,Unexpected result for wikileaks.org: {[[141 105 65 113] [195 35 109 44] [185 165 168 41] [195 35 109 53]]},,0.12,2021-09-03T00:47:16Z,2021-06-09T14:17:08Z
+203.57.50.239,katpumping.3cx.com.au.,133159,Mammoth Media Pty Ltd,AU,Brisbane,,i/o timeout,,0.00,2022-12-20T08:06:38Z,2021-06-14T05:32:41Z
+149.28.172.145,149.28.172.145.vultr.com.,20473,AS-CHOOPA,AU,Alexandria,,i/o timeout,,0.00,2021-08-24T09:11:15Z,2021-06-22T10:26:13Z
+120.29.242.237,,45158,Tasmanet Pty Ltd,AU,Hobart,,i/o timeout,,0.23,2021-10-08T08:01:07Z,2021-09-23T15:25:07Z
+111.118.218.126,126-218-118-111.static.broadbandsolutions.com.au.,45780,Broadband Solutions Pty Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-04-20T15:48:34Z,2021-09-23T15:25:21Z
+203.59.141.216,mail.lighthousegeraldton.com.,4739,Internode Pty Ltd,AU,Perth,,i/o timeout,,0.00,2023-04-20T15:48:31Z,2021-09-23T15:25:31Z
+203.221.167.19,19.167.221.203.static.comindico.com.au.,7545,TPG Telecom Limited,AU,Sydney,,,false,0.68,2021-09-25T00:00:51Z,2021-09-23T15:27:50Z
+203.23.142.4,dns01.gpknet.com.au.,9749,"GPK Computers Pty Ltd, Internet Service Provider, Melbourne",AU,,,i/o timeout,,0.62,2021-10-07T14:02:32Z,2021-09-25T20:58:30Z
+139.99.128.97,host1.syd.cdns.ovh.net.,16276,OVH SAS,AU,Sydney,,Unexpected result for rotten.com: {[[64 32 28 235]]},,0.98,2021-09-29T23:11:35Z,2021-09-27T16:20:27Z
+139.99.213.23,ip23.ip-139-99-213.net.,16276,OVH SAS,AU,Sydney,dnsmasq-pi-hole-2.85,,false,1.00,2021-09-29T11:48:01Z,2021-09-29T11:48:01Z
+220.245.238.14,220-245-238-14.tpgi.com.au.,7545,TPG Telecom Limited,AU,Brisbane,dnsmasq-pi-hole-2.87test2,,true,1.00,2021-10-01T22:55:49Z,2021-10-01T22:55:49Z
+172.105.173.195,172-105-173-195.ip.linodeusercontent.com.,63949,"Akamai Technologies, Inc.",AU,Sydney,,connection refused,,0.00,2023-03-05T07:00:31Z,2021-10-01T22:56:32Z
+115.64.164.130,115-64-164-130.tpgi.com.au.,7545,TPG Telecom Limited,AU,Canberra,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-01T22:57:18Z,2021-10-01T22:57:18Z
+121.44.205.19,121-44-205-19.tpgi.com.au.,7545,TPG Telecom Limited,AU,Perth,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T22:59:47Z,2021-10-01T22:59:47Z
+139.99.142.12,ip12.ip-139-99-142.net.,16276,OVH SAS,AU,Sydney,dnsmasq-pi-hole-2.80,,false,1.00,2021-10-01T22:59:55Z,2021-10-01T22:59:55Z
+139.99.194.82,82.ip-139-99-194.eu.,16276,OVH SAS,AU,Sydney,dnsmasq-pi-hole-2.80,Unexpected result for rotten.com: NXDOMAIN,,0.40,2023-02-28T07:56:46Z,2021-10-01T23:02:27Z
+203.122.220.45,ppp203-122-220-45.static.internode.on.net.,4739,Internode Pty Ltd,AU,Adelaide,dnsmasq-pi-hole-2.80,,false,0.36,2021-10-08T06:11:13Z,2021-10-01T23:02:36Z
+172.105.190.180,li2144-180.members.linode.com.,63949,"Linode, LLC",AU,Sydney,dnsmasq-pi-hole-2.80,,false,1.00,2021-10-01T23:03:16Z,2021-10-01T23:03:16Z
+103.230.158.212,docker01-bl.schwetz.com.au.,133159,Mammoth Media Pty Ltd,AU,Macquarie Park,dnsmasq-pi-hole-2.85,,true,1.00,2021-10-01T23:03:42Z,2021-10-01T23:03:42Z
+115.129.138.163,,133612,Vodafone Australia Pty Ltd,AU,Sydney,dnsmasq-pi-hole-2.87test3,,false,1.00,2021-10-01T23:09:16Z,2021-10-01T23:09:16Z
+203.57.114.195,remote.pelchen.com.au.,133159,Mammoth Media Pty Ltd,AU,Melbourne,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:10:26Z,2021-10-01T23:10:26Z
+101.117.148.197,,133612,Vodafone Australia Pty Ltd,AU,Melbourne,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-01T23:11:46Z,2021-10-01T23:11:46Z
+59.167.161.14,ppp161-14.static.internode.on.net.,4739,Internode Pty Ltd,AU,Sydney,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-01T23:17:26Z,2021-10-01T23:17:26Z
+203.57.51.137,legal-patent.bnr.la.,133159,Mammoth Media Pty Ltd,AU,Brisbane,dnsmasq-pi-hole-2.84,,false,1.00,2021-10-01T23:24:16Z,2021-10-01T23:24:16Z
+110.141.1.188,,1221,Telstra Corporation Ltd,AU,Launceston,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-01T23:27:25Z,2021-10-01T23:27:25Z
+120.88.123.161,120-88-123-161.78587b.bne.static.aussiebb.net.,4764,Aussie Broadband,AU,Brisbane,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:29:47Z,2021-10-01T23:29:47Z
+172.105.171.169,li2080-169.members.linode.com.,63949,"Linode, LLC",AU,Sydney,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-01T23:30:45Z,2021-10-01T23:30:45Z
+203.89.200.6,,139736,Apexhost Pty Ltd,AU,,dnsmasq-pi-hole-2.84,,false,1.00,2021-10-01T23:42:56Z,2021-10-01T23:42:56Z
+27.32.63.54,27-32-63-54.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:44:19Z,2021-10-01T23:44:19Z
+144.130.10.203,cpe-144-130-10-203.act.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Canberra,dnsmasq-pi-hole-2.81,,false,1.00,2021-10-01T23:48:27Z,2021-10-01T23:48:27Z
+172.105.169.238,li2078-238.members.linode.com.,63949,"Linode, LLC",AU,Sydney,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:49:20Z,2021-10-01T23:49:20Z
+168.138.15.170,,31898,ORACLE-BMC-31898,AU,Melbourne,dnsmasq-pi-hole-2.87test2,,false,1.00,2021-10-01T23:50:33Z,2021-10-01T23:50:33Z
+152.67.100.67,,31898,ORACLE-BMC-31898,AU,Parramatta,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:52:27Z,2021-10-01T23:52:27Z
+172.105.177.8,li2086-8.members.linode.com.,63949,"Linode, LLC",AU,Sydney,dnsmasq-pi-hole-2.84,,false,1.00,2021-10-02T00:00:20Z,2021-10-02T00:00:20Z
+193.119.56.254,193-119-56-254.tpgi.com.au.,7545,TPG Telecom Limited,AU,Canberra,,i/o timeout,,0.00,2022-01-31T07:08:03Z,2021-10-02T00:04:44Z
+147.10.180.21,static.belong.com.au.,135887,Belong Telstra Corporation,AU,Reservoir,,connection refused,,0.33,2021-10-02T20:02:27Z,2021-10-02T00:12:01Z
+103.4.123.220,customer.slnet.com.au.,131316,Slnet Hosting,AU,Melbourne,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-02T00:16:31Z,2021-10-02T00:16:31Z
+203.219.180.97,203-219-180-97.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T00:20:08Z,2021-10-02T00:20:08Z
+203.89.200.4,,139736,Apexhost Pty Ltd,AU,,dnsmasq-pi-hole-2.81,,false,1.00,2021-10-02T00:20:34Z,2021-10-02T00:20:34Z
+139.99.203.12,12.ip-139-99-203.eu.,16276,OVH SAS,AU,Sydney,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-02T00:21:04Z,2021-10-02T00:21:04Z
+123.211.55.202,cpe-123-211-55-202.bpbb-r-033.cha.qld.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Brisbane,dnsmasq-pi-hole-2.86,,true,1.00,2021-10-02T00:29:39Z,2021-10-02T00:29:39Z
+45.79.238.215,li2163-215.members.linode.com.,63949,"Linode, LLC",AU,Sydney,dnsmasq-pi-hole-2.84,,false,1.00,2021-10-02T00:35:55Z,2021-10-02T00:35:55Z
+122.110.169.226,n122-110-169-226.sun2.vic.optusnet.com.au.,4804,Microplex PTY LTD,AU,Melbourne,dnsmasq-pi-hole-2.81,,false,1.00,2021-10-02T16:19:08Z,2021-10-02T16:19:08Z
+203.214.23.143,edge.home.twigglett.gg.,4739,Internode Pty Ltd,AU,Darwin,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-02T16:25:59Z,2021-10-02T16:25:59Z
+210.185.117.248,210-185-117-248.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,dnsmasq-pi-hole-2.80,,false,1.00,2021-10-02T16:26:31Z,2021-10-02T16:26:31Z
+108.61.212.239,108.61.212.239.vultr.com.,20473,AS-CHOOPA,AU,Alexandria,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T16:26:46Z,2021-10-02T16:26:46Z
+45.76.113.39,45.76.113.39.vultr.com.,20473,AS-CHOOPA,AU,Alexandria,dnsmasq-pi-hole-2.84,,true,1.00,2021-10-02T16:30:07Z,2021-10-02T16:30:07Z
+58.179.103.167,58-179-103-167.sta.dodo.net.au.,9443,Vocus Retail,AU,Brisbane,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T16:34:36Z,2021-10-02T16:34:36Z
+103.4.123.202,customer.slnet.com.au.,131316,Slnet Hosting,AU,Melbourne,,,true,1.00,2021-10-02T16:42:06Z,2021-10-02T16:42:06Z
+103.4.123.173,customer.slnet.com.au.,131316,Slnet Hosting,AU,Melbourne,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-02T16:44:58Z,2021-10-02T16:44:58Z
+202.9.228.4,user.tcrholdings.com.,9627,TCR Holdings Ltd,AU,Sydney,dnsmasq-pi-hole-2.80,,false,1.00,2021-10-02T17:00:09Z,2021-10-02T17:00:09Z
+172.105.161.189,li2063-189.members.linode.com.,63949,"Linode, LLC",AU,Sydney,dnsmasq-pi-hole-2.80,,false,1.00,2021-10-02T17:14:34Z,2021-10-02T17:14:34Z
+3.106.126.66,ec2-3-106-126-66.ap-southeast-2.compute.amazonaws.com.,16509,AMAZON-02,AU,Sydney,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T17:15:27Z,2021-10-02T17:15:27Z
+103.4.123.227,customer.slnet.com.au.,131316,Slnet Hosting,AU,Melbourne,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-02T17:32:31Z,2021-10-02T17:32:31Z
+103.4.122.1,test.slnet.com.au.,131316,Slnet Hosting,AU,Melbourne,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-02T17:44:08Z,2021-10-02T17:44:08Z
+119.17.33.74,74-33-17-119.static.broadbandsolutions.com.au.,45780,Broadband Solutions Pty Ltd,AU,Sydney,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T17:49:21Z,2021-10-02T17:49:21Z
+103.4.123.209,customer.slnet.com.au.,131316,Slnet Hosting,AU,Melbourne,,,true,1.00,2021-10-02T17:50:20Z,2021-10-02T17:50:20Z
+13.55.55.245,ec2-13-55-55-245.ap-southeast-2.compute.amazonaws.com.,16509,AMAZON-02,AU,Sydney,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T17:54:52Z,2021-10-02T17:54:52Z
+159.196.125.5,159-196-125-5.9fc47d.syd.static.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-02T19:09:02Z,2021-10-02T19:09:02Z
+203.194.21.241,203-194-21-241.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,,false,1.00,2021-10-03T12:45:55Z,2021-10-03T12:45:55Z
+1.41.149.124,,4804,Microplex PTY LTD,AU,Sydney,,i/o timeout,,0.00,2023-03-05T07:03:50Z,2021-10-20T12:14:49Z
+122.108.32.113,n122-108-32-113.adl1.sa.optusnet.com.au.,4804,Microplex PTY LTD,AU,Adelaide,,i/o timeout,,0.00,2023-03-05T07:04:17Z,2021-10-20T12:15:01Z
+58.105.211.53,static-n58-105-211-53.sun4.vic.optusnet.com.au.,4804,Microplex PTY LTD,AU,Bendigo,,connection refused,,0.08,2021-10-26T07:02:23Z,2021-10-20T12:15:04Z
+211.28.86.174,d211-28-86-174.rdl803.qld.optusnet.com.au.,4804,Microplex PTY LTD,AU,Toowoomba,,i/o timeout,,0.00,2023-03-05T07:03:49Z,2021-10-20T12:15:20Z
+49.176.192.70,static-n49-176-192-70.rdl2.qld.optusnet.com.au.,4804,Microplex PTY LTD,AU,Bundaberg,,i/o timeout,,0.00,2023-03-05T07:04:00Z,2021-10-20T12:15:43Z
+114.73.247.250,n114-73-247-250.bla4.nsw.optusnet.com.au.,4804,Microplex PTY LTD,AU,Sydney,,i/o timeout,,0.00,2023-03-05T22:56:14Z,2021-10-20T12:16:09Z
+114.73.153.223,n114-73-153-223.bla4.nsw.optusnet.com.au.,4804,Microplex PTY LTD,AU,Kellyville,DNSServer,,false,0.99,2021-10-26T02:01:32Z,2021-10-20T12:16:52Z
+122.109.98.77,n122-109-98-77.rdl1.qld.optusnet.com.au.,4804,Microplex PTY LTD,AU,Cairns,,i/o timeout,,0.00,2022-04-19T07:02:34Z,2021-10-20T12:17:35Z
+211.28.186.27,d211-28-186-27.sbr3.nsw.optusnet.com.au.,4804,Microplex PTY LTD,AU,,,i/o timeout,,0.00,2023-04-20T15:48:02Z,2021-10-20T12:17:54Z
+58.105.195.193,static-n58-105-195-193.bla4.nsw.optusnet.com.au.,4804,Microplex PTY LTD,AU,Dubbo,,i/o timeout,,0.00,2023-03-08T17:49:46Z,2021-10-20T12:17:56Z
+1.40.15.35,n1-40-15-35.bla1.nsw.optusnet.com.au.,4804,Microplex PTY LTD,AU,Sydney,,i/o timeout,,0.38,2021-11-09T01:00:53Z,2021-10-20T12:18:18Z
+220.239.5.167,static-n220-239-5-167.mrk2.qld.optusnet.com.au.,4804,Microplex PTY LTD,AU,Brisbane,,connection refused,,0.00,2023-03-05T07:03:51Z,2021-10-20T12:18:52Z
+58.105.42.71,n58-105-42-71.sun3.vic.optusnet.com.au.,4804,Microplex PTY LTD,AU,Reservoir,,,true,1.00,2021-10-20T14:14:50Z,2021-10-20T12:19:04Z
+110.23.153.189,n110-23-153-189.sun3.vic.optusnet.com.au.,4804,Microplex PTY LTD,AU,Rochedale,DNSServer,,false,1.00,2021-10-20T14:14:50Z,2021-10-20T12:19:21Z
+49.176.146.254,static-n49-176-146-254.meb4.vic.optusnet.com.au.,4804,Microplex PTY LTD,AU,Moorabbin,,,false,1.00,2021-10-20T14:14:48Z,2021-10-20T12:19:23Z
+49.190.219.233,n49-190-219-233.per1.wa.optusnet.com.au.,4804,Microplex PTY LTD,AU,Wellard,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-20T14:15:03Z,2021-10-20T12:19:34Z
+49.176.212.65,static-n49-176-212-65.sbr2.nsw.optusnet.com.au.,4804,Microplex PTY LTD,AU,Sydney,,i/o timeout,,0.50,2021-10-20T14:14:58Z,2021-10-20T12:19:40Z
+58.110.50.46,n58-110-50-46.mas3.nsw.optusnet.com.au.,4804,Microplex PTY LTD,AU,,,i/o timeout,,0.50,2021-10-20T14:14:56Z,2021-10-20T12:20:17Z
+49.188.116.166,n49-188-116-166.adl1.sa.optusnet.com.au.,4804,Microplex PTY LTD,AU,Adelaide,,i/o timeout,,0.50,2021-10-20T14:14:56Z,2021-10-20T12:20:27Z
+114.76.91.202,n114-76-91-202.meb4.vic.optusnet.com.au.,4804,Microplex PTY LTD,AU,Richmond,dnsmasq-2.40,,true,1.00,2021-10-20T14:14:50Z,2021-10-20T12:20:30Z
+58.105.184.32,static-n58-105-184-32.rdl4.qld.optusnet.com.au.,4804,Microplex PTY LTD,AU,Brisbane,,no route to host,,0.02,2021-10-30T14:12:17Z,2021-10-20T12:20:36Z
+49.3.67.14,,4804,Microplex PTY LTD,AU,Maroubra,DNSServer,,false,1.00,2021-10-20T14:14:51Z,2021-10-20T12:20:39Z
+122.108.200.54,n122-108-200-54.rdl4.qld.optusnet.com.au.,4804,Microplex PTY LTD,AU,Brisbane,,,true,1.00,2021-10-20T14:14:50Z,2021-10-20T12:20:54Z
+49.198.3.142,n49-198-3-142.mrk1.qld.optusnet.com.au.,4804,Microplex PTY LTD,AU,Brisbane,,,true,1.00,2021-10-20T14:14:51Z,2021-10-20T12:21:07Z
+1.44.25.64,,4804,Microplex PTY LTD,AU,,,i/o timeout,,0.00,2021-12-31T05:28:32Z,2021-10-20T12:21:22Z
+49.198.41.83,n49-198-41-83.mrk1.qld.optusnet.com.au.,4804,Microplex PTY LTD,AU,Brisbane,,i/o timeout,,0.50,2021-10-20T14:14:58Z,2021-10-20T12:21:30Z
+211.28.180.154,d211-28-180-154.sbr1.nsw.optusnet.com.au.,4804,Microplex PTY LTD,AU,Sydney,,i/o timeout,,0.50,2021-10-20T14:14:58Z,2021-10-20T12:21:58Z
+49.176.175.185,static-n49-176-175-185.mas2.nsw.optusnet.com.au.,4804,Microplex PTY LTD,AU,Sydney,,i/o timeout,,0.00,2022-08-23T13:24:41Z,2021-10-20T12:22:04Z
+42.241.201.54,n42-241-201-54.adl2.sa.optusnet.com.au.,4804,Microplex PTY LTD,AU,Adelaide,dnsmasq-2.40,,true,1.00,2021-10-24T05:07:39Z,2021-10-20T12:22:08Z
+114.73.234.191,n114-73-234-191.bla3.nsw.optusnet.com.au.,4804,Microplex PTY LTD,AU,Sydney,,,true,1.00,2021-10-20T14:14:53Z,2021-10-20T12:22:33Z
+58.110.197.35,n58-110-197-35.mas4.nsw.optusnet.com.au.,4804,Microplex PTY LTD,AU,,dnsmasq-2.15,,true,1.00,2021-10-20T14:14:53Z,2021-10-20T12:23:04Z
+220.239.164.49,,4804,Microplex PTY LTD,AU,Hobart,,,false,1.00,2021-10-20T14:14:54Z,2021-10-20T12:23:07Z
+1.44.21.127,,4804,Microplex PTY LTD,AU,,,connection refused,,0.66,2021-11-04T08:01:12Z,2021-10-20T12:23:20Z
+42.241.59.165,n42-241-59-165.adl1.sa.optusnet.com.au.,4804,Microplex PTY LTD,AU,Adelaide,,,true,1.00,2021-10-20T14:14:55Z,2021-10-20T12:23:49Z
+211.28.74.77,d211-28-74-77.per800.wa.optusnet.com.au.,4804,Microplex PTY LTD,AU,Joondalup,,i/o timeout,,0.50,2021-10-20T14:15:01Z,2021-10-20T12:24:03Z
+49.193.101.70,n49-193-101-70.rdl2.qld.optusnet.com.au.,4804,Microplex PTY LTD,AU,Melbourne,,i/o timeout,,0.00,2023-02-25T20:55:55Z,2021-10-20T12:24:11Z
+101.178.232.211,,1221,Telstra Corporation Ltd,AU,Adelaide,,i/o timeout,,0.59,2021-10-26T13:08:03Z,2021-10-21T11:24:49Z
+58.160.83.68,cpe-58-160-83-68.wb05.wa.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Perth,,i/o timeout,,0.00,2023-03-05T07:04:14Z,2021-10-21T11:26:17Z
+121.219.228.54,cpe-121-219-228-54.bpwi-r-031.win.vic.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-02-25T20:56:25Z,2021-10-21T11:26:34Z
+139.130.28.102,tel3195064.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-03-05T22:56:11Z,2021-10-21T11:26:37Z
+121.217.8.125,cpe-121-217-8-125.bpbn-r-031.cht.nsw.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-03-05T07:04:00Z,2021-10-21T11:26:40Z
+203.45.140.95,henryb1.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-03-05T14:45:29Z,2021-10-21T11:27:25Z
+120.151.151.38,fentar8.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-02-25T20:55:52Z,2021-10-21T11:27:41Z
+139.130.246.104,kap1404441.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.18,2021-11-02T09:11:29Z,2021-10-21T11:27:44Z
+120.153.82.220,cpe-120-153-82-220.qb04.qld.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.00,2023-02-21T12:48:00Z,2021-10-21T11:27:58Z
+124.177.17.62,cpe-124-177-17-62.qb10.qld.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.00,2023-03-05T07:04:09Z,2021-10-21T11:28:02Z
+203.54.236.58,int3477620.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-03-05T07:04:07Z,2021-10-21T11:28:09Z
+203.42.22.146,,1221,Telstra Corporation Ltd,AU,Newcastle,,,false,1.00,2023-03-05T07:04:11Z,2021-10-21T11:29:55Z
+202.74.252.184,,0,,AU,,,i/o timeout,,0.00,2022-08-09T06:25:08Z,2021-10-21T11:30:49Z
+110.145.237.30,tel3152120.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Moorabbin,dnsmasq-2.82,,false,1.00,2021-10-28T13:01:32Z,2021-10-21T11:30:54Z
+110.142.40.60,,1221,Telstra Corporation Ltd,AU,Melbourne,unbound 1.4.22,,false,1.00,2021-11-29T07:32:23Z,2021-10-21T11:31:00Z
+203.27.184.26,sav2369233.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-03-05T07:04:17Z,2021-10-21T11:31:33Z
+165.228.75.245,,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.41,2021-11-01T11:02:32Z,2021-10-21T11:33:44Z
+120.146.228.97,cpe-120-146-228-97.static.wa.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Perth,,i/o timeout,,0.00,2022-01-15T07:08:08Z,2021-10-21T11:33:47Z
+115.42.8.15,15-8-42-115.ip.esc.net.au.,7600,Escape.net,AU,Sydney,,,false,0.74,2021-11-02T09:11:26Z,2021-10-22T05:50:09Z
+203.37.130.211,,1221,Telstra Corporation Ltd,AU,,,i/o timeout,,0.06,2021-11-29T07:32:12Z,2021-10-22T08:55:21Z
+122.150.76.234,122-150-76-234.sta.dodo.net.au.,9443,Vocus Retail,AU,Hobart,,,true,1.00,2021-11-29T07:32:12Z,2021-11-23T10:53:44Z
+122.150.120.5,122-150-120-5.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Melbourne,,i/o timeout,,0.00,2023-02-25T20:47:29Z,2021-11-23T10:53:48Z
+218.214.84.180,180.84.214.218.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,,i/o timeout,,0.00,2023-03-07T13:46:39Z,2021-11-23T10:53:51Z
+112.141.171.108,112-141-171-108.sta.dodo.net.au.,9443,Vocus Retail,AU,Melbourne,,REFUSED for non-existent.example.com,,0.31,2021-11-29T07:32:21Z,2021-11-23T10:54:05Z
+111.220.99.56,56.99.220.111.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Hobart,,i/o timeout,,0.00,2023-02-25T20:56:33Z,2021-11-23T10:54:09Z
+58.178.218.221,221.218.178.58.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Perth,,i/o timeout,,0.00,2022-12-22T13:07:27Z,2021-11-23T10:54:20Z
+125.168.29.124,124.29.168.125.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Hobart,BIND,,false,0.63,2021-11-29T07:32:22Z,2021-11-23T10:54:42Z
+58.178.253.172,172.253.178.58.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Mount Druitt,,i/o timeout,,0.02,2021-12-27T09:32:06Z,2021-11-23T10:54:53Z
+211.27.181.9,9.181.27.211.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Brisbane,BIND,,false,0.60,2022-02-21T16:07:44Z,2021-11-23T10:55:06Z
+125.168.72.24,24.72.168.125.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,DNS,,false,0.67,2022-12-20T13:13:04Z,2021-11-23T10:55:09Z
+139.218.33.109,139-218-33-109.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,,i/o timeout,,0.00,2022-09-26T08:32:41Z,2021-11-23T10:55:44Z
+125.168.238.235,125-168-238-235.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Melbourne,,i/o timeout,,0.62,2021-12-27T09:32:08Z,2021-11-23T10:55:50Z
+122.151.162.39,122-151-162-39.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Brisbane,,,false,0.75,2021-11-29T07:32:24Z,2021-11-23T10:55:54Z
+122.148.129.45,45.129.148.122.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Brisbane,,i/o timeout,,0.00,2022-02-15T07:09:04Z,2021-11-23T10:55:59Z
+112.213.189.224,112-213-189-224.dyn.ip.vocus.network.,9443,Vocus Retail,AU,Hobart,,i/o timeout,,0.00,2023-03-05T07:04:26Z,2021-11-23T10:56:23Z
+125.168.141.205,205.141.168.125.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Adelaide,,i/o timeout,,0.00,2022-08-16T06:31:23Z,2021-11-23T10:56:37Z
+111.220.33.190,190.33.220.111.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Adelaide,,i/o timeout,,0.00,2022-02-17T13:10:15Z,2021-11-23T10:56:51Z
+125.168.70.25,125-168-70-25.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Adelaide,,i/o timeout,,0.00,2023-03-10T02:54:15Z,2021-11-23T10:57:13Z
+122.150.81.186,122-150-81-186.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Melbourne,BIND,,false,0.66,2022-01-11T13:09:00Z,2021-11-23T10:57:15Z
+139.218.124.153,153.124.218.139.dyn.wbroadband.net.au.,9443,Vocus Retail,AU,Perth,BIND,,false,0.73,2021-11-29T07:32:11Z,2021-11-23T10:57:29Z
+139.216.31.188,139-216-31-188.sta.dodo.net.au.,9443,Vocus Retail,AU,Perth,,i/o timeout,,0.00,2023-02-27T23:47:43Z,2021-11-23T10:57:33Z
+111.220.74.31,31.74.220.111.dyn.wbroadband.net.au.,9443,Vocus Retail,AU,Perth,,i/o timeout,,0.00,2023-03-05T22:59:03Z,2021-11-23T10:57:47Z
+111.220.180.143,143.180.220.111.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Melbourne,,i/o timeout,,0.00,2023-03-05T07:04:13Z,2021-11-23T10:57:49Z
+111.220.65.27,27.65.220.111.dyn.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,,i/o timeout,,0.00,2022-02-17T13:13:14Z,2021-11-23T10:57:52Z
+203.91.225.131,131.225.91.203.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,,i/o timeout,,0.00,2023-03-11T02:47:43Z,2021-11-23T10:58:05Z
+123.3.84.211,123-3-84-211.sta.dodo.net.au.,9443,Vocus Retail,AU,Melbourne,,i/o timeout,,0.00,2023-02-25T20:56:42Z,2021-11-23T10:58:08Z
+58.178.224.63,63.224.178.58.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Adelaide,,i/o timeout,,0.00,2023-02-25T20:56:00Z,2021-11-23T10:58:12Z
+125.168.79.145,145.79.168.125.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,,,false,0.10,2022-01-09T05:36:22Z,2021-11-23T10:58:47Z
+218.214.27.207,207.27.214.218.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,,,true,0.65,2022-01-14T08:13:15Z,2021-11-23T10:58:49Z
+111.220.110.172,172.110.220.111.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Melbourne,,i/o timeout,,0.00,2023-02-25T21:53:28Z,2021-11-23T10:59:00Z
+112.213.178.230,112-213-178-230.dyn.ip.vocus.network.,9443,Vocus Retail,AU,Melbourne,BIND,,false,0.61,2022-01-20T13:06:07Z,2021-11-23T10:59:03Z
+58.178.113.221,221.113.178.58.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Perth,,i/o timeout,,0.00,2022-12-20T13:07:06Z,2021-11-23T10:59:25Z
+111.220.75.204,204.75.220.111.dyn.wbroadband.net.au.,9443,Vocus Retail,AU,Perth,,Unexpected result for wikileaks.org: {[[51 159 197 136] [80 81 248 21]]},,0.43,2023-01-07T08:14:11Z,2021-11-23T11:00:08Z
+111.220.125.81,81.125.220.111.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Hobart,,i/o timeout,,0.00,2023-03-08T17:49:47Z,2021-11-23T11:00:14Z
+58.178.115.238,238.115.178.58.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Perth,,Unexpected result for wikileaks.org: {[[51 159 197 136] [80 81 248 21]]},,0.03,2023-01-13T07:28:45Z,2021-11-23T11:00:19Z
+125.168.131.2,2.131.168.125.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,,i/o timeout,,0.00,2023-03-05T22:59:03Z,2021-11-23T11:00:43Z
+211.27.135.30,30.135.27.211.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Brisbane,,i/o timeout,,0.47,2022-01-06T03:37:23Z,2021-11-23T11:00:46Z
+122.148.128.132,132.128.148.122.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Brisbane,dnsmasq-2.79,,false,0.65,2022-01-14T19:05:45Z,2021-11-23T11:00:49Z
+125.168.19.113,113.19.168.125.sta.wbroadband.net.au.,9443,Vocus Retail,AU,,,i/o timeout,,0.73,2021-12-27T09:31:49Z,2021-11-25T07:44:15Z
+125.168.205.242,242.205.168.125.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,,i/o timeout,,0.00,2023-03-11T00:45:06Z,2021-11-25T07:44:27Z
+211.26.122.34,34.122.26.211.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Adelaide,BIND,,false,0.74,2021-11-29T05:28:25Z,2021-11-25T07:44:29Z
+122.150.86.73,122-150-86-73.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Melbourne,,i/o timeout,,0.00,2023-03-05T03:44:53Z,2021-11-25T07:44:31Z
+139.218.121.24,24.121.218.139.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Perth,dnsmasq-2.76-1-ubnt3,,false,0.86,2022-09-08T10:26:49Z,2021-11-25T07:44:43Z
+111.220.96.54,54.96.220.111.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Melbourne,dnsmasq-2.75,,false,0.78,2021-11-29T07:32:33Z,2021-11-25T07:44:49Z
+122.148.255.15,122-148-255-15.sta.dodo.net.au.,9443,Vocus Retail,AU,Perth,,i/o timeout,,0.28,2022-02-18T07:09:08Z,2021-11-25T07:44:52Z
+122.151.181.156,122-151-181-156.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Brisbane,,i/o timeout,,0.00,2023-02-20T21:45:41Z,2021-11-25T07:44:55Z
+112.213.189.237,112-213-189-237.dyn.ip.vocus.network.,9443,Vocus Retail,AU,Hobart,,i/o timeout,,0.00,2023-02-25T20:56:16Z,2021-11-25T07:44:58Z
+125.168.141.48,48.141.168.125.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Adelaide,,i/o timeout,,0.00,2022-04-26T07:03:12Z,2021-11-25T07:45:23Z
+218.214.185.210,218-214-185-210.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Melbourne,,i/o timeout,,0.00,2022-04-22T07:04:19Z,2021-11-25T07:45:26Z
+218.214.182.9,9.182.214.218.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Melbourne,BIND,,false,0.76,2021-11-29T05:28:25Z,2021-11-25T07:45:28Z
+122.148.128.5,5.128.148.122.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Brisbane,dnsmasq-2.85,,false,1.00,2023-02-25T20:56:54Z,2021-11-25T07:45:32Z
+218.215.245.224,218-215-245-224.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Melbourne,,i/o timeout,,0.00,2023-02-09T05:08:10Z,2021-11-25T07:45:35Z
+111.220.73.177,177.73.220.111.dyn.wbroadband.net.au.,9443,Vocus Retail,AU,Perth,,i/o timeout,,0.00,2022-01-12T11:07:43Z,2021-11-25T07:45:54Z
+218.214.92.142,142.92.214.218.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Pyrmont,,,true,0.73,2021-11-29T07:34:32Z,2021-11-25T07:46:07Z
+122.150.78.244,122-150-78-244.sta.dodo.net.au.,9443,Vocus Retail,AU,Hobart,,i/o timeout,,0.05,2022-01-06T10:35:54Z,2021-11-25T07:46:36Z
+210.50.100.83,83.100.50.210.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,BIND,,false,0.29,2021-11-29T07:32:34Z,2021-11-25T07:46:52Z
+218.214.105.97,97.105.214.218.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Perth,,i/o timeout,,0.19,2021-11-29T07:32:48Z,2021-11-25T07:47:00Z
+218.214.175.136,136.175.214.218.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Hobart,,i/o timeout,,0.00,2023-03-05T22:59:01Z,2021-11-25T07:47:02Z
+111.220.103.197,197.103.220.111.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Old Beach,,i/o timeout,,0.00,2023-03-05T07:04:14Z,2021-11-25T07:47:06Z
+125.168.78.223,223.78.168.125.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,,i/o timeout,,0.05,2022-01-06T10:36:29Z,2021-11-25T07:47:14Z
+111.220.80.15,15.80.220.111.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Devonport,,i/o timeout,,0.03,2022-04-13T10:02:18Z,2021-11-25T07:47:28Z
+111.220.90.209,209.90.220.111.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,,i/o timeout,,0.00,2023-03-05T16:49:44Z,2021-11-25T07:47:49Z
+122.148.249.153,122-148-249-153.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Perth,,i/o timeout,,0.00,2023-02-25T20:56:31Z,2021-11-25T07:48:02Z
+139.218.23.61,139-218-23-61.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Melbourne,,i/o timeout,,0.65,2022-01-13T10:07:19Z,2021-11-25T07:48:21Z
+218.214.190.194,194.190.214.218.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Melbourne,,i/o timeout,,0.00,2023-02-25T20:56:42Z,2021-11-25T07:48:34Z
+125.168.52.138,138.52.168.125.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Brisbane,,i/o timeout,,0.54,2022-01-21T07:08:18Z,2021-11-25T07:48:36Z
+122.151.210.225,122-151-210-225.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,,,false,0.96,2021-11-29T07:32:11Z,2021-11-25T07:48:41Z
+111.220.106.99,99.106.220.111.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,,i/o timeout,,0.08,2022-02-01T14:06:37Z,2021-11-25T07:48:53Z
+125.168.193.39,39.193.168.125.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,,i/o timeout,,0.00,2022-04-22T07:04:16Z,2021-11-25T07:49:15Z
+211.27.131.81,81.131.27.211.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Brisbane,Microsoft DNS 6.0.6003 (1773501D),,false,0.92,2021-11-29T07:32:34Z,2021-11-25T07:49:27Z
+218.214.107.129,129.107.214.218.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Perth,,i/o timeout,,0.00,2023-02-23T08:46:43Z,2021-11-25T07:49:51Z
+125.168.63.216,216.63.168.125.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Brisbane,,no route to host,,0.00,2022-04-26T07:03:40Z,2021-11-25T07:49:57Z
+218.214.174.39,39.174.214.218.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Hobart,,i/o timeout,,0.00,2022-08-29T12:24:29Z,2021-11-25T07:50:10Z
+202.4.64.17,sydnsvip01.mgmt.nsw.vocus.network.,9443,Vocus Retail,AU,,,i/o timeout,,0.00,2023-03-05T22:58:58Z,2021-11-25T07:50:23Z
+218.214.174.64,64.174.214.218.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Hobart,,i/o timeout,,0.62,2021-12-27T09:32:08Z,2021-11-25T07:50:28Z
+203.91.243.44,44.243.91.203.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Brisbane,,i/o timeout,,0.57,2021-11-29T07:32:19Z,2021-11-25T07:50:31Z
+120.151.208.123,,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-02-25T20:56:39Z,2021-12-16T09:45:16Z
+203.38.121.132,jnos.ddmcomputers.com.au.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-02-25T20:56:46Z,2021-12-16T09:45:34Z
+144.139.210.175,,1221,Telstra Corporation Ltd,AU,Perth,,i/o timeout,,0.00,2023-02-25T20:56:48Z,2021-12-16T09:45:52Z
+149.135.106.174,aus1907370.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.00,2023-02-25T20:56:47Z,2021-12-16T09:46:58Z
+120.151.187.224,,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.00,2023-02-25T20:56:47Z,2021-12-16T09:47:05Z
+58.163.148.73,wic2772371.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Cessnock,,i/o timeout,,0.00,2023-02-25T20:56:48Z,2021-12-16T09:47:08Z
+110.143.3.83,abi1684415.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,dnsmasq-2.68,,false,1.00,2023-02-25T20:56:31Z,2021-12-16T09:47:33Z
+203.35.78.195,sky2.skychannel.com.au.,1221,Telstra Corporation Ltd,AU,Gold Coast,,i/o timeout,,0.00,2023-02-25T20:56:48Z,2021-12-16T09:48:07Z
+101.175.43.187,cpe-101-175-43-187.bpxt-r-037.ken.nsw.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-02-25T20:56:48Z,2021-12-16T09:48:10Z
+110.145.32.197,,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-02-25T20:56:48Z,2021-12-16T09:48:16Z
+203.27.182.202,dow3634789.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-02-25T20:56:49Z,2021-12-16T09:48:40Z
+110.145.125.13,,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.00,2023-02-25T20:56:39Z,2021-12-16T09:49:11Z
+203.54.212.126,pow3346169.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Perth,,,true,1.00,2023-02-25T20:56:46Z,2021-12-16T09:49:36Z
+203.36.222.112,,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-02-25T20:46:31Z,2021-12-16T09:49:56Z
+203.47.244.75,,1221,Telstra Corporation Ltd,AU,Perth,,i/o timeout,,0.00,2023-02-25T20:56:40Z,2021-12-16T09:50:12Z
+58.164.27.90,cpe-58-164-27-90.nb14.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-02-25T20:56:56Z,2021-12-16T09:51:18Z
+60.231.54.31,,1221,Telstra Corporation Ltd,AU,Adelaide,,i/o timeout,,0.00,2023-02-25T20:56:41Z,2021-12-16T09:51:49Z
+110.145.178.74,mail.freopath.com.au.,1221,Telstra Corporation Ltd,AU,Sydney,,,false,1.00,2023-02-25T20:56:47Z,2021-12-16T09:52:25Z
+203.38.225.13,,1221,Telstra Corporation Ltd,AU,Melbourne,unbound 1.4.22,,false,0.50,2023-02-25T20:56:48Z,2021-12-16T09:52:58Z
+203.38.225.45,,1221,Telstra Corporation Ltd,AU,Melbourne,unbound 1.4.22,,false,1.00,2023-02-25T20:56:49Z,2021-12-16T09:53:29Z
+165.228.54.56,aus2002071.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Gold Coast,,i/o timeout,,0.50,2023-02-25T20:56:40Z,2021-12-16T09:53:44Z
+120.150.56.245,,1221,Telstra Corporation Ltd,AU,Hobart,,,false,1.00,2023-02-25T20:56:52Z,2021-12-16T09:54:00Z
+121.212.114.90,cpe-121-212-114-90.nb06.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.07,2022-01-12T13:08:50Z,2021-12-17T15:54:33Z
+203.52.58.169,,1221,Telstra Corporation Ltd,AU,Sydney,dnsmasq-2.72,,false,1.00,2023-03-05T07:04:31Z,2021-12-17T15:54:36Z
+144.139.92.153,stm2900489.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Mansfield,,i/o timeout,,0.00,2022-04-22T13:31:47Z,2021-12-17T15:55:01Z
+120.155.48.45,cpe-120-155-48-45.nb05.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.06,2022-01-14T08:12:23Z,2021-12-17T15:55:27Z
+120.155.223.55,cpe-120-155-223-55.qb03.qld.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.41,2022-01-06T10:36:52Z,2021-12-17T15:57:27Z
+124.189.167.193,cpe-124-189-167-193.wb05.wa.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Perth,,i/o timeout,,0.04,2022-01-03T20:37:23Z,2021-12-17T15:58:02Z
+203.52.58.161,,1221,Telstra Corporation Ltd,AU,Sydney,dnsmasq-2.72,,false,1.00,2023-02-25T20:56:37Z,2021-12-17T15:59:17Z
+203.51.29.208,cpe-203-51-29-208.static.sa.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Adelaide,,,false,0.68,2022-01-17T13:08:46Z,2021-12-17T15:59:25Z
+120.150.190.110,tra1844081.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.13,2022-01-06T03:37:23Z,2021-12-17T16:00:30Z
+58.171.58.234,,1221,Telstra Corporation Ltd,AU,Perth,,,false,0.98,2022-01-28T10:09:23Z,2021-12-17T16:01:25Z
+144.137.210.182,cpe-144-137-210-182.static.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,,false,0.80,2022-02-22T07:12:54Z,2021-12-17T16:01:28Z
+110.145.5.219,,1221,Telstra Corporation Ltd,AU,Adelaide,,i/o timeout,,0.00,2022-12-24T18:09:18Z,2021-12-17T16:02:44Z
+110.145.178.54,ind2761526.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Singleton,,no route to host,,0.00,2023-02-25T20:56:22Z,2021-12-17T16:03:06Z
+101.187.5.230,fla3159534.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.64,2022-01-12T13:08:22Z,2021-12-17T16:03:18Z
+165.228.191.148,thehan2.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-02-25T20:46:31Z,2021-12-17T16:04:33Z
+139.130.89.234,chr1284350.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Melbourne,,,true,0.67,2023-02-25T20:56:16Z,2021-12-17T16:04:36Z
+58.171.153.212,,1221,Telstra Corporation Ltd,AU,Berwick,,,false,0.99,2022-01-11T13:09:37Z,2021-12-18T14:38:46Z
+58.163.150.57,,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-01-13T08:28:38Z,2021-12-18T14:39:20Z
+203.39.3.133,tsantsa.arafura.net.au.,1221,Telstra Corporation Ltd,AU,Perth,,,false,0.99,2022-01-17T13:09:05Z,2021-12-18T14:39:24Z
+60.231.48.23,,1221,Telstra Corporation Ltd,AU,Adelaide,,i/o timeout,,0.00,2023-03-09T21:48:09Z,2021-12-18T14:40:36Z
+101.187.22.236,mem2680304.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-02-25T20:56:48Z,2021-12-18T14:41:18Z
+203.45.220.40,ndgood.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.00,2023-03-03T07:47:23Z,2021-12-18T14:41:55Z
+101.187.229.80,mit1750415.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.15,2021-12-21T01:27:55Z,2021-12-18T14:42:25Z
+121.220.36.176,cpe-121-220-36-176.bpwi-r-031.win.vic.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-02-25T20:56:25Z,2021-12-18T14:42:29Z
+101.173.12.111,cpe-101-173-12-111.sb01.sa.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Adelaide,,i/o timeout,,0.54,2022-01-06T10:36:15Z,2021-12-18T14:43:43Z
+203.54.130.50,pal3038096.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Adelaide,,no route to host,,0.16,2022-01-14T19:05:51Z,2021-12-18T14:43:49Z
+124.187.34.149,cpe-124-187-34-149.static.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,9.9.7-P3,,false,0.75,2023-02-26T01:00:47Z,2021-12-18T14:44:03Z
+101.191.18.84,cpe-101-191-18-84.nb11.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2022-09-25T00:32:37Z,2021-12-18T14:44:36Z
+58.162.211.21,,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-02-25T20:56:32Z,2021-12-18T14:44:52Z
+58.171.95.221,,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.25,2022-01-12T13:08:50Z,2021-12-18T14:45:04Z
+203.51.24.237,cpe-203-51-24-237.static.vic.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-02-25T20:56:49Z,2021-12-18T14:45:16Z
+120.150.207.69,,1221,Telstra Corporation Ltd,AU,Sydney,,,true,1.00,2023-02-25T20:56:18Z,2021-12-18T14:46:02Z
+60.231.9.89,,1221,Telstra Corporation Ltd,AU,Brisbane,unbound 1.4.22,,false,1.00,2022-01-06T10:37:54Z,2021-12-18T14:46:41Z
+121.211.249.180,cpe-121-211-249-180.hhui-cr-003.cht.nsw.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Menai,dnsmasq-2.82,,false,0.80,2022-01-12T13:09:22Z,2021-12-18T14:46:43Z
+203.54.152.226,bap3133793.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Lavington,UNKNOWN,,true,1.00,2022-01-04T07:38:40Z,2021-12-18T14:47:44Z
+110.145.157.170,tel3238458.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Buderim,dnsmasq-2.82,,false,0.99,2022-01-06T08:48:05Z,2021-12-18T14:48:16Z
+58.171.80.146,,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-02-25T20:46:31Z,2021-12-18T15:08:42Z
+101.187.177.164,,1221,Telstra Corporation Ltd,AU,Canberra,,i/o timeout,,0.00,2023-03-05T07:04:26Z,2021-12-18T15:08:50Z
+144.139.198.188,,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.22,2021-12-27T09:31:52Z,2021-12-20T06:45:55Z
+203.58.224.115,,1221,Telstra Corporation Ltd,AU,Warral,,,false,0.78,2022-01-06T10:35:56Z,2021-12-20T06:46:40Z
+110.143.72.213,,1221,Telstra Corporation Ltd,AU,Brisbane,dnsmasq-2.52,REFUSED for example.com,,0.00,2023-03-05T07:07:29Z,2021-12-20T06:46:43Z
+58.171.69.122,,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.15,2022-01-14T07:09:27Z,2021-12-20T06:47:10Z
+110.143.77.12,jpgden.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.00,2022-04-22T13:31:49Z,2021-12-20T06:47:14Z
+101.187.238.44,,1221,Telstra Corporation Ltd,AU,Melbourne,,connection refused,,0.28,2022-01-15T07:08:39Z,2021-12-20T06:47:32Z
+203.38.9.150,mercury.sat.com.au.,1221,Telstra Corporation Ltd,AU,Perth,,Unexpected result for example.com: {[[45 79 156 130]]},,0.09,2022-01-05T06:39:16Z,2021-12-20T06:48:06Z
+124.183.6.90,cpe-124-183-6-90.nb16.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.15,2022-01-06T10:36:18Z,2021-12-20T06:49:30Z
+124.191.0.43,cpe-124-191-0-43.sfui-cr-003.cha.qld.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Gold Coast,,i/o timeout,,0.00,2022-04-22T13:31:31Z,2021-12-20T06:50:03Z
+144.130.170.254,sgf4155469.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-03-05T07:07:33Z,2021-12-20T06:51:04Z
+165.228.188.97,pet1611120.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Moorabbin,dnsmasq-2.79,,false,0.06,2022-01-13T18:08:36Z,2021-12-20T06:51:08Z
+120.151.212.27,lindfo1.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.25,2022-01-06T10:35:53Z,2021-12-20T06:51:40Z
+203.45.98.32,,1221,Telstra Corporation Ltd,AU,Melbourne,Akamai Vantio CacheServe 7.6.1.0,,false,0.25,2023-03-05T07:07:23Z,2021-12-20T06:52:17Z
+58.162.234.94,jfp2772364.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Townsville,,connection refused,,0.00,2022-04-22T13:31:23Z,2021-12-20T06:53:58Z
+110.142.127.72,,1221,Telstra Corporation Ltd,AU,Perth,,i/o timeout,,0.00,2023-04-20T15:47:46Z,2021-12-20T06:54:02Z
+110.145.151.122,mcl2652197.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Brisbane,dnsmasq-2.82,,false,0.92,2022-01-06T10:36:48Z,2021-12-20T06:54:15Z
+101.173.224.216,cpe-101-173-224-216.nb13.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-03-05T07:07:07Z,2021-12-20T06:55:05Z
+58.171.243.172,,1221,Telstra Corporation Ltd,AU,Sippy Downs,Microsoft DNS 6.1.7601 (1DB15F75),,false,1.00,2022-01-03T19:36:23Z,2021-12-22T19:21:44Z
+165.228.255.34,rec4058666.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Wollongong,,i/o timeout,,0.00,2022-12-06T20:47:49Z,2021-12-22T19:21:57Z
+139.130.44.89,,1221,Telstra Corporation Ltd,AU,Gold Coast,,i/o timeout,,0.40,2022-02-15T07:09:04Z,2021-12-22T19:22:23Z
+58.171.79.178,,1221,Telstra Corporation Ltd,AU,Chipping Norton,UNKNOWN,,true,0.97,2022-01-14T07:09:21Z,2021-12-22T19:22:48Z
+58.171.168.43,,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-03-05T07:07:09Z,2021-12-22T19:22:51Z
+120.151.212.127,,1221,Telstra Corporation Ltd,AU,Sydney,,,false,0.28,2022-01-06T10:36:00Z,2021-12-22T19:23:16Z
+120.150.165.81,the1155002.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.12,2022-01-11T07:09:11Z,2021-12-22T19:23:50Z
+120.150.33.74,,1221,Telstra Corporation Ltd,AU,Perth,,no route to host,,0.00,2022-04-13T10:01:13Z,2021-12-22T19:24:39Z
+139.130.233.218,ens2585089.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-03-05T07:07:23Z,2021-12-22T19:25:05Z
+101.178.219.176,,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-03-05T07:07:12Z,2021-12-22T19:26:05Z
+58.171.85.205,,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.20,2022-01-14T07:08:29Z,2021-12-22T19:27:40Z
+110.143.148.183,abi1708756.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Kempsey,,,false,1.00,2022-04-22T13:31:50Z,2021-12-22T19:27:44Z
+58.171.173.194,,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-03-05T07:07:27Z,2021-12-22T19:28:49Z
+110.143.250.195,dys2361858.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2022-04-22T13:31:41Z,2021-12-22T19:29:39Z
+203.45.68.139,,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-03-05T07:07:33Z,2021-12-22T19:29:52Z
+110.142.121.150,,1221,Telstra Corporation Ltd,AU,Adelaide,,i/o timeout,,0.23,2022-01-09T05:36:23Z,2021-12-22T19:30:17Z
+203.43.89.161,,1221,Telstra Corporation Ltd,AU,,,i/o timeout,,0.00,2023-02-25T20:57:03Z,2021-12-22T19:30:42Z
+203.58.224.123,,1221,Telstra Corporation Ltd,AU,,,i/o timeout,,0.45,2022-04-19T07:02:41Z,2021-12-23T19:33:42Z
+101.167.169.196,cpe-101-167-169-196.vic.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Kyabram,9.16.15-Ubuntu,,false,1.00,2022-01-06T10:36:18Z,2021-12-23T19:34:36Z
+139.130.38.214,tel3368914.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-03-05T07:07:27Z,2021-12-23T19:34:38Z
+120.153.48.251,cpe-120-153-48-251.qb08.qld.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.00,2023-04-20T15:47:55Z,2021-12-23T19:35:45Z
+120.151.159.117,sushis10.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.00,2022-02-09T08:06:46Z,2021-12-23T19:35:56Z
+203.53.203.217,,1221,Telstra Corporation Ltd,AU,Brisbane,dnsmasq-2.79-1-1-g5d52256,,false,0.59,2022-01-29T08:06:25Z,2021-12-23T19:37:12Z
+124.182.152.242,cpe-124-182-152-242.bpe6-r-963.pie.wa.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Perth,,i/o timeout,,0.00,2023-03-05T07:07:34Z,2021-12-23T19:37:36Z
+120.150.143.245,ger1063818.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2022-04-22T13:31:40Z,2021-12-23T19:40:12Z
+124.187.113.71,,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.00,2022-01-03T20:36:19Z,2021-12-23T19:43:35Z
+165.228.132.206,tel3207091.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Maitland,,i/o timeout,,0.00,2023-03-05T07:07:11Z,2021-12-23T19:43:47Z
+61.245.151.233,61-245-151-233.3df597.adl.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Adelaide,,i/o timeout,,0.01,2022-01-06T10:36:18Z,2021-12-29T23:14:56Z
+120.146.40.158,cpe-120-146-40-158.static.qld.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.36,2022-01-11T13:12:04Z,2022-01-08T15:30:35Z
+120.155.237.29,cpe-120-155-237-29.qb03.qld.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.23,2022-01-13T10:07:14Z,2022-01-08T15:30:39Z
+101.191.18.16,cpe-101-191-18-16.nb11.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2022-04-22T10:11:16Z,2022-01-08T15:30:42Z
+58.164.75.129,cpe-58-164-75-129.nb13.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.56,2022-01-11T13:12:58Z,2022-01-08T15:32:59Z
+203.52.78.183,,1221,Telstra Corporation Ltd,AU,Perth,,,false,0.97,2022-02-05T13:13:20Z,2022-01-08T15:34:01Z
+165.228.55.8,,1221,Telstra Corporation Ltd,AU,Tewantin,,i/o timeout,,0.20,2022-02-05T13:13:22Z,2022-01-08T15:34:09Z
+203.52.253.174,,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-03-05T08:53:23Z,2022-01-08T15:34:12Z
+101.188.65.209,cpe-101-188-65-209.vb03.vic.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-02-26T01:03:44Z,2022-01-08T15:34:26Z
+101.174.177.31,cpe-101-174-177-31.sb04.sa.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Adelaide,,i/o timeout,,0.00,2022-02-23T14:06:28Z,2022-01-08T15:34:36Z
+1.123.54.157,cpe-1-223-54-157.bpi3-r-032.fli.sa.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Gold Coast,,i/o timeout,,0.00,2023-02-26T01:04:05Z,2022-01-08T15:35:10Z
+144.130.160.186,tic4152684.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.00,2023-03-05T08:49:11Z,2022-01-08T15:35:15Z
+110.142.144.230,,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-03-05T07:13:46Z,2022-01-08T15:35:51Z
+110.145.166.222,tel3891510.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Tarneit,,i/o timeout,,0.68,2022-01-11T13:12:49Z,2022-01-08T15:36:24Z
+203.15.254.229,one1008v.andviv.com.au.,1221,Telstra Corporation Ltd,AU,,,i/o timeout,,0.83,2022-04-22T08:07:13Z,2022-01-08T15:38:04Z
+144.139.130.19,aus1973860.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.26,2022-01-11T13:11:31Z,2022-01-08T15:38:10Z
+165.228.114.178,rabnin.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Gympie,,i/o timeout,,0.00,2023-02-26T01:04:04Z,2022-01-08T15:38:22Z
+120.151.205.247,pointp2.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-02-26T01:04:09Z,2022-01-08T15:38:30Z
+203.49.57.67,,1221,Telstra Corporation Ltd,AU,Melbourne,,,false,0.66,2022-01-11T13:12:02Z,2022-01-08T15:39:12Z
+121.221.95.143,cpe-121-221-95-143.bp1w-r-963.wel.wa.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Millendon,,i/o timeout,,0.00,2022-04-22T10:11:25Z,2022-01-08T15:39:40Z
+180.150.102.0,180-150-102-0.b49666.bne.static.aussiebb.net.,4764,Aussie Broadband,AU,Brisbane,,,false,0.70,2022-01-17T13:09:08Z,2022-01-10T17:27:06Z
+119.18.38.142,119-18-38-142.771226.bne.static.aussiebb.net.,4764,Aussie Broadband,AU,Brisbane,,i/o timeout,,0.80,2022-01-13T10:07:15Z,2022-01-10T17:27:24Z
+159.196.225.92,159-196-225-92.9fc4e1.mel.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Wallan,,connection refused,,0.08,2022-01-14T07:08:57Z,2022-01-10T17:27:38Z
+159.196.44.245,,4764,Aussie Broadband,AU,Sydney,,i/o timeout,,0.00,2023-03-05T07:13:44Z,2022-01-10T17:27:41Z
+119.17.136.100,119-17-136-100.771188.mel.static.aussiebb.net.,4764,Aussie Broadband,AU,,,i/o timeout,,0.00,2023-02-26T01:04:04Z,2022-01-10T17:27:56Z
+180.150.13.108,180-150-13-108.b4960d.syd.static.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,,i/o timeout,,0.00,2022-03-09T08:12:20Z,2022-01-10T17:28:00Z
+103.94.50.214,103-94-50-214.675e32.per.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Perth,,i/o timeout,,0.65,2022-01-14T19:05:42Z,2022-01-10T17:28:04Z
+159.196.179.178,r1-mel63-e0.tehintartubes.net.,4764,Aussie Broadband,AU,Melbourne,,connection refused,,0.00,2022-04-22T10:11:08Z,2022-01-10T17:28:06Z
+180.150.9.76,180-150-9-76.b49609.syd.static.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,dnsmasq-2.80,,false,0.73,2022-02-09T08:06:27Z,2022-01-10T17:28:09Z
+180.150.33.46,180-150-33-46.b49621.mel.static.aussiebb.net.,4764,Aussie Broadband,AU,Melbourne,unbound 1.9.4,,true,0.72,2022-01-13T18:09:09Z,2022-01-10T17:28:11Z
+180.150.109.52,180-150-109-52.b4966d.bne.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Brisbane,,no route to host,,0.00,2023-03-05T08:53:31Z,2022-01-10T17:28:15Z
+202.153.214.22,202-153-214-22.ca99d6.syd.static.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,,,false,0.64,2022-01-22T13:07:24Z,2022-01-10T17:28:18Z
+61.245.154.143,61-245-154-143.3df59a.adl.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Adelaide,,i/o timeout,,0.00,2023-03-05T08:53:40Z,2022-01-10T17:28:24Z
+180.150.116.44,180-150-116-44.b49674.adl.static.aussiebb.net.,4764,Aussie Broadband,AU,Adelaide,DNSServer,,false,0.86,2022-01-13T09:06:40Z,2022-01-10T17:28:51Z
+119.17.157.246,119-17-157-246.77119d.mel.static.aussiebb.net.,4764,Aussie Broadband,AU,Melbourne,,i/o timeout,,0.00,2022-04-26T07:03:43Z,2022-01-10T17:28:53Z
+180.150.11.131,180-150-11-131.b4960b.syd.static.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,,i/o timeout,,0.00,2022-08-07T08:26:23Z,2022-01-10T17:28:57Z
+167.179.172.96,167-179-172-96.a7b3ac.bne.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Cooroibah,unbound 1.9.4,,true,0.65,2022-01-13T18:09:10Z,2022-01-10T17:29:11Z
+180.150.96.66,180-150-96-66.b49660.syd.nbn.aussiebb.net.,4764,Aussie Broadband,AU,,,,false,1.00,2022-01-11T13:12:31Z,2022-01-10T17:29:14Z
+117.20.67.158,hosting.texcel.com.au.,4764,Aussie Broadband,AU,Brisbane,unknown,,false,1.00,2022-01-14T19:05:44Z,2022-01-10T17:29:23Z
+167.179.145.111,167-179-145-111.a7b391.syd.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,,i/o timeout,,0.49,2022-01-11T13:12:41Z,2022-01-10T17:29:27Z
+202.142.133.126,202-142-133-126.ca8e85.mel.static.aussiebb.net.,4764,Aussie Broadband,AU,,,,false,1.00,2023-02-26T01:03:59Z,2022-01-10T17:29:40Z
+203.129.31.67,smtp.swfc.com.au.,4764,Aussie Broadband,AU,Cootamundra,unbound 1.4.22,,false,1.00,2022-01-17T13:08:42Z,2022-01-10T17:29:51Z
+159.196.126.153,159-196-126-153.9fc47e.syd.static.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,,,true,0.71,2022-01-13T10:07:15Z,2022-01-10T17:30:39Z
+180.150.119.18,180-150-119-18.b49677.adl.static.aussiebb.net.,4764,Aussie Broadband,AU,Adelaide,PowerDNS Recursor 4.8.0 (built Dec  9 2022 10:49:37 by root@1de86e768d97),Unexpected result for wikileaks.org: {[[51 159 197 136] [80 81 248 21]]},,0.00,2023-01-11T15:28:09Z,2022-01-10T17:31:00Z
+117.20.67.244,117-20-67-244.751443.bne.static.aussiebb.net.,4764,Aussie Broadband,AU,Brisbane,,i/o timeout,,0.66,2022-01-21T07:08:48Z,2022-01-10T17:31:16Z
+202.90.242.141,202-90-242-141.ca5af2.adl.static.aussiebb.net.,4764,Aussie Broadband,AU,Adelaide,dnsmasq-2.78,,false,0.74,2022-01-13T10:07:18Z,2022-01-10T17:31:18Z
+159.196.27.185,,4764,Aussie Broadband,AU,Brisbane,PowerDNS Recursor 4.8.0 (built Dec  9 2022 10:49:37 by root@1de86e768d97),Unexpected result for wikileaks.org: {[[51 159 197 136] [80 81 248 21]]},,0.00,2023-01-11T08:28:31Z,2022-01-10T17:31:31Z
+167.179.145.130,167-179-145-130.a7b391.syd.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,,i/o timeout,,0.26,2022-04-22T08:08:14Z,2022-01-10T17:31:46Z
+119.18.33.94,119-18-33-94.771221.bne.static.aussiebb.net.,4764,Aussie Broadband,AU,Gold Coast,,i/o timeout,,0.00,2022-09-02T12:24:50Z,2022-01-10T17:32:09Z
+119.17.138.116,119-17-138-116.77118a.mel.static.aussiebb.net.,4764,Aussie Broadband,AU,Melbourne,DNSServer,,false,1.00,2022-01-18T11:13:00Z,2022-01-10T17:32:13Z
+167.179.150.177,167-179-150-177.a7b396.syd.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,,i/o timeout,,0.00,2023-03-05T08:53:44Z,2022-01-10T17:32:20Z
+203.129.25.106,203-129-25-106.cb8119.syd.static.aussiebb.net.,4764,Aussie Broadband,AU,,dnsmasq-2.78,Unexpected result for wikileaks.org: {[[51 159 197 136] [80 81 248 21]]},,0.00,2023-01-13T08:28:36Z,2022-01-10T17:32:25Z
+159.196.147.107,159-196-147-107.9fc493.syd.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Bathurst,,connection refused,,0.00,2022-04-22T13:35:25Z,2022-01-10T17:32:28Z
+61.245.157.192,61-245-157-192.3df59d.adl.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Adelaide,,,true,0.67,2022-02-01T14:07:54Z,2022-01-10T17:32:40Z
+180.150.58.136,180-150-58-136.b4963a.mel.static.aussiebb.net.,4764,Aussie Broadband,AU,Melbourne,unbound 1.9.4,,true,0.68,2022-01-13T18:09:09Z,2022-01-10T17:32:45Z
+159.196.111.217,sg1.zen.net.au.,4764,Aussie Broadband,AU,Sydney,,i/o timeout,,0.00,2023-03-05T07:13:50Z,2022-01-10T17:33:08Z
+180.150.60.208,180-150-60-208.b4963c.mel.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Melbourne,,i/o timeout,,0.00,2022-04-22T10:11:17Z,2022-01-10T17:33:10Z
+159.196.129.17,,4764,Aussie Broadband,AU,Sydney,,i/o timeout,,0.00,2023-03-05T22:59:05Z,2022-01-10T17:33:12Z
+167.179.185.74,167-179-185-74.a7b3b9.bne.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Brisbane,dnsmasq-2.82,,false,0.90,2022-02-22T07:12:53Z,2022-01-10T17:33:16Z
+202.90.240.66,202-90-240-66.ca5af0.adl.static.aussiebb.net.,4764,Aussie Broadband,AU,Adelaide,,i/o timeout,,0.00,2023-02-26T01:04:04Z,2022-01-10T17:33:19Z
+119.17.155.239,119-17-155-239.77119b.mel.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Traralgon,,i/o timeout,,0.26,2022-01-11T13:12:04Z,2022-01-10T17:33:21Z
+147.69.131.153,cpe-147-69-131-153.tdbp-r-031.bat.tas.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Cygnet,,i/o timeout,,0.00,2023-02-26T01:04:04Z,2022-01-12T06:15:15Z
+1.123.151.219,cpe-1-223-151-219.bpw7-r-032.way.wa.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2022-02-17T13:13:14Z,2022-01-12T06:15:55Z
+110.141.252.13,cpe-110-141-252-13.static.nsw.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Sydney,,connection refused,,0.00,2022-02-23T10:07:35Z,2022-01-12T06:16:26Z
+203.27.185.26,gws3250419.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,unbound 1.4.22,,false,0.98,2022-01-31T07:08:35Z,2022-01-12T06:16:49Z
+110.142.223.33,mail.kookaburrahomes.com.au.,1221,Telstra Corporation Ltd,AU,Adelaide,,connection refused,,0.00,2023-02-14T05:30:49Z,2022-01-12T06:17:42Z
+144.139.246.80,pum2304494.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.37,2022-01-20T13:07:23Z,2022-01-12T06:17:58Z
+60.231.15.169,,1221,Telstra Corporation Ltd,AU,Sippy Downs,,i/o timeout,,0.28,2022-01-22T13:09:27Z,2022-01-12T06:18:23Z
+58.171.110.249,,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-02-26T01:03:43Z,2022-01-12T06:18:29Z
+202.90.240.100,202-90-240-100.ca5af0.adl.static.aussiebb.net.,4764,Aussie Broadband,AU,Adelaide,,i/o timeout,,0.00,2023-03-07T13:47:54Z,2022-01-15T15:32:28Z
+61.245.140.18,61-245-140-18.3df58c.per.nbn.aussiebb.net.,4764,Aussie Broadband,AU,,,i/o timeout,,0.00,2023-02-27T23:48:26Z,2022-01-15T15:32:31Z
+203.129.17.20,203-129-17-20.cb8111.syd.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,,i/o timeout,,0.67,2022-01-21T18:08:36Z,2022-01-15T15:32:56Z
+120.88.120.137,120-88-120-137.785878.bne.static.aussiebb.net.,4764,Aussie Broadband,AU,Brisbane,,i/o timeout,,0.00,2022-04-22T08:06:52Z,2022-01-15T15:32:59Z
+202.90.241.218,202-90-241-218.ca5af1.adl.static.aussiebb.net.,4764,Aussie Broadband,AU,Adelaide,,i/o timeout,,0.20,2022-02-05T13:13:19Z,2022-01-15T15:33:01Z
+180.150.54.168,180-150-54-168.b49636.mel.static.aussiebb.net.,4764,Aussie Broadband,AU,Melbourne,,connection refused,,0.05,2022-01-21T13:05:42Z,2022-01-15T15:33:40Z
+159.196.49.25,159-196-49-25.9fc431.adl.static.aussiebb.net.,4764,Aussie Broadband,AU,Adelaide,,i/o timeout,,0.00,2023-02-28T23:46:06Z,2022-01-15T15:33:52Z
+202.90.244.253,202-90-244-253.ca5af4.per.static.aussiebb.net.,4764,Aussie Broadband,AU,Perth,,i/o timeout,,0.00,2022-04-22T10:11:10Z,2022-01-15T15:34:05Z
+180.150.124.153,180-150-124-153.b4967c.per.static.aussiebb.net.,4764,Aussie Broadband,AU,Perth,,,true,0.43,2022-01-22T11:08:22Z,2022-01-15T15:34:07Z
+159.196.235.67,159-196-235-67.9fc4eb.mel.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Melbourne,,i/o timeout,,0.03,2022-01-22T13:09:23Z,2022-01-15T15:34:33Z
+61.245.131.122,61-245-131-122.3df583.per.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Perth,dnsmasq-2.85,Unexpected result for wikileaks.org: {[[51 159 197 136] [80 81 248 21]]},,0.09,2023-01-07T07:06:03Z,2022-01-15T15:35:20Z
+119.17.141.183,119-17-141-183.77118d.mel.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Warrnambool,unbound 1.9.4,,true,0.53,2022-01-22T13:09:27Z,2022-01-15T15:35:35Z
+202.153.217.222,202-153-217-222.ca99d9.mel.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Ferntree Gully,unbound 1.9.4,,true,0.69,2022-01-17T13:09:09Z,2022-01-15T15:35:38Z
+159.196.229.11,159-196-229-11.9fc4e5.mel.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Melbourne,,,false,0.50,2022-04-22T10:11:03Z,2022-01-15T15:35:43Z
+180.150.65.5,180-150-65-5.b49641.syd.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,,i/o timeout,,0.00,2022-02-26T07:08:41Z,2022-01-15T15:35:55Z
+180.150.42.169,lotus.anhtuanvu.com.,4764,Aussie Broadband,AU,Sydney,,i/o timeout,,0.43,2022-01-20T13:08:38Z,2022-01-15T15:36:17Z
+159.196.81.205,159-196-81-205.9fc451.per.static.aussiebb.net.,4764,Aussie Broadband,AU,Perth,,i/o timeout,,0.00,2023-03-05T08:49:06Z,2022-01-15T15:36:20Z
+119.17.142.192,119-17-142-192.77118e.mel.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Ringwood,dnsmasq-2.62,,false,0.79,2022-01-22T13:09:27Z,2022-01-15T15:36:24Z
+180.150.97.73,180-150-97-73.b49661.syd.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Brisbane,,,false,0.79,2022-01-18T07:09:12Z,2022-01-15T15:37:02Z
+61.245.130.6,,4764,Aussie Broadband,AU,Perth,DNSServer,REFUSED for example.com,,0.00,2023-03-05T08:53:17Z,2022-01-15T15:37:07Z
+180.150.106.27,180-150-106-27.b4966a.bne.static.aussiebb.net.,4764,Aussie Broadband,AU,Brisbane,,i/o timeout,,0.55,2022-01-21T13:07:51Z,2022-01-15T15:37:11Z
+159.196.231.18,159-196-231-18.9fc4e7.mel.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Melbourne,,no route to host,,0.00,2022-12-24T17:05:39Z,2022-01-15T15:37:26Z
+159.196.49.199,159-196-49-199.9fc431.adl.static.aussiebb.net.,4764,Aussie Broadband,AU,Adelaide,,,false,0.74,2022-01-17T13:09:08Z,2022-01-15T15:37:28Z
+202.153.220.97,mail.accrivia.com.au.,4764,Aussie Broadband,AU,Warrnambool,unbound 1.9.4,,true,0.57,2022-02-09T08:06:30Z,2022-01-15T15:37:32Z
+159.196.183.245,,4764,Aussie Broadband,AU,Melbourne,unbound 1.9.4,,true,0.62,2022-01-20T13:07:39Z,2022-01-15T15:37:45Z
+167.179.165.235,167-179-165-235.a7b3a5.bne.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Brisbane,unbound 1.9.4,,true,0.59,2022-01-20T13:07:39Z,2022-01-15T15:37:49Z
+180.150.105.246,180-150-105-246.b49669.bne.static.aussiebb.net.,4764,Aussie Broadband,AU,Brisbane,unbound 1.9.4,,true,0.71,2022-01-21T13:07:49Z,2022-01-15T15:37:52Z
+119.18.36.102,119-18-36-102.771224.bne.static.aussiebb.net.,4764,Aussie Broadband,AU,Brisbane,,i/o timeout,,0.30,2022-02-22T07:12:50Z,2022-01-15T15:38:13Z
+119.17.133.193,119-17-133-193.771185.mel.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Brunswick West,unbound 1.9.4,,true,0.59,2022-01-30T18:09:19Z,2022-01-15T15:38:17Z
+119.17.152.12,119-17-152-12.771198.mel.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Traralgon,,,false,0.50,2022-04-22T10:11:08Z,2022-01-15T15:38:33Z
+180.150.24.40,mail.sqlpark.com.au.,4764,Aussie Broadband,AU,Sydney,,,false,1.00,2022-04-22T08:08:13Z,2022-01-15T15:38:55Z
+103.94.49.3,103-94-49-3.675e31.per.nbn.aussiebb.net.,4764,Aussie Broadband,AU,,,i/o timeout,,0.00,2023-03-05T08:53:40Z,2022-01-15T15:39:40Z
+120.147.17.119,cpe-120-147-17-119.vb11.vic.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Melbourne,unbound 1.4.22,,false,0.99,2022-03-02T07:09:22Z,2022-01-23T05:45:06Z
+101.190.46.133,cpe-101-190-46-133.nb16.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2022-04-22T10:11:43Z,2022-01-23T05:46:25Z
+58.171.233.149,,1221,Telstra Corporation Ltd,AU,Brisbane,Akamai Vantio CacheServe 7.6.1.0,,false,0.24,2022-02-08T08:06:43Z,2022-01-23T05:47:13Z
+203.58.251.82,,1221,Telstra Corporation Ltd,AU,Lucas Heights,,i/o timeout,,0.00,2023-03-05T07:13:35Z,2022-01-24T06:21:42Z
+101.185.131.244,cpe-101-185-131-244.wb06.wa.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Perth,,i/o timeout,,0.21,2022-02-05T13:12:55Z,2022-01-24T06:22:37Z
+203.21.196.20,,1221,Telstra Corporation Ltd,AU,,,,false,0.99,2022-02-09T08:07:02Z,2022-01-24T06:22:52Z
+101.190.153.187,cpe-101-190-153-187.nb15.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,,false,0.81,2022-01-28T10:09:35Z,2022-01-24T06:24:07Z
+203.54.189.178,dow3623762.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Adelaide,dnsmasq-2.78,,false,1.00,2022-01-25T12:13:10Z,2022-01-24T06:24:48Z
+120.144.182.80,cpe-120-144-182-80.bpjl-r-035.lon.vic.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Romsey,,i/o timeout,,0.01,2022-01-31T07:08:41Z,2022-01-24T06:24:58Z
+203.45.40.197,belcar.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Prahran,,i/o timeout,,0.73,2022-01-24T15:13:33Z,2022-01-24T06:25:02Z
+203.54.243.18,dow3634959.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Lower Chittering,dnsmasq-2.78,,false,0.97,2022-01-25T07:09:24Z,2022-01-24T06:25:07Z
+121.216.193.166,cpe-121-216-193-166.bpxt-r-033.ken.nsw.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.02,2022-02-09T08:06:27Z,2022-01-24T06:25:37Z
+120.150.212.254,,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-01-13T08:29:08Z,2022-01-24T06:27:18Z
+120.151.74.220,,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.04,2022-02-17T13:12:41Z,2022-01-24T06:28:19Z
+144.139.202.146,,1221,Telstra Corporation Ltd,AU,Adelaide,,i/o timeout,,0.00,2022-04-22T08:07:52Z,2022-01-24T06:28:33Z
+110.142.79.196,auscob.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Hampton,,i/o timeout,,0.00,2022-04-22T10:11:31Z,2022-01-24T06:28:49Z
+101.180.21.79,cpe-101-180-21-79.nb10.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2022-12-24T13:07:19Z,2022-01-24T06:29:10Z
+1.158.203.89,cpe-1-158-203-89.sb05.sa.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Adelaide,,i/o timeout,,0.00,2023-02-26T01:03:44Z,2022-01-24T06:29:26Z
+110.143.78.204,,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.00,2022-04-26T07:03:13Z,2022-01-24T06:29:48Z
+137.147.81.70,cpe-137-147-81-70.bpjl-r-037.lon.vic.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Point Cook,,i/o timeout,,0.08,2022-02-01T14:07:58Z,2022-01-24T10:58:09Z
+203.38.196.37,chicken.staff.aus-int.com.au.,1221,Telstra Corporation Ltd,AU,,,i/o timeout,,0.00,2022-04-22T08:06:35Z,2022-01-24T10:59:09Z
+203.58.242.59,,1221,Telstra Corporation Ltd,AU,Mildura,,,false,1.00,2022-02-09T08:06:30Z,2022-01-25T15:37:16Z
+120.151.104.91,,1221,Telstra Corporation Ltd,AU,Adelaide,UNKNOWN,,true,1.00,2022-04-22T10:11:38Z,2022-01-25T15:37:38Z
+110.145.182.154,gra2782165.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Melbourne,unbound 1.4.22,,false,1.00,2022-04-22T10:11:31Z,2022-01-26T16:10:24Z
+139.130.2.22,cen3563285.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Adelaide,unbound 1.4.22,,false,0.98,2022-02-08T08:06:28Z,2022-02-03T08:04:26Z
+203.2.193.68,cache351.ns.uu.net.,703,UUNET,AU,,,,false,1.00,2022-02-23T10:07:26Z,2022-02-05T02:05:28Z
+202.142.135.38,202-142-135-38.ca8e87.mel.static.aussiebb.net.,4764,Aussie Broadband,AU,Brunswick,,,false,0.90,2022-02-09T08:07:03Z,2022-02-05T16:47:07Z
+167.179.146.98,167-179-146-98.a7b392.syd.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,,connection refused,,0.24,2022-02-17T07:08:44Z,2022-02-05T16:47:30Z
+61.245.151.188,61-245-151-188.3df597.adl.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Adelaide,,i/o timeout,,0.00,2022-04-22T10:11:26Z,2022-02-05T16:47:35Z
+121.221.91.54,cpe-121-221-91-54.bp1w-r-963.wel.wa.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Perth,,i/o timeout,,0.06,2022-04-13T10:01:40Z,2022-04-07T04:34:14Z
+110.147.215.58,cpe-110-147-215-58.vb06.vic.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Hobart,,i/o timeout,,0.10,2022-04-11T13:03:49Z,2022-04-07T04:39:41Z
+203.45.158.191,,1221,Telstra Corporation Ltd,AU,Hahndorf,,i/o timeout,,0.22,2022-04-17T07:04:10Z,2022-04-07T04:41:03Z
+120.151.244.210,the1085239.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.00,2022-12-29T01:05:42Z,2022-04-07T04:41:09Z
+110.148.190.34,cpe-110-148-190-34.bpjl-r-038.lon.vic.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Melbourne,,,false,0.57,2022-04-13T10:01:48Z,2022-04-07T04:41:44Z
+110.141.242.102,cpe-110-141-242-102.static.nsw.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.48,2022-04-11T13:03:54Z,2022-04-07T04:41:57Z
+203.48.140.4,ns0.clarehollandhouse.com.au.,1221,Telstra Corporation Ltd,AU,Canberra,,SERVFAIL for example.com,,0.00,2023-03-08T04:46:14Z,2022-04-07T04:42:02Z
+101.175.53.136,cpe-101-175-53-136.bpxt-r-037.ken.nsw.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.07,2022-04-13T10:01:50Z,2022-04-07T04:42:24Z
+203.58.251.85,,1221,Telstra Corporation Ltd,AU,Lucas Heights,,i/o timeout,,0.00,2023-03-04T00:54:06Z,2022-04-07T04:43:24Z
+101.175.212.75,cpe-101-175-212-75.bpxt-r-038.ken.nsw.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Campbelltown,,i/o timeout,,0.00,2022-12-06T21:56:53Z,2022-04-07T04:44:31Z
+110.145.199.242,sta2833835.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Melbourne,unbound 1.4.22,,false,0.95,2022-04-19T08:14:45Z,2022-04-07T04:44:40Z
+110.145.52.188,,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.48,2022-04-22T08:07:01Z,2022-04-07T04:45:13Z
+203.27.191.18,dow3621304.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-02-25T20:47:29Z,2022-04-07T04:45:34Z
+139.130.211.101,mar1873170.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.00,2023-02-20T09:52:26Z,2022-04-07T04:47:24Z
+1.0.0.19,,13335,CLOUDFLARENET,AU,Melbourne,,,true,1.00,2022-12-06T21:56:57Z,2022-04-13T06:08:47Z
+110.142.228.221,pacifi605.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.00,2023-03-05T08:53:30Z,2022-04-15T19:00:52Z
+101.103.131.224,cpe-101-103-131-224.bpw7-r-031.way.sa.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Mount Barker,,i/o timeout,,0.02,2022-04-19T07:03:00Z,2022-04-15T19:01:08Z
+144.139.2.199,,1221,Telstra Corporation Ltd,AU,Sydney,unbound 1.4.22,,false,0.97,2022-04-19T07:03:13Z,2022-04-16T07:55:32Z
+203.54.191.82,dep3274209.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Adelaide,,i/o timeout,,0.00,2023-02-26T01:01:03Z,2022-04-16T07:55:46Z
+120.158.82.223,,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-02-25T20:59:30Z,2022-04-16T13:42:53Z
+202.153.210.109,202-153-210-109.ca99d2.syd.static.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,Microsoft DNS 6.1.7601 (1DB15F75),Unexpected result for rotten.com: {[[146 112 61 106]]},,0.77,2022-04-19T07:03:34Z,2022-04-16T22:06:33Z
+202.90.246.155,202-90-246-155.ca5af6.per.static.aussiebb.net.,4764,Aussie Broadband,AU,Perth,,i/o timeout,,0.35,2022-04-19T13:09:46Z,2022-04-16T22:06:35Z
+159.196.149.106,159-196-149-106.9fc495.syd.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,,i/o timeout,,0.00,2022-12-28T04:05:44Z,2022-04-16T22:06:39Z
+180.150.13.244,180-150-13-244.b4960d.syd.static.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,,i/o timeout,,0.27,2022-04-19T07:03:22Z,2022-04-16T22:06:42Z
+120.150.30.129,,1221,Telstra Corporation Ltd,AU,Adelaide,,i/o timeout,,0.00,2023-03-05T22:59:07Z,2022-04-16T23:02:02Z
+120.155.89.89,cpe-120-155-89-89.nb05.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.13,2022-04-22T08:07:23Z,2022-04-17T06:40:48Z
+120.150.190.124,com1249272.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-01-13T10:33:16Z,2022-04-17T06:40:53Z
+103.100.31.73,customer.node1.com.au.,137549,NODE1 Pty Ltd,AU,Perth,,i/o timeout,,0.37,2022-04-19T13:09:47Z,2022-04-18T13:19:04Z
+203.46.222.105,,1221,Telstra Corporation Ltd,AU,Orange,,i/o timeout,,0.00,2023-02-25T20:58:59Z,2022-04-19T06:59:09Z
+144.139.244.133,lan3451544.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Cairns,,i/o timeout,,0.07,2022-04-22T08:07:53Z,2022-04-19T06:59:38Z
+1.1.1.2,,13335,CLOUDFLARENET,AU,,,,true,1.00,2022-12-06T21:56:28Z,2022-04-25T22:32:48Z
+110.145.154.62,bmi-bgi007.cpe.netvault.net.au.,1221,Telstra Corporation Ltd,AU,Melbourne,dnsmasq-2.85,,false,1.00,2022-12-06T21:56:31Z,2022-04-25T22:33:22Z
+139.134.2.190,,1221,Telstra Corporation Ltd,AU,,,connection refused,,0.00,2023-02-25T20:47:19Z,2022-04-25T22:33:46Z
+159.196.131.128,,4764,Aussie Broadband,AU,Sydney,,,true,0.75,2022-09-23T13:33:20Z,2022-04-25T22:34:18Z
+180.150.31.107,180-150-31-107.b4961f.syd.static.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,,,false,1.00,2023-02-25T20:59:11Z,2022-04-25T22:34:50Z
+203.38.225.3,,1221,Telstra Corporation Ltd,AU,Melbourne,unbound 1.4.22,,false,0.76,2023-03-02T22:46:33Z,2022-04-25T22:36:19Z
+203.2.193.67,cache350.ns.uu.net.,703,UUNET,AU,,,,true,1.00,2022-08-26T07:25:35Z,2022-08-20T17:53:47Z
+27.111.83.60,server-1o-r1.ipv4.hkg02.ds.network.,38719,Dreamscape Networks Limited,AU,,,i/o timeout,,0.84,2022-09-27T13:30:23Z,2022-08-24T08:29:12Z
+27.111.83.70,server-1y-r1.ipv4.hkg02.ds.network.,38719,Dreamscape Networks Limited,AU,,,,false,1.00,2022-08-25T10:25:04Z,2022-08-24T08:29:22Z
+1.120.154.125,cpe-1-120-154-125.4cbp-r-037.cha.qld.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Hobart,,i/o timeout,,0.00,2022-12-06T23:08:11Z,2022-08-27T06:40:35Z
+1.122.56.165,cpe-1-122-56-165.bpe6-r-961.pie.wa.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Lower Chittering,,i/o timeout,,0.67,2022-08-27T13:31:38Z,2022-08-27T06:52:25Z
+1.10.10.11,family.dns.nic.in.,148000,ASN used for Public DNS Service of India,AU,Melbourne,dns.nic.in - ver k,,true,1.00,2022-09-01T05:28:57Z,2022-09-01T05:28:57Z
+1.10.10.10,dns.nic.in.,148000,ASN used for Public DNS Service of India,AU,Melbourne,dns.nic.in - ver k,,true,1.00,2022-09-01T05:28:57Z,2022-09-01T05:28:57Z
+1.158.55.215,cpe-1-158-55-215.nb14.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,,false,0.73,2022-09-03T00:27:23Z,2022-09-02T01:03:29Z
+1.159.199.36,cpe-1-159-199-36.wb05.wa.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Perth,,i/o timeout,,0.00,2023-02-08T23:40:30Z,2022-09-02T01:16:09Z
+3.25.57.213,ec2-3-25-57-213.ap-southeast-2.compute.amazonaws.com.,16509,AMAZON-02,AU,Sydney,,,false,1.00,2022-09-14T12:38:09Z,2022-09-04T08:28:58Z
+3.25.187.108,ec2-3-25-187-108.ap-southeast-2.compute.amazonaws.com.,16509,AMAZON-02,AU,Sydney,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.5,,true,1.00,2022-09-04T08:33:52Z,2022-09-04T08:33:52Z
+3.104.167.41,ec2-3-104-167-41.ap-southeast-2.compute.amazonaws.com.,16509,AMAZON-02,AU,Sydney,,,false,1.00,2022-09-05T05:35:45Z,2022-09-04T21:02:16Z
+3.105.53.51,ec2-3-105-53-51.ap-southeast-2.compute.amazonaws.com.,16509,AMAZON-02,AU,Sydney,,,false,1.00,2022-09-05T05:35:47Z,2022-09-04T21:07:57Z
+115.70.163.143,143.163.70.115.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Melbourne,,,false,1.00,2023-02-22T05:45:30Z,2022-09-28T18:01:25Z
+124.254.119.134,ip-134.119.254.124.VOCUS.net.au.,4826,Vocus Connect International Backbone,AU,Perth,,i/o timeout,,0.38,2022-10-02T17:31:16Z,2022-09-29T05:43:46Z
+101.168.186.143,,1221,Telstra Corporation Ltd,AU,,dnsmasq-2.79,,false,1.00,2023-02-15T21:19:00Z,2022-09-29T16:53:58Z
+210.215.169.30,,9797,Nexon Asia Pacific PL,AU,Sydney,,,true,1.00,2023-02-08T23:47:33Z,2022-09-29T17:23:41Z
+101.190.63.80,cpe-101-190-63-80.nb16.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,dnsmasq-2.52,,false,1.00,2022-09-30T08:23:59Z,2022-09-30T08:23:59Z
+101.168.180.20,,1221,Telstra Corporation Ltd,AU,,,i/o timeout,,0.90,2022-10-28T09:32:25Z,2022-09-30T09:25:03Z
+218.215.227.137,137.227.215.218.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Melbourne,,i/o timeout,,0.80,2022-10-01T23:36:04Z,2022-09-30T19:41:37Z
+159.196.79.128,159-196-79-128.mel.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Melbourne,,i/o timeout,,0.00,2023-02-08T23:48:10Z,2022-10-01T14:18:54Z
+14.200.89.18,14-200-89-18.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,i/o timeout,,0.00,2023-02-08T23:48:11Z,2022-10-02T11:25:24Z
+167.179.160.238,167-179-160-238.a7b3a0.bne.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Brisbane,,,true,1.00,2022-10-03T10:42:26Z,2022-10-03T10:42:26Z
+110.140.4.249,cpe-110-140-4-249.vb04.vic.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.66,2022-10-07T08:48:52Z,2022-10-03T20:58:00Z
+60.240.176.183,60-240-176-183.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,UNKNOWN,,true,1.00,2022-12-15T10:12:10Z,2022-10-04T13:33:59Z
+111.220.59.183,111-220-59-183.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,,,false,1.00,2022-10-04T15:05:04Z,2022-10-04T15:05:04Z
+101.168.179.180,,1221,Telstra Corporation Ltd,AU,,dnsmasq-2.79,,false,1.00,2023-02-08T23:50:54Z,2022-10-11T16:42:37Z
+122.199.54.40,122-199-54-40.ip4.superloop.com.,38195,Superloop,AU,Perth,,,false,1.00,2022-10-20T15:30:54Z,2022-10-12T12:48:56Z
+161.8.196.12,,58507,Wireline,AU,Sydney,,i/o timeout,,0.01,2022-10-17T14:49:32Z,2022-10-12T12:51:13Z
+139.99.232.22,ip22.ip-139-99-232.net.,16276,OVH SAS,AU,Sydney,dnsmasq-pi-hole-2.85,,false,1.00,2023-02-08T23:51:36Z,2022-10-12T14:33:07Z
+180.181.71.202,180-181-71-202.cpe.skymesh.net.au.,7477,SkyMesh Pty Ltd,AU,,PowerDNS Recursor 4.5.5 (built Mar 22 2022 14:49:05 by root@e0b2e9650129),,false,1.00,2022-10-12T22:36:29Z,2022-10-12T19:52:23Z
+101.163.196.49,,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-02-17T07:54:08Z,2022-10-13T01:12:53Z
+203.206.23.33,203-206-23-33.dyn.iinet.net.au.,7545,TPG Telecom Limited,AU,Canberra,,i/o timeout,,0.00,2023-02-17T07:00:39Z,2022-10-14T01:11:42Z
+110.175.240.93,110-175-240-93.tpgi.com.au.,7545,TPG Telecom Limited,AU,Perth,dnsmasq-,,false,1.00,2022-10-15T18:45:56Z,2022-10-15T18:45:56Z
+203.42.184.2,,1221,Telstra Corporation Ltd,AU,,9.11.4-P2-RedHat-9.11.4-9.P2.el7,,false,0.99,2022-10-19T06:33:38Z,2022-10-15T23:44:12Z
+103.42.111.250,unassigned.,45638,SYNERGY WHOLESALE PTY LTD,AU,,dnsmasq-pi-hole-2.87test8,,false,1.00,2022-10-16T17:37:00Z,2022-10-16T13:07:07Z
+139.99.133.27,igc.fmbm.com.au.,16276,OVH SAS,AU,Sydney,,,false,1.00,2022-10-16T15:36:22Z,2022-10-16T15:28:06Z
+103.70.234.83,,134149,RED PIRANHA LIMITED,AU,,dnsmasq-2.85,,false,1.00,2022-10-17T01:36:12Z,2022-10-16T23:34:49Z
+101.168.176.104,,1221,Telstra Corporation Ltd,AU,,dnsmasq-2.79,,false,1.00,2022-10-19T22:32:45Z,2022-10-17T23:18:02Z
+203.90.31.124,xbox.cherubz.net.,55581,BINARY NETWORKS PTY LTD,AU,,,i/o timeout,,0.05,2022-11-14T15:36:02Z,2022-10-17T23:19:53Z
+220.235.52.189,dip-220-235-52-189.wa.westnet.com.au.,7545,TPG Telecom Limited,AU,Perth,dnsmasq-2.40,,true,1.00,2022-10-18T22:01:38Z,2022-10-18T22:01:38Z
+220.244.153.216,220-244-153-216.tpgi.com.au.,7545,TPG Telecom Limited,AU,Brisbane,,i/o timeout,,0.00,2023-02-08T23:54:56Z,2022-10-19T12:56:23Z
+211.27.129.39,39.129.27.211.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Brisbane,,,false,1.00,2022-10-19T22:35:02Z,2022-10-19T22:01:24Z
+203.222.94.151,94-151.dsl.connexus.net.au.,38333,Symbio Networks,AU,Melbourne,,i/o timeout,,0.00,2023-02-08T23:58:23Z,2022-10-20T06:36:29Z
+58.171.155.235,,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-02-08T23:57:44Z,2022-10-21T06:56:32Z
+120.23.150.83,,133612,Vodafone Australia Pty Ltd,AU,Brisbane,,i/o timeout,,0.00,2022-12-15T10:12:06Z,2022-10-21T13:02:22Z
+203.45.94.194,,1221,Telstra Corporation Ltd,AU,Sydney,,,false,0.99,2022-10-28T22:35:11Z,2022-10-22T07:13:22Z
+203.193.194.5,,38611,Bendigo Community Telco,AU,Bendigo,dnsmasq-2.52,,false,1.00,2022-10-22T11:56:45Z,2022-10-22T11:56:45Z
+103.94.51.100,103-94-51-100.675e33.per.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Perth,,,true,1.00,2022-10-23T23:36:53Z,2022-10-23T11:12:30Z
+114.129.131.108,,7477,SkyMesh Pty Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-02-08T23:58:07Z,2022-10-23T15:05:32Z
+220.235.121.195,220-235-121-195.dyn.iinet.net.au.,7545,TPG Telecom Limited,AU,Perth,,,false,1.00,2022-10-23T23:41:37Z,2022-10-23T23:41:37Z
+116.250.217.39,116-250-217-39.pool.activ8me.net.au.,24033,Australian Private Networks Pty Ltd,AU,,,i/o timeout,,0.00,2023-02-08T23:58:40Z,2022-10-24T23:14:39Z
+101.168.177.144,,1221,Telstra Corporation Ltd,AU,,dnsmasq-2.79,,false,1.00,2022-11-11T02:56:35Z,2022-10-25T15:25:59Z
+150.101.215.83,eth340.vic.adsl.internode.on.net.,4739,Internode Pty Ltd,AU,Melbourne,Internode-DNS,,false,1.00,2022-10-25T23:33:08Z,2022-10-25T23:33:08Z
+14.203.242.170,14-203-242-170.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,,true,0.86,2022-11-11T02:56:39Z,2022-10-26T02:55:11Z
+143.238.82.16,cpe-143-238-82-16.nb07.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.13,2022-10-28T22:35:08Z,2022-10-26T14:12:47Z
+124.148.64.50,124-148-64-50.tpgi.com.au.,7545,TPG Telecom Limited,AU,Perth,,i/o timeout,,0.00,2023-04-20T15:47:49Z,2022-10-26T20:24:40Z
+123.136.55.202,202-55-136-123.ip.esc.net.au.,7600,Escape.net,AU,Adelaide,,,true,0.89,2022-11-11T05:52:43Z,2022-10-26T22:29:10Z
+101.168.177.49,,1221,Telstra Corporation Ltd,AU,,dnsmasq-2.79,,false,1.00,2022-10-27T05:21:03Z,2022-10-27T05:21:03Z
+139.99.176.64,threadmarkit.com.,16276,OVH SAS,AU,Sydney,,i/o timeout,,0.00,2023-02-09T00:01:25Z,2022-10-28T04:24:17Z
+103.43.253.117,cpe-103-43-253-117.nexusone.com.au.,64006,Nexus One Pty Ltd,AU,Sydney,,,false,1.00,2022-10-28T19:38:47Z,2022-10-28T19:31:02Z
+144.134.2.32,cpe-144-134-2-32.qb05.qld.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Brisbane,dnsmasq-2.82,,false,0.99,2022-11-11T00:53:04Z,2022-10-29T03:03:05Z
+121.45.148.127,ppp121-45-148-127.bri-pow-que-bras32.tpg.internode.on.net.,7545,TPG Telecom Limited,AU,Brisbane,unbound 1.5.8,,true,1.00,2022-10-29T13:20:07Z,2022-10-29T13:20:07Z
+202.53.48.226,202-53-48-226.tpgi.com.au.,7545,TPG Telecom Limited,AU,Brisbane,,i/o timeout,,0.00,2023-02-09T00:04:15Z,2022-10-29T14:33:38Z
+122.199.32.101,122-199-32-101.ip4.superloop.com.,38195,Superloop,AU,Sydney,dnsmasq-,,false,1.00,2023-02-09T00:07:57Z,2022-10-30T22:14:28Z
+203.220.13.46,203-220-13-46.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,,true,0.59,2022-12-20T13:18:33Z,2022-10-31T11:40:29Z
+61.29.116.102,dsl-61-29-116-102.request.com.au.,2764,AAPT Limited,AU,Melbourne,,,true,1.00,2022-11-11T00:57:26Z,2022-10-31T18:18:46Z
+58.6.137.25,58-6-137-25.dyn.iinet.net.au.,7545,TPG Telecom Limited,AU,Brisbane,,i/o timeout,,0.67,2022-11-11T00:58:32Z,2022-11-04T03:50:17Z
+116.251.31.224,116-251-31-224.pool.activ8me.net.au.,24033,Australian Private Networks Pty Ltd,AU,,9.11.4-P2-RedHat-9.11.4-9.P2.el7,,false,0.52,2022-12-20T13:11:09Z,2022-11-04T09:41:47Z
+110.174.63.194,110-174-63-194.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,,true,0.55,2022-11-12T19:38:42Z,2022-11-04T13:32:08Z
+103.135.85.224,vocphone.com.,138637,VOCPHONE PTY LTD,AU,Sydney,dnsmasq-,,false,0.99,2022-11-29T23:32:33Z,2022-11-04T15:48:05Z
+120.151.115.121,,1221,Telstra Corporation Ltd,AU,Brisbane,,,false,1.00,2023-02-09T00:08:40Z,2022-11-05T07:28:33Z
+202.171.163.43,202-171-163-43.ip4.superloop.com.,38195,Superloop,AU,Melbourne,,,true,0.96,2022-11-11T00:59:28Z,2022-11-05T09:41:04Z
+101.0.95.212,212.95.0.101.static.smartservers.com.au.,55803,Hostopia Australia Web Pty Ltd,AU,,dnsmasq-2.79,,false,1.00,2022-11-12T20:38:18Z,2022-11-06T07:43:48Z
+49.255.4.22,static-22.4.255.49.in-addr.VOCUS.net.au.,4826,Vocus Connect International Backbone,AU,Sydney,,,true,1.00,2023-02-09T00:12:00Z,2022-11-06T11:52:45Z
+159.196.181.102,,4764,Aussie Broadband,AU,Melbourne,,i/o timeout,,0.80,2022-11-11T01:00:30Z,2022-11-06T12:55:57Z
+180.148.178.177,mail.tyresandmore.com.au.178.148.180.in-addr.arpa.,45269,Internet Service Provider,AU,Melbourne,,connection refused,,0.00,2023-02-09T00:12:06Z,2022-11-06T22:33:51Z
+193.116.219.244,193-116-219-244.tpgi.com.au.,7545,TPG Telecom Limited,AU,Brisbane,dnsmasq-,,false,0.93,2022-11-11T01:00:31Z,2022-11-07T00:13:55Z
+220.235.88.250,220-235-88-250.dyn.iinet.net.au.,7545,TPG Telecom Limited,AU,Perth,,i/o timeout,,0.00,2023-02-09T00:11:23Z,2022-11-07T03:36:49Z
+110.174.34.50,110-174-34-50.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Brisbane,,,true,0.84,2022-11-11T01:01:01Z,2022-11-07T17:05:47Z
+58.164.137.224,cpe-58-164-137-224.bpw3-r-033.woo.qld.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.40,2022-11-11T01:01:09Z,2022-11-07T17:59:33Z
+203.222.81.78,81-78.dsl.connexus.net.au.,38333,Symbio Networks,AU,Melbourne,PowerDNS Recursor 3.6.0 (jenkins@autotest.powerdns.com built 20140620134745 mockbuild@),,false,0.64,2023-02-14T05:28:50Z,2022-11-08T03:57:20Z
+49.255.44.62,exchange.adelaidefestival.com.au.,4826,Vocus Connect International Backbone,AU,Fifteen Mile Yard,dnsmasq-2.83,,false,1.00,2022-11-11T05:59:58Z,2022-11-08T05:03:45Z
+203.196.46.53,203-196-46-53.static.dsl.net.au.,38333,Symbio Networks,AU,Lake Albert,,,false,0.61,2022-11-11T01:02:03Z,2022-11-09T03:36:47Z
+203.38.229.233,,1221,Telstra Corporation Ltd,AU,Melbourne,unbound 1.4.22,,false,1.00,2022-11-11T01:02:40Z,2022-11-10T00:24:54Z
+117.53.135.2,117-53-135-2.swoopbb.au.,17551,DCS Internet,AU,Warragul,,,false,0.98,2022-11-11T18:37:44Z,2022-11-10T07:01:22Z
+124.186.182.98,,1221,Telstra Corporation Ltd,AU,Brisbane,dnsmasq-,,false,1.00,2022-11-11T04:56:05Z,2022-11-10T08:33:25Z
+125.168.41.223,223.41.168.125.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,DNS,,false,1.00,2023-02-09T00:12:06Z,2022-11-10T16:05:24Z
+27.33.60.66,27-33-60-66.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,,false,1.00,2022-11-11T01:03:10Z,2022-11-10T17:53:07Z
+203.14.28.11,,63850,QRHUB PTY LTD TA Entrust ICT,AU,,9.9.9-P4,,false,1.00,2022-11-14T14:34:10Z,2022-11-10T21:36:07Z
+203.214.137.42,203-214-137-42.perm.iinet.net.au.,18371,Neighbourhood Cable,AU,Geelong,,,false,1.00,2022-11-14T14:34:11Z,2022-11-11T05:30:46Z
+203.59.131.91,hps.iinet.net.au.,4739,Internode Pty Ltd,AU,Perth,,i/o timeout,,0.05,2023-02-19T13:00:31Z,2022-11-11T05:30:47Z
+110.175.221.110,110-175-221-110-static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Melbourne,,i/o timeout,,0.00,2023-02-09T13:29:17Z,2022-11-11T13:02:43Z
+125.63.175.22,,7474,SingTel Optus Pty Ltd,AU,Perth,dnsmasq-2.85,,false,1.00,2023-02-09T13:37:54Z,2022-11-12T03:13:34Z
+203.149.70.20,203-149-70-20.nexon.com.au.,17766,Nexon Asia Pacific Pty Ltd,AU,Gold Coast,dnsmasq-2.82,,false,1.00,2022-11-28T21:33:46Z,2022-11-12T22:46:31Z
+103.140.202.197,,139284,OCTANE NETWORKS PTY LTD,AU,Brisbane,,,false,1.00,2023-02-09T00:22:06Z,2022-11-13T16:57:47Z
+125.63.31.254,125-63-31-254.ip4.superloop.com.,38195,Superloop,AU,Sydney,,i/o timeout,,0.97,2022-12-06T21:59:56Z,2022-11-14T20:19:32Z
+58.96.63.254,254.63.96.58.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Brisbane,,,false,1.00,2022-12-06T22:00:23Z,2022-11-15T08:36:16Z
+103.42.141.62,62.141.42.103.buroserv.net.au.,38835,Buroserv Australia Pty Ltd,AU,Melbourne,PowerDNS Recursor 4.2.1,,false,0.87,2022-12-06T22:00:39Z,2022-11-15T23:21:30Z
+124.150.65.161,124-150-65-161.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,i/o timeout,,0.00,2023-02-14T11:01:15Z,2022-11-16T05:12:16Z
+47.74.90.56,,45102,"Alibaba US Technology Co., Ltd.",AU,Sydney,,,false,1.00,2022-12-06T22:01:07Z,2022-11-16T12:51:03Z
+101.168.179.10,,1221,Telstra Corporation Ltd,AU,,dnsmasq-2.79,,false,0.94,2022-12-06T22:02:47Z,2022-11-18T08:30:43Z
+202.130.208.249,202-130-208-249.ip4.superloop.com.,38195,Superloop,AU,Sydney,dnsmasq-,,false,0.99,2022-12-06T22:03:37Z,2022-11-19T02:19:43Z
+58.84.134.117,58-84-134-117.r.fuzenet.com.au.,45763,Fuzenet Pty Ltd,AU,Perth,,i/o timeout,,0.90,2022-12-06T22:03:37Z,2022-11-19T04:31:19Z
+203.213.245.228,203-213-245-228.pool.activ8me.net.au.,24033,Australian Private Networks Pty Ltd,AU,,9.8.2rc1-RedHat-9.8.2-0.68.rc1.el6_10.3,,false,1.00,2023-02-09T00:29:10Z,2022-11-20T13:28:41Z
+101.168.179.176,,1221,Telstra Corporation Ltd,AU,,dnsmasq-2.79,,false,1.00,2023-02-09T00:28:32Z,2022-11-20T23:28:13Z
+119.18.39.47,119-18-39-47.771227.bne.static.aussiebb.net.,4764,Aussie Broadband,AU,Brisbane,dnsmasq-,,false,1.00,2022-12-06T23:48:14Z,2022-11-22T06:33:17Z
+101.168.178.151,,1221,Telstra Corporation Ltd,AU,,dnsmasq-2.79,,false,1.00,2022-12-06T23:48:17Z,2022-11-22T07:31:27Z
+14.201.91.170,14-201-91-170.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Melbourne,,,false,1.00,2023-02-27T23:48:42Z,2022-11-22T07:36:30Z
+110.143.165.68,,1221,Telstra Corporation Ltd,AU,Melbourne,,,false,1.00,2023-02-17T12:04:35Z,2022-11-22T23:31:31Z
+139.99.254.4,ip4.ip-139-99-254.net.,16276,OVH SAS,AU,Sydney,dnsmasq-2.76,,false,0.60,2022-12-06T23:48:54Z,2022-11-22T23:39:23Z
+61.69.106.78,61-69-106-78.bri.static-ipl.aapt.com.au.,2764,AAPT Limited,AU,Brisbane,,,true,0.17,2023-02-09T13:30:24Z,2022-11-24T17:06:20Z
+110.175.225.170,110-175-225-170.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,,true,0.84,2022-12-20T08:08:46Z,2022-11-25T08:31:43Z
+115.69.1.138,115-69-1-138-cpe.spintel.net.au.,18390,Spintel Pty Ltd,AU,Brisbane,,i/o timeout,,0.33,2022-12-06T23:52:41Z,2022-11-27T01:14:05Z
+123.243.55.86,123-243-55-86.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Saint Albans,unbound 1.4.22,,false,1.00,2022-12-06T23:52:47Z,2022-11-27T05:08:38Z
+115.70.166.141,141.166.70.115.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Melbourne,dnsmasq-,,false,1.00,2022-12-06T23:53:08Z,2022-11-27T16:08:27Z
+101.168.177.252,,1221,Telstra Corporation Ltd,AU,,dnsmasq-2.79,,false,0.92,2022-12-06T23:53:56Z,2022-11-29T01:39:32Z
+60.241.40.114,60-241-40-114.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,,false,1.00,2022-12-06T23:54:53Z,2022-11-30T05:43:45Z
+203.123.107.46,203-123-107-46.ip4.superloop.com.,38195,Superloop,AU,Adelaide,,i/o timeout,,0.95,2022-12-06T23:55:22Z,2022-11-30T16:02:51Z
+101.178.251.129,cpe-101-178-251-129.static.qld.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Cairns,,i/o timeout,,0.50,2023-02-09T14:00:13Z,2022-11-30T22:08:11Z
+14.202.159.123,14-202-159-123.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Melbourne,,Unexpected result for wikileaks.org: {[[80 81 248 21] [51 159 197 136]]},,0.00,2023-01-13T10:33:04Z,2022-11-30T22:14:11Z
+159.196.183.108,,4764,Aussie Broadband,AU,Melbourne,unbound 1.4.22,,false,1.00,2023-02-18T09:57:41Z,2022-12-01T06:22:46Z
+139.130.124.242,pro3927282.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Brisbane,,,false,0.93,2023-03-01T23:54:49Z,2022-12-01T20:25:17Z
+61.14.99.231,,9738,Brennan IT,AU,Sydney,,i/o timeout,,0.00,2023-02-09T00:29:29Z,2022-12-02T03:32:46Z
+111.220.130.94,94.130.220.111.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Brisbane,dnsmasq-2.79,,false,1.00,2023-02-09T00:29:41Z,2022-12-03T08:59:58Z
+103.100.80.161,,0,,AU,Melbourne,,i/o timeout,,0.00,2023-02-09T00:31:32Z,2022-12-06T05:27:37Z
+203.214.63.190,203-214-63-190.tpgi.com.au.,7545,TPG Telecom Limited,AU,Melbourne,,i/o timeout,,0.00,2023-02-09T00:31:54Z,2022-12-07T01:32:54Z
+203.63.121.226,,2764,AAPT Limited,AU,Brisbane,,,true,0.96,2023-02-19T19:53:41Z,2022-12-07T22:32:22Z
+27.32.78.88,27-32-78-88.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Narangba,dnsmasq-2.83,,false,1.00,2023-02-15T15:51:22Z,2022-12-08T05:00:03Z
+203.206.209.120,203-206-209-120.perm.iinet.net.au.,4739,Internode Pty Ltd,AU,Bannockburn,dnsmasq-2.85,,false,1.00,2023-02-19T19:56:52Z,2022-12-09T04:26:51Z
+124.254.122.54,ip-54.122.254.124.VOCUS.net.au.,4826,Vocus Connect International Backbone,AU,Perth,dnsmasq-2.85,,false,0.98,2023-02-22T16:45:51Z,2022-12-09T20:39:49Z
+202.130.211.132,202-130-211-132.ip4.superloop.com.,38195,Superloop,AU,Melbourne,,i/o timeout,,0.00,2023-02-25T21:02:43Z,2022-12-11T07:38:56Z
+161.8.219.230,,58507,Wireline,AU,Sydney,,i/o timeout,,0.00,2023-02-19T12:02:05Z,2022-12-11T14:33:54Z
+139.130.202.20,sup1889706.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Gold Coast,unbound 1.4.22,SERVFAIL for rotten.com,,0.25,2023-02-15T15:53:22Z,2022-12-11T15:24:38Z
+203.217.87.147,203-217-87-147.tpgi.com.au.,7545,TPG Telecom Limited,AU,Adelaide,,i/o timeout,,0.00,2023-02-15T17:12:34Z,2022-12-13T04:02:25Z
+43.242.249.76,43-242-249-76.static.b2bwholesale.com.au.,134141,B2B Wholesale Pty Ltd,AU,Melbourne,,i/o timeout,,0.45,2023-02-15T17:12:41Z,2022-12-13T09:06:17Z
+118.209.109.161,ppp118-209-109-161.hba-tec-tas-bras31.tpg.internode.on.net.,7545,TPG Telecom Limited,AU,Hobart,,i/o timeout,,0.00,2023-02-26T03:50:34Z,2022-12-13T10:29:03Z
+157.211.80.183,cpe-183-80-211-157.matenbn.com.au.,58507,Wireline,AU,Perth,,i/o timeout,,0.00,2023-02-15T17:12:51Z,2022-12-13T13:27:01Z
+167.179.135.134,167-179-135-134.a7b387.mel.nbn.aussiebb.net.,4764,Aussie Broadband,AU,,,i/o timeout,,0.36,2023-02-16T16:05:29Z,2022-12-14T12:24:25Z
+220.235.68.179,220-235-68-179.dyn.iinet.net.au.,7545,TPG Telecom Limited,AU,Perth,,i/o timeout,,0.00,2023-02-20T08:55:52Z,2022-12-16T16:19:37Z
+103.108.228.127,,136557,Host Universal Pty Ltd,AU,Melbourne,,i/o timeout,,0.26,2023-02-17T05:15:54Z,2022-12-17T07:27:43Z
+115.70.225.190,190.225.70.115.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Sydney,,,true,0.97,2023-02-18T10:12:31Z,2022-12-19T09:57:43Z
+210.79.19.1,hagon.apcs.com.pg.,45411,APCS Australia,AU,Mackay,,,false,0.88,2023-02-18T10:12:40Z,2022-12-19T13:06:29Z
+124.254.123.210,ip-210.123.254.124.VOCUS.net.au.,4826,Vocus Connect International Backbone,AU,Perth,dnsmasq-2.85,,false,0.97,2023-02-18T10:12:41Z,2022-12-19T17:49:03Z
+203.147.94.71,,58434,Mobilizer Pty Ltd,AU,Sydney,,i/o timeout,,0.69,2023-02-18T10:12:57Z,2022-12-19T23:45:36Z
+61.69.178.42,61-69-178-42.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Adelaide,,i/o timeout,,0.00,2023-02-18T10:12:57Z,2022-12-20T01:00:34Z
+144.139.95.47,,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-02-20T05:59:29Z,2022-12-22T11:44:18Z
+168.138.100.112,,31898,ORACLE-BMC-31898,AU,Bungarribee,,,false,0.71,2023-02-19T06:07:35Z,2022-12-22T20:51:59Z
+125.63.175.158,,7474,SingTel Optus Pty Ltd,AU,Perth,dnsmasq-2.85,,false,1.00,2023-02-19T06:07:41Z,2022-12-23T04:58:49Z
+167.179.145.24,167-179-145-24.a7b391.syd.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,,i/o timeout,,0.00,2023-02-19T06:07:50Z,2022-12-23T07:01:06Z
+103.165.18.51,,142022,CRYSTAL WATERS FIBRE PTY LTD,AU,Conondale,,i/o timeout,,0.00,2023-02-19T06:07:50Z,2022-12-23T07:03:51Z
+203.4.173.141,mail.osmotion.com.au.,4739,Internode Pty Ltd,AU,Toowoomba,,,false,0.86,2023-02-19T06:07:58Z,2022-12-23T10:16:56Z
+159.196.137.103,,4764,Aussie Broadband,AU,Rockingham,dnsmasq-,,false,0.94,2023-02-19T06:54:04Z,2022-12-24T08:11:45Z
+27.32.25.166,27-32-25-166.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,,false,0.99,2023-02-19T06:54:32Z,2022-12-24T20:02:24Z
+103.241.148.22,,58868,TechPath Pty Ltd,AU,Perth,,,false,0.91,2023-02-19T06:54:35Z,2022-12-24T21:32:45Z
+59.101.213.235,C-59-101-213-235.bur.connect.net.au.,2764,AAPT Limited,AU,Sydney,,i/o timeout,,0.00,2023-02-26T07:49:08Z,2022-12-24T21:58:30Z
+120.149.63.30,cpe-120-149-63-30.wb03.wa.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Perth,,i/o timeout,,0.00,2023-02-19T06:54:49Z,2022-12-25T03:24:36Z
+203.45.58.208,blooms42.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,,false,1.00,2023-02-19T06:54:45Z,2022-12-25T04:04:15Z
+115.69.44.59,115-69-44-59-cpe.spintel.net.au.,18390,Spintel Pty Ltd,AU,Sydney,PowerDNS Recursor 4.6.2 (built Mar 30 2022 12:19:19 by root@0fedb0a0cc24),,true,0.94,2023-02-19T06:55:34Z,2022-12-26T20:40:57Z
+58.96.76.233,233.76.96.58.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Melbourne,,i/o timeout,,0.02,2023-02-19T07:58:18Z,2022-12-28T02:05:01Z
+115.69.22.88,115-69-22-88-cpe.spintel.net.au.,18390,Spintel Pty Ltd,AU,Melbourne,PowerDNS Recursor 4.6.2 (built Mar 30 2022 12:19:19 by root@0fedb0a0cc24),,true,0.96,2023-02-19T07:58:28Z,2022-12-28T13:06:20Z
+125.168.21.147,147.21.168.125.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Melbourne,,i/o timeout,,0.00,2023-02-20T09:02:00Z,2022-12-29T18:38:10Z
+103.31.112.56,,45269,Internet Service Provider,AU,Melbourne,,connection refused,,0.00,2023-02-19T07:59:26Z,2022-12-30T07:10:17Z
+115.70.249.139,139.249.70.115.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Perth,,i/o timeout,,0.00,2023-02-19T07:59:48Z,2022-12-30T15:11:54Z
+103.237.17.120,103-237-17-120.ip4.superloop.com.,38195,Superloop,AU,Sydney,9.11.36-RedHat-9.11.36-3.el8,,true,0.98,2023-02-19T07:59:43Z,2022-12-30T16:07:26Z
+110.145.116.191,lua2832988.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.00,2023-02-19T20:01:10Z,2022-12-31T23:55:14Z
+27.32.252.176,27-32-252-176.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,unbound 1.4.22,,false,0.97,2023-02-19T20:01:07Z,2023-01-01T01:04:16Z
+210.193.195.118,jayell-investments.safenetbox.biz.,17477,Macquarie Telecom,AU,Melbourne,,,true,0.90,2023-02-19T20:01:43Z,2023-01-01T16:37:34Z
+58.172.70.232,cpe-58-172-70-232.tb02.tas.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Launceston,Akamai Vantio CacheServe 7.6.1.0,,false,0.91,2023-02-19T20:02:08Z,2023-01-02T09:34:24Z
+120.150.227.102,,1221,Telstra Corporation Ltd,AU,Sydney,unknown,,false,0.53,2023-02-19T20:02:15Z,2023-01-02T13:14:05Z
+110.175.26.28,110-175-26-28.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,,false,1.00,2023-02-20T09:07:17Z,2023-01-03T00:07:09Z
+102.165.130.117,,37395,ABARI,AU,Brisbane,,,false,0.99,2023-02-20T05:02:29Z,2023-01-03T06:14:37Z
+110.175.253.13,110-175-253-13.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,,false,0.99,2023-02-20T05:02:39Z,2023-01-03T11:41:19Z
+110.175.79.118,110-175-79-118.tpgi.com.au.,7545,TPG Telecom Limited,AU,Carina,,i/o timeout,,0.42,2023-02-20T05:03:02Z,2023-01-03T23:08:20Z
+101.168.180.4,,1221,Telstra Corporation Ltd,AU,,dnsmasq-2.79,,false,0.99,2023-02-20T05:03:12Z,2023-01-04T11:51:46Z
+203.221.224.86,203-221-224-86.tpgi.com.au.,7545,TPG Telecom Limited,AU,Melbourne,,i/o timeout,,0.05,2023-03-11T12:45:33Z,2023-02-20T02:16:22Z
+110.142.168.71,winter29.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Brisbane,dnsmasq-2.52,,false,0.16,2023-02-26T09:06:57Z,2023-02-20T03:57:40Z
+124.182.227.253,cpe-124-182-227-253.sb01.sa.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Adelaide,dnsmasq-,,false,0.91,2023-02-26T09:07:39Z,2023-02-20T21:24:19Z
+159.196.203.154,,4764,Aussie Broadband,AU,,dnsmasq-2.83,,false,1.00,2023-02-27T16:51:59Z,2023-02-20T22:27:40Z
+202.126.100.157,resolve2.ains.net.au.,23871,Australia Internet Solutions,AU,Brisbane,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.9,,true,1.00,2023-02-26T09:07:54Z,2023-02-21T03:05:19Z
+103.153.9.254,,9268,Over The Wire Pty Ltd,AU,Adelaide,,,false,0.99,2023-02-26T09:07:55Z,2023-02-21T04:30:04Z
+118.209.217.19,118-209-217-19.tpgi.com.au.,7545,TPG Telecom Limited,AU,Melbourne,,i/o timeout,,0.01,2023-02-26T09:08:09Z,2023-02-21T07:51:21Z
+101.168.185.156,,1221,Telstra Corporation Ltd,AU,,dnsmasq-2.79,,false,1.00,2023-02-26T16:09:27Z,2023-02-21T19:59:44Z
+175.39.191.156,n175-39-191-156.meb4.vic.optusnet.com.au.,4804,Microplex PTY LTD,AU,Melbourne,dnsmasq-,,false,1.00,2023-02-26T09:08:48Z,2023-02-22T01:22:32Z
+87.121.75.39,exchange.kal.net.au.,134697,Launtel,AU,Brisbane,,,false,0.99,2023-02-26T09:09:08Z,2023-02-22T13:02:05Z
+125.63.175.110,,7474,SingTel Optus Pty Ltd,AU,Perth,,,false,1.00,2023-02-26T09:09:30Z,2023-02-22T22:00:51Z
+157.211.104.219,cpe-219-104-211-157.matenbn.com.au.,58507,Wireline,AU,Sydney,,,false,0.90,2023-02-26T16:09:42Z,2023-02-23T01:43:40Z
+122.199.18.15,122-199-18-15.ip4.superloop.com.,38195,Superloop,AU,Adelaide,,,false,0.88,2023-02-26T09:09:52Z,2023-02-23T04:27:52Z
+103.93.150.184,,135060,Telair Pty Ltd,AU,Brisbane,dnsmasq-,,false,0.99,2023-02-26T09:09:50Z,2023-02-23T08:02:25Z
+203.213.225.223,203-213-225-223.pool.activ8me.net.au.,24033,Australian Private Networks Pty Ltd,AU,,9.8.2rc1-RedHat-9.8.2-0.68.rc1.el6_10.3,,false,0.61,2023-02-26T09:10:04Z,2023-02-23T09:24:25Z
+101.168.183.152,,1221,Telstra Corporation Ltd,AU,,dnsmasq-2.79,,false,1.00,2023-02-26T13:52:06Z,2023-02-23T17:29:04Z
+103.119.110.78,,136557,Host Universal Pty Ltd,AU,Sydney,9.11.36-RedHat-9.11.36-5.el8_7.2,,true,1.00,2023-02-26T13:51:59Z,2023-02-23T18:39:51Z
+203.47.150.176,,1221,Telstra Corporation Ltd,AU,Melbourne,,,false,1.00,2023-02-26T13:52:25Z,2023-02-24T04:55:16Z
+129.94.164.137,,23859,University of New South Wales,AU,Sydney,,,false,1.00,2023-02-27T23:50:21Z,2023-02-25T00:33:41Z
+103.117.63.67,dmzwindns01.bghosted.net.,136201,BG UNIFIED SOLUTIONS PTY LTD,AU,,,,false,1.00,2023-02-27T23:48:40Z,2023-02-25T03:34:02Z
+49.255.198.22,ip-22.198.255.49.in-addr.VOCUS.net.au.,4826,Vocus Connect International Backbone,AU,Sydney,,,false,0.90,2023-02-27T23:48:36Z,2023-02-25T03:44:45Z
+58.7.114.42,58-7-114-42.dyn.iinet.net.au.,7545,TPG Telecom Limited,AU,Rockingham,dnsmasq-,,false,0.97,2023-02-27T23:48:42Z,2023-02-25T09:33:36Z
+45.115.71.241,,134139,Harbour ISP Pty LTD,AU,Melbourne,,i/o timeout,,0.37,2023-02-28T00:00:40Z,2023-02-26T15:20:07Z
+139.216.232.98,98.232.216.139.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Kwinana,dnsmasq-,,false,0.81,2023-02-28T00:00:45Z,2023-02-26T22:23:17Z
+192.29.220.98,,31898,ORACLE-BMC-31898,AU,Melbourne,dnsmasq-2.76,,false,0.91,2023-03-05T23:53:11Z,2023-02-27T00:18:17Z
+115.70.218.25,25.218.70.115.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Sydney,,,false,0.93,2023-02-28T14:53:56Z,2023-02-27T06:39:06Z
+103.150.213.44,,140598,Wi-Sky Queensland Pty Ltd,AU,Richmond,,,false,0.99,2023-03-05T18:53:50Z,2023-02-27T23:19:25Z
+103.226.161.151,151-161-226-103.static.broadbandsolutions.com.au.,45780,Broadband Solutions Pty Ltd,AU,Perth,,connection refused,,0.08,2023-03-03T02:46:22Z,2023-02-28T12:39:32Z
+120.144.70.93,cpe-120-144-70-93.bpw5-r-035.win.vic.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Flinders,,i/o timeout,,0.43,2023-02-28T14:53:55Z,2023-02-28T13:46:39Z
+110.174.24.94,110-174-24-94.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,unbound 1.4.22,,false,1.00,2023-02-28T18:48:15Z,2023-02-28T14:57:21Z
+54.66.128.66,ec2-54-66-128-66.ap-southeast-2.compute.amazonaws.com.,16509,AMAZON-02,AU,Sydney,Served by PowerDNS - http://www.powerdns.com,,true,1.00,2023-03-01T00:47:45Z,2023-02-28T18:17:07Z
+118.127.62.179,,45671,Wholesale Services Provider,AU,Melbourne,Served by PowerDNS - https://www.powerdns.com/,,true,0.97,2023-03-01T22:49:55Z,2023-02-28T18:17:11Z
+103.86.96.100,,136787,TEFINCOM S.A.,AU,Sydney,,,true,1.00,2023-03-01T22:50:25Z,2023-02-28T19:03:51Z
+203.52.80.141,,1221,Telstra Corporation Ltd,AU,Brisbane,dnsmasq-2.84rc2,,false,0.95,2023-03-01T16:47:08Z,2023-02-28T19:20:52Z
+203.50.2.71,lon-resolver.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,unknown,,false,1.00,2023-03-01T22:49:17Z,2023-02-28T19:30:26Z
+203.217.74.212,203-217-74-212.tpgi.com.au.,7545,TPG Telecom Limited,AU,Perth,dnsmasq-,,false,1.00,2023-03-01T18:47:35Z,2023-03-01T09:21:42Z
+103.2.196.228,bingo.gadgetaccess.com.,45671,Wholesale Services Provider,AU,,,,false,0.86,2023-03-04T03:45:03Z,2023-03-01T18:05:45Z
+210.8.95.174,,2764,AAPT Limited,AU,Sydney,,,true,1.00,2023-03-02T05:51:41Z,2023-03-01T19:57:41Z
+218.214.245.56,56.245.214.218.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Melbourne,DNS,,false,0.98,2023-03-03T21:54:35Z,2023-03-01T23:46:21Z
+1.44.93.62,,7474,SingTel Optus Pty Ltd,AU,Gold Coast,,,false,1.00,2023-03-02T05:51:42Z,2023-03-02T00:25:19Z
+14.2.110.28,ppp14-2-110-28.adl-apt-pir-bras32.tpg.internode.on.net.,7545,TPG Telecom Limited,AU,Adelaide,,i/o timeout,,0.83,2023-03-02T22:46:44Z,2023-03-02T21:24:16Z
+123.208.135.132,cpe-123-208-135-132.dyn.belong.com.au.,135887,Belong Telstra Corporation,AU,Canberra,dnsmasq-,,false,1.00,2023-03-03T21:49:23Z,2023-03-03T09:02:19Z
+116.197.144.204,,2914,NTT-LTD-2914,AU,,,,false,1.00,2023-03-03T15:08:39Z,2023-03-03T15:08:39Z
+203.213.238.201,203-213-238-201.pool.activ8me.net.au.,24033,Australian Private Networks Pty Ltd,AU,,,,false,0.23,2023-03-04T14:46:17Z,2023-03-04T00:44:47Z
+123.243.202.110,123-243-202-110.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,dnsmasq-,,false,1.00,2023-03-04T10:46:51Z,2023-03-04T03:23:29Z
+103.119.109.160,,136557,Host Universal Pty Ltd,AU,Melbourne,9.11.26-RedHat-9.11.26-6.el8,,true,1.00,2023-03-05T19:44:49Z,2023-03-04T11:20:17Z
+103.150.135.4,dk.easyvps.solutions.,140576,VPSBlocks Pty Ltd,AU,Melbourne,,,false,1.00,2023-03-05T18:53:55Z,2023-03-05T05:56:28Z
+115.70.224.190,190.224.70.115.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Sydney,,,false,0.91,2023-03-08T11:45:31Z,2023-03-05T13:41:36Z
+223.29.241.251,,55766,Orro Pty Ltd,AU,Brisbane,dnsmasq-2.85,,false,1.00,2023-03-11T12:47:13Z,2023-03-05T16:29:44Z
+110.149.143.18,cpe-110-149-143-18.bpw5-r-038.win.vic.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Wollongong,dnsmasq-,,false,1.00,2023-03-05T18:53:56Z,2023-03-05T17:11:18Z
+210.10.238.133,210-10-238-133.cust.static-ipl.aapt.com.au.,2764,AAPT Limited,AU,Gold Coast,Microsoft DNS 6.1.7601 (1DB15F75),,false,1.00,2023-03-08T13:48:06Z,2023-03-05T18:31:42Z
+123.243.221.8,123-243-221-8.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,i/o timeout,,0.80,2023-03-05T23:47:37Z,2023-03-05T21:00:30Z
+110.142.235.223,kajess.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Melbourne,Microsoft DNS 6.1.7601 (1DB15EC5),,false,0.94,2023-03-08T23:57:02Z,2023-03-08T06:35:34Z
+115.70.249.238,238.249.70.115.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Perth,,i/o timeout,,0.80,2023-03-08T13:48:27Z,2023-03-08T06:43:34Z
+219.90.163.85,219-90-163-85.ip.adam.com.au.,7545,TPG Telecom Limited,AU,Canberra,dnsmasq-2.52,,false,1.00,2023-03-08T07:01:38Z,2023-03-08T07:01:38Z
+43.251.109.84,43-251-109-84.nexon.com.au.,17766,Nexon Asia Pacific Pty Ltd,AU,Sydney,,i/o timeout,,0.82,2023-03-09T03:55:27Z,2023-03-08T12:13:24Z
+218.214.184.121,218-214-184-121.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Melbourne,BIND,,false,0.73,2023-03-09T21:47:34Z,2023-03-08T15:30:30Z
+203.129.129.150,203-129-129-150.sta.dodo.net.au.,4826,Vocus Connect International Backbone,AU,,DNS,,false,1.00,2023-03-09T02:46:59Z,2023-03-08T22:00:06Z
+159.196.231.254,159-196-231-254.9fc4e7.mel.nbn.aussiebb.net.,4764,Aussie Broadband,AU,,dnsmasq-2.89,,false,0.72,2023-03-09T13:49:17Z,2023-03-08T22:13:46Z
+52.65.215.178,ec2-52-65-215-178.ap-southeast-2.compute.amazonaws.com.,16509,AMAZON-02,AU,Sydney,9.8.2rc1-RedHat-9.8.2-0.37.rc1.el6_7.2,,false,0.62,2023-03-09T21:47:34Z,2023-03-09T13:20:39Z
+106.69.210.243,106-69-210-243.dyn.iinet.net.au.,7545,TPG Telecom Limited,AU,Canberra,dnsmasq-,,false,1.00,2023-03-10T00:44:48Z,2023-03-09T15:51:19Z
+121.45.46.233,,7545,TPG Telecom Limited,AU,Canberra,dnsmasq-,,false,1.00,2023-03-10T00:44:47Z,2023-03-09T17:04:40Z
+139.218.247.148,139-218-247-148.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Perth,,i/o timeout,,0.77,2023-03-11T02:47:53Z,2023-03-09T20:25:16Z
+123.243.165.170,123-243-165-170.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Brisbane,dnsmasq-2.85,,false,1.00,2023-03-11T22:44:58Z,2023-03-10T02:39:39Z
+43.245.132.183,43.245.132.183.as64098.net.,133736,Field Solutions,AU,Sydney,dnsmasq-2.85,,false,1.00,2023-03-11T09:58:59Z,2023-03-11T09:58:59Z
+192.29.220.224,,31898,ORACLE-BMC-31898,AU,Melbourne,dnsmasq-2.76,,false,1.00,2023-03-12T03:46:37Z,2023-03-11T14:06:50Z
+139.99.177.88,ip88.ip-139-99-177.net.,16276,OVH SAS,AU,Sydney,,,false,1.00,2023-03-13T08:45:11Z,2023-03-11T23:41:14Z
+180.150.66.6,180-150-66-6.b49642.syd.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,,,false,1.00,2023-04-22T05:42:14Z,2023-03-12T03:27:22Z
+103.4.123.75,customer.slnet.com.au.,131316,Slnet Hosting,AU,Melbourne,,no route to host,,0.52,2023-03-18T11:45:46Z,2023-03-12T09:30:08Z
+1.120.136.208,cpe-1-120-136-208.4cbp-r-037.cha.qld.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Summerleas,dnsmasq-,,false,1.00,2023-03-13T12:44:55Z,2023-03-13T00:41:32Z
+1.120.182.203,cpe-1-120-182-203.4cbp-r-037.cha.qld.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Hobart,,,false,1.00,2023-03-13T08:44:54Z,2023-03-13T00:41:36Z
+1.120.185.169,cpe-1-120-185-169.4cbp-r-037.cha.qld.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Hobart,dnsmasq-,,false,1.00,2023-03-15T03:44:51Z,2023-03-13T00:41:40Z
+1.120.190.244,cpe-1-120-190-244.4cbp-r-037.cha.qld.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Hobart,,,false,1.00,2023-04-12T18:12:36Z,2023-03-13T00:41:44Z
+1.120.99.14,cpe-1-120-99-14.nb13.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,,false,0.98,2023-03-15T03:44:50Z,2023-03-13T00:41:48Z
+1.122.197.193,cpe-1-122-197-193.bp1w-r-961.wel.wa.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Perth,,i/o timeout,,0.54,2023-03-14T16:45:05Z,2023-03-13T00:41:54Z
+1.123.111.82,cpe-1-223-111-82.bpi3-r-032.fli.sa.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Brisbane,,,true,1.00,2023-03-14T17:44:59Z,2023-03-13T00:41:59Z
+1.123.193.50,cpe-1-223-193-50.bpw7-r-032.way.wa.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Melbourne,dnsmasq-2.80,,true,1.00,2023-03-13T08:44:53Z,2023-03-13T00:42:05Z
+1.123.37.24,cpe-1-223-37-24.bpi3-r-032.fli.sa.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Brisbane,dnsmasq-,,false,1.00,2023-03-14T04:45:01Z,2023-03-13T00:42:10Z
+1.123.52.129,cpe-1-223-52-129.bpi3-r-032.fli.sa.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Gold Coast,dnsmasq-,,false,1.00,2023-03-13T04:44:54Z,2023-03-13T00:42:14Z
+1.123.52.136,cpe-1-223-52-136.bpi3-r-032.fli.sa.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Gold Coast,dnsmasq-,,false,1.00,2023-03-15T03:44:51Z,2023-03-13T00:42:19Z
+1.156.162.27,,1221,Telstra Corporation Ltd,AU,Toowoomba,dnsmasq-,,false,1.00,2023-03-15T03:44:50Z,2023-03-13T00:42:23Z
+1.156.178.132,,1221,Telstra Corporation Ltd,AU,Brisbane,dnsmasq-,,false,1.00,2023-03-14T17:44:58Z,2023-03-13T00:42:26Z
+1.156.180.251,,1221,Telstra Corporation Ltd,AU,Brisbane,dnsmasq-,,false,0.85,2023-03-15T03:44:51Z,2023-03-13T00:42:30Z
+1.157.211.206,cpe-1-157-211-206.nb13.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,dnsmasq-,,false,1.00,2023-03-13T04:44:55Z,2023-03-13T00:42:34Z
+1.157.215.81,cpe-1-157-215-81.nb13.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,dnsmasq-,,false,1.00,2023-03-13T04:44:55Z,2023-03-13T00:42:38Z
+1.157.220.102,cpe-1-157-220-102.nb13.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,dnsmasq-,,false,1.00,2023-03-13T04:44:55Z,2023-03-13T00:42:41Z
+1.157.46.241,cpe-1-157-46-241.ab02.act.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Canberra,dnsmasq-,,false,1.00,2023-03-13T08:44:54Z,2023-03-13T00:42:45Z
+1.157.53.71,cpe-1-157-53-71.ab02.act.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Canberra,dnsmasq-,,false,1.00,2023-03-13T08:44:54Z,2023-03-13T00:42:48Z
+1.158.0.226,cpe-1-158-0-226.nb14.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,,false,1.00,2023-03-13T08:44:55Z,2023-03-13T00:42:53Z
+1.158.114.180,cpe-1-158-114-180.nb14.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,,false,1.00,2023-03-13T04:45:02Z,2023-03-13T00:42:58Z
+1.158.80.242,cpe-1-158-80-242.nb14.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,dnsmasq-,,false,1.00,2023-03-13T12:44:51Z,2023-03-13T00:43:13Z
+1.159.15.176,cpe-1-159-15-176.vb12.vic.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Melbourne,dnsmasq-,,false,1.00,2023-03-14T17:44:54Z,2023-03-13T00:43:17Z
+1.159.223.140,cpe-1-159-223-140.wb05.wa.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Perth,dnsmasq-,,false,1.00,2023-03-13T08:45:02Z,2023-03-13T00:43:23Z
+1.159.239.33,cpe-1-159-239-33.wb05.wa.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Rockingham,dnsmasq-,,false,1.00,2023-03-13T08:45:02Z,2023-03-13T00:43:26Z
+1.159.50.125,cpe-1-159-50-125.vb12.vic.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.83,2023-03-13T08:45:12Z,2023-03-13T00:43:29Z
+139.218.227.99,99.227.218.139.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Adelaide,dnsmasq-2.75-1-ubnt2,,false,1.00,2023-04-20T15:50:01Z,2023-03-13T01:56:11Z
+218.214.93.209,209.93.214.218.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,dnsmasq-,,false,1.00,2023-03-13T04:44:48Z,2023-03-13T02:17:38Z
+193.119.57.9,193-119-57-9.tpgi.com.au.,7545,TPG Telecom Limited,AU,Canberra,dnsmasq-,,false,0.99,2023-03-26T22:00:32Z,2023-03-13T02:48:22Z
+210.10.131.89,C-210-10-131-89.can.connect.net.au.,2764,AAPT Limited,AU,Melbourne,dnsmasq-,,false,1.00,2023-03-13T03:08:42Z,2023-03-13T03:08:42Z
+101.191.228.221,cpe-101-191-228-221.nb15.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,dnsmasq-,,false,1.00,2023-03-13T03:52:20Z,2023-03-13T03:52:20Z
+103.1.57.34,103-1-57-34.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,dnsmasq-2.85,,false,1.00,2023-03-13T04:04:58Z,2023-03-13T04:04:58Z
+101.191.215.88,cpe-101-191-215-88.nb15.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,,false,1.00,2023-03-13T04:41:58Z,2023-03-13T04:41:58Z
+101.0.70.122,ds01788.hosting24.com.au.,55803,Hostopia Australia Web Pty Ltd,AU,Lake Munmorah,,i/o timeout,,0.88,2023-03-13T08:45:10Z,2023-03-13T04:57:01Z
+122.199.41.72,122-199-41-72.ip4.superloop.au.,38195,Superloop,AU,Melbourne,,,false,1.00,2023-03-13T08:45:17Z,2023-03-13T05:03:38Z
+45.79.236.93,vpn.technicalkiwi.com.,63949,"Akamai Technologies, Inc.",AU,Sydney,9.18.1-1ubuntu1.3-Ubuntu,,true,1.00,2023-03-13T07:47:07Z,2023-03-13T05:45:13Z
+103.17.235.25,,135895,Centorrino Technologies Pty Ltd,AU,Melbourne,not currently available,,true,1.00,2023-03-13T05:53:35Z,2023-03-13T05:53:35Z
+111.220.55.235,111-220-55-235.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,dnsmasq-,,false,1.00,2023-03-13T05:56:24Z,2023-03-13T05:56:24Z
+124.169.255.26,124-169-255-26.dyn.iinet.net.au.,7545,TPG Telecom Limited,AU,Adelaide,dnsmasq-,,false,1.00,2023-03-13T06:38:10Z,2023-03-13T06:38:10Z
+193.114.136.10,193-114-136-10.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,,false,1.00,2023-03-13T06:54:36Z,2023-03-13T06:54:36Z
+116.240.114.185,116-240-114-185.sta.dodo.net.au.,9443,Vocus Retail,AU,Perth,dnsmasq-,,false,1.00,2023-03-13T06:56:21Z,2023-03-13T06:56:21Z
+103.119.110.57,,136557,Host Universal Pty Ltd,AU,Sydney,9.11.36-RedHat-9.11.36-5.el8_7.2,,true,1.00,2023-03-13T07:52:49Z,2023-03-13T07:52:49Z
+194.223.170.50,194-223-170-50.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,,false,1.00,2023-03-13T07:55:10Z,2023-03-13T07:55:10Z
+61.8.21.202,iss4012873.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Brisbane,unbound 1.4.22,,false,1.00,2023-03-13T07:58:25Z,2023-03-13T07:58:25Z
+124.168.174.189,124-168-174-189.dyn.iinet.net.au.,7545,TPG Telecom Limited,AU,Central Coast,dnsmasq-,,false,1.00,2023-03-13T08:09:23Z,2023-03-13T08:09:23Z
+125.168.94.173,173.94.168.125.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Brisbane,,,false,1.00,2023-03-13T08:14:18Z,2023-03-13T08:14:18Z
+120.150.201.161,,1221,Telstra Corporation Ltd,AU,Maitland,,,false,1.00,2023-03-13T08:45:14Z,2023-03-13T08:45:14Z
+161.8.227.52,,58507,Wireline,AU,Perth,,i/o timeout,,0.14,2023-03-14T17:45:38Z,2023-03-13T09:24:35Z
+203.96.179.163,,395092,SHOCK-1,AU,Sydney,,i/o timeout,,0.41,2023-03-14T09:46:33Z,2023-03-13T09:39:29Z
+118.211.125.162,,7545,TPG Telecom Limited,AU,Canberra,dnsmasq-,,false,1.00,2023-03-15T02:48:00Z,2023-03-13T10:34:33Z
+49.255.194.141,ip-141.194.255.49.in-addr.VOCUS.net.au.,4826,Vocus Connect International Backbone,AU,Melbourne,,,false,1.00,2023-03-13T10:50:53Z,2023-03-13T10:50:53Z
+193.114.97.163,webx.lph.la.,7545,TPG Telecom Limited,AU,Brisbane,9.16.1-Ubuntu,,true,1.00,2023-03-13T10:52:04Z,2023-03-13T10:52:04Z
+115.70.61.169,169.61.70.115.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Sydney,unbound 1.4.22,,false,1.00,2023-03-13T11:48:03Z,2023-03-13T11:15:21Z
+27.32.78.92,27-32-78-92.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Narangba,dnsmasq-2.83,,false,1.00,2023-03-13T11:27:30Z,2023-03-13T11:27:30Z
+119.12.209.13,119-12-209-13.dynamic.ipstaraus.com.,38172,IPSTAR Australia Pty Ltd.,AU,,,,false,1.00,2023-03-13T11:30:18Z,2023-03-13T11:30:18Z
+103.100.30.138,customer.node1.com.au.,137549,NODE1 Pty Ltd,AU,Perth,,,true,1.00,2023-03-13T11:36:36Z,2023-03-13T11:36:36Z
+123.51.110.70,123-51-110-70.static.dsl.net.au.,38333,Symbio Networks,AU,Sydney,,,true,0.92,2023-03-13T23:47:10Z,2023-03-13T11:42:24Z
+121.200.25.37,121-200-25-37.79c819.mel.static.aussiebb.net.,4764,Aussie Broadband,AU,Melbourne,dnsmasq-,,false,1.00,2023-03-13T12:58:54Z,2023-03-13T12:58:54Z
+210.8.28.194,,2764,AAPT Limited,AU,Melbourne,,i/o timeout,,0.78,2023-03-14T09:45:36Z,2023-03-13T13:00:16Z
+125.168.123.149,149.123.168.125.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,,,false,0.88,2023-04-20T15:50:29Z,2023-03-13T13:18:58Z
+180.150.51.109,180-150-51-109.b49633.mel.static.aussiebb.net.,4764,Aussie Broadband,AU,Melbourne,,,false,1.00,2023-03-13T14:12:23Z,2023-03-13T14:12:23Z
+87.121.248.21,home.thesysadmin.dev.,134697,Launtel,AU,Canberra,,,false,0.94,2023-03-14T09:45:27Z,2023-03-13T14:47:48Z
+220.245.186.117,220-245-186-117.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,dnsmasq-,,false,1.00,2023-03-13T14:53:48Z,2023-03-13T14:53:48Z
+103.197.144.69,,134711,FLIP TV PTY LIMITED,AU,Sydney,dnsmasq-,,false,1.00,2023-03-13T15:15:22Z,2023-03-13T15:15:22Z
+101.0.97.70,70.97.0.101.static.digitalpacific.com.au.,55803,Hostopia Australia Web Pty Ltd,AU,Sydney,,,false,1.00,2023-03-13T15:36:27Z,2023-03-13T15:36:27Z
+58.96.102.91,91.102.96.58.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Melbourne,dnsmasq-2.85,,false,1.00,2023-03-13T15:38:33Z,2023-03-13T15:38:33Z
+103.12.189.81,,134711,FLIP TV PTY LIMITED,AU,Melbourne,dnsmasq-,,false,1.00,2023-03-13T15:38:43Z,2023-03-13T15:38:43Z
+220.245.192.186,220-245-192-186.tpgi.com.au.,7545,TPG Telecom Limited,AU,Melbourne,,,false,1.00,2023-03-15T09:48:09Z,2023-03-13T16:05:17Z
+203.220.167.169,203-220-167-169.tpgi.com.au.,7545,TPG Telecom Limited,AU,Melbourne,DNSServer,,false,1.00,2023-03-15T09:48:54Z,2023-03-13T17:09:32Z
+122.151.5.169,169.5.151.122.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Perth,dnsmasq-,,false,1.00,2023-03-15T09:48:55Z,2023-03-13T17:10:42Z
+192.29.221.71,,31898,ORACLE-BMC-31898,AU,Melbourne,dnsmasq-2.76,,false,1.00,2023-03-15T09:49:10Z,2023-03-13T17:35:12Z
+220.240.121.99,220-240-121-99.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,dnsmasq-,,false,1.00,2023-03-15T09:49:30Z,2023-03-13T18:00:02Z
+115.70.244.254,254.244.70.115.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Melbourne,dnsmasq-,,false,1.00,2023-03-15T09:49:34Z,2023-03-13T18:06:46Z
+182.239.230.157,182-239-230-157.ip.adam.com.au.,7545,TPG Telecom Limited,AU,Sydney,dnsmasq-,,false,1.00,2023-03-15T09:49:44Z,2023-03-13T18:23:14Z
+139.218.37.186,139-218-37-186.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,dnsmasq-,,false,1.00,2023-03-15T09:49:50Z,2023-03-13T18:31:59Z
+203.47.150.183,,1221,Telstra Corporation Ltd,AU,Melbourne,,,false,1.00,2023-03-15T09:50:08Z,2023-03-13T18:59:40Z
+60.240.164.47,60-240-164-47.tpgi.com.au.,7545,TPG Telecom Limited,AU,Brisbane,,,false,1.00,2023-03-15T09:50:17Z,2023-03-13T19:14:28Z
+203.111.191.254,ns4.elmtree.net.au.,2764,AAPT Limited,AU,Adelaide,,,false,1.00,2023-03-15T09:50:27Z,2023-03-13T19:22:32Z
+120.155.35.201,cpe-120-155-35-201.nb05.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,dnsmasq-,,false,1.00,2023-03-15T09:50:36Z,2023-03-13T19:39:34Z
+103.12.188.5,,134711,FLIP TV PTY LIMITED,AU,Balwyn North,dnsmasq-,,false,1.00,2023-03-15T09:50:50Z,2023-03-13T20:02:09Z
+87.121.93.104,router.camberwell.omnigrove.xyz.,134697,Launtel,AU,Melbourne,,,false,1.00,2023-03-15T09:51:03Z,2023-03-13T20:24:03Z
+159.196.50.130,159-196-50-130.9fc432.adl.static.aussiebb.net.,4764,Aussie Broadband,AU,Adelaide,DNSServer,,false,1.00,2023-03-15T09:51:07Z,2023-03-13T20:30:18Z
+218.214.29.137,137.29.214.218.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,dnsmasq-,,false,1.00,2023-03-15T09:51:12Z,2023-03-13T20:35:59Z
+180.150.5.225,180-150-5-225.b49605.syd.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,,,false,1.00,2023-03-15T09:51:57Z,2023-03-13T21:35:00Z
+116.90.3.4,vm02.ded2378.smartservers.com.au.,55803,Hostopia Australia Web Pty Ltd,AU,,,,true,1.00,2023-03-15T09:52:02Z,2023-03-13T21:52:56Z
+192.29.223.231,,31898,ORACLE-BMC-31898,AU,Melbourne,dnsmasq-2.76,,false,1.00,2023-03-15T09:52:20Z,2023-03-13T22:19:11Z
+103.12.189.112,,134711,FLIP TV PTY LIMITED,AU,Melbourne,dnsmasq-,,false,1.00,2023-03-15T09:52:31Z,2023-03-13T22:38:54Z
+194.193.32.18,194-193-32-18.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Canberra,,,false,1.00,2023-04-20T14:42:54Z,2023-03-13T23:01:16Z
+202.9.253.74,user.tcrholdings.com.,9627,TCR Holdings Ltd,AU,Sydney,,SERVFAIL for wikileaks.org,,0.88,2023-04-05T00:31:36Z,2023-03-13T23:01:50Z
+121.50.200.15,otn-121-50-200-15.broadband.onthenet.net.,9313,Network Technology AUST PL,AU,Gold Coast,unbound 1.4.22,,false,1.00,2023-03-15T09:52:55Z,2023-03-13T23:16:09Z
+218.214.85.254,254.85.214.218.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,dnsmasq-,,false,1.00,2023-03-15T09:52:59Z,2023-03-13T23:26:03Z
+123.243.36.55,123-243-36-55.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,dnsmasq-,,false,1.00,2023-03-15T09:53:14Z,2023-03-13T23:46:29Z
+203.76.225.197,ip-203.76.225.197.dgtek.net.,133206,DGTEK PTY LTD,AU,Melbourne,,i/o timeout,,0.50,2023-03-15T09:53:29Z,2023-03-13T23:51:13Z
+59.100.204.146,59-100-204-146.syd.static-ipl.aapt.com.au.,2764,AAPT Limited,AU,Sydney,,i/o timeout,,0.50,2023-03-15T09:53:30Z,2023-03-13T23:59:01Z
+203.213.76.241,203-213-76-241.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,i/o timeout,,0.50,2023-03-15T09:53:42Z,2023-03-14T00:13:50Z
+121.45.76.231,121-45-76-231.tpgi.com.au.,7545,TPG Telecom Limited,AU,Adelaide,,i/o timeout,,0.50,2023-03-15T09:53:43Z,2023-03-14T00:16:32Z
+103.18.204.17,,138474,Ashulia Network,AU,Melbourne,,,true,1.00,2023-03-15T09:53:36Z,2023-03-14T00:17:56Z
+27.32.169.90,27-32-169-90.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Perth,dnsmasq-,,false,1.00,2023-03-15T09:53:46Z,2023-03-14T00:33:02Z
+101.0.96.142,142.96.0.101.static.smartservers.com.au.,55803,Hostopia Australia Web Pty Ltd,AU,Sydney,,,false,1.00,2023-03-15T09:54:31Z,2023-03-14T01:42:26Z
+61.69.96.102,61-69-96-102.mel.static-ipl.aapt.com.au.,2764,AAPT Limited,AU,Melbourne,,i/o timeout,,0.50,2023-03-15T09:54:46Z,2023-03-14T01:58:18Z
+203.122.232.86,techmegawler.com.au.,4739,Internode Pty Ltd,AU,Adelaide,Internode-DNS,,false,1.00,2023-03-15T09:54:45Z,2023-03-14T02:01:05Z
+115.70.28.167,167.28.70.115.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Perth,,,true,1.00,2023-03-14T02:41:30Z,2023-03-14T02:41:30Z
+27.32.174.151,,7545,TPG Telecom Limited,AU,Sydney,,,false,1.00,2023-03-14T02:54:02Z,2023-03-14T02:54:02Z
+220.233.76.118,118.76.233.220.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Sydney,,,true,1.00,2023-03-14T03:18:27Z,2023-03-14T03:18:27Z
+163.47.202.150,,132241,SKSA TECHNOLOGY SDN BHD,AU,Sydney,,,false,1.00,2023-03-14T03:22:06Z,2023-03-14T03:22:06Z
+139.216.213.163,139-216-213-163.sta.dodo.net.au.,9443,Vocus Retail,AU,Gold Coast,dnsmasq-,,false,1.00,2023-03-14T03:31:03Z,2023-03-14T03:31:03Z
+207.136.8.85,,38333,Symbio Networks,AU,Sydney,,,true,1.00,2023-03-14T04:26:12Z,2023-03-14T04:26:12Z
+111.118.223.243,,56057,Entity Data Pty Limited,AU,,,,false,1.00,2023-03-14T04:26:29Z,2023-03-14T04:26:29Z
+59.167.103.182,ppp103-182.static.internode.on.net.,4739,Internode Pty Ltd,AU,Darwin,dnsmasq-,,false,1.00,2023-03-14T05:07:41Z,2023-03-14T05:07:41Z
+116.212.68.59,116-212-68-59.i3.net.au.,17889,Intraceptives Pty Ltd,AU,Sydney,,,false,1.00,2023-03-14T05:32:30Z,2023-03-14T05:32:30Z
+119.18.5.242,119-18-5-242.771205.syd.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,dnsmasq-,,false,1.00,2023-03-14T05:33:35Z,2023-03-14T05:33:35Z
+192.29.222.21,,31898,ORACLE-BMC-31898,AU,Melbourne,dnsmasq-2.76,,false,1.00,2023-03-14T06:10:46Z,2023-03-14T06:10:46Z
+117.20.64.125,117-20-64-125.751440.bne.static.aussiebb.net.,4764,Aussie Broadband,AU,Brisbane,DNSServer,,false,1.00,2023-03-14T06:11:24Z,2023-03-14T06:11:24Z
+125.168.66.80,80.66.168.125.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Adelaide,unbound 1.4.22,,false,1.00,2023-03-14T06:29:40Z,2023-03-14T06:29:40Z
+159.196.130.248,,4764,Aussie Broadband,AU,Sydney,dnsmasq-,,false,1.00,2023-03-14T18:46:49Z,2023-03-14T08:01:32Z
+110.147.221.245,cpe-110-147-221-245.vb06.vic.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Hobart,dnsmasq-,,false,1.00,2023-03-15T04:48:00Z,2023-03-14T08:46:45Z
+202.73.30.98,202-73-30-98.static.lightningbroadband.com.au.,136000,Lightning Broadband Pty Ltd,AU,Melbourne,dnsmasq-,,false,1.00,2023-03-15T04:48:10Z,2023-03-14T09:03:16Z
+159.196.45.145,,4764,Aussie Broadband,AU,Sydney,,i/o timeout,,0.62,2023-03-15T08:46:47Z,2023-03-14T09:19:36Z
+192.29.222.127,,31898,ORACLE-BMC-31898,AU,Melbourne,dnsmasq-2.76,,false,1.00,2023-03-15T04:48:31Z,2023-03-14T09:39:11Z
+203.129.25.39,203-129-25-39.cb8119.syd.static.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,,,false,1.00,2023-03-15T04:48:41Z,2023-03-14T09:55:38Z
+111.67.22.154,,55803,Hostopia Australia Web Pty Ltd,AU,Melbourne,,i/o timeout,,0.75,2023-04-12T12:19:09Z,2023-03-14T10:27:03Z
+210.9.28.62,,2764,AAPT Limited,AU,Wollongong,,i/o timeout,,0.60,2023-03-15T04:49:18Z,2023-03-14T10:50:24Z
+203.147.101.156,203-147-101-156.swoopbb.au.,17551,DCS Internet,AU,Connewarre,,,false,1.00,2023-04-12T12:18:49Z,2023-03-14T11:31:28Z
+59.100.30.19,59-100-30-19.mel.static-ipl.aapt.com.au.,2764,AAPT Limited,AU,Melbourne,,,false,1.00,2023-03-15T04:49:58Z,2023-03-14T12:07:52Z
+211.27.151.57,57.151.27.211.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Brisbane,,,false,1.00,2023-03-15T04:50:17Z,2023-03-14T12:33:29Z
+123.51.6.130,123-51-6-130.static.dsl.net.au.,38333,Symbio Networks,AU,Adelaide,,,false,1.00,2023-03-15T04:50:15Z,2023-03-14T12:39:56Z
+103.153.8.47,,9268,Over The Wire Pty Ltd,AU,Adelaide,,,false,0.92,2023-03-24T19:03:19Z,2023-03-14T12:51:53Z
+210.18.214.38,mx10.bsrgroup.com.au.,9738,Brennan IT,AU,Sunshine Coast,,,true,1.00,2023-03-26T22:06:45Z,2023-03-14T13:17:45Z
+45.76.115.6,45.76.115.6.vultrusercontent.com.,20473,AS-CHOOPA,AU,Sydney,,,false,1.00,2023-03-15T04:50:55Z,2023-03-14T13:59:40Z
+14.200.226.78,14-200-226-78.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Epping,dnsmasq-,,false,1.00,2023-03-15T04:50:58Z,2023-03-14T14:03:49Z
+172.105.186.231,172-105-186-231.ip.linodeusercontent.com.,63949,"Akamai Technologies, Inc.",AU,Sydney,,,true,1.00,2023-03-15T04:51:06Z,2023-03-14T14:15:59Z
+60.242.246.234,60-242-246-234.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Brisbane,dnsmasq-2.79-1-292-g0db34bd,,false,1.00,2023-03-15T04:51:07Z,2023-03-14T14:19:31Z
+159.196.244.97,,4764,Aussie Broadband,AU,Melbourne,dnsmasq-,,false,1.00,2023-03-15T04:51:09Z,2023-03-14T14:24:15Z
+13.75.215.151,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,AU,Sydney,dnsmasq-2.66,,false,1.00,2023-03-15T04:51:10Z,2023-03-14T14:26:24Z
+112.141.63.237,112-141-63-237.sta.dodo.net.au.,9443,Vocus Retail,AU,Melbourne,,i/o timeout,,0.50,2023-03-15T04:51:35Z,2023-03-14T14:55:48Z
+124.168.116.170,124-168-116-170.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,,false,1.00,2023-03-15T04:51:30Z,2023-03-14T14:56:57Z
+27.33.135.49,27-33-135-49.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Melbourne,dnsmasq-,,false,0.83,2023-03-15T04:51:41Z,2023-03-14T15:15:30Z
+101.189.19.4,cpe-101-189-19-4.wb06.wa.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Perth,dnsmasq-,,false,1.00,2023-03-15T04:51:50Z,2023-03-14T15:31:19Z
+202.182.133.2,dslsa-133-2.six.net.au.,9627,TCR Holdings Ltd,AU,,,,false,1.00,2023-03-15T04:51:52Z,2023-03-14T15:33:34Z
+116.240.179.56,116-240-179-56.dyn.dodo.net.au.,9443,Vocus Retail,AU,Melbourne,dnsmasq-,,false,1.00,2023-03-15T04:52:05Z,2023-03-14T15:57:01Z
+87.121.250.174,87-121-250-174.dyn.launtel.net.au.,134697,Launtel,AU,Launceston,,,false,1.00,2023-03-15T04:52:50Z,2023-03-14T16:56:06Z
+58.96.102.88,88.102.96.58.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Melbourne,dnsmasq-2.85,,false,1.00,2023-03-15T04:53:21Z,2023-03-14T17:36:11Z
+124.254.74.246,ip-246.74.254.124.VOCUS.net.au.,4826,Vocus Connect International Backbone,AU,Brisbane,DNSServer,,false,1.00,2023-03-15T04:53:19Z,2023-03-14T17:40:40Z
+203.89.200.2,,139736,Apexhost Pty Ltd,AU,Sydney,,,false,1.00,2023-03-15T04:53:20Z,2023-03-14T17:42:31Z
+59.167.190.34,eth4643.vic.adsl.internode.on.net.,4739,Internode Pty Ltd,AU,Sunbury,Internode-DNS,,false,1.00,2023-03-15T04:53:52Z,2023-03-14T18:24:49Z
+122.199.0.191,122-199-0-191.ip4.superloop.au.,38195,Superloop,AU,Brisbane,unbound 1.4.22,,false,1.00,2023-03-15T04:54:05Z,2023-03-14T18:50:10Z
+218.214.172.151,151.172.214.218.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Hobart,dnsmasq-,,false,0.92,2023-03-15T08:47:33Z,2023-03-14T18:53:59Z
+110.145.35.125,har2650804.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Melbourne,,,false,1.00,2023-03-15T04:54:13Z,2023-03-14T18:59:11Z
+27.32.78.82,27-32-78-82.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Narangba,dnsmasq-2.83,,false,1.00,2023-03-15T04:54:12Z,2023-03-14T19:02:36Z
+180.150.45.98,180-150-45-98.b4962d.syd.static.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,PowerDNS Recursor 4.8.1 (built Jan 18 2023 10:49:36 by root@bd5144929df1),,false,0.80,2023-03-15T04:54:25Z,2023-03-14T19:23:06Z
+124.254.94.102,ip-102.94.254.124.VOCUS.net.au.,4826,Vocus Connect International Backbone,AU,Melbourne,unbound 1.4.22,,false,0.92,2023-03-15T04:54:31Z,2023-03-14T19:33:36Z
+110.174.62.230,110-174-62-230.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,i/o timeout,,0.50,2023-03-15T04:54:40Z,2023-03-14T19:38:43Z
+124.171.137.125,124-171-137-125.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,dnsmasq-,,false,1.00,2023-03-15T04:54:36Z,2023-03-14T19:44:30Z
+103.194.2.33,ptr-103-194-2-33.0101.net.au.,55581,BINARY NETWORKS PTY LTD,AU,Sydney,dnsmasq-2.83,,false,1.00,2023-03-15T04:54:36Z,2023-03-14T19:45:41Z
+202.138.73.149,202-138-73-149.static.anticlockwise.net.au.,45838,Anticlockwise Pty Ltd,AU,Melbourne,,,true,1.00,2023-03-15T04:54:41Z,2023-03-14T19:51:31Z
+124.171.220.88,124-171-220-88.tpgi.com.au.,7545,TPG Telecom Limited,AU,Brisbane,dnsmasq-,,false,1.00,2023-03-15T04:54:51Z,2023-03-14T20:13:00Z
+123.243.29.178,123-243-29-178.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,,false,1.00,2023-03-15T04:55:03Z,2023-03-14T20:32:53Z
+123.208.249.28,cpe-123-208-249-28.dyn.belong.com.au.,135887,Belong Telstra Corporation,AU,Sydney,,,false,1.00,2023-03-15T04:55:15Z,2023-03-14T20:52:21Z
+27.113.241.18,eldsure.wires.net.au.,9336,World Without Wires Pty Ltd,AU,Gold Coast,,,false,1.00,2023-03-15T09:57:04Z,2023-03-14T21:10:19Z
+139.144.96.28,139-144-96-28.ip.linodeusercontent.com.,63949,"Akamai Technologies, Inc.",AU,Sydney,,,true,1.00,2023-03-15T09:57:40Z,2023-03-14T22:08:07Z
+203.24.211.3,mail.weblink.com.au.,10143,Exetel Pty Ltd,AU,,,,false,1.00,2023-03-15T09:57:42Z,2023-03-14T22:11:39Z
+110.143.26.239,,1221,Telstra Corporation Ltd,AU,Adelaide,unbound 1.4.22,,false,1.00,2023-03-15T09:57:44Z,2023-03-14T22:18:13Z
+202.7.185.124,202-7-185-124.tpgi.com.au.,7545,TPG Telecom Limited,AU,Perth,dnsmasq-,,false,1.00,2023-03-15T09:57:44Z,2023-03-14T22:21:14Z
+159.196.45.35,,4764,Aussie Broadband,AU,Sydney,dnsmasq-2.82,,false,1.00,2023-03-15T09:57:44Z,2023-03-14T22:23:05Z
+194.223.177.23,194-223-177-23.tpgi.com.au.,7545,TPG Telecom Limited,AU,Perth,dnsmasq-,,false,1.00,2023-03-15T09:58:14Z,2023-03-14T23:15:30Z
+203.189.127.37,,133736,Field Solutions,AU,Brisbane,dnsmasq-2.57,,false,1.00,2023-03-15T09:58:34Z,2023-03-14T23:36:58Z
+202.73.30.137,202-73-30-137.static.lightningbroadband.com.au.,136000,Lightning Broadband Pty Ltd,AU,Melbourne,dnsmasq-,,false,1.00,2023-03-18T02:46:52Z,2023-03-15T00:11:23Z
+58.162.206.206,,1221,Telstra Corporation Ltd,AU,Melbourne,dnsmasq-2.86,,false,1.00,2023-03-18T02:47:04Z,2023-03-15T00:33:38Z
+80.249.3.204,customer.node1.com.au.,137549,NODE1 Pty Ltd,AU,Perth,,,true,1.00,2023-03-18T02:47:16Z,2023-03-15T00:42:05Z
+110.174.24.96,110-174-24-96.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,unbound 1.4.22,,false,1.00,2023-03-18T02:47:15Z,2023-03-15T00:54:40Z
+119.18.15.110,119-18-15-110.77120f.syd.static.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,dnsmasq-,,false,1.00,2023-03-18T02:47:40Z,2023-03-15T01:38:56Z
+161.8.192.197,,58507,Wireline,AU,Sydney,,i/o timeout,,0.50,2023-04-12T12:19:18Z,2023-03-15T02:46:09Z
+170.64.180.216,,14061,DIGITALOCEAN-ASN,AU,Sydney,dnsmasq-2.80,,false,1.00,2023-03-18T02:48:30Z,2023-03-15T02:54:07Z
+110.174.241.26,110-174-241-26.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,dnsmasq-,,false,1.00,2023-03-18T02:48:32Z,2023-03-15T02:57:39Z
+203.206.82.177,203-206-82-177.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,i/o timeout,,0.83,2023-03-18T02:48:47Z,2023-03-15T03:17:02Z
+149.28.177.121,149.28.177.121.vultrusercontent.com.,20473,AS-CHOOPA,AU,Sydney,,,false,1.00,2023-03-18T02:49:12Z,2023-03-15T04:04:37Z
+202.7.229.216,,136994,Southern Phone Company Ltd,AU,Sydney,dnsmasq-,,false,1.00,2023-03-18T02:49:12Z,2023-03-15T04:05:02Z
+103.136.146.99,dns.halvez.top.,8888,xTom Pty Ltd,AU,Sydney,,,true,1.00,2023-03-18T02:49:33Z,2023-03-15T04:37:59Z
+59.101.241.159,C-59-101-241-159.bur.connect.net.au.,2764,AAPT Limited,AU,Melbourne,,,false,1.00,2023-03-26T22:08:09Z,2023-03-15T05:14:58Z
+203.28.174.1,cott-gw1.cottagecomputers.com.au.,138184,Activ ICT Networks PTY Ltd,AU,,,,false,1.00,2023-03-18T02:50:33Z,2023-03-15T06:21:28Z
+118.209.120.133,ppp118-209-120-133.hba-tec-tas-bras31.tpg.internode.on.net.,7545,TPG Telecom Limited,AU,Launceston,,i/o timeout,,0.86,2023-03-18T02:50:59Z,2023-03-15T06:52:46Z
+180.150.92.196,180-150-92-196.b4965c.per.static.aussiebb.net.,4764,Aussie Broadband,AU,Perth,dnsmasq-,,false,1.00,2023-04-12T12:19:01Z,2023-03-15T06:54:21Z
+168.1.13.137,89.0d.01a8.ip4.static.sl-reverse.com.,36351,SOFTLAYER,AU,Sydney,,,false,1.00,2023-04-12T12:19:12Z,2023-03-15T06:55:30Z
+199.21.175.213,cpe-213-175-21-199.wireline.com.au.,58507,Wireline,AU,Brisbane,,i/o timeout,,0.86,2023-03-26T11:04:42Z,2023-03-15T07:04:46Z
+137.147.179.170,cpe-137-147-179-170.bpw5-r-037.win.vic.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.89,2023-03-18T02:51:11Z,2023-03-15T07:14:02Z
+203.82.103.22,,9519,Vertical Telecoms Pty Ltd,AU,Sydney,unbound 1.4.22,,false,1.00,2023-03-18T02:51:11Z,2023-03-15T07:26:46Z
+203.213.96.4,203-213-96-4.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Canberra,dnsmasq-2.62,,false,1.00,2023-03-18T02:51:29Z,2023-03-15T07:58:34Z
+203.45.24.141,,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.75,2023-03-18T02:51:38Z,2023-03-15T08:06:39Z
+115.146.64.90,,38883,FireNet Pty Ltd,AU,Wollongong,,,false,0.91,2023-03-18T02:51:45Z,2023-03-15T08:14:35Z
+110.145.242.150,the2962375.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Melbourne,Microsoft DNS 6.1.7601 (1DB15F75),,false,1.00,2023-03-18T02:52:22Z,2023-03-15T09:28:15Z
+124.170.26.148,124-170-26-148.tpgi.com.au.,7545,TPG Telecom Limited,AU,Melbourne,dnsmasq-,,false,0.99,2023-03-18T02:52:22Z,2023-03-15T09:28:38Z
+59.167.172.131,ppp59-167-172-131.static.internode.on.net.,4739,Internode Pty Ltd,AU,Sydney,,,false,1.00,2023-03-18T02:53:30Z,2023-03-15T11:15:23Z
+125.253.23.240,125-253-23-240.ip4.superloop.au.,38195,Superloop,AU,Brisbane,,i/o timeout,,0.59,2023-03-18T02:53:55Z,2023-03-15T11:53:18Z
+59.100.163.217,59-100-163-217.cpe.adi-bgi007.vmvault.com.au.,2764,AAPT Limited,AU,Wollongong,,,true,0.78,2023-03-18T02:53:51Z,2023-03-15T11:57:33Z
+144.6.64.9,,4764,Aussie Broadband,AU,,dnsmasq-,,false,1.00,2023-03-18T02:54:51Z,2023-03-15T13:30:11Z
+118.208.121.222,118-208-121-222.tpgi.com.au.,7545,TPG Telecom Limited,AU,Melbourne,,i/o timeout,,0.47,2023-03-18T02:54:59Z,2023-03-15T13:31:52Z
+203.51.1.247,cpe-203-51-1-247.ab01.act.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Perth,,,false,0.59,2023-03-18T02:55:36Z,2023-03-15T14:48:43Z
+144.139.0.65,,1221,Telstra Corporation Ltd,AU,Sydney,,,false,1.00,2023-03-18T02:56:10Z,2023-03-15T15:49:33Z
+159.196.127.73,159-196-127-73.9fc47f.syd.static.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,unbound 1.4.22,,false,0.94,2023-03-18T02:56:15Z,2023-03-15T16:01:08Z
+59.100.194.202,59-100-194-202.mel.static-ipl.aapt.com.au.,2764,AAPT Limited,AU,Melbourne,,i/o timeout,,0.74,2023-03-18T02:56:24Z,2023-03-15T16:03:32Z
+124.254.121.42,ip-42.121.254.124.VOCUS.net.au.,4826,Vocus Connect International Backbone,AU,Perth,dnsmasq-2.85,,false,0.97,2023-03-18T02:56:32Z,2023-03-15T16:32:44Z
+110.141.17.241,,1221,Telstra Corporation Ltd,AU,Sydney,dnsmasq-,,false,1.00,2023-03-18T02:56:49Z,2023-03-15T17:02:42Z
+124.149.193.37,,7545,TPG Telecom Limited,AU,Sunshine Coast,dnsmasq-,,false,1.00,2023-03-18T02:56:54Z,2023-03-15T17:10:15Z
+59.167.190.37,mail.dataconnection.com.au.,4739,Internode Pty Ltd,AU,Sunbury,Internode-DNS,,false,0.64,2023-03-18T02:56:56Z,2023-03-15T17:17:20Z
+101.187.116.68,pum1502370.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Brisbane,,,false,0.79,2023-03-18T02:57:03Z,2023-03-15T17:22:50Z
+202.47.5.31,vps.e-commerceglobal.net.,24446,NetRegistry Pty Ltd.,AU,,,,false,1.00,2023-03-18T02:57:00Z,2023-03-15T17:25:06Z
+180.150.101.9,180-150-101-9.b49665.bne.static.aussiebb.net.,4764,Aussie Broadband,AU,Brisbane,dnsmasq-,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:35:15Z,2023-03-15T18:22:07Z
+170.187.241.213,170-187-241-213.ip.linodeusercontent.com.,63949,"Akamai Technologies, Inc.",AU,Sydney,dnsmasq-2.85,,false,1.00,2023-04-05T00:35:26Z,2023-03-15T18:39:33Z
+103.150.176.252,,140587,Western Health,AU,,dnsmasq-2.83,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:35:25Z,2023-03-15T18:41:17Z
+13.211.83.38,ec2-13-211-83-38.ap-southeast-2.compute.amazonaws.com.,16509,AMAZON-02,AU,Sydney,,connection refused,,0.29,2023-04-05T00:35:35Z,2023-03-15T19:00:53Z
+159.196.9.23,159-196-9-23.9fc409.mel.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Brisbane,dnsmasq-,SERVFAIL for wikileaks.org,,0.78,2023-04-05T00:35:40Z,2023-03-15T19:05:26Z
+202.61.122.234,,55567,"Suite 2, Level 9",AU,Sydney,,SERVFAIL for wikileaks.org,,0.93,2023-04-05T00:35:43Z,2023-03-15T19:11:05Z
+203.213.242.73,203-213-242-73.pool.activ8me.net.au.,24033,Australian Private Networks Pty Ltd,AU,Melbourne,dnsmasq-,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:36:15Z,2023-03-15T20:04:41Z
+120.29.240.63,,45158,Tasmanet Pty Ltd,AU,Hobart,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:36:22Z,2023-03-15T20:12:38Z
+115.70.2.213,213.2.70.115.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Melbourne,dnsmasq-2.48,,true,1.00,2023-04-05T00:36:26Z,2023-03-15T20:18:32Z
+202.169.18.173,,137549,NODE1 Pty Ltd,AU,Perth,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:36:33Z,2023-03-15T20:33:20Z
+58.161.88.70,cpe-58-161-88-70.lfui-cr-002.win.vic.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Brisbane,dnsmasq-,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:36:51Z,2023-03-15T21:02:48Z
+27.32.78.85,27-32-78-85.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Narangba,dnsmasq-2.83,SERVFAIL for wikileaks.org,,0.93,2023-04-05T00:37:02Z,2023-03-15T21:15:53Z
+218.214.98.45,218-214-98-45.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Brisbane,,i/o timeout,,0.80,2023-04-05T00:37:12Z,2023-03-15T21:18:57Z
+120.151.179.6,flgree11.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,SERVFAIL for wikileaks.org,,0.70,2023-04-05T00:37:27Z,2023-03-15T21:46:33Z
+220.240.77.228,220-240-77-228.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,i/o timeout,,0.93,2023-04-05T00:37:56Z,2023-03-15T22:22:16Z
+207.148.85.141,207.148.85.141.vultrusercontent.com.,20473,AS-CHOOPA,AU,Sydney,,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:38:12Z,2023-03-15T22:56:04Z
+110.175.223.190,110-175-223-190.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Brisbane,,i/o timeout,,0.97,2023-04-05T00:38:50Z,2023-03-15T23:49:07Z
+60.240.131.42,60-240-131-42.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,dnsmasq-2.80,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:38:51Z,2023-03-16T00:04:20Z
+122.199.59.25,122-199-59-25.ip4.superloop.au.,38195,Superloop,AU,Melbourne,,SERVFAIL for wikileaks.org,,0.93,2023-04-05T00:39:51Z,2023-03-16T01:33:15Z
+220.233.26.113,113.26.233.220.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Sydney,,i/o timeout,,0.96,2023-04-05T00:40:15Z,2023-03-16T02:00:23Z
+59.167.129.212,ppp59-167-129-212.static.internode.on.net.,4739,Internode Pty Ltd,AU,Sydney,,,false,0.39,2023-04-06T18:11:15Z,2023-03-16T02:27:02Z
+58.96.69.188,188.69.96.58.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Melbourne,dnsmasq-,,false,0.79,2023-04-10T11:11:12Z,2023-03-16T02:32:26Z
+125.254.103.2,,9224,Cirrus Communications Pty Ltd,AU,Sunshine Coast,Microsoft DNS 6.1.7601 (1DB15F75),,false,0.23,2023-04-19T08:24:26Z,2023-03-16T02:35:13Z
+13.237.33.153,ec2-13-237-33-153.ap-southeast-2.compute.amazonaws.com.,16509,AMAZON-02,AU,Sydney,9.16.1-Ubuntu,SERVFAIL for wikileaks.org,,0.82,2023-04-05T05:14:33Z,2023-03-16T03:32:39Z
+14.200.240.97,14-200-240-97.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,,true,1.00,2023-04-05T00:41:11Z,2023-03-16T03:47:07Z
+144.137.210.217,cpe-144-137-210-217.static.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,Akamai Vantio CacheServe 7.6.1.0,SERVFAIL for wikileaks.org,,0.68,2023-04-05T00:41:13Z,2023-03-16T03:50:53Z
+60.240.168.110,60-240-168-110.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Brisbane,,i/o timeout,,0.90,2023-04-05T00:41:23Z,2023-03-16T03:54:24Z
+20.193.27.225,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,AU,Sydney,dnsmasq-2.48,SERVFAIL for wikileaks.org,,0.91,2023-04-05T00:41:19Z,2023-03-16T03:59:44Z
+119.40.104.180,119-40-104-180.ip4.superloop.au.,38195,Superloop,AU,Adelaide,,i/o timeout,,0.77,2023-04-05T00:41:29Z,2023-03-16T04:05:15Z
+103.119.109.162,,136557,Host Universal Pty Ltd,AU,Melbourne,9.11.26-RedHat-9.11.26-6.el8,SERVFAIL for wikileaks.org,,0.91,2023-04-05T00:41:25Z,2023-03-16T04:08:55Z
+58.168.250.35,cpe-58-168-250-35.static.vic.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Melbourne,DNSServer,,false,1.00,2023-04-05T00:41:28Z,2023-03-16T04:10:58Z
+101.187.128.46,pum1868131.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Brisbane,,SERVFAIL for wikileaks.org,,0.66,2023-04-05T00:41:53Z,2023-03-16T04:43:29Z
+59.167.196.217,clbls2.com.au.,4739,Internode Pty Ltd,AU,Melbourne,dnsmasq-,,false,1.00,2023-04-05T00:42:13Z,2023-03-16T05:27:58Z
+3.105.10.87,ec2-3-105-10-87.ap-southeast-2.compute.amazonaws.com.,16509,AMAZON-02,AU,Sydney,dnsmasq-1.01,SERVFAIL for wikileaks.org,,0.94,2023-04-05T00:42:15Z,2023-03-16T05:32:19Z
+58.96.20.1,1.20.96.58.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Sydney,,i/o timeout,,0.79,2023-04-05T00:42:49Z,2023-03-16T06:18:56Z
+14.203.237.227,14-203-237-227.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,i/o timeout,,0.27,2023-04-10T18:11:52Z,2023-03-16T06:48:16Z
+140.238.195.187,,31898,ORACLE-BMC-31898,AU,Bungarribee,dnsmasq-2.86,,false,0.73,2023-04-05T00:43:47Z,2023-03-16T07:50:36Z
+115.64.139.214,115-64-139-214.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Brisbane,,i/o timeout,,0.01,2023-04-10T18:12:02Z,2023-03-16T08:29:35Z
+116.240.120.182,116-240-120-182.sta.dodo.net.au.,9443,Vocus Retail,AU,Perth,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.9,,true,0.58,2023-04-12T12:17:16Z,2023-03-16T09:16:08Z
+203.132.93.189,203-132-93-189.ip4.superloop.au.,38195,Superloop,AU,Sydney,DNSServer,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:44:43Z,2023-03-16T09:24:25Z
+203.144.13.250,comsectr.com.au.,9313,Network Technology AUST PL,AU,Gold Coast,unbound 1.4.22,,false,0.91,2023-04-05T00:44:47Z,2023-03-16T09:27:05Z
+203.45.164.150,,1221,Telstra Corporation Ltd,AU,Perth,,i/o timeout,,0.91,2023-04-05T00:45:23Z,2023-03-16T10:16:49Z
+58.96.102.87,87.102.96.58.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Melbourne,dnsmasq-2.85,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:45:22Z,2023-03-16T10:26:33Z
+121.44.237.136,,7545,TPG Telecom Limited,AU,Sydney,,i/o timeout,,0.90,2023-04-05T00:46:11Z,2023-03-16T11:30:55Z
+210.10.179.208,C-210-10-179-208.hay.connect.net.au.,2764,AAPT Limited,AU,Melbourne,dnsmasq-,,false,0.78,2023-04-25T14:43:54Z,2023-03-16T11:50:01Z
+103.12.188.223,,134711,FLIP TV PTY LIMITED,AU,Sunshine Coast,dnsmasq-,,false,0.75,2023-04-19T19:35:54Z,2023-03-16T12:11:41Z
+103.16.131.153,dashmctwserver.com.au.,133159,Mammoth Media Pty Ltd,AU,Brisbane,,,false,0.75,2023-04-19T19:36:22Z,2023-03-16T12:41:05Z
+119.77.77.107,119-77-77-107.pool.activ8me.net.au.,24033,Australian Private Networks Pty Ltd,AU,Sydney,dnsmasq-,,false,0.80,2023-04-19T19:36:19Z,2023-03-16T12:49:12Z
+122.150.68.250,122-150-68-250.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Melbourne,,,false,0.80,2023-04-19T19:36:21Z,2023-03-16T12:52:36Z
+203.220.162.1,203-220-162-1.tpgi.com.au.,7545,TPG Telecom Limited,AU,Melbourne,,i/o timeout,,0.00,2023-04-19T19:36:30Z,2023-03-16T12:58:04Z
+115.70.205.225,mail.sinclaibrook.com.au.,10143,Exetel Pty Ltd,AU,Melbourne,,,true,0.60,2023-04-19T19:36:41Z,2023-03-16T13:20:52Z
+58.96.110.125,125.110.96.58.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Adelaide,,i/o timeout,,0.00,2023-04-19T19:36:59Z,2023-03-16T13:49:04Z
+165.228.95.93,,1221,Telstra Corporation Ltd,AU,Melbourne,,no route to host,,0.00,2023-04-19T19:36:52Z,2023-03-16T13:53:15Z
+101.189.72.12,cpe-101-189-72-12.wb06.wa.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Perth,,i/o timeout,,0.33,2023-04-19T19:37:22Z,2023-03-16T14:32:17Z
+103.174.6.254,,147064,Kern Solutions Group,AU,,,,false,1.00,2023-04-19T19:37:22Z,2023-03-16T14:37:44Z
+203.86.210.201,,38456,SPEEDCAST AUSTRALIA PTY LIMITED,AU,,,i/o timeout,,0.00,2023-04-19T19:38:26Z,2023-03-16T16:15:06Z
+118.211.178.160,118-211-178-160.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,i/o timeout,,0.00,2023-04-19T19:38:40Z,2023-03-16T16:38:11Z
+49.255.238.227,technetics.telnetworks.net.au.,4826,Vocus Connect International Backbone,AU,Melbourne,none,,true,0.65,2023-04-19T19:39:06Z,2023-03-16T17:31:35Z
+59.101.191.180,C-59-101-191-180.mel.connect.net.au.,2764,AAPT Limited,AU,Sydney,,i/o timeout,,0.00,2023-04-19T19:39:13Z,2023-03-16T17:32:55Z
+202.91.44.131,202-91-44-131.static.lightningbroadband.com.au.,136000,Lightning Broadband Pty Ltd,AU,Melbourne,dnsmasq-,,false,0.65,2023-04-19T19:39:09Z,2023-03-16T17:34:45Z
+59.101.150.169,C-59-101-150-169.mel.connect.net.au.,2764,AAPT Limited,AU,Adelaide,,i/o timeout,,0.00,2023-04-19T19:39:31Z,2023-03-16T17:57:23Z
+123.100.148.102,,135060,Telair Pty Ltd,AU,Sydney,dnsmasq-,,false,0.67,2023-04-19T19:39:26Z,2023-03-16T17:58:18Z
+180.150.123.16,180-150-123-16.b4967b.per.nbn.aussiebb.net.,4764,Aussie Broadband,AU,,,,false,0.67,2023-04-19T19:39:34Z,2023-03-16T18:14:04Z
+3.104.141.88,ec2-3-104-141-88.ap-southeast-2.compute.amazonaws.com.,16509,AMAZON-02,AU,Sydney,ATLAS,,false,0.93,2023-04-20T15:40:43Z,2023-03-16T18:41:41Z
+27.32.78.81,27-32-78-81.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Narangba,dnsmasq-2.83,,false,0.69,2023-04-19T19:40:05Z,2023-03-16T19:04:22Z
+203.49.82.37,,1221,Telstra Corporation Ltd,AU,Melbourne,,,false,0.69,2023-04-19T19:40:08Z,2023-03-16T19:08:56Z
+125.168.137.143,143.137.168.125.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Adelaide,dnsmasq-,,false,0.70,2023-04-19T19:40:16Z,2023-03-16T19:22:04Z
+122.150.35.145,122-150-35-145.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,dnsmasq-,,false,0.68,2023-04-19T19:40:47Z,2023-03-16T20:03:00Z
+168.138.11.160,,31898,ORACLE-BMC-31898,AU,Melbourne,,,true,0.61,2023-04-19T19:41:03Z,2023-03-16T20:20:59Z
+210.9.23.182,210-9-23-182.syd.static-ipl.aapt.com.au.,2764,AAPT Limited,AU,Sydney,,no route to host,,0.00,2023-04-19T19:41:20Z,2023-03-16T20:59:31Z
+120.159.176.55,cpe-120-159-176-55.dyn.belong.com.au.,135887,Belong Telstra Corporation,AU,Hobart,dnsmasq-,,false,0.68,2023-04-19T19:41:28Z,2023-03-16T21:06:50Z
+123.100.148.125,,135060,Telair Pty Ltd,AU,Sydney,dnsmasq-,,false,0.69,2023-04-19T19:41:30Z,2023-03-16T21:09:09Z
+125.168.39.55,55.39.168.125.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Sydney,,connection refused,,0.46,2023-04-19T19:41:31Z,2023-03-16T21:11:39Z
+61.245.128.86,,4764,Aussie Broadband,AU,Perth,,connection refused,,0.46,2023-04-19T19:41:33Z,2023-03-16T21:13:37Z
+110.142.128.68,,1221,Telstra Corporation Ltd,AU,Perth,,i/o timeout,,0.54,2023-04-19T19:41:45Z,2023-03-16T21:22:46Z
+14.200.200.210,14-200-200-210.tpgi.com.au.,7545,TPG Telecom Limited,AU,Melbourne,unbound 1.4.22,,false,0.69,2023-04-21T17:41:57Z,2023-03-16T21:50:50Z
+124.254.122.66,ip-66.122.254.124.VOCUS.net.au.,4826,Vocus Connect International Backbone,AU,Perth,,i/o timeout,,0.00,2023-04-21T17:42:09Z,2023-03-16T22:00:07Z
+14.200.249.18,14-200-249-18.tpgi.com.au.,7545,TPG Telecom Limited,AU,Melbourne,Microsoft DNS 6.1.7601 (1DB15F75),,false,0.74,2023-04-21T17:42:16Z,2023-03-16T22:21:18Z
+203.58.44.15,ns1.downerengineering.com.au.,1221,Telstra Corporation Ltd,AU,Biloela,Classified,,false,0.71,2023-04-21T21:44:16Z,2023-03-17T00:03:07Z
+203.176.102.68,test.com.au.,38809,Vocus Advanced Services,AU,Epping,,,false,0.71,2023-04-21T21:44:18Z,2023-03-17T00:07:16Z
+220.235.32.155,220-235-32-155.tpgi.com.au.,7545,TPG Telecom Limited,AU,Perth,,i/o timeout,,0.55,2023-04-21T21:44:45Z,2023-03-17T00:47:07Z
+180.150.103.57,180-150-103-57.b49667.bne.static.aussiebb.net.,4764,Aussie Broadband,AU,Brisbane,,no route to host,,0.00,2023-04-21T21:44:54Z,2023-03-17T01:09:30Z
+202.138.20.130,202-138-20-130.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Melbourne,,,false,0.62,2023-04-21T21:45:57Z,2023-03-17T02:59:05Z
+210.10.133.238,C-210-10-133-238.can.connect.net.au.,2764,AAPT Limited,AU,Sydney,,i/o timeout,,0.00,2023-04-21T21:46:41Z,2023-03-17T04:09:56Z
+122.148.255.5,122-148-255-5.sta.dodo.net.au.,9443,Vocus Retail,AU,Perth,,i/o timeout,,0.00,2023-04-21T21:46:55Z,2023-03-17T04:38:40Z
+58.84.109.57,58-84-109-57.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,i/o timeout,,0.02,2023-04-21T21:47:05Z,2023-03-17T04:53:40Z
+27.32.120.214,27-32-120-214.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,unbound,,false,0.77,2023-04-21T21:47:46Z,2023-03-17T06:15:12Z
+14.201.65.138,14-201-65-138.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Melbourne,,i/o timeout,,0.08,2023-04-21T21:49:23Z,2023-03-17T08:41:33Z
+220.235.73.65,220-235-73-65.dyn.iinet.net.au.,7545,TPG Telecom Limited,AU,Perth,,i/o timeout,,0.00,2023-04-21T21:49:26Z,2023-03-17T08:44:36Z
+103.197.144.67,,134711,FLIP TV PTY LIMITED,AU,Sydney,,i/o timeout,,0.00,2023-04-21T21:49:31Z,2023-03-17T08:52:36Z
+58.165.30.24,cpe-58-165-30-24.bpw3-r-961.woo.qld.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.89,2023-05-08T07:49:12Z,2023-03-17T10:21:28Z
+116.240.232.18,18.070.dsl.ade.iprimus.net.au.,9443,Vocus Retail,AU,Adelaide,dnsmasq-,,false,0.94,2023-05-08T07:49:07Z,2023-03-17T10:22:47Z
+122.199.63.107,122-199-63-107.ip4.superloop.au.,38195,Superloop,AU,Melbourne,,i/o timeout,,0.72,2023-05-08T07:49:19Z,2023-03-17T10:30:56Z
+124.168.232.112,124-168-232-112.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,i/o timeout,,0.50,2023-05-08T07:50:37Z,2023-03-17T12:20:37Z
+170.64.160.201,,14061,DIGITALOCEAN-ASN,AU,Sydney,,i/o timeout,,0.00,2023-05-08T07:51:58Z,2023-03-17T14:29:38Z
+27.33.166.141,27-33-166-141.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Melbourne,,i/o timeout,,0.00,2023-05-08T07:52:41Z,2023-03-17T15:37:04Z
+202.182.133.9,dslnt-133-9.hotspotzz.net.au.,9627,TCR Holdings Ltd,AU,,,i/o timeout,,0.88,2023-05-08T07:52:49Z,2023-03-17T15:48:34Z
+124.149.168.85,124-149-168-85.dyn.iinet.net.au.,7545,TPG Telecom Limited,AU,Sydney,,i/o timeout,,0.00,2023-05-08T09:48:59Z,2023-03-17T17:30:31Z
+110.142.22.115,,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-05-12T00:49:39Z,2023-03-17T19:07:47Z
+38.9.0.206,ip-38-9-0-206.internet.url.net.au.,56087,URL Networks,AU,Batemans Bay,dnsmasq-2.71,,false,0.45,2023-05-12T00:49:34Z,2023-03-17T19:09:02Z
+115.70.148.133,133.148.70.115.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-05-25T07:49:23Z,2023-03-17T19:49:01Z
+157.211.23.224,cpe-224-23-211-157.matenbn.com.au.,58507,Wireline,AU,Sydney,,i/o timeout,,0.00,2023-05-25T07:49:31Z,2023-03-17T20:07:11Z
+110.238.1.62,110-238-1-62.cpe.voice.net.au.,17667,iseek Communications Pty Ltd,AU,Hahndorf,,connection refused,,0.00,2023-05-25T07:49:25Z,2023-03-17T20:14:54Z
+58.96.81.240,240.81.96.58.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-08-17T21:50:56Z,2023-03-17T20:45:13Z
+203.170.8.222,,24479,"Nexium, Ergon Energy Telecommunications.",AU,Brisbane,,i/o timeout,,0.00,2023-08-17T21:53:23Z,2023-03-17T21:07:33Z
+203.121.215.99,203-121-215-99.r.fuzenet.com.au.,45763,Fuzenet Pty Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-08-17T21:52:58Z,2023-03-17T21:24:37Z
+203.59.113.66,203-59-113-66.dyn.iinet.net.au.,7545,TPG Telecom Limited,AU,Hobart,,no route to host,,0.00,2023-08-12T20:55:11Z,2023-03-18T00:16:49Z
+61.68.200.1,61-68-200-1.tpgi.com.au.,7545,TPG Telecom Limited,AU,Adelaide,,i/o timeout,,0.00,2023-08-12T20:55:22Z,2023-03-18T00:20:41Z
+203.87.25.2,2.25.87.203.static.sa.chariot.net.au.,7545,TPG Telecom Limited,AU,Sydney,,i/o timeout,,0.00,2023-08-12T20:55:55Z,2023-03-18T01:27:02Z
+124.254.122.142,ip-142.122.254.124.VOCUS.net.au.,4826,Vocus Connect International Backbone,AU,Perth,,i/o timeout,,0.00,2023-08-12T20:56:17Z,2023-03-18T02:07:57Z
+220.253.98.240,220-253-98-240.tpgi.com.au.,7545,TPG Telecom Limited,AU,Brisbane,,i/o timeout,,0.00,2023-08-12T20:56:33Z,2023-03-18T02:39:58Z
+172.105.167.14,li2076-14.members.linode.com.,63949,Akamai Connected Cloud,AU,Sydney,,connection refused,,0.00,2023-08-12T20:56:28Z,2023-03-18T02:47:43Z
+203.174.136.92,203-174-136-92.syd.static-ipl.aapt.com.au.,2764,AAPT Limited,AU,Geelong,,no route to host,,0.00,2023-08-12T20:56:58Z,2023-03-18T03:30:51Z
+202.73.30.115,202-73-30-115.static.lightningbroadband.com.au.,136000,Lightning Broadband Pty Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-08-12T20:57:06Z,2023-03-18T03:39:06Z
+101.187.127.150,stu1733865.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.00,2023-08-12T20:57:24Z,2023-03-18T04:06:19Z
+203.45.104.249,medite10.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Hobart,,connection refused,,0.00,2023-08-12T20:57:51Z,2023-03-18T04:59:04Z
+94.229.4.37,37-4-229-94.bganglobalnet.net.,41458,Pivotel Satellite Pty Limited,AU,,,i/o timeout,,0.00,2023-08-12T20:59:45Z,2023-03-18T08:18:05Z
+139.218.174.154,139-218-174-154.sta.dodo.net.au.,9443,Vocus Retail,AU,Melbourne,,i/o timeout,,0.00,2023-08-12T21:01:14Z,2023-03-18T10:31:34Z
+20.213.60.170,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,AU,Sydney,,i/o timeout,,0.00,2023-08-12T21:01:29Z,2023-03-18T10:56:14Z
+118.211.230.44,,4739,Internode Pty Ltd,AU,Darwin,,i/o timeout,,0.00,2023-08-12T21:02:22Z,2023-03-18T12:14:32Z
+159.196.204.14,,4764,Aussie Broadband,AU,Sydney,,i/o timeout,,0.00,2023-08-12T21:03:23Z,2023-03-18T14:17:43Z
+60.241.155.4,60-241-155-4.tpgi.com.au.,7545,TPG Telecom Limited,AU,Perth,,i/o timeout,,0.00,2023-08-12T21:03:51Z,2023-03-18T15:10:36Z
+121.45.44.140,,7545,TPG Telecom Limited,AU,Canberra,,i/o timeout,,0.00,2023-08-12T21:04:39Z,2023-03-18T16:19:02Z
+110.148.210.223,cpe-110-148-210-223.bpjl-r-038.lon.vic.bigpond.net.au.,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-08-17T21:51:06Z,2023-03-18T18:11:05Z
+157.211.182.174,cpe-174-182-211-157.matenbn.com.au.,58507,Wireline,AU,Sydney,,i/o timeout,,0.00,2023-08-12T21:05:54Z,2023-03-18T18:17:00Z
+159.196.101.176,159-196-101-176.9fc465.syd.static.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,,connection refused,,0.00,2023-08-12T21:06:29Z,2023-03-18T19:45:20Z
+118.209.99.253,ppp118-209-99-253.hba-tec-tas-bras31.tpg.internode.on.net.,7545,TPG Telecom Limited,AU,Hobart,,no route to host,,0.00,2023-08-17T21:51:04Z,2023-03-18T19:47:56Z
+14.200.164.190,14-200-164-190.tpgi.com.au.,7545,TPG Telecom Limited,AU,Brisbane,,no route to host,,0.00,2023-08-12T21:06:33Z,2023-03-18T19:53:03Z
+59.167.161.97,ppp161-97.static.internode.on.net.,4739,Internode Pty Ltd,AU,Sydney,,i/o timeout,,0.00,2023-08-12T21:06:43Z,2023-03-18T20:00:46Z
+139.218.120.167,167.120.218.139.sta.wbroadband.net.au.,9443,Vocus Retail,AU,Perth,dnsmasq-,,false,1.00,2023-08-12T21:06:41Z,2023-03-18T20:12:56Z
+60.227.61.85,cpe-60-227-61-85.nb01.nsw.asp.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-08-17T11:53:49Z,2023-03-19T01:27:29Z
+167.179.156.20,167-179-156-20.a7b39c.syd.nbn.aussiebb.net.,4764,Aussie Broadband,AU,Sydney,,i/o timeout,,0.83,2023-08-17T11:53:59Z,2023-03-19T01:54:19Z
+49.255.141.246,static-246.141.255.49.in-addr.VOCUS.net.au.,4826,Vocus Connect International Backbone,AU,Perth,,i/o timeout,,0.00,2023-08-17T15:53:36Z,2023-03-19T02:01:30Z
+124.254.122.34,ip-34.122.254.124.VOCUS.net.au.,4826,Vocus Connect International Backbone,AU,Perth,,i/o timeout,,0.00,2023-08-17T15:53:55Z,2023-03-19T02:42:22Z
+202.3.38.239,,38170,Green Tree Frog,AU,Sydney,,,false,0.64,2023-08-17T15:57:54Z,2023-03-19T10:23:02Z
+203.54.134.126,fir4162715.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-08-17T15:58:08Z,2023-03-19T11:11:02Z
+43.229.60.243,syd-docker.lspcr.space.,133159,Mammoth Media Pty Ltd,AU,Sydney,,connection refused,,0.00,2023-08-17T15:58:04Z,2023-03-19T11:20:53Z
+123.200.168.132,,9723,iseek Communications Pty Ltd,AU,Brisbane,,,false,1.00,2023-08-17T20:53:42Z,2023-03-19T12:32:45Z
+118.211.80.123,,7545,TPG Telecom Limited,AU,Adelaide,,i/o timeout,,0.00,2023-08-17T21:53:33Z,2023-03-19T12:42:14Z
+103.153.9.30,,9268,Over The Wire Pty Ltd,AU,Adelaide,,i/o timeout,,0.00,2023-08-17T21:53:33Z,2023-03-19T12:44:30Z
+120.29.241.94,,45158,Tasmanet Pty Ltd,AU,Hobart,,i/o timeout,,0.00,2023-08-17T21:54:07Z,2023-03-19T13:51:34Z
+203.166.254.132,203-166-254-132.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,i/o timeout,,0.00,2023-08-17T21:54:31Z,2023-03-19T14:51:32Z
+27.33.220.246,27-33-220-246.tpgi.com.au.,7545,TPG Telecom Limited,AU,Canberra,,i/o timeout,,0.00,2023-08-17T21:55:59Z,2023-03-19T18:10:41Z
+202.63.69.32,202-63-69-32.ip4.superloop.au.,38195,Superloop,AU,Sydney,,i/o timeout,,0.00,2023-08-17T21:56:36Z,2023-03-19T19:31:32Z
+120.153.245.218,,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.00,2023-08-17T21:56:59Z,2023-03-19T20:14:14Z
+202.73.30.150,202-73-30-150.static.lightningbroadband.com.au.,136000,Lightning Broadband Pty Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-08-17T21:57:13Z,2023-03-19T20:48:56Z
+220.233.222.29,29.222.233.220.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Sydney,,,false,1.00,2023-08-17T21:57:43Z,2023-03-19T22:06:27Z
+118.211.126.108,,7545,TPG Telecom Limited,AU,Canberra,,i/o timeout,,0.00,2023-08-17T21:58:09Z,2023-03-23T00:36:48Z
+58.84.182.9,58-84-182-9.r.fuzenet.com.au.,45763,Fuzenet Pty Ltd,AU,Perth,,i/o timeout,,0.00,2023-08-17T21:58:25Z,2023-03-23T13:10:25Z
+210.8.142.119,static-visp-119.gw.connect.com.au.,2764,AAPT Limited,AU,Sydney,,i/o timeout,,0.00,2023-08-17T21:58:27Z,2023-03-23T15:33:45Z
+154.26.158.60,ip-60-158-26-154.static.contabo.net.,141995,Contabo Asia Private Limited,AU,Sydney,,i/o timeout,,0.00,2023-08-17T21:58:41Z,2023-04-02T08:58:23Z
+154.26.158.205,ip-205-158-26-154.static.contabo.net.,141995,Contabo Asia Private Limited,AU,Sydney,,i/o timeout,,0.00,2023-08-17T21:58:42Z,2023-04-02T09:01:49Z
+103.100.121.243,,133206,DGTEK PTY LTD,AU,Melbourne,,i/o timeout,,0.00,2023-08-17T21:58:44Z,2023-04-04T20:05:12Z
+220.235.57.98,dip-220-235-57-98.wa.westnet.com.au.,7545,TPG Telecom Limited,AU,Perth,,i/o timeout,,0.00,2023-08-17T21:58:52Z,2023-04-05T23:27:47Z
+180.181.36.83,180-181-36-83.cpe.skymesh.net.au.,0,,AU,,,i/o timeout,,0.00,2023-08-17T21:58:59Z,2023-04-06T08:14:45Z
+115.70.164.93,remote.aireng.com.au.,10143,Exetel Pty Ltd,AU,Melbourne,,connection refused,,0.00,2023-08-17T21:58:58Z,2023-04-06T12:29:39Z
+139.99.254.63,,16276,OVH SAS,AU,Sydney,,i/o timeout,,0.00,2023-08-17T21:59:16Z,2023-04-06T21:11:41Z
+159.196.25.98,,4764,Aussie Broadband,AU,Brisbane,,i/o timeout,,0.00,2023-08-17T21:59:26Z,2023-04-07T03:44:02Z
+202.174.110.210,ns-pl09.vpscloud.com.au.,4851,Host Networks,AU,Brisbane,,i/o timeout,,0.00,2023-08-17T21:59:29Z,2023-04-07T07:39:05Z
+59.100.208.62,59-100-208-62.bri.static-ipl.aapt.com.au.,2764,AAPT Limited,AU,Brisbane,,,false,0.90,2023-08-17T21:59:53Z,2023-04-09T00:30:09Z
+59.102.49.165,59-102-49-165.tpgi.com.au.,7545,TPG Telecom Limited,AU,Melbourne,,i/o timeout,,0.00,2023-08-17T22:00:18Z,2023-04-09T17:35:41Z
+115.70.38.78,78.38.70.115.static.exetel.com.au.,10143,Exetel Pty Ltd,AU,Campbelltown,,i/o timeout,,0.05,2023-08-17T22:01:08Z,2023-04-11T00:13:20Z
+180.181.184.143,180-181-184-143.cpe.skymesh.net.au.,7477,SkyMesh Pty Ltd,AU,,,i/o timeout,,0.00,2023-08-17T22:02:02Z,2023-05-02T23:36:12Z
+124.168.188.218,124-168-188-218.dyn.iinet.net.au.,7545,TPG Telecom Limited,AU,Central Coast,,i/o timeout,,0.00,2023-08-17T22:02:20Z,2023-05-03T12:51:21Z
+118.211.115.55,,7545,TPG Telecom Limited,AU,Canberra,,i/o timeout,,0.00,2023-08-17T22:02:25Z,2023-05-03T19:05:50Z
+103.12.189.171,,134711,FLIP TV PTY LIMITED,AU,Sydney,dnsmasq-,,false,1.00,2023-08-17T22:02:47Z,2023-05-04T18:34:32Z
+103.225.161.49,,59356,VMCENTRAL Cloud Services,AU,Sydney,,i/o timeout,,0.59,2023-08-17T22:03:29Z,2023-05-05T21:54:08Z
+58.171.254.176,,1221,Telstra Corporation Ltd,AU,Sydney,,Unexpected result for example.com: {[[192 168 5 1]]},,0.01,2023-08-17T22:03:31Z,2023-05-06T07:31:32Z
+118.127.62.178,,45671,Wholesale Services Provider,AU,Melbourne,dnsmasq-2.76,,false,1.00,2023-08-17T22:03:33Z,2023-05-06T07:54:18Z
+45.248.78.99,,136557,Host Universal Pty Ltd,AU,Perth,dnsmasq-2.76,,false,1.00,2023-08-17T22:03:32Z,2023-05-06T07:54:20Z
+54.252.183.4,ec2-54-252-183-4.ap-southeast-2.compute.amazonaws.com.,16509,AMAZON-02,AU,Sydney,dnsmasq-2.68,,false,1.00,2023-08-17T22:03:33Z,2023-05-06T07:54:23Z
+54.252.183.5,ec2-54-252-183-5.ap-southeast-2.compute.amazonaws.com.,16509,AMAZON-02,AU,Sydney,dnsmasq-2.68,,false,1.00,2023-08-17T22:03:34Z,2023-05-06T07:54:26Z
+13.239.88.95,ec2-13-239-88-95.ap-southeast-2.compute.amazonaws.com.,16509,AMAZON-02,AU,Sydney,ATLAS,,false,1.00,2023-08-17T22:03:36Z,2023-05-06T09:29:29Z
+124.169.35.209,124-169-35-209.dyn.iinet.net.au.,7545,TPG Telecom Limited,AU,Sydney,,i/o timeout,,0.00,2023-08-17T22:03:45Z,2023-05-06T11:37:12Z
+172.193.67.34,cpe-172-193-67-34.qld.foxtel.net.au.,133414,Foxtel Management Pty Ltd,AU,Brisbane,,,false,1.00,2023-08-17T22:03:59Z,2023-05-07T02:57:34Z
+172.105.168.123,172-105-168-123.ip.linodeusercontent.com.,63949,Akamai Connected Cloud,AU,Sydney,,i/o timeout,,0.00,2023-08-17T22:04:13Z,2023-05-07T09:55:33Z
+147.28.167.67,shepherd-prod-06d40c04-f0d0-4836.,54825,PACKET,AU,Melbourne,,connection refused,,0.00,2023-08-17T22:04:29Z,2023-05-08T10:14:26Z
+170.64.147.31,ns2.seolizer.de.,14061,DIGITALOCEAN-ASN,AU,Sydney,9.18.16-1~deb12u1-Debian,,false,1.00,2023-08-17T22:04:38Z,2023-08-12T21:22:41Z
+115.64.12.63,115-64-12-63.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Sydney,,i/o timeout,,0.00,2023-08-17T22:04:59Z,2014-12-29T17:37:15Z
+110.142.121.50,antune1.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Adelaide,,i/o timeout,,0.00,2023-08-17T22:05:06Z,2014-12-29T18:35:10Z
+124.148.136.102,mail.whatsthatskip.com.,4739,Internode Pty Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-08-17T22:05:32Z,2014-12-29T22:40:40Z
+203.45.96.185,tomdoo3.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.00,2023-08-17T22:06:29Z,2014-12-30T19:15:13Z
+203.37.118.204,olive.macmahon.com.au.,1221,Telstra Corporation Ltd,AU,Mackay,,i/o timeout,,0.00,2023-08-17T22:06:42Z,2014-12-31T23:02:40Z
+150.207.139.1,ns2.iping.net.au.,38809,Vocus Advanced Services,AU,Melbourne,,i/o timeout,,0.00,2023-08-17T22:06:44Z,2014-12-31T23:48:19Z
+202.4.188.227,,131268,Sunshine Coast Regional Council,AU,Sunshine Coast,,i/o timeout,,0.00,2023-08-17T21:07:34Z,2015-01-06T10:07:10Z
+149.135.96.243,,1221,Telstra Corporation Ltd,AU,Canberra,,i/o timeout,,0.00,2023-08-17T21:07:46Z,2015-01-06T15:12:29Z
+203.45.62.10,blooms54.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-08-17T21:08:05Z,2015-01-06T22:44:33Z
+149.135.39.195,,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.00,2023-08-17T21:08:23Z,2015-01-07T11:26:42Z
+149.135.39.192,,1221,Telstra Corporation Ltd,AU,Brisbane,,i/o timeout,,0.00,2023-08-17T21:08:24Z,2015-01-07T12:31:09Z
+202.161.69.18,202-161-69-18.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Melbourne,,no route to host,,0.00,2023-08-17T21:08:43Z,2015-01-08T03:12:02Z
+129.78.220.129,pc-129.cmri.usyd.edu.au.,23719,University of Sydney,AU,,,i/o timeout,,0.00,2023-08-17T21:08:54Z,2015-01-08T05:01:04Z
+203.45.116.220,,1221,Telstra Corporation Ltd,AU,Canberra,,i/o timeout,,0.00,2023-08-17T21:08:55Z,2015-01-08T05:32:17Z
+120.150.103.230,jec1051842.lnk.telstra.net.,1221,Telstra Corporation Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-08-17T21:10:05Z,2015-01-10T05:56:40Z
+101.2.171.71,,55707,Simtronic,AU,Sydney,,i/o timeout,,0.00,2023-08-17T21:10:13Z,2015-01-10T10:10:17Z
+27.32.129.177,27-32-129-177.static.tpgi.com.au.,7545,TPG Telecom Limited,AU,Melbourne,,i/o timeout,,0.00,2023-08-17T21:10:46Z,2015-01-11T10:26:14Z
+203.21.5.66,fish.micronica.com.au.,7545,TPG Telecom Limited,AU,,,i/o timeout,,0.01,2023-08-17T21:11:36Z,2015-01-12T21:03:52Z
+27.124.98.249,,55811,Countrytell Management Pty Ltd,AU,Newcastle,,i/o timeout,,0.00,2023-08-17T21:12:43Z,2017-03-04T00:48:29Z
+203.173.10.193,203-173-10-193.perm.iinet.net.au.,4739,Internode Pty Ltd,AU,Canberra,,i/o timeout,,0.00,2023-08-17T21:14:07Z,2017-04-04T03:49:28Z
+168.1.79.229,e5.4f.01a8.ip4.static.sl-reverse.com.,36351,SOFTLAYER,AU,Melbourne,,i/o timeout,,0.00,2023-08-17T21:14:12Z,2017-05-25T05:50:39Z
+103.19.173.144,cpe-144-173-19-103.wireline.com.au.,58507,Wireline,AU,,,i/o timeout,,0.00,2023-08-17T21:14:15Z,2017-09-05T22:33:44Z
+45.126.45.33,45-126-45-33.static.b2bwholesale.com.au.,134141,B2B Wholesale Pty Ltd,AU,Melbourne,,i/o timeout,,0.00,2023-08-17T21:14:16Z,2017-09-05T22:37:39Z
+203.122.226.155,ppp226-155.static.internode.on.net.,4739,Internode Pty Ltd,AU,Adelaide,,i/o timeout,,0.00,2023-08-17T21:18:38Z,2020-05-21T11:30:43Z
+131.172.15.211,,135893,La Trobe University,AU,Melbourne,,i/o timeout,,0.00,2023-08-17T21:18:56Z,2020-06-02T04:20:45Z
+1.0.0.20,,13335,CLOUDFLARENET,AU,Moondarra,,i/o timeout,,0.00,2023-08-17T21:19:08Z,2020-06-08T03:14:56Z
+1.129.104.134,,1221,Telstra Corporation Ltd,AU,Sydney,,i/o timeout,,0.00,2023-08-17T21:19:18Z,2020-06-13T21:12:09Z

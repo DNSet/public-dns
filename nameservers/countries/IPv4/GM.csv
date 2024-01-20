@@ -1,0 +1,2 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+212.60.64.211,,25250,Gamtele,GM,Banjul,Microsoft DNS 6.0.6003 (1773501D),Unexpected result for wikileaks.org: {[[141 105 65 113] [185 165 168 41] [195 35 109 53] [195 35 109 44]]},,0.00,2021-09-01T22:57:17Z,2021-06-09T14:24:37Z

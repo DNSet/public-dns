@@ -1,0 +1,2 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+201.229.68.14,201-229-68-14.setardsl.aw.,11816,SERVICIO DI TELECOMUNICACION DI ARUBA SETAR N.V.,AW,Oranjestad,,,false,1.00,2023-03-15T09:57:40Z,2023-03-14T22:14:48Z

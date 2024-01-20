@@ -1,0 +1,2 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+194.177.224.47,acs-esc1.greennet.gl.,8818,Tele Greenland,GL,Ilulissat,9.8.4-rpz2+rl005.12-P1,,false,1.00,2023-03-15T09:49:31Z,2023-03-13T18:04:45Z

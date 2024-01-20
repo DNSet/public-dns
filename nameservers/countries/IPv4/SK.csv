@@ -1,0 +1,250 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+212.5.211.234,mail.cestynitra.sk.,6855,"Slovak Telekom, a.s.",SK,Zavar,,i/o timeout,,0.00,2023-03-04T10:46:58Z,2020-09-02T19:41:37Z
+213.108.122.97,213-108-122-97.minet.sk.,20581,Ing. Jan Mindzak - Maximal Net,SK,Humenné,,Unexpected result for wikileaks.org: {[[185 165 168 41] [195 35 109 44] [195 35 109 53] [141 105 69 239] [141 105 65 113]]},,0.74,2021-01-11T12:45:33Z,2020-11-22T11:41:24Z
+95.105.251.199,95-105-251-199.static.orange.sk.,15962,Orange Slovensko a.s.,SK,Vrbové,,i/o timeout,,0.00,2023-03-05T06:57:45Z,2021-09-26T02:15:19Z
+213.81.218.225,stip-static-225.213-81-218.telecom.sk.,6855,"Slovak Telecom, a. s.",SK,Lučenec,,,false,1.00,2021-09-28T14:07:32Z,2021-09-26T14:37:45Z
+195.168.91.238,,5578,"SWAN, a.s.",SK,Bratislava,,,false,1.00,2021-09-27T12:23:37Z,2021-09-27T12:23:37Z
+188.167.156.173,188-167-156-173.dynamic.chello.sk.,6830,Liberty Global B.V.,SK,Bratislava,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-01T22:53:48Z,2021-10-01T22:53:48Z
+158.193.143.105,,2607,Zdruzenie pouzivatelov Slovenskej akademickej datovej siete,SK,,dnsmasq-pi-hole-2.87test3,,false,1.00,2021-10-01T23:05:00Z,2021-10-01T23:05:00Z
+92.245.6.12,c12-6.condornet.sk.,44631,"Condornet, s.r.o.",SK,Prešov,dnsmasq-pi-hole-2.80,,false,1.00,2021-10-02T00:00:43Z,2021-10-02T00:00:43Z
+193.37.255.227,,9009,M247 Ltd,SK,Bratislava,cryptostorm,,true,1.00,2021-10-08T08:02:56Z,2021-10-02T14:19:42Z
+158.195.2.2,domaindnszones.uniba.sk.,2607,Zdruzenie pouzivatelov Slovenskej akademickej datovej siete,SK,Bratislava,,,false,1.00,2021-10-02T16:02:44Z,2021-10-02T15:17:48Z
+212.55.225.194,,31679,Slovanet a.s.,SK,,,,false,0.43,2021-10-08T08:01:07Z,2021-10-03T16:20:23Z
+217.145.199.45,45.Gutanet.sk.,12426,Slovanet a.s.,SK,Kolarovo,,i/o timeout,,0.00,2023-02-14T05:35:15Z,2021-10-12T06:02:27Z
+92.60.50.40,bnts-public-dns.bonet.sk.,44185,"BONET Systems, s.r.o.",SK,,BNTS DNS,,true,1.00,2022-01-29T18:09:25Z,2022-01-28T15:28:09Z
+84.245.69.193,gw-10.localnet.sk.,5578,"SWAN, a.s.",SK,Bratislava,BIND,REFUSED for example.com,,0.00,2023-01-11T06:28:23Z,2022-04-25T22:39:13Z
+5.59.10.180,customer-180.itcity.sk.,202564,ITcity s.r.o.,SK,Prešov,,,false,1.00,2022-09-08T08:57:09Z,2022-09-08T08:57:09Z
+5.178.52.186,5-178-52-186.static.orange.sk.,15962,Orange Slovensko a.s.,SK,Lučenec,,,false,1.00,2022-09-11T03:05:13Z,2022-09-11T03:05:13Z
+188.167.183.147,mail.os.sk.,6830,Liberty Global B.V.,SK,Bratislava,,,false,1.00,2022-09-29T04:37:03Z,2022-09-29T00:27:36Z
+212.26.181.119,212-26-181-119.adsl.swan.sk.,5578,"SWAN, a.s.",SK,,caching name server,,false,1.00,2022-10-02T09:35:58Z,2022-10-02T07:23:17Z
+195.168.9.9,,5578,"SWAN, a.s.",SK,Bratislava,dnsmasq-2.45,,false,0.88,2022-10-10T09:33:20Z,2022-10-04T16:12:16Z
+85.237.240.130,85-237-240-130.dynamic.orange.sk.,15962,Orange Slovensko a.s.,SK,Bratislava,,,false,0.93,2022-10-20T15:30:59Z,2022-10-17T02:00:39Z
+195.91.91.136,static-flarion-136.195-91-91.telekom.sk.,6855,"Slovak Telekom, a.s.",SK,Spišská Nová Ves,dnsmasq-2.80,,false,1.00,2022-10-17T22:36:14Z,2022-10-17T22:02:14Z
+80.242.44.77,ns.igeek.eu.,196900,"Axalnet, s.r.o.",SK,Topoľčany,dnsmasq-pi-hole-v2.87rc1,,false,1.00,2022-10-19T21:35:26Z,2022-10-19T18:32:05Z
+87.197.121.13,static-dsl-13.87-197-121.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Šaľa,"Slovak Telekom, a.s.",,false,1.00,2022-10-22T23:39:21Z,2022-10-22T21:31:23Z
+195.168.62.138,,5578,"SWAN, a.s.",SK,Voderady,named,,true,1.00,2022-10-25T01:35:58Z,2022-10-24T07:02:15Z
+212.5.214.213,stip-static-213.212-5-214.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Bratislava,,,false,1.00,2022-10-26T00:18:13Z,2022-10-26T00:18:13Z
+176.112.176.28,,58044,free-zona s.r.o.,SK,Rožňava,,,false,0.90,2022-10-28T22:38:51Z,2022-10-26T01:34:10Z
+87.197.174.186,static-bband-186.87-197-174.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Lovinobana,,,false,1.00,2022-10-27T11:30:23Z,2022-10-26T11:48:13Z
+91.226.112.86,,57248,Wisper s.r.o.,SK,Ziharec,,i/o timeout,,0.00,2023-02-15T21:28:28Z,2022-10-27T07:14:33Z
+176.112.176.77,,58044,free-zona s.r.o.,SK,Rožňava,,,false,1.00,2022-11-11T00:59:28Z,2022-11-05T11:16:51Z
+213.160.188.75,gw.diago.sk.,6855,"Slovak Telekom, a.s.",SK,Humenné,,,false,0.75,2022-11-11T01:01:35Z,2022-11-08T15:14:28Z
+178.143.213.33,178-143-213-33.static.orange.sk.,15962,Orange Slovensko a.s.,SK,Bratislava,,,false,1.00,2023-02-14T14:05:30Z,2022-11-14T00:30:44Z
+176.112.176.67,,58044,free-zona s.r.o.,SK,Rožňava,,,false,0.99,2022-11-17T03:43:59Z,2022-11-14T02:57:45Z
+195.98.28.166,ip-195-098-028-166.static.nextra.sk.,5578,"SWAN, a.s.",SK,Rajecke Teplice,dnsmasq-2.52,,false,1.00,2023-02-09T00:22:10Z,2022-11-15T08:21:10Z
+195.80.167.84,mail2.asp.sk.,8778,Slovanet a.s.,SK,Poprad,,,false,0.47,2023-02-16T23:57:44Z,2022-11-18T09:24:20Z
+194.1.231.84,,5578,"SWAN, a.s.",SK,Košice,,i/o timeout,,0.00,2023-02-18T17:01:10Z,2022-11-20T22:12:52Z
+62.168.116.50,mail3.webzone.sk.,5578,"SWAN, a.s.",SK,Košice,9.16.33,REFUSED for example.com,,0.00,2023-02-09T00:28:42Z,2022-11-21T14:15:55Z
+85.248.128.18,prometheus.qbsw.sk.,5578,"SWAN, a.s.",SK,Vrable,none,,false,0.81,2023-02-18T18:57:09Z,2022-11-22T23:10:48Z
+195.91.125.93,mob-dynamic-93.195-91-125.telekom.sk.,6855,"Slovak Telekom, a.s.",SK,Bratislava,,i/o timeout,,0.00,2023-02-26T00:58:09Z,2022-11-23T07:39:30Z
+87.197.154.105,static-dsl-105.87-197-154.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Malacky,,,false,1.00,2022-12-06T23:50:29Z,2022-11-24T15:00:13Z
+147.213.53.69,,2607,Zdruzenie pouzivatelov Slovenskej akademickej datovej siete,SK,,dnsmasq-2.86,REFUSED for example.com,,0.91,2022-12-06T23:51:48Z,2022-11-26T05:39:17Z
+92.180.202.121,,15962,Orange Slovensko a.s.,SK,Pezinok,,i/o timeout,,0.00,2023-02-26T13:08:20Z,2022-11-26T10:46:54Z
+195.168.79.10,cvg.polieco.ba.voip.gts.sk.,5578,"SWAN, a.s.",SK,Bratislava,,,true,0.96,2022-12-06T23:55:10Z,2022-11-30T15:30:31Z
+46.227.182.45,dev45.net182.ip-net.sk.,56349,IP-Net s.r.o.,SK,Biely Kostol,dnsmasq-2.78,,false,0.37,2023-02-15T15:53:32Z,2022-12-12T05:50:34Z
+81.89.48.176,ssl1.pozitiv.sk.,29405,VNET a.s.,SK,Senec,,connection refused,,0.00,2023-02-19T06:54:16Z,2022-12-24T14:01:47Z
+176.116.108.7,host-176-116-108-7.rsnet.sk.,58130,rsnet s.r.o.,SK,Poltar,,,false,0.93,2023-02-19T07:58:07Z,2022-12-28T03:18:38Z
+185.216.165.186,185-216-165-186.dalnet.sk.,205428,DALNet s.r.o.,SK,Michalovce,,connection refused,,0.00,2023-02-19T07:59:24Z,2022-12-30T06:16:46Z
+78.141.90.221,78-141-90-221.static.orange.sk.,15962,Orange Slovensko a.s.,SK,Košice,,,false,0.70,2023-02-19T20:01:43Z,2023-01-01T21:08:30Z
+217.73.31.10,ep09.kernel.sk.,29405,VNET a.s.,SK,Bratislava,MYOB,,false,0.80,2023-02-19T20:02:24Z,2023-01-02T19:22:36Z
+109.236.122.101,122rev-101.levonet.sk.,50242,"LEVONET, s.r.o.",SK,Levoča,,connection refused,,0.02,2023-02-20T05:02:34Z,2023-01-03T11:33:22Z
+195.80.187.71,71.centropol.sk.,8778,Slovanet a.s.,SK,Dolne Slazany,,no route to host,,0.38,2023-02-25T20:46:49Z,2023-02-19T06:28:26Z
+85.237.249.226,85-237-249-226.static.orange.sk.,15962,Orange Slovensko a.s.,SK,Bratislava,,,false,0.27,2023-02-26T09:07:21Z,2023-02-20T15:17:34Z
+80.81.232.173,,21019,S.A. spol. s r.o.,SK,Machulince,,,false,0.81,2023-02-27T16:51:48Z,2023-02-23T04:39:42Z
+62.197.209.247,ttxf247.ttx-net.sk.,5578,"SWAN, a.s.",SK,Trnava,,,false,1.00,2023-02-27T23:50:21Z,2023-02-25T06:16:55Z
+176.112.176.32,,58044,free-zona s.r.o.,SK,Rožňava,,,false,0.94,2023-03-02T05:54:45Z,2023-02-26T15:58:46Z
+217.73.17.110,ep09.kernel.sk.,29405,VNET a.s.,SK,Bratislava,MYOB,,false,0.88,2023-03-01T22:47:43Z,2023-02-28T19:37:54Z
+31.134.97.92,92.97-134-31.detronics.sk.,56656,Detronics s.r.o.,SK,Krupina,,,false,0.94,2023-03-02T03:54:42Z,2023-03-01T00:50:18Z
+185.218.29.110,110-29-218-185.kiki.sk.,31117,ENERGOTEL a.s.,SK,Ilava,,,false,1.00,2023-03-02T05:51:38Z,2023-03-02T01:53:25Z
+188.167.186.98,188-167-186-98.static.chello.sk.,6830,Liberty Global B.V.,SK,Bratislava,,,false,1.00,2023-03-05T06:51:23Z,2023-03-02T03:11:32Z
+62.168.116.164,a.remeta.sh.ke.cust.gts.sk.,5578,"SWAN, a.s.",SK,Košice,dnsmasq-2.62,,false,1.00,2023-03-09T16:48:51Z,2023-03-03T09:27:13Z
+158.255.27.66,ns.unidathosting.sk.,211689,"HMZ RADIOKOMUNIKACIE, spol. s r.o.",SK,Žilina,DNSServer,,false,1.00,2023-03-04T00:49:39Z,2023-03-03T23:32:18Z
+195.91.92.38,static-flarion-38.195-91-92.telekom.sk.,6855,"Slovak Telekom, a.s.",SK,Levice,dnsmasq-2.80,,false,1.00,2023-03-05T23:47:33Z,2023-03-05T22:13:51Z
+91.236.68.220,,8778,Slovanet a.s.,SK,Mytna,,,false,1.00,2023-03-09T08:45:19Z,2023-03-09T04:30:31Z
+188.120.10.3,host-188-120-10-3.e-max.sk.,49115,E-max Internet & It,SK,Secovce,,,false,1.00,2023-03-09T18:52:09Z,2023-03-09T10:33:56Z
+195.168.58.10,cgw.birdbird.ba.cust.gts.sk.,5578,"SWAN, a.s.",SK,Bratislava,named,,true,1.00,2023-03-12T04:45:04Z,2023-03-11T11:03:04Z
+92.240.251.48,smtpls.seal.sk.,42005,LightStorm Services s.r.o.,SK,Bratislava,9.16.1-Ubuntu,,false,1.00,2023-03-13T08:45:10Z,2023-03-13T00:46:37Z
+87.244.225.200,,31117,ENERGOTEL a.s.,SK,Hrinova,,,false,1.00,2023-03-13T08:45:23Z,2023-03-13T00:50:41Z
+87.197.176.58,static-bband-58.87-197-176.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Banovce nad Bebravou,,,false,1.00,2023-03-13T03:49:53Z,2023-03-13T01:22:52Z
+87.197.128.229,static-dsl-229.87-197-128.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Trnava,,,false,0.97,2023-04-12T18:12:32Z,2023-03-13T01:49:38Z
+46.227.182.129,dev129.net182.ip-net.sk.,56349,IP-Net s.r.o.,SK,Biely Kostol,,,false,1.00,2023-03-13T02:15:02Z,2023-03-13T02:15:02Z
+90.64.230.198,90-64-230-198.static.orange.sk.,15962,Orange Slovensko a.s.,SK,Sekule,,,false,1.00,2023-03-13T04:45:18Z,2023-03-13T02:23:33Z
+212.5.199.108,dsl-static-108.212-5-199.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Poprad,,,false,1.00,2023-03-13T04:48:15Z,2023-03-13T02:57:05Z
+85.248.218.67,,5578,"SWAN, a.s.",SK,Poniky,,,false,1.00,2023-03-13T03:56:10Z,2023-03-13T03:56:10Z
+217.119.121.146,217.119.121.146.onet.sk.,31117,ENERGOTEL a.s.,SK,Nové Mesto nad Váhom,,,false,1.00,2023-03-13T03:57:31Z,2023-03-13T03:57:31Z
+87.197.143.246,static-dsl-246.87-197-143.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Trenčín,"Slovak Telekom, a.s.",,false,1.00,2023-03-13T04:05:05Z,2023-03-13T04:05:05Z
+176.112.176.99,,58044,free-zona s.r.o.,SK,Rožňava,,,false,1.00,2023-03-13T04:32:02Z,2023-03-13T04:32:02Z
+87.197.189.116,static-bband-116.87-197-189.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Bacuch,,,false,1.00,2023-03-13T08:45:27Z,2023-03-13T05:34:38Z
+87.244.225.197,,31117,ENERGOTEL a.s.,SK,Hrinova,,,false,1.00,2023-03-13T08:45:29Z,2023-03-13T05:36:22Z
+90.64.255.58,90-64-255-58.static.orange.sk.,15962,Orange Slovensko a.s.,SK,Dubnica nad Váhom,none,,false,1.00,2023-03-13T06:00:26Z,2023-03-13T06:00:26Z
+87.197.143.2,static-dsl-2.87-197-143.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Trenčín,,,false,1.00,2023-03-13T06:38:52Z,2023-03-13T06:38:52Z
+217.119.126.221,221.126.119.217.in-addr.arpa.,31117,ENERGOTEL a.s.,SK,Topoľčany,,,false,1.00,2023-03-13T07:11:59Z,2023-03-13T07:11:59Z
+80.87.216.166,1109.166.cus.dsidata.sk.,35328,"DSI DATA, a. s.",SK,Brezno,,,false,1.00,2023-03-13T07:49:52Z,2023-03-13T07:49:52Z
+87.197.127.219,static-dsl-219.87-197-127.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Bratislava,,,false,1.00,2023-03-13T08:16:10Z,2023-03-13T08:16:10Z
+82.119.117.10,mail.enterpoint.sk.,6830,Liberty Global B.V.,SK,Bratislava,dnsmasq-2.40,,false,1.00,2023-03-13T08:32:27Z,2023-03-13T08:32:27Z
+46.175.6.75,46-175-6-75.minet.sk.,39574,Minet s.r.o.,SK,Michalovce,,,false,1.00,2023-03-13T10:45:55Z,2023-03-13T09:14:59Z
+85.248.128.27,aa3.modelektronik.dc.cust.gts.sk.,5578,"SWAN, a.s.",SK,Vrable,,,false,1.00,2023-03-14T00:45:56Z,2023-03-13T09:20:45Z
+94.229.32.85,,48326,DataNetworks s.r.o.,SK,Dunajska Luzna,,i/o timeout,,0.93,2023-03-14T09:46:16Z,2023-03-13T09:23:30Z
+87.197.180.70,mail.bege.sk.,6855,"Slovak Telekom, a.s.",SK,Levoča,9.11.22,SERVFAIL for wikileaks.org,,0.83,2023-03-14T17:45:35Z,2023-03-13T09:35:04Z
+87.197.105.56,static-dsl-56.87-197-105.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Zlate Moravce,,,true,1.00,2023-03-13T10:10:57Z,2023-03-13T10:10:57Z
+89.173.8.18,chello089173008018.chello.sk.,6830,Liberty Global B.V.,SK,Michalovce,,,false,1.00,2023-03-14T09:47:00Z,2023-03-13T10:37:16Z
+87.197.121.69,static-dsl-69.87-197-121.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Senica,,,false,1.00,2023-03-13T15:46:26Z,2023-03-13T10:58:52Z
+213.81.179.186,bip-static-186.213-81-179.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Komárno,,,false,1.00,2023-03-13T11:40:42Z,2023-03-13T11:40:42Z
+90.64.248.188,90-64-248-188.static.orange.sk.,15962,Orange Slovensko a.s.,SK,Vinica,,,false,1.00,2023-03-13T13:41:23Z,2023-03-13T13:41:23Z
+78.141.95.129,,15962,Orange Slovensko a.s.,SK,Liskova,,,false,1.00,2023-03-13T14:24:17Z,2023-03-13T14:24:17Z
+90.64.252.58,90-64-252-58.static.orange.sk.,15962,Orange Slovensko a.s.,SK,Dubnica nad Váhom,,,false,1.00,2023-03-13T14:30:55Z,2023-03-13T14:30:55Z
+87.197.120.82,static-dsl-82.87-197-120.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Čadca,"Slovak Telekom, a.s.",,false,1.00,2023-03-13T14:39:10Z,2023-03-13T14:39:10Z
+195.91.93.37,static-flarion-37.195-91-93.telekom.sk.,6855,"Slovak Telekom, a.s.",SK,Levice,dnsmasq-2.80,,false,1.00,2023-03-13T14:49:44Z,2023-03-13T14:49:44Z
+87.197.133.13,static-dsl-13.87-197-133.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Košice,"Slovak Telekom, a.s.",,false,1.00,2023-03-13T14:56:35Z,2023-03-13T14:56:35Z
+91.236.68.141,,8778,Slovanet a.s.,SK,Mytna,,,true,1.00,2023-03-13T15:24:22Z,2023-03-13T15:24:22Z
+158.195.21.40,,2607,Zdruzenie pouzivatelov Slovenskej akademickej datovej siete,SK,Pezinok,,,false,1.00,2023-03-15T09:48:27Z,2023-03-13T16:33:30Z
+93.184.72.138,94.184.72.138.host.vnet.sk.,29405,VNET a.s.,SK,Bratislava,,,false,1.00,2023-03-15T09:48:51Z,2023-03-13T17:07:55Z
+90.64.251.58,90-64-251-58.dynamic.orange.sk.,15962,Orange Slovensko a.s.,SK,Vinica,,,false,1.00,2023-03-15T09:49:02Z,2023-03-13T17:23:21Z
+185.227.168.97,,205168,MAXNETWORK s.r.o.,SK,Galanta,,,false,1.00,2023-03-15T09:49:46Z,2023-03-13T18:29:46Z
+213.81.182.48,bip-static-48.213-81-182.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Šahy,,,false,1.00,2023-03-15T09:50:27Z,2023-03-13T19:30:15Z
+87.197.173.246,static-bband-246.87-197-173.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Boleraz,,,false,1.00,2023-03-15T09:50:50Z,2023-03-13T20:05:01Z
+85.248.128.28,aa4.modelektronik.dc.cust.gts.sk.,5578,"SWAN, a.s.",SK,Vrable,,,false,1.00,2023-03-15T09:50:56Z,2023-03-13T20:16:14Z
+149.7.226.98,,201924,ENAHOST s.r.o.,SK,Bratislava,,,false,1.00,2023-03-15T09:51:03Z,2023-03-13T20:19:53Z
+37.9.170.176,primaws2.vps.wbsprt.com.,51013,WebSupport s.r.o.,SK,,,,false,1.00,2023-03-15T09:51:36Z,2023-03-13T21:15:26Z
+78.41.171.147,rev-78-41-171-147.radiolan.sk.,43451,RadioLAN spol. s r.o.,SK,Bratislava,,,false,1.00,2023-03-15T09:51:50Z,2023-03-13T21:38:10Z
+80.81.232.202,,21019,S.A. spol. s r.o.,SK,Machulince,,,false,1.00,2023-03-15T09:52:13Z,2023-03-13T22:11:17Z
+85.248.43.170,webmail.isdb.sk.,5578,"SWAN, a.s.",SK,Považská Bystrica,unknown,,false,1.00,2023-04-21T01:41:36Z,2023-03-13T22:15:52Z
+87.197.175.186,static-bband-186.87-197-175.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Bratislava,,,false,1.00,2023-03-15T09:53:00Z,2023-03-13T23:29:24Z
+93.184.72.99,94.184.72.99.host.vnet.sk.,29405,VNET a.s.,SK,Bratislava,9.6-ESV-R11,,false,1.00,2023-03-15T09:53:09Z,2023-03-13T23:42:13Z
+84.47.118.5,stip-static-5.84-47-118.telekom.sk.,6855,"Slovak Telekom, a.s.",SK,Revúca,,,false,1.00,2023-03-15T09:53:48Z,2023-03-14T00:39:54Z
+87.197.149.81,static-dsl-81.87-197-149.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Námestovo,,,false,1.00,2023-03-15T09:53:58Z,2023-03-14T00:52:23Z
+80.94.50.100,,38949,"Trestel SK, a.s.",SK,Malinovo,,,false,1.00,2023-03-15T09:54:13Z,2023-03-14T01:18:49Z
+87.197.159.139,static-dsl-139.87-197-159.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Nitra,,,false,1.00,2023-03-15T09:54:20Z,2023-03-14T01:29:46Z
+90.176.11.145,,28952,"O2 Business Services, a.s",SK,Bratislava,PowerDNS Recursor 4.1.16,,false,1.00,2023-03-15T09:54:38Z,2023-03-14T01:57:54Z
+87.197.132.165,static-dsl-165.87-197-132.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Zvolen,,,false,1.00,2023-03-15T09:54:43Z,2023-03-14T02:07:17Z
+85.248.13.189,,5578,"SWAN, a.s.",SK,Dubnica nad Váhom,dnsmasq-2.59,,true,1.00,2023-03-15T09:54:54Z,2023-03-14T02:22:57Z
+87.197.143.120,static-dsl-120.87-197-143.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Trenčín,,,false,1.00,2023-03-14T02:55:47Z,2023-03-14T02:55:47Z
+87.197.115.83,static-dsl-83.87-197-115.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Žilina,dnsmasq-2.73,,false,1.00,2023-03-14T04:16:58Z,2023-03-14T04:16:58Z
+84.245.80.54,,5578,"SWAN, a.s.",SK,Samorin,,,false,1.00,2023-03-14T04:35:30Z,2023-03-14T04:35:30Z
+86.110.230.11,mail.hlboka7.com.,29405,VNET a.s.,SK,Bratislava,dnsmasq-2.80,,false,1.00,2023-03-14T04:40:31Z,2023-03-14T04:40:31Z
+87.197.98.230,static-dsl-230.87-197-98.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Bojnice,ZyWALL DNS,,false,1.00,2023-03-14T04:51:44Z,2023-03-14T04:51:44Z
+87.197.140.56,static-dsl-56.87-197-140.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Trenčín,who knows?,,true,1.00,2023-03-14T06:28:34Z,2023-03-14T06:28:34Z
+86.110.229.8,ip-86-110-229-8.primanet.sk.,29405,VNET a.s.,SK,Bratislava,,,false,1.00,2023-03-14T09:46:52Z,2023-03-14T06:55:35Z
+212.5.194.75,www.danada.sk.,6855,"Slovak Telekom, a.s.",SK,Partizánske,,,false,0.96,2023-04-23T16:43:49Z,2023-03-14T07:01:24Z
+91.127.134.163,adsl-dyn163.91-127-134.t-com.sk.,6855,"Slovak Telekom, a.s.",SK,Dunajská Streda,,,false,1.00,2023-03-15T04:48:30Z,2023-03-14T09:40:02Z
+90.64.253.146,90-64-253-146.static.orange.sk.,15962,Orange Slovensko a.s.,SK,Dubnica nad Váhom,,,false,1.00,2023-03-15T04:48:33Z,2023-03-14T09:42:43Z
+90.176.22.74,,28952,"O2 Business Services, a.s",SK,Sajdikove Humence,,REFUSED for wikileaks.org,,0.80,2023-03-15T04:48:43Z,2023-03-14T09:59:07Z
+78.41.165.255,255-165-41-78.ripe.phibee-telecom.net.,8487,Phibee Telecom SAS,SK,Bratislava,,i/o timeout,,0.94,2023-03-15T04:48:53Z,2023-03-14T10:04:52Z
+84.16.47.30,232292.ds.3pp.slovanet.sk.,31679,Slovanet a.s.,SK,Bratislava,,,false,0.60,2023-03-15T04:49:10Z,2023-03-14T10:46:01Z
+94.229.40.244,,48326,DataNetworks s.r.o.,SK,Bratislava,,,false,1.00,2023-03-15T04:49:10Z,2023-03-14T10:53:13Z
+85.248.224.66,,5578,"SWAN, a.s.",SK,Považská Bystrica,,,false,1.00,2023-03-15T04:49:51Z,2023-03-14T11:57:40Z
+84.245.80.52,,5578,"SWAN, a.s.",SK,Samorin,9.6-ESV-R11,,false,1.00,2023-03-15T04:49:58Z,2023-03-14T12:16:05Z
+188.167.102.137,188-167-102-137.dynamic.chello.sk.,6830,Liberty Global B.V.,SK,Bratislava,DNSServer,,false,1.00,2023-03-15T04:50:23Z,2023-03-14T12:54:51Z
+81.92.255.80,rev-81-92-255-80.radiolan.sk.,43451,RadioLAN spol. s r.o.,SK,Bratislava,,,false,1.00,2023-04-12T12:18:57Z,2023-03-14T13:15:01Z
+87.197.142.38,static-dsl-38.87-197-142.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Trenčín,ZyWALL DNS,,false,1.00,2023-03-15T04:50:40Z,2023-03-14T13:31:59Z
+84.47.118.21,stip-static-21.84-47-118.telekom.sk.,6855,"Slovak Telekom, a.s.",SK,Revúca,,,false,0.88,2023-03-15T04:50:41Z,2023-03-14T13:33:16Z
+91.229.26.2,rybnik.alan-systems.com.,12328,Alan Systems Sp. z o. o.,SK,Dolny Ohaj,9.11.3-1ubuntu1.18-Ubuntu,,false,1.00,2023-03-15T04:50:43Z,2023-03-14T13:38:39Z
+213.160.176.234,static-dsl-234.213-160-176.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Žilina,,,false,1.00,2023-03-15T04:51:22Z,2023-03-14T14:47:03Z
+82.119.106.202,82-119-106-202.static.chello.sk.,6830,Liberty Global B.V.,SK,Žilina,,,false,1.00,2023-03-15T04:51:21Z,2023-03-14T14:47:18Z
+185.227.168.102,,205168,MAXNETWORK s.r.o.,SK,Galanta,,,false,1.00,2023-03-15T04:51:37Z,2023-03-14T15:12:45Z
+84.16.52.162,mail.cgc.sk.,31679,Slovanet a.s.,SK,Žilina,,,false,1.00,2023-03-15T04:53:21Z,2023-03-14T17:46:50Z
+213.151.202.132,yeti.koop.sk.,15962,Orange Slovensko a.s.,SK,Bojnice,,,false,1.00,2023-03-15T04:53:29Z,2023-03-14T18:01:01Z
+80.87.213.112,1106.112.cus.dsidata.sk.,35328,"DSI DATA, a. s.",SK,Dlha nad Oravou,,,false,1.00,2023-03-15T04:53:39Z,2023-03-14T18:12:51Z
+217.12.54.119,,25496,ZT Bratislava,SK,Mala Trna,,,false,0.93,2023-03-15T04:53:50Z,2023-03-14T18:26:36Z
+91.148.1.224,mail.lokasport.sk.,31117,ENERGOTEL a.s.,SK,Martin,unknown,,true,1.00,2023-03-15T04:54:03Z,2023-03-14T18:50:54Z
+82.119.102.134,82-119-102-134.static.chello.sk.,6830,Liberty Global B.V.,SK,Bratislava,dnsmasq-2.40,,true,1.00,2023-03-15T04:54:11Z,2023-03-14T19:06:53Z
+194.160.142.100,mail.gsa.sk.,2607,Zdruzenie pouzivatelov Slovenskej akademickej datovej siete,SK,Ružomberok,,,false,1.00,2023-03-15T04:54:40Z,2023-03-14T19:54:11Z
+185.23.114.146,,60895,LEKOS s.r.o.,SK,Michalovce,dnsmasq-2.78,,false,1.00,2023-03-15T04:55:15Z,2023-03-14T20:57:43Z
+91.228.245.196,91-228-245-196.jangalbac.net.,56955,Jan Galbac,SK,,,,false,1.00,2023-03-15T04:55:20Z,2023-03-14T21:07:11Z
+185.59.185.161,,201997,MCOM-NET s.r.o.,SK,Vysne Raslavice,,,false,1.00,2023-03-15T09:57:24Z,2023-03-14T21:51:19Z
+94.136.143.17,94-136-143-17.minet.sk.,39574,Minet s.r.o.,SK,Michalovce,,,false,1.00,2023-03-15T09:57:36Z,2023-03-14T22:10:31Z
+84.47.118.226,stip-static-226.84-47-118.telekom.sk.,6855,"Slovak Telekom, a.s.",SK,Revúca,,,false,0.95,2023-03-18T02:45:20Z,2023-03-14T22:53:37Z
+87.197.132.27,static-dsl-27.87-197-132.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Zvolen,,,false,1.00,2023-03-18T02:46:45Z,2023-03-15T00:03:38Z
+213.81.170.154,dns-ons2.telekom.sk.,6855,"Slovak Telekom, a.s.",SK,Bratislava,"Slovak Telekom, a.s.",,false,1.00,2023-03-18T02:46:56Z,2023-03-15T00:20:49Z
+80.242.45.24,,196900,"Axalnet, s.r.o.",SK,Topoľčany,,,false,1.00,2023-03-18T02:47:13Z,2023-03-15T00:53:09Z
+87.197.146.130,static-dsl-130.87-197-146.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Bratislava,,,false,1.00,2023-03-18T02:48:16Z,2023-03-15T02:34:02Z
+195.91.120.56,mob-dynamic-56.195-91-120.telekom.sk.,6855,"Slovak Telekom, a.s.",SK,Banská Bystrica,dnsmasq-2.80,,false,1.00,2023-03-18T02:48:58Z,2023-03-15T03:41:32Z
+87.197.173.117,static-bband-117.87-197-173.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Topoľčany,ZyWALL DNS,,false,1.00,2023-03-18T02:49:06Z,2023-03-15T03:56:49Z
+195.62.17.206,2D206.demax.sk.,5578,"SWAN, a.s.",SK,Spišská Nová Ves,,,false,1.00,2023-03-18T02:49:09Z,2023-03-15T04:05:19Z
+213.81.188.1,stip-static-1.213-81-188.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Kysucky Lieskovec,,,false,1.00,2023-03-18T02:50:21Z,2023-03-15T06:05:21Z
+91.227.226.136,,57248,Wisper s.r.o.,SK,Pribeta,,,false,0.89,2023-03-26T22:08:12Z,2023-03-15T07:02:37Z
+94.229.32.83,,48326,DataNetworks s.r.o.,SK,Dunajska Luzna,,,false,1.00,2023-03-18T02:53:08Z,2023-03-15T10:48:11Z
+87.197.190.173,static-bband-173.87-197-190.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Zvolen,,,false,1.00,2023-03-18T02:54:00Z,2023-03-15T12:13:07Z
+188.167.165.26,188-167-165-26.static.chello.sk.,6830,Liberty Global B.V.,SK,Bratislava,,,false,1.00,2023-03-18T02:54:00Z,2023-03-15T12:13:37Z
+195.168.186.59,a3.ppapower.bb.cust.gts.sk.,5578,"SWAN, a.s.",SK,,ZyWALL DNS,,false,1.00,2023-03-18T02:54:07Z,2023-03-15T12:23:26Z
+195.168.120.101,ac5.eni.ba.cust.gts.sk.,5578,"SWAN, a.s.",SK,Trnava,,i/o timeout,,0.89,2023-03-18T02:54:25Z,2023-03-15T12:41:04Z
+93.174.183.168,rev-93-174-183-168.radiolan.sk.,43451,RadioLAN spol. s r.o.,SK,Hubice,,i/o timeout,,0.78,2023-03-18T02:54:38Z,2023-03-15T12:59:52Z
+213.81.179.189,bip-static-189.213-81-179.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Komárno,,,false,1.00,2023-03-18T02:54:45Z,2023-03-15T13:21:33Z
+62.197.214.69,,5578,"SWAN, a.s.",SK,Bosaca,,,false,1.00,2023-03-18T02:54:53Z,2023-03-15T13:38:45Z
+85.159.110.163,,34820,DELTA ONLINE spol. s r.o.,SK,Košice,,,false,1.00,2023-03-18T02:55:10Z,2023-03-15T14:10:51Z
+195.168.217.142,a15.veganet.sk.,5578,"SWAN, a.s.",SK,Bratislava,,,false,1.00,2023-03-18T02:55:16Z,2023-03-15T14:21:02Z
+92.245.30.7,,60296,"Spoje, s.r.o.",SK,Banská Bystrica,9.10.3-P4-Debian,,false,1.00,2023-03-18T02:55:19Z,2023-03-15T14:28:06Z
+87.197.136.144,mail.mwtc.tech.,6855,"Slovak Telekom, a.s.",SK,Nitra,,,false,1.00,2023-03-18T02:55:33Z,2023-03-15T14:49:37Z
+91.227.224.146,,57248,Wisper s.r.o.,SK,Nové Zámky,,,false,0.94,2023-03-18T02:55:57Z,2023-03-15T15:25:36Z
+46.227.180.137,dev137.net180.ip-net.sk.,56349,IP-Net s.r.o.,SK,Biely Kostol,,SERVFAIL for wikileaks.org,,0.94,2023-04-05T00:34:59Z,2023-03-15T17:55:42Z
+80.81.232.204,,21019,S.A. spol. s r.o.,SK,Machulince,,SERVFAIL for wikileaks.org,,0.91,2023-04-05T00:35:13Z,2023-03-15T18:19:16Z
+82.119.121.30,82-119-121-30.static.chello.sk.,6830,Liberty Global B.V.,SK,Bratislava,dnsmasq-2.67,SERVFAIL for wikileaks.org,,0.98,2023-04-05T00:35:35Z,2023-03-15T18:59:02Z
+195.91.122.146,mob-dynamic-146.195-91-122.telekom.sk.,6855,"Slovak Telekom, a.s.",SK,Brezno,,i/o timeout,,0.90,2023-04-05T00:36:47Z,2023-03-15T20:46:39Z
+87.197.114.78,static-dsl-78.87-197-114.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Poprad,,,false,1.00,2023-04-05T00:37:06Z,2023-03-15T21:22:52Z
+195.168.217.143,a16.veganet.sk.,5578,"SWAN, a.s.",SK,Bratislava,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:37:27Z,2023-03-15T21:50:17Z
+78.41.174.16,rev-78-41-174-16.radiolan.sk.,43451,RadioLAN spol. s r.o.,SK,Bratislava,9.11.22,SERVFAIL for wikileaks.org,,0.93,2023-04-05T00:38:10Z,2023-03-15T22:59:15Z
+85.237.241.159,85-237-241-159.dynamic.orange.sk.,15962,Orange Slovensko a.s.,SK,Nitra,,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:38:16Z,2023-03-15T23:10:04Z
+80.87.214.150,marcomp06.dsidata.sk.,35328,"DSI DATA, a. s.",SK,Dlha nad Oravou,dnsmasq-2.83,SERVFAIL for wikileaks.org,,0.93,2023-04-05T00:39:50Z,2023-03-16T01:33:32Z
+89.173.60.117,chello089173060117.chello.sk.,6830,Liberty Global B.V.,SK,Banská Bystrica,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:40:04Z,2023-03-16T01:44:30Z
+185.50.212.224,185-50-212-224.static.orange.sk.,15962,Orange Slovensko a.s.,SK,Dunajská Streda,,,false,0.84,2023-04-20T15:40:18Z,2023-03-16T01:55:46Z
+193.87.105.227,,2607,Zdruzenie pouzivatelov Slovenskej akademickej datovej siete,SK,Bratislava,,SERVFAIL for wikileaks.org,,0.11,2023-04-05T00:40:29Z,2023-03-16T02:41:18Z
+92.245.30.25,mail.oneradio.sk.,60296,"Spoje, s.r.o.",SK,Banská Bystrica,9.10.3-P4-Debian,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:40:29Z,2023-03-16T02:43:04Z
+80.81.224.250,,21019,S.A. spol. s r.o.,SK,Machulince,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:41:12Z,2023-03-16T03:51:31Z
+90.64.250.176,,15962,Orange Slovensko a.s.,SK,Vinica,dnsmasq-2.78,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:41:31Z,2023-03-16T04:18:31Z
+91.148.30.12,12.30.148.91.dyn.marticonet.sk.,31117,ENERGOTEL a.s.,SK,Martin,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:42:27Z,2023-03-16T05:59:20Z
+87.197.113.62,static-dsl-62.87-197-113.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Senec,,,false,1.00,2023-04-05T00:43:16Z,2023-03-16T07:10:55Z
+78.99.10.187,adsl-dyn187.78-99-10.t-com.sk.,6855,"Slovak Telekom, a.s.",SK,Nitra,,i/o timeout,,0.15,2023-04-09T17:12:03Z,2023-03-16T07:19:51Z
+91.148.28.163,163.28.148.91.dyn.marticonet.sk.,31117,ENERGOTEL a.s.,SK,Martin,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:43:25Z,2023-03-16T07:24:02Z
+92.60.48.3,ns2.bonet.sk.,44185,"BONET Systems, s.r.o.",SK,Bratislava,BNTS DNS,SERVFAIL for wikileaks.org,,0.94,2023-04-05T00:43:30Z,2023-03-16T07:29:13Z
+213.151.219.4,mail.llsklogistics.sk.,15962,Orange Slovensko a.s.,SK,Bratislava,DNSServer,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:45:00Z,2023-03-16T09:53:36Z
+62.65.188.202,,5578,"SWAN, a.s.",SK,Banov,,,false,1.00,2023-04-05T00:46:11Z,2023-03-16T11:48:58Z
+185.227.169.67,mail.rapidnet.sk.,205168,MAXNETWORK s.r.o.,SK,Janovce,,,false,1.00,2023-04-19T19:36:30Z,2023-03-16T13:13:49Z
+46.227.176.142,dev142.net176.ip-net.sk.,56349,IP-Net s.r.o.,SK,Biely Kostol,,,false,0.80,2023-04-19T19:36:39Z,2023-03-16T13:30:26Z
+78.141.95.131,,15962,Orange Slovensko a.s.,SK,Liskova,,,false,0.67,2023-04-19T19:37:10Z,2023-03-16T14:26:12Z
+91.229.28.1,,56926,"KOMNET, s.r.o.",SK,Dolny Ohaj,,,false,0.83,2023-04-19T19:37:26Z,2023-03-16T14:35:56Z
+46.227.176.250,dev250.net176.ip-net.sk.,56349,IP-Net s.r.o.,SK,Biely Kostol,,,false,0.67,2023-04-19T19:37:47Z,2023-03-16T15:24:53Z
+176.118.110.13,,31117,ENERGOTEL a.s.,SK,Relov,unknown,,false,0.57,2023-04-19T19:38:12Z,2023-03-16T16:07:52Z
+92.180.195.140,,15962,Orange Slovensko a.s.,SK,Brezno,,i/o timeout,,0.00,2023-04-19T19:38:47Z,2023-03-16T16:47:45Z
+87.197.179.154,static-bband-154.87-197-179.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Banovce nad Bebravou,,,false,0.58,2023-04-19T19:38:56Z,2023-03-16T17:17:06Z
+195.3.171.83,,15962,Orange Slovensko a.s.,SK,Liptovský Mikuláš,,,false,0.69,2023-04-19T19:39:38Z,2023-03-16T18:23:51Z
+82.119.115.186,mx.swsd.sk.,6830,Liberty Global B.V.,SK,Bratislava,Microsoft DNS 6.1.7601 (1DB15F75),,false,0.61,2023-04-19T19:41:22Z,2023-03-16T21:02:29Z
+87.197.138.249,static-dsl-249.87-197-138.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Bratislava,,,false,0.68,2023-04-19T19:41:34Z,2023-03-16T21:14:17Z
+85.216.239.123,chello085216239123.chello.sk.,6830,Liberty Global B.V.,SK,Bratislava,,,false,0.69,2023-04-21T17:42:15Z,2023-03-16T22:23:21Z
+80.242.34.175,poxiqueo.gaya.sk.,44234,"Gaya, s.r.o.",SK,Martin,,,false,0.87,2023-04-21T17:42:20Z,2023-03-16T22:31:21Z
+81.89.58.36,81.89.58.36.host.vnet.sk.,29405,VNET a.s.,SK,Bratislava,BIND ANYDNS5,,true,0.67,2023-04-21T17:42:39Z,2023-03-16T23:00:19Z
+176.118.100.60,,31117,ENERGOTEL a.s.,SK,Bytča,,,false,0.71,2023-04-21T21:43:49Z,2023-03-16T23:23:29Z
+195.168.40.145,b1.hotelgateone.ba.cust.gts.sk.,5578,"SWAN, a.s.",SK,Bratislava,,i/o timeout,,0.00,2023-04-21T21:43:57Z,2023-03-16T23:24:15Z
+87.197.114.194,static-dsl-194.87-197-114.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Poprad,,,false,0.71,2023-04-21T21:44:04Z,2023-03-16T23:48:16Z
+213.160.167.131,dsl-static-131.213-160-167.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Prešov,,,false,0.71,2023-04-21T21:44:11Z,2023-03-16T23:57:03Z
+90.64.248.186,90-64-248-186.static.orange.sk.,15962,Orange Slovensko a.s.,SK,Vinica,,,false,0.94,2023-04-21T21:44:26Z,2023-03-17T00:27:22Z
+87.197.171.199,static-bband-199.87-197-171.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Bratislava,,,false,0.71,2023-04-21T21:44:35Z,2023-03-17T00:43:31Z
+178.23.90.237,5G-static.90.237.KONFER.net.,50953,KONFER networks,SK,Nové Zámky,,i/o timeout,,0.52,2023-04-21T21:44:46Z,2023-03-17T00:47:59Z
+91.229.29.254,,56926,"KOMNET, s.r.o.",SK,Dolny Ohaj,,,false,0.66,2023-04-21T21:45:18Z,2023-03-17T01:48:06Z
+91.229.28.254,,56926,"KOMNET, s.r.o.",SK,Dolny Ohaj,,i/o timeout,,0.44,2023-04-21T21:45:25Z,2023-03-17T01:49:58Z
+87.197.142.223,static-dsl-223.87-197-142.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Trenčín,,,false,0.76,2023-04-21T21:46:58Z,2023-03-17T04:58:12Z
+195.91.125.119,mob-dynamic-119.195-91-125.telekom.sk.,6855,"Slovak Telekom, a.s.",SK,Bratislava,,i/o timeout,,0.00,2023-04-21T21:47:41Z,2023-03-17T05:55:10Z
+46.227.182.161,dev161.net182.ip-net.sk.,56349,IP-Net s.r.o.,SK,Biely Kostol,,,false,0.77,2023-04-21T21:47:36Z,2023-03-17T06:03:32Z
+87.197.176.189,static-bband-189.87-197-176.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Banovce nad Bebravou,,i/o timeout,,0.00,2023-04-21T21:47:51Z,2023-03-17T06:14:05Z
+93.184.74.173,94.184.74.173.host.vnet.sk.,29405,VNET a.s.,SK,Bratislava,,connection refused,,0.75,2023-04-21T21:47:50Z,2023-03-17T06:27:23Z
+87.197.140.2,static-dsl-2.87-197-140.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Trenčín,,,false,0.75,2023-04-21T21:48:23Z,2023-03-17T07:21:24Z
+84.245.80.25,,5578,"SWAN, a.s.",SK,Samorin,,,false,0.85,2023-04-21T21:49:20Z,2023-03-17T08:47:41Z
+195.168.217.140,a13.vegaent.sk.,5578,"SWAN, a.s.",SK,Bratislava,,,false,0.89,2023-05-08T07:49:04Z,2023-03-17T10:22:26Z
+185.227.168.99,,205168,MAXNETWORK s.r.o.,SK,Galanta,,i/o timeout,,0.00,2023-05-08T07:50:54Z,2023-03-17T12:48:43Z
+195.80.187.181,mail.imaoelectric.sk.,8778,Slovanet a.s.,SK,Dolne Slazany,DNSServer,,false,0.83,2023-05-12T00:48:56Z,2023-03-17T17:53:56Z
+195.91.121.94,mob-dynamic-94.195-91-121.telekom.sk.,6855,"Slovak Telekom, a.s.",SK,Nové Mesto nad Váhom,,connection refused,,0.00,2023-08-12T20:56:05Z,2023-03-18T02:00:55Z
+93.184.69.155,93.184.69.155.host.vnet.sk.,29405,VNET a.s.,SK,Bratislava,,i/o timeout,,0.00,2023-08-12T20:59:36Z,2023-03-18T08:01:05Z
+87.244.225.209,,31117,ENERGOTEL a.s.,SK,Dechtice,,i/o timeout,,0.00,2023-08-12T21:06:52Z,2023-03-18T20:23:28Z
+188.167.88.67,188-167-88-67.dynamic.chello.sk.,6830,Liberty Global B.V.,SK,Bratislava,,,false,0.67,2023-08-12T21:07:36Z,2023-03-18T22:15:40Z
+85.159.106.5,jarka.dol.sk.,34820,DELTA ONLINE spol. s r.o.,SK,Uzovske Peklany,unknown,REFUSED for example.com,,0.00,2023-08-17T07:53:57Z,2023-03-19T00:37:17Z
+94.229.32.86,Hugo.samstroje.sk.,48326,DataNetworks s.r.o.,SK,Bratislava,,i/o timeout,,0.00,2023-08-17T15:54:44Z,2023-03-19T04:21:44Z
+85.216.192.147,chello085216192147.chello.sk.,6830,Liberty Global B.V.,SK,Bratislava,,i/o timeout,,0.00,2023-08-17T15:55:55Z,2023-03-19T06:52:04Z
+84.245.81.62,,5578,"SWAN, a.s.",SK,Lubotice,,,false,1.00,2023-08-17T15:56:32Z,2023-03-19T08:12:56Z
+5.178.53.218,5-178-53-218.static.orange.sk.,15962,Orange Slovensko a.s.,SK,Ružomberok,,i/o timeout,,0.80,2023-08-17T20:53:35Z,2023-03-19T12:10:24Z
+91.229.29.250,,56926,"KOMNET, s.r.o.",SK,Šurany,,i/o timeout,,0.00,2023-08-17T21:53:32Z,2023-03-19T12:40:56Z
+213.81.182.235,bip-static-235.213-81-182.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,Šahy,,i/o timeout,,0.00,2023-08-17T21:54:10Z,2023-03-19T14:02:57Z
+46.227.176.249,dev249.net176.ip-net.sk.,56349,IP-Net s.r.o.,SK,Trnava,,,false,1.00,2023-08-17T21:58:47Z,2023-04-06T04:25:36Z
+188.120.10.20,host-188-120-10-20.e-max.sk.,49115,E-MAX INTERNET & IT s.r.o.,SK,Kralovsky Chlmec,,,false,1.00,2023-08-17T22:00:46Z,2023-04-10T16:32:14Z
+80.242.44.253,,196900,"Axalnet, s.r.o.",SK,Topoľčany,,i/o timeout,,0.00,2023-08-17T22:04:48Z,2014-12-29T15:42:30Z
+158.193.86.29,vpn.net.iklub.sk.,2607,Zdruzenie pouzivatelov Slovenskej akademickej datovej siete,SK,,,i/o timeout,,0.00,2023-08-17T21:06:13Z,2014-12-30T10:10:15Z
+87.197.66.242,edunet-static-242.87-197-66.telecom.sk.,6855,"Slovak Telekom, a.s.",SK,,,i/o timeout,,0.00,2023-08-17T21:10:47Z,2015-01-11T11:10:52Z
+80.81.232.30,,21019,S.A. spol. s r.o.,SK,Považská Bystrica,,i/o timeout,,0.00,2023-08-17T21:11:19Z,2015-01-12T05:57:51Z

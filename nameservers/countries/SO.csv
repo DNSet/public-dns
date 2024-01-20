@@ -1,0 +1,2 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+102.141.197.17,,328319,Amtel-AS,SO,Mogadishu,,,false,1.00,2023-03-05T06:57:10Z,2021-09-27T10:39:17Z

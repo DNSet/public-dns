@@ -1,0 +1,5 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+41.79.47.6,,37336,UCOM-WIC,BI,Mwaro,,i/o timeout,,0.09,2022-09-03T02:24:44Z,2021-09-24T03:59:47Z
+197.157.194.254,,37429,Spidernet,BI,,,,false,1.00,2023-03-15T09:49:23Z,2023-03-13T17:49:23Z
+102.134.106.90,,37545,BBSS,BI,,,,false,1.00,2023-03-15T09:51:46Z,2023-03-13T21:29:51Z
+197.157.192.254,,37429,Spidernet,BI,Kayanza,,i/o timeout,,0.07,2023-04-05T00:42:39Z,2023-03-16T06:04:34Z

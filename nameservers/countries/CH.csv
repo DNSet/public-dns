@@ -1,0 +1,522 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+81.17.31.34,hostedby.privatealps.net.,51852,Private Layer INC,CH,Zurich,,connection refused,,0.00,2023-02-20T05:49:53Z,2020-09-18T18:56:00Z
+195.186.1.107,oltdzpsp-cns005.bluewin.ch.,3303,Bluewin,CH,,,,true,1.00,2021-05-03T22:24:40Z,2021-02-12T12:42:46Z
+195.186.1.110,dns1.bluewin.ch.,3303,Bluewin,CH,,,Unexpected result for wikileaks.org: {[[185 165 168 41] [141 105 65 113] [195 35 109 53] [195 35 109 44]]},,0.00,2021-08-31T17:10:28Z,2021-02-12T12:42:48Z
+195.186.4.107,zhhdzpsp-cns006.bluewin.ch.,3303,Bluewin,CH,,,,true,0.00,2021-09-01T12:44:53Z,2021-02-12T12:43:17Z
+195.186.4.108,zhhdzpsp-cns004.bluewin.ch.,3303,Bluewin,CH,,,Unexpected result for wikileaks.org: {[[185 165 168 41] [195 35 109 53] [141 105 65 113] [195 35 109 44]]},,0.00,2021-08-31T17:10:21Z,2021-02-12T12:43:17Z
+195.186.4.109,zhhdzpsp-cns002.bluewin.ch.,3303,Bluewin,CH,,,,true,1.00,2023-02-28T06:47:45Z,2021-02-12T12:43:17Z
+195.186.4.111,dns4.bluewin.ch.,3303,Bluewin,CH,,,Unexpected result for wikileaks.org: {[[80 81 248 21] [51 159 197 136]]},,0.04,2023-01-13T08:30:01Z,2021-02-12T12:43:18Z
+212.94.32.32,ns3.zugernet.ch.,28859,acdalis ag,CH,Fischbach-Goeslikon,9.9.5-9+deb8u17-Debian,Unexpected result for wikileaks.org: {[[195 35 109 44] [141 105 65 113] [195 35 109 53] [185 165 168 41]]},,0.00,2021-09-01T12:49:33Z,2021-05-07T22:48:47Z
+212.94.34.34,ns4.zugernet.ch.,28859,acdalis ag,CH,Fischbach-Goeslikon,9.9.5-9+deb8u17-Debian,,true,0.00,2021-09-01T12:45:45Z,2021-05-08T05:41:47Z
+62.2.174.133,ns2.entex.ch.,6830,Liberty Global B.V.,CH,Wetzikon,,Unexpected result for example.com: NXDOMAIN,,0.00,2021-09-01T18:52:38Z,2021-05-14T06:31:36Z
+195.186.1.162,cns7.bluewin.ch.,3303,Bluewin,CH,,,,true,0.01,2021-09-01T12:49:33Z,2021-05-20T07:31:50Z
+195.186.4.162,cns8.bluewin.ch.,3303,Bluewin,CH,,,Unexpected result for wikileaks.org: {[[195 35 109 44] [185 165 168 41] [195 35 109 53] [141 105 65 113]]},,0.00,2021-08-31T17:10:06Z,2021-05-20T07:31:50Z
+31.3.135.232,mirror.tillo.ch.,199662,Exion Networks SA,CH,,[hidden],,false,1.00,2021-09-27T23:29:09Z,2021-09-27T23:29:09Z
+140.238.216.85,,31898,ORACLE-BMC-31898,CH,Zurich,,i/o timeout,,0.00,2023-03-05T07:00:29Z,2021-10-01T22:56:33Z
+185.86.230.234,,213242,Nicholas Disalvio,CH,,dnsmasq-pi-hole-2.86,,true,1.00,2021-10-01T23:12:45Z,2021-10-01T23:12:45Z
+185.95.218.41,asgard.dasrecht.net.,57118,CommunityRack.org Verein,CH,,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-01T23:30:05Z,2021-10-01T23:30:05Z
+94.16.147.77,77-147-16-94.dyn.cable.fcom.ch.,15600,Quickline AG,CH,Therwil,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:30:47Z,2021-10-01T23:30:47Z
+144.2.93.73,bbcs-93-73.pub.wingo.ch.,57370,Bluewin,CH,Uster,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:33:47Z,2021-10-01T23:33:47Z
+144.2.114.177,bbcs-114-177.pub.wingo.ch.,57370,Bluewin,CH,Muri,dnsmasq-pi-hole-2.84,,false,1.00,2021-10-01T23:34:45Z,2021-10-01T23:34:45Z
+188.61.153.157,157.153.61.188.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Pully,dnsmasq-pi-hole-2.84,,true,1.00,2021-10-01T23:35:05Z,2021-10-01T23:35:05Z
+34.65.248.211,211.248.65.34.bc.googleusercontent.com.,396982,GOOGLE-PRIVATE-CLOUD,CH,Zurich,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:48:10Z,2021-10-01T23:48:10Z
+185.181.162.233,ov-5bdb29.infomaniak.ch.,29222,Infomaniak Network SA,CH,,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-01T23:53:35Z,2021-10-01T23:53:35Z
+51.154.127.161,,15796,Salt Mobile SA,CH,Geneva,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T00:02:17Z,2021-10-02T00:02:17Z
+185.189.151.183,,51395,Datasource AG,CH,,dnsmasq-pi-hole-2.87test3,,false,1.00,2021-10-02T00:02:46Z,2021-10-02T00:02:46Z
+213.167.224.157,saanen.chloesoe.ch.,207143,hosttech GmbH,CH,,,connection refused,,0.00,2023-01-12T13:29:20Z,2021-10-02T00:03:51Z
+178.193.141.231,231.141.193.178.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Rorschacherberg,dnsmasq-pi-hole-2.87test2,,true,1.00,2021-10-02T00:08:07Z,2021-10-02T00:08:07Z
+212.237.211.54,,58222,ServerBase AG,CH,,dnsmasq-pi-hole-2.80,,false,1.00,2021-10-02T00:08:43Z,2021-10-02T00:08:43Z
+185.109.243.68,static-68.galphanet.ch.,204082,Philippe Bonvin,CH,,dnsmasq-pi-hole-2.80,,true,1.00,2021-10-02T00:09:30Z,2021-10-02T00:09:30Z
+144.2.116.149,bbcs-116-149.pub.wingo.ch.,57370,Bluewin,CH,Villars-sur-Glane,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-02T00:14:19Z,2021-10-02T00:14:19Z
+81.6.49.80,80-49-6-81.static.dsl-net.ch.,1836,green.ch AG,CH,Busserach,dnsmasq-pi-hole-2.87test2,,false,1.00,2021-10-02T00:16:28Z,2021-10-02T00:16:28Z
+212.237.210.51,,58222,ServerBase AG,CH,,dnsmasq-pi-hole-2.81,,false,1.00,2021-10-02T00:17:29Z,2021-10-02T00:17:29Z
+185.86.230.233,,213242,Nicholas Disalvio,CH,,dnsmasq-pi-hole-2.86,,true,1.00,2021-10-02T00:17:59Z,2021-10-02T00:17:59Z
+140.238.210.34,,31898,ORACLE-BMC-31898,CH,Zurich,dnsmasq-pi-hole-2.84,,false,1.00,2021-10-02T00:20:51Z,2021-10-02T00:20:51Z
+194.1.163.70,chbtl02.paphosting.net.,50869,Pim van Pelt,CH,,dnsmasq-pi-hole-2.81,,false,1.00,2021-10-02T00:31:25Z,2021-10-02T00:31:25Z
+46.127.26.12,46-127-26-12.dynamic.hispeed.ch.,6830,Liberty Global B.V.,CH,Gruenenmatt,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T00:36:11Z,2021-10-02T00:36:11Z
+2a02:200:1:11::100,zrh1-ns01.monzoon.net.,24889,Monzoon Networks AG,CH,Zweidlen-Dorf,,,true,1.00,2021-10-02T16:02:57Z,2021-10-02T15:18:05Z
+2a02:200:1:12::100,riv1-ns01.monzoon.net.,24889,Monzoon Networks AG,CH,Zweidlen-Dorf,,,true,1.00,2021-10-02T16:03:09Z,2021-10-02T15:18:05Z
+83.76.247.129,129.247.76.83.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Bern,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T16:15:49Z,2021-10-02T16:15:49Z
+193.222.255.10,darth-vader.plaza.ch.,13030,Init7 (Switzerland) Ltd.,CH,,Microsoft DNS 6.0.6003 (1773501D),,false,1.00,2021-10-02T16:35:19Z,2021-10-02T16:35:19Z
+193.28.185.42,,34182,rack.black,CH,,dnsmasq-pi-hole-2.87test3,,false,1.00,2021-10-02T17:16:07Z,2021-10-02T17:16:07Z
+193.8.180.12,,8803,Migros-Genossenschafts-Bund,CH,,,,false,1.00,2021-10-03T11:26:59Z,2021-10-03T11:26:59Z
+194.209.225.10,namesrv1.kaktus.ch.,3303,Bluewin,CH,Grenchen,,i/o timeout,,0.50,2021-10-08T08:02:51Z,2021-10-03T12:22:36Z
+194.6.179.1,,35276,Reichle & De-Massari AG,CH,Volketswil / Volketswil (Dorf),,,false,1.00,2021-10-03T12:45:15Z,2021-10-03T12:45:15Z
+194.6.179.10,,35276,Reichle & De-Massari AG,CH,Volketswil / Volketswil (Dorf),,,false,1.00,2021-10-03T12:45:16Z,2021-10-03T12:45:16Z
+193.135.143.35,hpzhb-cnsw04.pay.bluewin.org.,3303,Bluewin,CH,Niederhasli,,,true,1.00,2023-02-25T20:56:43Z,2021-11-09T14:40:28Z
+193.135.143.33,hpzhb-cnsw03.pay.bluewin.org.,3303,Bluewin,CH,Niederhasli,,,true,1.00,2023-02-25T20:46:43Z,2021-11-09T14:40:39Z
+193.135.143.29,hpzhb-cnsw01.pay.bluewin.org.,3303,Bluewin,CH,Niederhasli,,,true,1.00,2023-02-14T05:41:42Z,2021-11-09T14:40:44Z
+193.135.143.39,hpzhb-cnsw06.pay.bluewin.org.,3303,Bluewin,CH,,,,true,1.00,2021-11-10T09:18:21Z,2021-11-09T14:41:18Z
+193.135.143.37,hpzhb-cnsw05.pay.bluewin.org.,3303,Bluewin,CH,,,,true,1.00,2021-11-10T09:18:25Z,2021-11-09T14:41:24Z
+193.135.143.31,hpzhb-cnsw02.pay.bluewin.org.,3303,Bluewin,CH,,,,true,1.00,2021-11-09T14:42:27Z,2021-11-09T14:42:27Z
+193.135.143.25,hpzhb-cnso01.pay.bluewin.org.,3303,Bluewin,CH,Niederhasli,,,true,1.00,2023-02-14T05:27:29Z,2021-11-09T14:43:56Z
+193.135.143.27,hpzhb-cnso02.pay.bluewin.org.,3303,Bluewin,CH,,,,true,1.00,2021-11-09T15:06:00Z,2021-11-09T14:44:04Z
+193.135.143.1,hizhb-cnsw01.pay.bluewin.org.,3303,Bluewin,CH,,,,true,1.00,2021-11-09T15:07:59Z,2021-11-09T14:45:40Z
+193.135.143.7,hizhb-cnsm01.pay.bluewin.org.,3303,Bluewin,CH,Niederhasli,,,true,1.00,2023-02-25T20:55:40Z,2021-11-09T14:47:29Z
+193.135.143.9,hizhb-cnsm02.pay.bluewin.org.,3303,Bluewin,CH,Niederhasli,,,true,0.98,2023-02-14T05:27:32Z,2021-11-09T14:47:59Z
+193.135.143.11,hizhb-cnss01.pay.bluewin.org.,3303,Bluewin,CH,Niederhasli,,,true,1.00,2023-02-25T20:56:00Z,2021-11-09T14:48:23Z
+193.135.143.13,hizhb-cnss02.pay.bluewin.org.,3303,Bluewin,CH,Niederhasli,,,true,1.00,2023-02-25T20:56:07Z,2021-11-09T14:48:45Z
+193.135.143.15,htzhb-cns01.pay.bluewin.org.,3303,Bluewin,CH,Niederhasli,,,true,1.00,2023-02-25T20:56:13Z,2021-11-09T14:49:25Z
+193.135.143.19,hpzhb-cnsm01.pay.bluewin.org.,3303,Bluewin,CH,Niederhasli,,,true,1.00,2023-02-25T20:56:21Z,2021-11-09T14:50:26Z
+193.135.143.21,hpzhb-cnsm02.pay.bluewin.org.,3303,Bluewin,CH,Niederhasli,,,true,1.00,2023-02-25T20:56:27Z,2021-11-09T14:50:35Z
+193.135.143.23,hpzhb-cnsm03.pay.bluewin.org.,3303,Bluewin,CH,Niederhasli,,,true,1.00,2023-02-25T21:50:03Z,2021-11-09T14:51:06Z
+157.143.3.48,,8758,Iway AG,CH,Wohlen,,i/o timeout,,0.17,2022-04-09T13:03:20Z,2022-04-04T21:17:14Z
+9.9.9.12,dns12.quad9.net.,19281,QUAD9-AS-1,CH,,Q9-B-7.0,,true,1.00,2022-08-25T10:24:59Z,2022-04-25T22:39:18Z
+195.186.4.110,dns3.bluewin.ch.,3303,Bluewin,CH,,,,true,0.14,2023-02-08T23:36:52Z,2022-04-25T23:37:04Z
+79.141.81.250,ns1.ntd.ch.,44166,NTD SA,CH,Geneva,None,REFUSED for example.com,,0.00,2022-12-04T10:48:22Z,2022-04-26T01:11:19Z
+80.254.77.39,riv1-ns01.monzoon.net.,24889,Monzoon Networks AG,CH,Zweidlen-Dorf,,Unexpected result for wikileaks.org: {[[80 81 248 21] [51 159 197 136]]},,0.05,2023-01-13T08:29:08Z,2022-04-26T01:12:00Z
+80.254.79.157,zrh1-ns01.monzoon.net.,24889,Monzoon Networks AG,CH,Zweidlen-Dorf,,,true,1.00,2022-12-06T21:51:03Z,2022-04-26T01:12:01Z
+195.186.1.109,oltdzpsp-cns001.bluewin.ch.,3303,Bluewin,CH,,,,true,1.00,2022-11-11T00:41:20Z,2022-08-18T02:08:21Z
+79.141.83.250,ns3.ntd.ch.,44166,NTD SA,CH,Morges,None,,true,1.00,2022-08-23T07:27:26Z,2022-08-20T18:23:58Z
+5.144.27.120,120-27-144-5.dyn.cable.fcom.ch.,15600,Quickline AG,CH,Grenchen,,i/o timeout,,0.00,2023-02-08T23:44:39Z,2022-09-08T19:04:07Z
+5.145.24.74,74-24-145-5.dyn.cable.fcom.ch.,15600,Quickline AG,CH,Langenthal,,,false,1.00,2023-02-08T23:44:28Z,2022-09-08T19:11:17Z
+5.145.79.48,48-79-145-5.dyn.cable.fcom.ch.,15600,Quickline AG,CH,Oberbipp,,,false,1.00,2023-02-08T23:44:37Z,2022-09-08T19:12:46Z
+5.148.181.139,prism-staging.nine.ch.,29691,Nine Internet Solutions AG,CH,Zurich,dnsmasq-2.76,,false,1.00,2022-09-08T23:30:13Z,2022-09-08T19:37:04Z
+5.149.42.36,36-42-149-5.dyn.cable.fcom.ch.,15600,Quickline AG,CH,Kirchberg,dnsmasq-2.40,,true,1.00,2022-09-09T13:28:53Z,2022-09-08T19:40:27Z
+5.149.41.177,177-41-149-5.dyn.cable.fcom.ch.,15600,Quickline AG,CH,Kirchberg,,,false,1.00,2022-09-13T15:36:49Z,2022-09-08T19:40:27Z
+5.153.113.193,193-113-153-5.dyn.cable.fcom.ch.,15600,Quickline AG,CH,Belp,dnsmasq-2.40,,true,1.00,2022-09-08T20:11:20Z,2022-09-08T20:11:20Z
+5.144.9.234,234-9-144-5.dyn.cable.fcom.ch.,15600,Quickline AG,CH,Grenchen,DNSServer,,false,1.00,2022-09-10T22:32:01Z,2022-09-10T22:32:01Z
+5.145.92.54,54-92-145-5.dyn.cable.fcom.ch.,15600,Quickline AG,CH,Balsthal,,i/o timeout,,0.00,2023-02-08T23:44:57Z,2022-09-10T22:42:24Z
+5.148.176.4,,29691,Nine Internet Solutions AG,CH,Zurich,9.11.22,,false,1.00,2022-09-13T02:36:03Z,2022-09-10T23:08:44Z
+5.149.34.19,19-34-149-5.dyn.cable.fcom.ch.,15600,Quickline AG,CH,Zauggenried,,,true,0.43,2022-09-13T13:36:37Z,2022-09-10T23:12:32Z
+5.153.112.124,124-112-153-5.dyn.cable.fcom.ch.,15600,Quickline AG,CH,Belp,dnsmasq-2.40,,true,1.00,2022-09-11T00:35:14Z,2022-09-10T23:46:36Z
+5.182.249.142,asrv-px-402.alba.run.,209042,TiZoo Sarl,CH,,unknown,,false,1.00,2022-09-11T03:43:35Z,2022-09-11T03:43:35Z
+5.255.56.85,,15623,Cyberlink AG,CH,Geneva,9.11.22,,false,1.00,2022-09-11T13:32:15Z,2022-09-11T13:32:15Z
+213.180.182.246,246.182.180.213.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Bubikon,,,true,1.00,2022-09-28T12:17:00Z,2022-09-28T12:17:00Z
+109.164.231.225,cc-manganese.xmelm.ch.,3303,Bluewin,CH,Lausanne,,i/o timeout,,0.00,2023-02-25T20:46:08Z,2022-09-29T16:57:32Z
+94.100.148.7,dhclient-94.100.148.7.flashcable.ch.,41872,GIB-Solutions AG,CH,Eschlikon,ZyWALL DNS,,false,1.00,2022-12-20T13:17:57Z,2022-09-29T21:19:19Z
+9.9.9.10,dns10.quad9.net.,19281,QUAD9-AS-1,CH,,Q9-U-7.6,,true,0.99,2022-10-25T06:30:17Z,2022-09-30T06:27:47Z
+170.17.129.177,177.129.17.170.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Burglen,,,true,1.00,2022-12-15T10:12:29Z,2022-09-30T16:32:30Z
+195.245.237.35,dns3.fenaco.ch.,25598,fenaco Genossenschaft,CH,,,,false,1.00,2022-10-02T09:50:57Z,2022-10-02T09:50:57Z
+194.126.200.105,cyon-net.ip4.cyon.ch.,47302,cyon GmbH,CH,,dnsmasq-2.76,,false,1.00,2022-10-03T17:10:19Z,2022-10-03T17:10:19Z
+213.144.133.41,empty.fiber7.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Lindau,dnsmasq-2.86,,false,1.00,2022-10-04T07:36:24Z,2022-10-03T19:11:25Z
+138.188.55.60,,3303,Bluewin,CH,Sutz,,i/o timeout,,0.22,2022-12-06T20:48:06Z,2022-10-04T10:21:01Z
+164.128.185.188,188.185.128.164.static.wline.lns.ent.cust.swisscom.ch.,3303,Bluewin,CH,Olten,,i/o timeout,,0.09,2022-12-06T23:21:58Z,2022-10-04T16:10:50Z
+195.141.53.61,,6730,Sunrise GmbH,CH,Geneva,,i/o timeout,,0.00,2023-02-08T23:51:45Z,2022-10-11T07:32:18Z
+213.3.25.110,110.25.3.213.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Erlenbach,dnsmasq-2.84rc2,,false,1.00,2022-10-14T04:32:20Z,2022-10-13T09:24:44Z
+151.248.133.37,pub151248133037.dh-hfc.datazug.ch.,8821,WWZ Telekom AG,CH,Hirschthal,,,true,1.00,2022-10-16T02:30:13Z,2022-10-16T02:30:13Z
+46.140.111.50,mail.rknet.ch.,6830,Liberty Global B.V.,CH,Killwangen,,,false,1.00,2023-02-08T23:53:59Z,2022-10-16T18:20:57Z
+82.146.220.130,130.220.146.82.reverse.netplusfr.net.,39440,netplusFR SA,CH,Bulle,9.11.22,,false,1.00,2023-02-25T10:45:27Z,2022-10-18T04:28:21Z
+46.126.216.85,46-126-216-85.dynamic.hispeed.ch.,6830,Liberty Global B.V.,CH,Pully,,,true,0.59,2022-11-14T16:41:20Z,2022-10-19T10:46:33Z
+188.61.148.243,243.148.61.188.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Olten,DNSServer,,false,1.00,2022-10-20T22:34:32Z,2022-10-20T01:06:43Z
+109.164.208.138,138.208.164.109.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Ulmiz,,i/o timeout,,0.00,2023-02-08T23:58:31Z,2022-10-23T08:27:37Z
+46.14.87.41,41.87.14.46.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Vuippens,,,false,1.00,2022-10-23T20:38:47Z,2022-10-23T19:35:24Z
+213.144.153.182,dhcp-213-144-153-182.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Zurich,,,true,1.00,2022-10-24T19:36:28Z,2022-10-24T04:46:41Z
+185.32.222.64,bcch002.brainconnect.ch.,51395,Datasource AG,CH,San Bernardino,,,false,1.00,2022-10-26T11:38:35Z,2022-10-26T11:38:35Z
+94.16.169.239,239-169-16-94.dyn.cable.fcom.ch.,15600,Quickline AG,CH,Therwil,dnsmasq-2.40,,true,1.00,2022-10-27T05:24:09Z,2022-10-27T05:24:09Z
+170.17.136.6,6.136.17.170.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Allschwil,dnsmasq-2.86,,false,1.00,2022-11-03T00:39:09Z,2022-10-29T00:08:45Z
+212.243.51.134,ns1.infoteam.ch.,3303,Bluewin,CH,Hunzenschwil,,,false,1.00,2022-10-29T13:10:57Z,2022-10-29T13:10:57Z
+5.145.13.36,36-13-145-5.dyn.cable.fcom.ch.,15600,Quickline AG,CH,Langenthal,dnsmasq-2.40,,true,1.00,2022-11-01T16:39:45Z,2022-10-29T17:57:46Z
+195.15.238.135,,29222,Infomaniak Network SA,CH,Safnern,,i/o timeout,,0.11,2022-11-26T12:39:59Z,2022-10-31T15:50:17Z
+164.128.128.129,129.128.128.164.static.wline.lns.ent.cust.swisscom.ch.,3303,Bluewin,CH,Unterageri,,i/o timeout,,0.00,2023-02-14T05:28:47Z,2022-10-31T21:00:35Z
+78.155.23.187,,15547,netplus.ch SA,CH,Sierre, ,SERVFAIL for example.com,,0.98,2022-11-11T00:57:55Z,2022-11-03T10:23:29Z
+87.102.229.110,cable-static-229-110.teleport.ch.,6772,ImproWare AG,CH,Binningen,9.18.10,,true,1.00,2023-02-09T00:07:45Z,2022-11-04T04:52:07Z
+194.230.50.88,adsl-194-230-50-88.adslplus.ch.,6730,Sunrise GmbH,CH,Les Charbonnieres,,,false,1.00,2022-11-11T00:58:28Z,2022-11-04T06:37:11Z
+46.14.17.137,137.17.14.46.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Bettlach,,,true,1.00,2022-11-11T00:59:11Z,2022-11-05T05:18:55Z
+212.243.86.198,,3303,Bluewin,CH,Ruschlikon,,,false,1.00,2022-11-11T01:00:27Z,2022-11-06T22:16:34Z
+81.13.159.18,,15547,netplus.ch SA,CH,Ardon,unknown,,false,1.00,2022-11-13T11:42:00Z,2022-11-09T03:15:30Z
+91.220.62.166,,61322,Noisypeak Sarl,CH,,dnsmasq-2.80,,false,1.00,2022-11-11T03:06:01Z,2022-11-09T18:56:11Z
+80.254.187.26,26-187-254-80.static.dsl-net.ch.,1836,green.ch AG,CH,Chur,,i/o timeout,,0.35,2022-11-26T09:38:17Z,2022-11-10T12:19:03Z
+217.79.206.116,,15547,netplus.ch SA,CH,Champery,,i/o timeout,,0.00,2023-02-09T13:41:23Z,2022-11-14T14:18:46Z
+84.75.156.66,84-75-156-66.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Bern,,i/o timeout,,0.99,2022-12-06T22:00:21Z,2022-11-15T11:53:03Z
+20.208.131.103,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,CH,Zurich,https://arQ.PL/,,true,0.47,2022-12-06T22:00:42Z,2022-11-16T01:38:29Z
+212.41.200.237,mail.atit.ch.,3303,Bluewin,CH,Chur,,,true,1.00,2022-12-06T22:02:38Z,2022-11-18T05:16:21Z
+46.14.34.245,245.34.14.46.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Herisau,,,false,1.00,2023-02-28T06:45:13Z,2022-11-18T15:39:40Z
+212.55.197.195,supreme.realness.ch.,15623,Cyberlink AG,CH,Berikon,9.11.5-P4-5.1+deb10u8-Debian,Unexpected result for example.com: NXDOMAIN,,0.55,2022-12-17T13:15:45Z,2022-11-19T16:59:09Z
+82.195.251.99,GVP-WIN-251-099.as16215.net.,1836,green.ch AG,CH,Nusshof,,,false,1.00,2022-12-06T23:48:04Z,2022-11-22T03:11:24Z
+213.144.150.170,dhcp-213-144-150-170.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Winterthur,,,true,0.88,2022-12-06T23:48:05Z,2022-11-22T03:37:17Z
+20.250.105.136,,8075,MICROSOFT-CORP-MSN-AS-BLOCK,CH,Zurich,dnsmasq-pi-hole-2.82,,false,0.85,2022-12-06T23:49:53Z,2022-11-23T13:18:04Z
+164.128.148.253,253.148.128.164.static.wline.lns.ent.cust.swisscom.ch.,3303,Bluewin,CH,Unterterzen,,,true,0.03,2023-02-08T23:37:09Z,2022-11-24T08:11:45Z
+87.102.255.170,,6772,ImproWare AG,CH,Oberwil,,i/o timeout,,0.96,2022-12-06T23:52:41Z,2022-11-27T01:18:48Z
+146.4.114.114,114.114.4.146.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Chiasso,9.6-ESV-R11,,false,1.00,2022-12-06T23:52:46Z,2022-11-27T06:21:52Z
+5.182.249.26,vps.morgantifinance.com.,209042,TiZoo Sarl,CH,,,i/o timeout,,0.85,2023-02-18T19:00:44Z,2022-11-29T08:41:31Z
+185.165.210.94,,207014,Radix Technologies SA,CH,,PowerDNS Authoritative Server 3.4.10 (jenkins@autotest.powerdns.com built 20160909155148 mockbuild@buildhw-04.phx2.fedoraproject.org),,false,1.00,2022-12-17T07:10:00Z,2022-11-29T22:50:43Z
+212.243.230.254,,3303,Bluewin,CH,Zug,,i/o timeout,,0.00,2023-02-09T00:29:48Z,2022-12-03T09:20:08Z
+46.14.215.195,195.215.14.46.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Lausanne,ZyWALL DNS,,false,1.00,2023-02-09T00:31:13Z,2022-12-05T18:29:57Z
+178.174.42.177,177.42.174.178.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Galgenen,,,true,1.00,2023-02-09T00:31:33Z,2022-12-06T11:40:01Z
+9.9.9.13,,19281,QUAD9-AS-1,CH,,Q9-P-7.6,,true,1.00,2023-02-15T17:12:23Z,2022-12-13T01:34:05Z
+152.67.75.144,,31898,ORACLE-BMC-31898,CH,Zurich,,,true,1.00,2023-02-15T17:12:29Z,2022-12-13T03:15:17Z
+185.71.14.100,,15623,Cyberlink AG,CH,Lausanne,,i/o timeout,,0.00,2023-02-16T16:05:36Z,2022-12-15T06:25:34Z
+77.59.227.194,mailserver.lambertconsulting.ch.,6830,Liberty Global B.V.,CH,Lucens,,,false,0.92,2023-02-17T07:11:03Z,2022-12-17T21:39:28Z
+152.67.74.137,,31898,ORACLE-BMC-31898,CH,Zurich,,,true,1.00,2023-02-20T05:02:14Z,2022-12-19T05:26:12Z
+80.89.219.147,,8758,Iway AG,CH,Lenzburg,unknown,,false,1.00,2023-02-18T10:12:38Z,2022-12-19T18:15:56Z
+178.174.44.10,10.44.174.178.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Vezia,,i/o timeout,,0.00,2023-02-18T10:12:52Z,2022-12-19T21:26:12Z
+34.65.77.163,163.77.65.34.bc.googleusercontent.com.,396982,GOOGLE-CLOUD-PLATFORM,CH,Zurich,9.18.1-1ubuntu1.3-Ubuntu,,true,0.98,2023-02-19T02:06:49Z,2022-12-21T04:27:17Z
+46.14.42.214,214.42.14.46.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Romanel-sur-Lausanne,,i/o timeout,,0.07,2023-02-19T02:07:10Z,2022-12-21T12:52:02Z
+94.16.135.159,159-135-16-94.dyn.cable.fcom.ch.,15600,Quickline AG,CH,Therwil,,i/o timeout,,0.00,2023-02-20T08:58:25Z,2022-12-22T20:51:01Z
+185.19.87.71,,48971,Datawire Ag,CH,,,,false,1.00,2023-02-19T06:07:30Z,2022-12-23T01:58:48Z
+194.230.50.82,adsl-194-230-50-82.adslplus.ch.,6730,Sunrise GmbH,CH,Rorschacherberg,,,false,1.00,2023-02-19T06:07:48Z,2022-12-23T09:39:14Z
+109.202.223.218,109-202-223-218.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Zurich,,i/o timeout,,0.00,2023-02-19T06:53:32Z,2022-12-23T13:12:24Z
+213.3.42.193,193.42.3.213.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Chavannes-des-Bois,dnsmasq-2.84rc2,,false,1.00,2023-02-19T06:54:36Z,2022-12-25T00:51:44Z
+80.219.89.12,80-219-89-12.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Valeyres-sous-Montagny,,,false,1.00,2023-02-19T06:54:57Z,2022-12-25T18:01:12Z
+46.14.79.14,14.79.14.46.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Baden,,i/o timeout,,0.00,2023-02-19T06:55:17Z,2022-12-25T22:49:21Z
+146.4.3.254,254.3.4.146.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Baden,,i/o timeout,,0.00,2023-02-19T06:56:08Z,2022-12-27T13:35:50Z
+31.10.243.92,31-10-243-92.static.upc.ch.,6830,Liberty Global B.V.,CH,Zurich,dnsmasq-2.85,,false,1.00,2023-02-19T06:56:05Z,2022-12-27T16:01:24Z
+213.221.203.158,,15600,Quickline AG,CH,Langenthal,,REFUSED for example.com,,0.00,2023-02-19T06:56:07Z,2022-12-27T17:12:55Z
+193.246.111.82,host.ubr6.ch.,25375,LeuPuls AG,CH,Aesch,dnsmasq-2.80,,false,0.98,2023-02-19T07:58:50Z,2022-12-29T06:27:22Z
+157.26.252.11,,559,SWITCH,CH,Couvet,,,false,1.00,2023-02-20T09:07:22Z,2022-12-31T05:39:27Z
+62.202.16.231,231.16.202.62.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Carouge,,connection refused,,0.00,2023-02-21T21:55:50Z,2023-01-02T19:00:50Z
+195.186.1.111,dns2.bluewin.ch.,3303,Bluewin,CH,,,,true,1.00,2023-02-19T20:02:24Z,2023-01-02T19:22:50Z
+195.186.1.108,oltdzpsp-cns003.bluewin.ch.,3303,Bluewin,CH,,,,true,1.00,2023-02-19T20:02:26Z,2023-01-02T20:03:02Z
+195.186.4.192,vip-1.zhh-psp.bluewin.ch.,3303,Bluewin,CH,,,,true,1.00,2023-02-19T20:02:27Z,2023-01-02T20:06:05Z
+31.165.159.133,xdsl-31-165-159-133.adslplus.ch.,6730,Sunrise GmbH,CH,Sargans,,i/o timeout,,0.07,2023-02-26T09:07:29Z,2023-02-20T16:11:29Z
+81.62.153.74,74.153.62.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Le Chable,ZyWALL DNS,,false,1.00,2023-02-26T09:08:17Z,2023-02-21T14:44:02Z
+46.14.211.198,198.211.14.46.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Zug,9.11.22,,false,1.00,2023-02-26T09:08:30Z,2023-02-21T20:11:18Z
+193.135.142.1,hilss-cnsw01.pay.bluewin.org.,3303,Bluewin,CH,Niederhasli,,,true,1.00,2023-02-26T09:09:19Z,2023-02-22T19:11:09Z
+46.14.68.37,37.68.14.46.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Winterthur,,,true,1.00,2023-02-26T09:09:20Z,2023-02-22T20:57:42Z
+146.4.109.182,182.109.4.146.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Magden,ZyWALL DNS,,false,1.00,2023-02-26T09:09:58Z,2023-02-23T10:42:22Z
+80.254.170.129,129-170-254-80.static.dsl-net.ch.,1836,green.ch AG,CH,Huenenberg See,,,false,1.00,2023-02-26T13:51:57Z,2023-02-23T19:37:34Z
+81.63.180.53,53.180.63.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Rothrist,,,true,1.00,2023-02-26T13:52:11Z,2023-02-24T01:39:25Z
+170.17.129.157,157.129.17.170.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Salavaux,,,true,1.00,2023-02-27T16:59:24Z,2023-02-25T13:47:12Z
+81.17.19.4,dln-1.alicedescobertas.com.,51852,Private Layer INC,CH,Zurich,unknown,REFUSED for example.com,,0.26,2023-03-05T08:48:59Z,2023-02-27T03:16:36Z
+81.17.17.170,hostedby.privatelayer.com.,51852,Private Layer INC,CH,Zurich,Served by PowerDNS - http://www.powerdns.com,,true,1.00,2023-03-01T22:48:00Z,2023-02-28T18:18:21Z
+212.41.196.133,ns.delwag.ch.,3303,Bluewin,CH,Tenero,DNSServer,,false,1.00,2023-03-01T19:53:55Z,2023-02-28T19:47:37Z
+46.14.80.253,253.80.14.46.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Finstersee,,,true,1.00,2023-03-03T15:44:45Z,2023-03-02T10:06:16Z
+146.4.83.193,193.83.4.146.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Uster,,,true,1.00,2023-03-05T20:56:20Z,2023-03-02T20:32:06Z
+164.128.156.245,245.156.128.164.static.wline.lns.ent.cust.swisscom.ch.,3303,Bluewin,CH,Unterterzen,,,false,1.00,2023-03-05T08:50:03Z,2023-03-03T23:26:05Z
+77.109.147.59,,13030,Init7 (Switzerland) Ltd.,CH,Richterswil,9.10.3-P4-Ubuntu,,false,1.00,2023-03-05T20:55:13Z,2023-03-04T09:42:51Z
+46.14.227.69,69.227.14.46.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Rothenthurm,,,false,1.00,2023-03-05T08:50:03Z,2023-03-05T01:36:08Z
+178.209.50.147,ironman.roalter.it.,29691,Nine Internet Solutions AG,CH,Zurich,9.11.3-1ubuntu1.11-Ubuntu,,true,1.00,2023-03-12T06:58:15Z,2023-03-10T09:01:41Z
+213.144.151.68,dhcp-213-144-151-68.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Zurich,,,true,0.97,2023-03-12T06:58:15Z,2023-03-11T12:38:31Z
+146.4.91.41,41.91.4.146.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Bulach,,,false,1.00,2023-03-13T08:44:51Z,2023-03-13T01:08:47Z
+170.17.128.209,209.128.17.170.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Salavaux,,,true,1.00,2023-03-13T04:45:18Z,2023-03-13T01:22:56Z
+77.57.184.227,77-57-184-227.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Flamatt,,,false,1.00,2023-03-13T01:58:16Z,2023-03-13T01:58:16Z
+81.63.129.98,98.129.63.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Lucerne,9.11.22,,false,1.00,2023-03-13T02:14:58Z,2023-03-13T02:14:58Z
+84.253.60.42,srv42.interware.ch.,3303,Bluewin,CH,Weiningen,,,false,1.00,2023-03-13T02:15:39Z,2023-03-13T02:15:39Z
+158.181.127.19,pub158181127019.dh-hfc.datazug.ch.,8821,WWZ Telekom AG,CH,Cham,DNSServer,,false,1.00,2023-03-13T08:45:28Z,2023-03-13T02:18:33Z
+81.62.203.161,161.203.62.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Meggen,,,true,1.00,2023-03-13T03:18:00Z,2023-03-13T03:18:00Z
+213.3.2.254,254.2.3.213.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Meyrin,dnsmasq-2.78,,false,1.00,2023-03-13T04:16:57Z,2023-03-13T04:16:57Z
+94.16.149.150,150-149-16-94.dyn.cable.fcom.ch.,15600,Quickline AG,CH,Therwil,dnsmasq-2.40,,true,1.00,2023-03-13T04:18:14Z,2023-03-13T04:18:14Z
+89.249.44.241,mail.jlsecurities.com.,15623,Cyberlink AG,CH,Lausanne,ZyWALL DNS,,false,1.00,2023-03-13T04:34:08Z,2023-03-13T04:34:08Z
+84.253.12.25,25.12.253.84.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Langenthal,,,true,1.00,2023-03-13T04:45:30Z,2023-03-13T04:45:30Z
+146.4.99.133,,3303,Bluewin,CH,Grand-Lancy,,,false,1.00,2023-03-13T08:44:44Z,2023-03-13T04:53:05Z
+193.135.111.5,hpolt-cnsm03.pay.bluewin.org.,3303,Bluewin,CH,,,,true,1.00,2023-03-13T06:45:46Z,2023-03-13T05:15:47Z
+83.173.242.105,105.242.173.83.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Emmenbruecke,9.11.22,,false,1.00,2023-03-13T08:45:25Z,2023-03-13T05:32:53Z
+213.200.216.108,108.216.200.213.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Kreuzlingen,dnsmasq-2.84rc2,,false,1.00,2023-03-13T06:05:32Z,2023-03-13T06:05:32Z
+81.62.169.66,66.169.62.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Monthey,ZyWALL DNS,,false,1.00,2023-03-13T06:15:26Z,2023-03-13T06:15:26Z
+85.195.226.210,85-195-226-210.fiber7.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Zurich,dnsmasq-2.83,,false,1.00,2023-03-13T07:32:35Z,2023-03-13T07:32:35Z
+81.23.72.59,,12350,VTX Services SA,CH,Zurich,unknown,,false,1.00,2023-03-13T07:33:33Z,2023-03-13T07:33:33Z
+46.14.70.253,253.70.14.46.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Liebefeld,,,true,1.00,2023-03-13T07:35:16Z,2023-03-13T07:35:16Z
+80.169.232.210,,8220,COLT Technology Services Group Limited,CH,Zurich,,,false,1.00,2023-03-13T07:43:04Z,2023-03-13T07:43:04Z
+152.67.65.195,,31898,ORACLE-BMC-31898,CH,Zurich,,,false,1.00,2023-03-13T08:41:58Z,2023-03-13T08:41:58Z
+80.242.196.55,static-80-242-196-055.catv.glattnet.ch.,61174,Glattwerk AG,CH,Dubendorf,unbound 1.4.22,,false,1.00,2023-03-13T15:44:46Z,2023-03-13T08:48:07Z
+81.62.183.234,234.183.62.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Zurich,ZyWALL DNS,SERVFAIL for non-existent.example.com,,0.08,2023-03-13T18:45:04Z,2023-03-13T08:53:29Z
+77.57.96.48,77-57-96-48.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Lucerne,,i/o timeout,,0.75,2023-03-13T15:45:31Z,2023-03-13T09:03:12Z
+81.221.118.245,245-118-221-81.static.dsl-net.ch.,1836,green.ch AG,CH,Oberglatt,,,false,1.00,2023-03-14T01:46:12Z,2023-03-13T09:31:02Z
+213.200.207.221,221.207.200.213.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Geneva,,,true,1.00,2023-03-14T07:46:23Z,2023-03-13T09:37:22Z
+62.2.213.120,62-2-213-120.static.cablecom.ch.,6830,Liberty Global B.V.,CH,Basel,,,false,1.00,2023-03-14T13:45:54Z,2023-03-13T09:40:56Z
+83.97.81.202,202-81-97-83.dyn.cable.fcom.ch.,15600,Quickline AG,CH,Romanshorn,ZyWALL DNS,,false,0.92,2023-03-14T17:45:36Z,2023-03-13T09:41:22Z
+81.62.144.54,54.144.62.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Cama,,,false,1.00,2023-03-13T10:08:29Z,2023-03-13T10:08:29Z
+109.202.202.204,s5win7.edge.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Brugg,unbound 1.4.22,,false,1.00,2023-03-14T11:44:45Z,2023-03-13T10:23:10Z
+80.218.57.144,80-218-57-144.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Gwatt,ZyWALL DNS,,false,1.00,2023-03-13T10:46:23Z,2023-03-13T10:46:23Z
+89.236.161.69,69-161-236-89.dyn.cable.qlnet.ch.,15600,Quickline AG,CH,Breitenbach,,,false,1.00,2023-03-13T23:47:53Z,2023-03-13T11:04:56Z
+46.14.34.17,17.34.14.46.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Herisau,,SERVFAIL for wikileaks.org,,0.90,2023-04-05T00:32:31Z,2023-03-13T11:21:22Z
+212.41.220.185,185.220.41.212.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Thonex,dnsmasq-2.67,,false,1.00,2023-03-13T12:10:31Z,2023-03-13T12:10:31Z
+46.127.220.22,46-127-220-22.dynamic.hispeed.ch.,6830,Liberty Global B.V.,CH,Bremgarten,,,false,1.00,2023-03-13T12:28:50Z,2023-03-13T12:28:50Z
+77.73.243.252,,43284,IWB Industrielle Werke Basel,CH,Ostermundigen,9.9.5-3ubuntu0.19-Ubuntu,,false,1.00,2023-03-13T12:48:21Z,2023-03-13T12:48:21Z
+146.4.103.101,101.103.4.146.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Cham,,,false,1.00,2023-03-13T13:46:44Z,2023-03-13T13:03:20Z
+81.62.175.45,45.175.62.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Fischbach-Goeslikon,,,true,1.00,2023-03-15T02:49:03Z,2023-03-13T13:05:54Z
+84.253.0.146,146.0.253.84.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Romanshorn,ZyWALL DNS,,false,1.00,2023-03-15T02:49:23Z,2023-03-13T13:07:31Z
+170.17.129.173,173.129.17.170.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Salavaux,,,true,1.00,2023-05-04T18:47:53Z,2023-03-13T13:19:18Z
+81.17.20.101,hostedby.privatelayer.com.,51852,Private Layer INC,CH,Zurich,,,false,1.00,2023-03-13T13:50:19Z,2023-03-13T13:50:19Z
+176.127.163.49,49.163.127.176.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Basel,DNSServer,,false,1.00,2023-03-13T14:22:55Z,2023-03-13T14:22:55Z
+84.73.97.67,84-73-97-67.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Waedenswil,DNSServer,,false,1.00,2023-03-13T15:05:21Z,2023-03-13T15:05:21Z
+83.76.192.22,22.192.76.83.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Zurich,ZyWALL DNS,,false,1.00,2023-03-13T15:09:08Z,2023-03-13T15:09:08Z
+170.17.150.77,77.150.17.170.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Zurich,,,true,1.00,2023-03-13T15:18:23Z,2023-03-13T15:18:23Z
+84.74.76.8,84-74-76-8.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Chur,,i/o timeout,,0.50,2023-03-15T09:48:27Z,2023-03-13T16:21:39Z
+81.62.202.153,153.202.62.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Meggen,,,true,1.00,2023-03-15T09:48:45Z,2023-03-13T16:59:37Z
+85.195.233.252,85-195-233-252.fiber7.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Bern,,,true,1.00,2023-03-15T09:49:04Z,2023-03-13T17:27:28Z
+84.74.64.239,84-74-64-239.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Lenzburg,gtgzcnsch11-recursor02 - caching resolver,,false,1.00,2023-03-15T09:49:30Z,2023-03-13T18:03:43Z
+85.4.217.226,226.217.4.85.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Illgau,9.11.22,,false,1.00,2023-03-15T09:50:42Z,2023-03-13T19:46:41Z
+81.62.142.41,41.142.62.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Bad Ragaz,,,true,1.00,2023-03-15T09:51:12Z,2023-03-13T20:38:53Z
+85.4.14.33,33.14.4.85.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Dielsdorf,DNSServer,,false,1.00,2023-03-15T09:51:13Z,2023-03-13T20:41:27Z
+81.62.235.182,ns2.chewbacca.ch.,3303,Bluewin,CH,Geneva,,,false,1.00,2023-03-15T09:51:25Z,2023-03-13T20:58:25Z
+82.197.189.243,dsl-82-197-189-243.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Zurich,,,false,1.00,2023-03-15T09:51:30Z,2023-03-13T21:07:19Z
+62.2.155.230,srv230.aktienregister.ch.,6830,Liberty Global B.V.,CH,Stetten,,,false,1.00,2023-03-15T09:51:36Z,2023-03-13T21:15:10Z
+85.195.222.66,x4.suxeed.com.,13030,Init7 (Switzerland) Ltd.,CH,Winterthur,,,false,1.00,2023-03-15T09:51:53Z,2023-03-13T21:37:23Z
+85.195.206.240,85-195-206-240.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Zurich,,,false,1.00,2023-03-15T09:51:51Z,2023-03-13T21:39:19Z
+46.14.241.230,230.241.14.46.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,St. Gallen,,i/o timeout,,0.96,2023-03-16T09:45:56Z,2023-03-13T21:55:36Z
+77.109.180.193,s5win7.edge.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Zurich,unbound 1.4.22,,false,1.00,2023-03-15T19:45:24Z,2023-03-13T22:16:56Z
+83.173.235.217,Kessler.kind-autismus.ch.,3303,Bluewin,CH,Lausanne,,,true,1.00,2023-03-15T09:52:20Z,2023-03-13T22:23:53Z
+81.62.227.98,98.227.62.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Lausanne,ZyWALL DNS,,false,1.00,2023-03-15T09:52:21Z,2023-03-13T22:24:31Z
+87.102.243.242,cable-static-243-242.breitband.ch.,6772,ImproWare AG,CH,Dornach,dnsmasq-2.84rc2,,false,1.00,2023-03-15T12:45:22Z,2023-03-13T22:29:03Z
+85.0.9.80,80.9.0.85.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Lausanne,ZyWALL DNS,SERVFAIL for example.com,,0.50,2023-03-15T09:52:27Z,2023-03-13T22:34:40Z
+170.17.152.57,57.152.17.170.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Zurich,,,true,1.00,2023-03-15T09:52:48Z,2023-03-13T23:11:16Z
+170.17.149.149,149.149.17.170.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Zurich,,,true,1.00,2023-03-15T09:52:56Z,2023-03-13T23:22:42Z
+77.56.33.34,77-56-33-34.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Zurich,,,false,1.00,2023-03-15T09:53:13Z,2023-03-13T23:47:30Z
+193.135.59.35,ns.travel.ch.,31051,Online Travel Ag,CH,,8.2.3-REL,,false,1.00,2023-03-15T09:53:21Z,2023-03-13T23:53:24Z
+170.17.152.93,93.152.17.170.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Zurich,,,true,1.00,2023-03-15T09:53:22Z,2023-03-14T00:00:27Z
+213.200.233.89,89.233.200.213.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Thun,,,true,1.00,2023-03-15T09:53:30Z,2023-03-14T00:07:26Z
+80.80.237.68,,21217,Safe Host SA,CH,Geneva,,,false,1.00,2023-03-15T09:53:37Z,2023-03-14T00:22:36Z
+88.84.6.188,cable-static-6-188.rsnweb.ch.,41549,Elektrizitaets- und Wasserwerk der Stadt Buchs SG,CH,Diepoldsau,,,true,1.00,2023-03-15T09:53:44Z,2023-03-14T00:29:52Z
+141.195.95.131,131-95-195-141.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Affoltern am Albis,dnsmasq-2.85,,false,1.00,2023-03-15T09:53:42Z,2023-03-14T00:32:01Z
+81.13.252.70,,15547,netplus.ch SA,CH,Charrat,,i/o timeout,,0.50,2023-03-15T09:54:10Z,2023-03-14T01:01:14Z
+84.253.3.81,81.3.253.84.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Masein,,,true,1.00,2023-03-15T09:54:02Z,2023-03-14T01:03:41Z
+81.221.123.173,173-123-221-81.static.dsl-net.ch.,1836,green.ch AG,CH,Siggenthal Station,,i/o timeout,,0.50,2023-03-15T09:54:36Z,2023-03-14T01:40:44Z
+81.6.51.208,208-51-6-81.static.dsl-net.ch.,1836,green.ch AG,CH,Wohlen,DNSServer,,false,1.00,2023-03-15T09:54:45Z,2023-03-14T02:01:26Z
+51.154.223.105,,15796,Salt Mobile SA,CH,Winterthur,,,false,1.00,2023-03-15T09:54:41Z,2023-03-14T02:03:36Z
+212.51.147.215,212-51-147-215.fiber7.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Uster,,,true,1.00,2023-03-15T09:55:01Z,2023-03-14T02:30:20Z
+84.73.96.110,84-73-96-110.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Waedenswil,dnsmasq-2.55,,true,1.00,2023-03-14T07:50:24Z,2023-03-14T03:54:39Z
+77.56.228.253,77-56-228-253.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Boudry,DNSServer,,false,1.00,2023-03-14T04:07:01Z,2023-03-14T04:07:01Z
+81.62.197.145,145.197.62.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Wetzikon,,,true,1.00,2023-03-14T04:09:16Z,2023-03-14T04:09:16Z
+84.253.52.126,126.52.253.84.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Bolligen,unknown,,false,1.00,2023-03-14T04:25:03Z,2023-03-14T04:25:03Z
+77.59.232.36,77-59-232-36.static.cablecom.ch.,6830,Liberty Global B.V.,CH,Neuenegg,,,false,1.00,2023-03-14T04:42:29Z,2023-03-14T04:42:29Z
+92.104.245.38,38.245.104.92.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Horn,,,false,1.00,2023-03-14T06:25:30Z,2023-03-14T06:25:30Z
+83.173.235.49,49.235.173.83.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Lausanne,,,true,1.00,2023-03-14T06:43:24Z,2023-03-14T06:43:24Z
+178.193.197.60,60.197.193.178.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Aesch,dnsmasq-2.45,,true,1.00,2023-03-14T07:49:14Z,2023-03-14T06:50:58Z
+109.164.253.141,141.253.164.109.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Sion,,,true,1.00,2023-03-26T22:05:03Z,2023-03-14T07:15:35Z
+185.126.116.80,,212238,Datacamp Limited,CH,Zurich,9.11.4-P2-RedHat-9.11.4-26.P2.el7_9.13,,true,1.00,2023-03-14T18:46:23Z,2023-03-14T07:19:15Z
+81.62.210.141,141.210.62.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Zurich,,,true,1.00,2023-03-14T18:46:23Z,2023-03-14T07:20:09Z
+83.173.246.73,73.246.173.83.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Weinfelden,,,true,1.00,2023-03-14T18:46:33Z,2023-03-14T07:35:49Z
+212.51.156.125,212-51-156-125.fiber7.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Zurich,,,false,1.00,2023-03-14T18:46:41Z,2023-03-14T07:52:51Z
+46.140.86.138,46-140-86-138.static.cablecom.ch.,6830,Liberty Global B.V.,CH,Bulach,dnsmasq-2.83,,false,1.00,2023-03-15T04:47:40Z,2023-03-14T08:16:45Z
+83.173.201.73,73.201.173.83.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Lausanne,dnsmasq-2.84rc2,,false,1.00,2023-03-15T04:47:55Z,2023-03-14T08:43:46Z
+146.4.94.217,217.94.4.146.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Naters,,,true,1.00,2023-03-15T04:47:55Z,2023-03-14T08:44:23Z
+77.109.157.27,77-109-157-27.fiber7.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Lausanne,,,false,1.00,2023-03-15T04:47:55Z,2023-03-14T08:44:37Z
+94.16.154.45,45-154-16-94.dyn.cable.fcom.ch.,15600,Quickline AG,CH,Therwil,,,false,1.00,2023-03-15T04:48:00Z,2023-03-14T08:51:17Z
+170.17.136.197,197.136.17.170.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Bussigny,,,true,1.00,2023-03-15T04:48:16Z,2023-03-14T09:18:11Z
+193.247.170.242,,3303,Bluewin,CH,,,,true,1.00,2023-03-15T04:48:28Z,2023-03-14T09:37:36Z
+195.43.59.16,,41872,GIB-Solutions AG,CH,Engelberg,9.11.22,,false,1.00,2023-03-15T04:48:38Z,2023-03-14T09:54:08Z
+84.253.16.225,225.16.253.84.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Chatel-Saint-Denis,,,true,1.00,2023-03-15T04:48:43Z,2023-03-14T10:03:09Z
+78.155.23.144,,15547,netplus.ch SA,CH,Sierre,,,false,1.00,2023-03-15T04:48:54Z,2023-03-14T10:19:19Z
+95.183.55.91,win-build-server.swcpoker.eu.,197988,Solar Communications GmbH,CH,Zurich,,,false,1.00,2023-03-15T04:49:05Z,2023-03-14T10:40:19Z
+81.62.139.17,17.139.62.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Busswil,,,true,1.00,2023-03-15T04:49:30Z,2023-03-14T11:29:46Z
+146.4.93.65,65.93.4.146.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Vernier,,,true,1.00,2023-03-15T04:49:40Z,2023-03-14T11:43:56Z
+81.63.181.74,74.181.63.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Rothrist,dnsmasq-2.68,,false,1.00,2023-03-15T04:49:42Z,2023-03-14T11:46:31Z
+84.227.232.72,adsl-84-227-232-72.adslplus.ch.,6730,Sunrise GmbH,CH,Dietlikon / Dietlikon (Dorf),DNSServer,,false,1.00,2023-03-15T04:49:47Z,2023-03-14T11:56:40Z
+176.10.119.179,,51395,Datasource AG,CH,,,,false,1.00,2023-03-15T04:49:53Z,2023-03-14T12:09:02Z
+77.109.164.174,,13030,Init7 (Switzerland) Ltd.,CH,Pfaeffikon,,,false,1.00,2023-03-15T04:49:53Z,2023-03-14T12:09:29Z
+193.135.143.252,v4cnslyra.cnss.swisscom.ch.,3303,Bluewin,CH,Niederhasli,,,true,1.00,2023-03-15T04:49:57Z,2023-03-14T12:15:24Z
+46.14.94.253,253.94.14.46.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Genestrerio,9.11.22,,false,1.00,2023-03-15T04:50:02Z,2023-03-14T12:25:07Z
+146.4.16.197,mail.atomstudio.ch.,3303,Bluewin,CH,Épendes,,,false,0.98,2023-04-21T11:42:46Z,2023-03-14T12:56:03Z
+83.173.204.5,5.204.173.83.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Geneva,dnsmasq-2.84rc2,,false,1.00,2023-03-15T04:50:29Z,2023-03-14T13:08:43Z
+77.73.242.142,,43284,IWB Industrielle Werke Basel,CH,Basel,dnsmasq-2.85,,false,1.00,2023-03-15T04:50:38Z,2023-03-14T13:26:20Z
+81.63.171.9,9.171.63.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Monchaltorf,,,false,1.00,2023-03-15T04:50:44Z,2023-03-14T13:40:18Z
+92.104.138.34,34.138.104.92.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Kriens,9.6-ESV-R11,,false,1.00,2023-03-15T04:50:57Z,2023-03-14T14:04:45Z
+85.90.9.166,166.9.90.85.static.netplusfr.net.,39440,netplusFR SA,CH,Fribourg,unknown,,false,1.00,2023-03-15T04:51:02Z,2023-03-14T14:15:44Z
+80.219.177.45,80-219-177-45.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Thun,DNSServer,,false,1.00,2023-03-15T04:51:03Z,2023-03-14T14:18:04Z
+109.164.226.65,65.226.164.109.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Salins,,,true,1.00,2023-03-15T04:51:19Z,2023-03-14T14:42:17Z
+46.14.146.205,205.146.14.46.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Plan-les-Ouates,,,false,1.00,2023-03-15T04:51:44Z,2023-03-14T15:25:10Z
+84.73.32.65,84-73-32-65.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Frenkendorf,dnsmasq-2.71,,false,1.00,2023-03-15T04:51:47Z,2023-03-14T15:29:24Z
+85.195.251.238,85-195-251-238.fiber7.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,St. Gallen,9.11.22,,false,1.00,2023-03-15T04:51:56Z,2023-03-14T15:47:57Z
+87.102.193.52,cable-static-193-52.breitband.ch.,6772,ImproWare AG,CH,Bennwil,dnsmasq-2.84rc2,,false,1.00,2023-03-15T04:52:13Z,2023-03-14T16:09:00Z
+84.72.176.45,84-72-176-45.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Valeyres-sous-Montagny,dnsmasq-2.85,,false,1.00,2023-03-15T04:52:14Z,2023-03-14T16:12:46Z
+91.207.164.7,,41872,GIB-Solutions AG,CH,Regensdorf,,i/o timeout,,0.17,2023-03-15T04:52:27Z,2023-03-14T16:17:35Z
+83.173.229.77,77.229.173.83.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Massonnens,,,true,1.00,2023-03-15T04:52:44Z,2023-03-14T16:55:10Z
+46.14.77.198,198.77.14.46.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Baden,ZyWALL DNS,SERVFAIL for non-existent.example.com,,0.06,2023-03-15T04:52:49Z,2023-03-14T17:02:06Z
+185.165.209.20,,48885,Neocarrier Communications Sarl,CH,,,,false,1.00,2023-03-15T04:53:01Z,2023-03-14T17:21:59Z
+146.4.67.153,153.67.4.146.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Lausanne,,,false,1.00,2023-03-15T08:49:28Z,2023-03-14T17:27:53Z
+152.67.73.156,,31898,ORACLE-BMC-31898,CH,Zurich,,,false,1.00,2023-03-15T04:53:18Z,2023-03-14T17:41:36Z
+85.195.206.179,85-195-206-179.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Zurich,,,true,0.83,2023-03-15T04:53:21Z,2023-03-14T17:42:01Z
+83.173.202.64,64.202.173.83.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Zurich,unknown,,false,1.00,2023-03-15T04:53:19Z,2023-03-14T17:44:24Z
+94.16.215.232,232-215-16-94.dyn.fiber.qlnet.ch.,15600,Quickline AG,CH,Madiswil,DNSServer,,false,1.00,2023-03-15T04:53:50Z,2023-03-14T18:27:54Z
+170.17.150.101,101.150.17.170.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Zurich,,,true,1.00,2023-03-15T04:53:51Z,2023-03-14T18:29:15Z
+213.200.249.170,170.249.200.213.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Emmen,,,true,1.00,2023-03-15T08:47:31Z,2023-03-14T18:49:54Z
+80.219.211.243,80-219-211-243.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Oberrieden,DNSServer,,false,1.00,2023-03-15T04:54:06Z,2023-03-14T18:58:52Z
+85.7.109.229,229.109.7.85.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Ostermundigen,unknown,,false,1.00,2023-03-15T04:54:09Z,2023-03-14T19:02:48Z
+217.11.41.229,229.41.11.217.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Montagnola,,,false,1.00,2023-03-15T04:54:29Z,2023-03-14T19:35:09Z
+46.140.95.130,46-140-95-130.static.cablecom.ch.,6830,Liberty Global B.V.,CH,Glarus,dnsmasq-2.88,,false,1.00,2023-03-15T04:54:30Z,2023-03-14T19:35:31Z
+46.14.5.250,250.5.14.46.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Hinwil,ZyWALL DNS,SERVFAIL for non-existent.example.com,,0.25,2023-03-15T04:54:39Z,2023-03-14T19:52:15Z
+194.29.10.6,ns1.swissdc.com.,6830,Liberty Global B.V.,CH,Zurich,,,false,1.00,2023-03-15T04:54:44Z,2023-03-14T20:01:42Z
+146.4.28.197,197.28.4.146.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Lugano,,,true,1.00,2023-03-15T04:54:46Z,2023-03-14T20:05:04Z
+85.195.222.105,85-195-222-105.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Winterthur,9.6-ESV-R11,,false,1.00,2023-03-15T08:47:31Z,2023-03-14T20:56:04Z
+84.253.57.206,206.57.253.84.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Bern,ZyWALL DNS,,false,1.00,2023-03-15T09:57:23Z,2023-03-14T21:49:13Z
+85.5.0.51,51.0.5.85.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,St. Gallen,dnsmasq-gen_2.84_v1.1.1,,false,1.00,2023-03-15T09:57:54Z,2023-03-14T22:42:36Z
+81.62.214.174,174.214.62.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Ollon,ZyWALL DNS,,false,1.00,2023-03-15T09:58:06Z,2023-03-14T23:03:44Z
+83.173.196.125,125.196.173.83.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Lucerne,,,true,1.00,2023-03-15T09:58:20Z,2023-03-14T23:26:43Z
+84.253.48.117,117.48.253.84.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Lausanne,,REFUSED for example.com,,0.83,2023-03-18T02:46:41Z,2023-03-14T23:50:21Z
+81.62.230.113,113.230.62.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Geneva,,,true,1.00,2023-03-18T02:46:56Z,2023-03-15T00:19:57Z
+170.17.155.89,89.155.17.170.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Zurich,,,true,1.00,2023-03-18T02:47:00Z,2023-03-15T00:31:57Z
+170.17.150.117,117.150.17.170.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Zurich,,,true,1.00,2023-03-18T02:47:10Z,2023-03-15T00:50:16Z
+84.74.59.22,84-74-59-22.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Wettingen,DNSServer,,false,1.00,2023-03-18T02:47:56Z,2023-03-15T01:57:54Z
+84.253.3.225,225.3.253.84.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Masein,,,true,1.00,2023-03-18T02:47:58Z,2023-03-15T02:07:29Z
+82.195.234.58,GDP-WIN-234-058.as16215.net.,1836,green.ch AG,CH,Nusshof,,,false,1.00,2023-03-26T22:08:11Z,2023-03-15T02:19:24Z
+178.174.55.85,85.55.174.178.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Beckenried,unknown,,false,1.00,2023-03-18T02:48:32Z,2023-03-15T03:05:22Z
+31.164.61.108,xdsl-31-164-61-108.adslplus.ch.,6730,Sunrise GmbH,CH,Lucerne,DNSServer,,false,1.00,2023-03-18T02:48:37Z,2023-03-15T03:15:56Z
+84.253.3.101,101.3.253.84.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Masein,,,true,1.00,2023-03-18T02:48:53Z,2023-03-15T03:40:15Z
+83.78.196.207,207.196.78.83.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Lucerne,get lost,,false,1.00,2023-03-18T02:49:06Z,2023-03-15T03:50:21Z
+85.195.248.249,85-195-248-249.fiber7.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Basel,ZyWALL DNS,,false,1.00,2023-03-18T13:44:44Z,2023-03-15T04:34:38Z
+194.158.243.178,,6730,Sunrise GmbH,CH,Basel,9.11.22,,false,1.00,2023-03-18T02:49:40Z,2023-03-15T04:59:16Z
+91.138.5.222,222-5-138-91.dyn.cable.fcom.ch.,15600,Quickline AG,CH,Erlinsbach AG,dnsmasq-2.78-20-geaeda96,,false,1.00,2023-03-18T02:49:42Z,2023-03-15T05:01:10Z
+83.173.203.174,174.203.173.83.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Zurich,unknown,,false,1.00,2023-03-18T02:49:48Z,2023-03-15T05:13:46Z
+83.173.240.229,229.240.173.83.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Yverdon-les-Bains,,,true,1.00,2023-03-18T02:49:57Z,2023-03-15T05:26:13Z
+77.73.243.253,,43284,IWB Industrielle Werke Basel,CH,Ostermundigen,9.9.5-3-Ubuntu,,false,1.00,2023-03-18T02:50:01Z,2023-03-15T05:33:00Z
+46.140.74.229,46-140-74-229.static.cablecom.ch.,6830,Liberty Global B.V.,CH,Fehraltorf,dnsmasq-2.59,,false,1.00,2023-03-18T02:50:16Z,2023-03-15T05:56:41Z
+178.174.75.109,109.75.174.178.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Stans,,,true,1.00,2023-03-18T02:50:24Z,2023-03-15T06:11:09Z
+84.253.48.57,57.48.253.84.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Lausanne,,,true,1.00,2023-03-18T02:50:56Z,2023-03-15T07:02:20Z
+81.62.159.77,77.159.62.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Geneva,,,true,1.00,2023-03-18T02:51:00Z,2023-03-15T07:10:07Z
+170.17.134.81,81.134.17.170.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Winterthur,,,true,1.00,2023-03-18T02:51:18Z,2023-03-15T07:42:19Z
+94.156.201.148,host-148-201-156-94.cloudsigma.net.,50837,Cloudsigma Ag,CH,,,,false,1.00,2023-03-18T02:51:25Z,2023-03-15T07:58:10Z
+46.140.228.158,46-140-228-158.static.upc.ch.,6830,Liberty Global B.V.,CH,Wetzikon,unknown,,false,1.00,2023-03-18T02:51:27Z,2023-03-15T08:00:35Z
+84.253.49.105,105.49.253.84.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Lausanne,,,true,1.00,2023-03-18T02:51:43Z,2023-03-15T08:27:15Z
+84.20.37.78,84-20-37-78.static.upc.ch.,6830,Liberty Global B.V.,CH,Niederuzwil,,,false,1.00,2023-03-18T02:51:58Z,2023-03-15T08:50:31Z
+77.59.227.211,77-59-227-211.static.cablecom.ch.,6830,Liberty Global B.V.,CH,Lucens,,,false,0.78,2023-03-18T02:52:08Z,2023-03-15T08:58:08Z
+83.76.95.253,253.95.76.83.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Niederuzwil,DNSServer,,false,0.89,2023-03-18T02:52:41Z,2023-03-15T09:45:28Z
+83.173.222.49,49.222.173.83.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Glarus,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:34:23Z,2023-03-15T09:54:16Z
+178.194.144.104,104.144.194.178.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Sierre,dnsmasq-2.15,,false,1.00,2023-03-18T02:52:45Z,2023-03-15T10:12:57Z
+83.173.197.45,45.197.173.83.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Lucerne,,,true,1.00,2023-03-18T02:53:33Z,2023-03-15T11:31:53Z
+213.200.211.110,110.211.200.213.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Onex,unknown,,false,1.00,2023-03-18T02:54:04Z,2023-03-15T12:19:41Z
+80.169.232.195,ns1.isl.ch.,8220,COLT Technology Services Group Limited,CH,Zurich,,,false,1.00,2023-03-18T02:54:10Z,2023-03-15T12:25:30Z
+91.207.207.196,,56798,HIDORA SA,CH,,dnsmasq-2.76,,false,1.00,2023-03-18T02:54:37Z,2023-03-15T13:09:19Z
+62.2.220.42,62-2-220-42.static.cablecom.ch.,6830,Liberty Global B.V.,CH,Aigle,dnsmasq-2.40,,false,1.00,2023-03-19T21:44:50Z,2023-03-15T13:25:09Z
+77.56.162.126,77-56-162-126.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Oberrohrdorf,,,false,1.00,2023-03-18T02:54:52Z,2023-03-15T13:36:48Z
+81.62.159.137,137.159.62.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Geneva,,,true,1.00,2023-03-18T02:54:55Z,2023-03-15T13:41:18Z
+146.4.122.54,54.122.4.146.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Geneva,unbound 1.4.22,,false,1.00,2023-03-18T02:55:00Z,2023-03-15T13:51:51Z
+84.74.138.16,84-74-138-16.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Gossau,,,false,1.00,2023-03-18T02:55:21Z,2023-03-15T14:31:57Z
+213.200.239.59,59.239.200.213.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Geneva,dnsmasq-2.84rc2,,false,1.00,2023-03-18T02:55:36Z,2023-03-15T14:55:48Z
+77.59.197.94,mail2.mso.ch.,6830,Liberty Global B.V.,CH,Heerbrugg,,,false,1.00,2023-03-18T04:47:10Z,2023-03-15T15:42:58Z
+178.83.244.180,178-83-244-180.dynamic.hispeed.ch.,6830,Liberty Global B.V.,CH,Glattbrugg,,,false,1.00,2023-03-18T02:56:42Z,2023-03-15T16:53:57Z
+81.17.16.12,hostedby.privatelayer.com.,51852,Private Layer INC,CH,Zurich,,,false,1.00,2023-03-18T02:56:43Z,2023-03-15T16:56:00Z
+77.57.207.134,77-57-207-134.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Nussbaumen,,,false,1.00,2023-03-18T02:56:45Z,2023-03-15T17:00:22Z
+81.63.169.142,142.169.63.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Sion,ZyWALL DNS,,false,1.00,2023-03-18T02:56:50Z,2023-03-15T17:08:40Z
+51.154.17.17,,15796,Salt Mobile SA,CH,Chene-Bougeries,dnsmasq-UNKNOWN,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:34:38Z,2023-03-15T17:32:59Z
+83.173.247.157,157.247.173.83.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Weinfelden,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:34:48Z,2023-03-15T17:46:05Z
+109.164.248.132,132.248.164.109.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Huenenberg See,,SERVFAIL for wikileaks.org,,0.98,2023-04-05T00:34:52Z,2023-03-15T17:49:02Z
+81.62.134.121,121.134.62.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Cossonay,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:35:15Z,2023-03-15T18:24:08Z
+77.87.133.2,,49071,Schweizerische Radio- und Fernsehgesellschaft,CH,,,connection refused,,0.97,2023-04-05T00:35:24Z,2023-03-15T18:43:30Z
+80.254.191.213,213-191-254-80.static.dsl-net.ch.,1836,green.ch AG,CH,Lausanne,9.11.36-RedHat-9.11.36-5.el8_7.2,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:36:30Z,2023-03-15T20:30:20Z
+46.14.208.30,30.208.14.46.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Vesenaz,Microsoft DNS 6.1.7601 (1DB15F75),SERVFAIL for wikileaks.org,,0.87,2023-04-05T00:36:40Z,2023-03-15T20:43:22Z
+84.75.249.20,84-75-249-20.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Horgen,,i/o timeout,,0.97,2023-04-05T00:36:55Z,2023-03-15T20:57:09Z
+154.44.130.160,,174,COGENT-174,CH,Rupperswil,9.16.1-Ubuntu,,false,0.84,2023-04-12T12:13:37Z,2023-03-15T22:03:40Z
+213.230.32.122,dyn-cable-cust.122.32.230.213.quicknet.ch.,21466,Kabelfernsehen Bodeli AG,CH,Interlaken,,i/o timeout,,0.79,2023-04-05T00:37:53Z,2023-03-15T22:19:41Z
+193.70.34.218,ded01.blink-eye.com.,16276,OVH SAS,CH,Crissier,none,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:37:54Z,2023-03-15T22:31:48Z
+82.197.166.77,s5win7.edge.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Basel,,i/o timeout,,0.96,2023-04-05T00:38:10Z,2023-03-15T22:48:41Z
+86.111.140.200,,15547,netplus.ch SA,CH,Martigny-Ville,9.11.22,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:38:19Z,2023-03-15T23:16:49Z
+62.12.150.102,mail.waterproof.li.,15623,Cyberlink AG,CH,Zurich,,i/o timeout,,0.96,2023-04-05T00:38:54Z,2023-03-15T23:57:29Z
+81.221.122.65,65-122-221-81.static.dsl-net.ch.,1836,green.ch AG,CH,Siggenthal Station,,i/o timeout,,0.89,2023-04-05T00:39:19Z,2023-03-16T00:36:48Z
+77.109.141.178,empty.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Zurich,9.11.4-P2-RedHat-9.11.4-9.P2.el7,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:39:31Z,2023-03-16T01:02:52Z
+78.155.23.143,,15547,netplus.ch SA,CH,Sierre,9.11.22,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:39:32Z,2023-03-16T01:04:21Z
+212.147.113.134,,12350,VTX Services SA,CH,Lausanne,unknown,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:39:48Z,2023-03-16T01:29:15Z
+82.197.178.211,dhcp-82-197-178-211.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Oberweningen,dnsmasq-2.39,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:39:48Z,2023-03-16T01:30:10Z
+193.135.142.198,v4mobprx1.cnsp.swisscom.ch.,3303,Bluewin,CH,Niederhasli,,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:40:01Z,2023-03-16T01:52:17Z
+81.63.131.94,94.131.63.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Geneva,,connection refused,,0.39,2023-04-05T00:40:29Z,2023-03-16T02:45:08Z
+80.254.184.109,109-184-254-80.static.dsl-net.ch.,1836,green.ch AG,CH,Birr,unknown,,false,0.97,2023-04-05T00:41:09Z,2023-03-16T03:41:59Z
+77.58.192.65,77-58-192-65.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Kriens,,i/o timeout,,0.97,2023-04-05T00:41:22Z,2023-03-16T03:53:04Z
+83.173.227.194,194.227.173.83.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Baar,9.11.22,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:41:51Z,2023-03-16T04:54:42Z
+81.62.128.233,233.128.62.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Geneva,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:42:02Z,2023-03-16T05:16:33Z
+109.202.202.160,s5win7.edge.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Brugg,,i/o timeout,,0.94,2023-04-05T00:42:25Z,2023-03-16T05:41:20Z
+16.62.171.163,ns2.mc4web.net.,16509,AMAZON-02,CH,Zurich,none,SERVFAIL for wikileaks.org,,0.94,2023-04-05T00:42:19Z,2023-03-16T05:47:38Z
+77.245.187.2,dhcp.77.245.187.2.databaar.ch.,41622,Stadtantennen AG,CH,Baar,dnsmasq-2.86,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:43:07Z,2023-03-16T06:57:29Z
+212.90.213.17,17.213.90.212.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Adligenswil,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:43:14Z,2023-03-16T07:07:03Z
+213.200.205.9,9.205.200.213.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Basel,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:43:22Z,2023-03-16T07:18:54Z
+83.173.213.211,211.213.173.83.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Zurich,,i/o timeout,,0.91,2023-04-05T00:43:57Z,2023-03-16T07:56:16Z
+217.11.41.205,test.atlas.,3303,Bluewin,CH,Montagnola,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:43:55Z,2023-03-16T08:09:08Z
+185.181.160.113,ov-ad30d5.infomaniak.ch.,29222,Infomaniak Network SA,CH,,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:44:00Z,2023-03-16T08:18:40Z
+85.195.242.206,85-195-242-206.fiber7.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Zurich,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:44:24Z,2023-03-16T08:58:29Z
+83.173.204.49,49.204.173.83.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Geneva,dnsmasq-2.80,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:45:18Z,2023-03-16T10:21:17Z
+81.63.134.221,221.134.63.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Rorschach,,SERVFAIL for wikileaks.org,,0.86,2023-04-05T05:13:41Z,2023-03-16T10:35:51Z
+80.254.178.52,52-178-254-80.static.dsl-net.ch.,1836,green.ch AG,CH,Davos,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:45:40Z,2023-03-16T10:52:20Z
+92.104.63.84,84.63.104.92.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Corseaux,,i/o timeout,,0.94,2023-04-05T00:46:01Z,2023-03-16T11:13:26Z
+83.78.28.184,184.28.78.83.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Küssnacht,UNKNOWN,SERVFAIL for wikileaks.org,,0.93,2023-04-05T00:46:20Z,2023-03-16T12:02:27Z
+46.14.199.129,129.199.14.46.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Wil,,,true,0.75,2023-04-19T19:36:02Z,2023-03-16T12:26:54Z
+144.76.17.151,dc.blazedigitel.com.,24940,Hetzner Online GmbH,CH,Basel,,,false,0.80,2023-04-19T19:36:26Z,2023-03-16T13:04:26Z
+85.195.224.154,85-195-224-154.fiber7.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Zurich,ZyWALL DNS,SERVFAIL for example.com,,0.17,2023-04-19T19:36:48Z,2023-03-16T13:47:39Z
+188.62.202.242,242.202.62.188.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Nyon,,i/o timeout,,0.00,2023-04-19T19:37:00Z,2023-03-16T13:52:56Z
+81.62.136.229,229.136.62.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Busswil,,,true,0.83,2023-04-19T19:37:06Z,2023-03-16T14:19:49Z
+77.59.245.20,77-59-245-20.static.cablecom.ch.,6830,Liberty Global B.V.,CH,Leysin,,i/o timeout,,0.00,2023-04-19T19:37:18Z,2023-03-16T14:26:02Z
+146.4.78.13,13.78.4.146.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Trullikon,,,true,0.75,2023-04-19T19:37:20Z,2023-03-16T14:45:15Z
+213.180.188.165,165.188.180.213.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Riehen,,,true,0.67,2023-04-19T19:37:35Z,2023-03-16T15:04:58Z
+213.200.218.61,61.218.200.213.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Laupen,Q9-P-7.6,,true,0.67,2023-04-19T19:37:37Z,2023-03-16T15:08:33Z
+91.138.19.80,80-19-138-91.dyn.cable.fcom.ch.,15600,Quickline AG,CH,Niedergosgen,DNSServer,,false,0.70,2023-04-19T19:37:52Z,2023-03-16T15:33:19Z
+85.218.86.202,85-218-86-202.dclient.lsne.ch.,34781,Citycable,CH,Lausanne,,,false,0.58,2023-04-19T19:38:02Z,2023-03-16T15:49:03Z
+62.2.151.66,62-2-151-66.static.cablecom.ch.,6830,Liberty Global B.V.,CH,Preles,Q9-P-7.6,,true,0.53,2023-04-19T19:38:41Z,2023-03-16T16:51:20Z
+46.140.55.222,46-140-55-222.static.cablecom.ch.,6830,Liberty Global B.V.,CH,Morschwil,9.11.22,,false,0.53,2023-04-19T19:38:43Z,2023-03-16T16:55:45Z
+46.14.15.237,237.15.14.46.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Geneva,,,true,0.65,2023-04-19T19:39:00Z,2023-03-16T17:26:47Z
+46.14.186.141,141.186.14.46.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Zurich,dnsmasq-2.84rc2,,false,0.97,2023-04-21T11:42:53Z,2023-03-16T17:50:03Z
+164.128.156.89,89.156.128.164.static.wline.lns.ent.cust.swisscom.ch.,3303,Bluewin,CH,Unterterzen,,,true,0.65,2023-04-19T19:39:52Z,2023-03-16T18:46:49Z
+212.243.20.252,,3303,Bluewin,CH,Thun,,,false,0.69,2023-04-19T19:40:09Z,2023-03-16T19:15:29Z
+194.209.90.8,ns2.wws24.net.,3303,Bluewin,CH,Kloten,,,false,0.68,2023-04-19T19:40:49Z,2023-03-16T20:07:43Z
+77.56.165.10,77-56-165-10.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Bernex,DNSServer,,false,0.14,2023-04-19T19:40:53Z,2023-03-16T20:14:03Z
+212.60.39.97,97-39-60-212.static.cable.fcom.ch.,15600,Quickline AG,CH,Langenthal,9.11.22,,false,0.75,2023-04-19T19:41:08Z,2023-03-16T20:41:19Z
+95.183.53.129,cwsrekop.net.,197988,Solar Communications GmbH,CH,Zurich,,i/o timeout,,0.07,2023-04-19T19:41:28Z,2023-03-16T21:00:09Z
+92.107.154.224,224.154.107.92.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Mezzovico,dnsmasq-2.87,,false,0.69,2023-04-21T17:41:48Z,2023-03-16T21:38:40Z
+81.17.22.83,server.premiumvpssolutions83.us.,51852,Private Layer INC,CH,Zurich,,,false,0.70,2023-04-21T17:42:19Z,2023-03-16T22:28:38Z
+213.200.231.190,190.231.200.213.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Viganello,dnsmasq-2.78,,false,0.70,2023-04-21T17:42:21Z,2023-03-16T22:32:00Z
+176.122.194.117,176-122-194-117.static.swissdatasafe.ch.,199047,Swiss Data Safe AG,CH,,9.11.36-RedHat-9.11.36-5.el8_7.2,,true,0.84,2023-04-21T17:42:32Z,2023-03-16T22:46:57Z
+109.164.205.154,154.205.164.109.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Basel,,i/o timeout,,0.45,2023-04-21T21:43:46Z,2023-03-16T23:04:19Z
+81.63.150.156,156.150.63.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Bern,dnsmasq-2.84rc2,,false,0.71,2023-04-21T21:43:47Z,2023-03-16T23:22:57Z
+194.12.16.226,,15547,netplus.ch SA,CH,Beuson,unknown,,false,0.71,2023-04-21T21:43:58Z,2023-03-16T23:35:04Z
+85.1.106.34,34.106.1.85.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Oberentfelden,9.11.22,,false,0.68,2023-04-21T21:44:21Z,2023-03-17T00:15:17Z
+178.174.8.109,109.8.174.178.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Geneva,,,true,0.71,2023-04-21T21:44:25Z,2023-03-17T00:25:59Z
+195.141.234.217,195-141-234-217.static.adslpremium.ch.,6730,Sunrise GmbH,CH,Stafa,,i/o timeout,,0.19,2023-04-21T21:45:06Z,2023-03-17T01:16:04Z
+92.104.60.71,71.60.104.92.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Cudrefin,dnsmasq-2.45,,false,0.74,2023-04-21T21:44:59Z,2023-03-17T01:19:05Z
+85.5.153.89,89.153.5.85.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Lausanne,,i/o timeout,,0.00,2023-04-21T21:45:08Z,2023-03-17T01:21:01Z
+77.58.242.108,77-58-242-108.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Zurich,,,false,0.69,2023-04-21T21:45:24Z,2023-03-17T02:01:08Z
+80.219.100.93,80-219-100-93.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Altdorf,dnsmasq-2.76,,false,0.72,2023-04-21T21:45:41Z,2023-03-17T02:29:14Z
+81.63.144.89,89.144.63.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Stallikon,,,true,0.76,2023-04-21T21:46:25Z,2023-03-17T03:58:25Z
+178.174.50.246,246.50.174.178.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Rickenbach,,i/o timeout,,0.07,2023-04-21T21:46:35Z,2023-03-17T04:01:07Z
+193.135.111.11,hpolt-cnsw01.pay.bluewin.org.,3303,Bluewin,CH,,,,true,0.76,2023-04-21T21:46:55Z,2023-03-17T04:53:13Z
+85.0.173.255,255.173.0.85.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Siebnen,DNSServer,,false,0.74,2023-04-21T21:47:08Z,2023-03-17T05:15:31Z
+146.4.63.109,109.63.4.146.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Burgdorf,,,true,0.77,2023-04-21T21:47:13Z,2023-03-17T05:21:55Z
+82.195.251.91,GVP-WIN-251-091.as16215.net.,1836,green.ch AG,CH,Nusshof,,,false,0.82,2023-04-21T21:47:19Z,2023-03-17T05:28:27Z
+46.14.87.29,29.87.14.46.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Küssnacht,,,true,0.45,2023-04-21T21:47:45Z,2023-03-17T06:18:48Z
+80.218.48.88,80-218-48-88.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Mollis,dnsmasq-2.40,,false,0.30,2023-04-21T21:47:54Z,2023-03-17T06:36:31Z
+84.253.19.70,70.19.253.84.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Chatel-Saint-Denis,,i/o timeout,,0.00,2023-04-21T21:48:10Z,2023-03-17T06:49:04Z
+81.62.135.122,122.135.62.81.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Cossonay,ZyWALL DNS,SERVFAIL for example.com,,0.02,2023-04-21T21:48:01Z,2023-03-17T06:49:24Z
+171.33.243.3,app.maxihoster.com.,31736,senseLAN GmbH,CH,,,i/o timeout,,0.50,2023-04-21T21:48:36Z,2023-03-17T07:29:00Z
+213.3.38.121,121.38.3.213.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Muhlau,unknown,,false,0.75,2023-04-21T21:48:32Z,2023-03-17T07:35:27Z
+85.195.210.243,intranet.posttenebraslab.ch.,13030,Init7 (Switzerland) Ltd.,CH,Geneva,,,false,0.75,2023-04-21T21:48:33Z,2023-03-17T07:38:30Z
+83.173.217.241,241.217.173.83.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Birsfelden,,,true,0.77,2023-04-21T21:48:36Z,2023-03-17T07:45:21Z
+77.58.29.25,77-58-29-25.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Bern,unbound 1.16.2,,true,0.78,2023-04-21T21:48:48Z,2023-03-17T07:58:45Z
+94.16.143.133,133-143-16-94.dyn.cable.fcom.ch.,15600,Quickline AG,CH,Therwil,,i/o timeout,,0.00,2023-04-21T21:49:21Z,2023-03-17T08:38:08Z
+170.17.153.89,89.153.17.170.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Zurich,,,true,0.85,2023-04-21T21:49:15Z,2023-03-17T08:43:05Z
+89.249.44.51,,15623,Cyberlink AG,CH,L'Isle,,i/o timeout,,0.81,2023-04-21T21:49:26Z,2023-03-17T08:46:03Z
+83.173.215.108,108.215.173.83.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Zurich,,i/o timeout,,0.00,2023-05-08T07:48:51Z,2023-03-17T09:50:08Z
+81.13.251.35,,15547,netplus.ch SA,CH,Les Valettes,DNSServer,,false,0.94,2023-05-08T07:49:50Z,2023-03-17T11:25:10Z
+77.239.61.138,138-61-239-77.dyn.cable.fcom.ch.,15600,Quickline AG,CH,Koppigen,ZyWALL DNS,,false,0.90,2023-05-08T07:50:45Z,2023-03-17T12:42:57Z
+77.57.190.40,77-57-190-40.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Windisch,,i/o timeout,,0.52,2023-05-08T07:51:20Z,2023-03-17T13:27:07Z
+213.180.166.78,78.166.180.213.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Winznau,,i/o timeout,,0.00,2023-05-08T09:48:51Z,2023-03-17T17:16:35Z
+80.219.185.221,80-219-185-221.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Hergiswil,,i/o timeout,,0.25,2023-05-08T09:49:00Z,2023-03-17T17:31:57Z
+80.219.99.141,80-219-99-141.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Altdorf,,connection refused,,0.72,2023-05-12T00:49:28Z,2023-03-17T18:59:33Z
+140.238.221.119,,31898,ORACLE-BMC-31898,CH,Zurich,,i/o timeout,,0.13,2023-05-12T00:49:51Z,2023-03-17T19:30:23Z
+212.161.146.77,,6730,Sunrise GmbH,CH,Allschwil,,i/o timeout,,0.00,2023-08-12T20:53:46Z,2023-03-17T21:29:04Z
+85.195.249.3,85-195-249-3.fiber7.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,St. Gallen,,i/o timeout,,0.00,2023-08-17T21:53:12Z,2023-03-17T21:54:38Z
+77.109.140.197,s5win7.edge.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,,,i/o timeout,,0.00,2023-08-12T20:54:41Z,2023-03-17T23:10:49Z
+82.197.188.1,s5win7.edge.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Zurich,,connection refused,,0.00,2023-08-12T20:55:15Z,2023-03-18T00:09:31Z
+85.90.17.185,185.17.90.85.reverse.netplusfr.net.,39440,netplusFR SA,CH,Bulle,,i/o timeout,,0.00,2023-08-12T20:57:36Z,2023-03-18T04:25:42Z
+84.75.64.97,84-75-64-97.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Dietikon,,i/o timeout,,0.00,2023-08-12T20:57:52Z,2023-03-18T04:53:16Z
+80.208.135.35,35-135-208-80.dyn.fiber.qlnet.ch.,15600,Quickline AG,CH,Gontenschwil,,i/o timeout,,0.00,2023-08-12T20:59:12Z,2023-03-18T07:19:44Z
+152.89.162.19,mx.michi88.ch.,9009,M247 Europe SRL,CH,Zurich,,i/o timeout,,0.00,2023-08-12T20:59:59Z,2023-03-18T08:35:36Z
+62.2.185.196,mail.comoutit.ch.,6830,Liberty Global B.V.,CH,Neuenhof,,i/o timeout,,0.00,2023-08-12T20:59:59Z,2023-03-18T08:35:54Z
+213.144.129.113,,13030,Init7 (Switzerland) Ltd.,CH,Zurich,,i/o timeout,,0.00,2023-08-12T21:00:43Z,2023-03-18T09:42:58Z
+83.144.243.131,,33965,LITECOM AG,CH,Wohlen,,i/o timeout,,0.00,2023-08-12T21:01:07Z,2023-03-18T10:19:44Z
+83.76.84.40,40.84.76.83.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Geneva,,i/o timeout,,0.00,2023-08-12T21:01:16Z,2023-03-18T10:35:45Z
+85.195.198.154,85-195-198-154.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Wallisellen,,i/o timeout,,0.00,2023-08-12T21:01:28Z,2023-03-18T10:53:19Z
+81.92.99.93,,41872,GIB-Solutions AG,CH,Zurich,,i/o timeout,,0.00,2023-08-12T21:01:46Z,2023-03-18T11:23:55Z
+46.21.25.218,,197352,Tinext SA,CH,Bioggio,,i/o timeout,,0.00,2023-08-12T21:01:46Z,2023-03-18T11:24:24Z
+89.249.44.73,,15623,Cyberlink AG,CH,Lausanne,9.11.22,,false,1.00,2023-08-12T21:02:35Z,2023-03-18T12:55:42Z
+84.253.59.70,70.59.253.84.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Basel,,i/o timeout,,0.00,2023-08-12T21:03:38Z,2023-03-18T14:51:18Z
+77.59.229.238,77-59-229-238.static.cablecom.ch.,6830,Liberty Global B.V.,CH,Volketswil / Volketswil (Dorf),,i/o timeout,,0.00,2023-08-12T21:05:42Z,2023-03-18T17:52:02Z
+77.109.180.129,s5win7.edge.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Zurich,,i/o timeout,,0.00,2023-08-12T21:06:03Z,2023-03-18T18:37:45Z
+195.226.23.254,195-226-23-254.pool.cyberlink.ch.,15623,Cyberlink AG,CH,Zurich,,i/o timeout,,0.00,2023-08-12T21:06:46Z,2023-03-18T20:08:00Z
+77.109.180.65,s5win7.edge.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Zurich,,i/o timeout,,0.00,2023-08-12T21:07:06Z,2023-03-18T20:46:43Z
+83.173.209.124,124.209.173.83.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Allens,dnsmasq-2.68,,false,1.00,2023-08-12T21:07:00Z,2023-03-18T20:52:56Z
+85.195.215.20,85-195-215-20.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Geneva,,i/o timeout,,0.00,2023-08-12T21:07:50Z,2023-03-18T22:28:31Z
+84.241.76.17,17-76-241-84.dyn.cable.fcom.ch.,15600,Quickline AG,CH,Buochs,,i/o timeout,,0.00,2023-08-17T07:54:13Z,2023-03-19T00:49:01Z
+81.6.57.93,remote.belgrill.ch.,1836,green.ch AG,CH,Opfikon,,i/o timeout,,0.00,2023-08-17T15:54:34Z,2023-03-19T03:58:05Z
+82.136.80.15,dzcpe6023roeoesli01-e0.static-hfc.datazug.ch.,8821,WWZ Telekom AG,CH,Hochdorf,DNSServer,,false,0.92,2023-08-17T15:54:43Z,2023-03-19T04:42:20Z
+83.173.239.170,170.239.173.83.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Selzach,,i/o timeout,,0.00,2023-08-17T15:56:06Z,2023-03-19T07:14:15Z
+212.243.72.102,,3303,Bluewin,CH,Lugano,,i/o timeout,,0.00,2023-08-17T15:56:31Z,2014-12-29T13:59:16Z
+85.4.141.104,104.141.4.85.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Surava,,i/o timeout,,0.00,2023-08-17T15:57:18Z,2023-03-19T09:25:26Z
+188.60.236.234,234.236.60.188.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Geneva,,i/o timeout,,0.00,2023-08-17T15:58:08Z,2023-03-19T11:13:11Z
+85.195.199.49,85-195-199-49.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Basel,,i/o timeout,,0.00,2023-08-17T20:53:43Z,2023-03-19T12:25:31Z
+178.174.51.26,26.51.174.178.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Geneva,,i/o timeout,,0.00,2023-08-17T21:53:35Z,2023-03-19T12:51:23Z
+140.238.218.113,,31898,ORACLE-BMC-31898,CH,Zurich,,i/o timeout,,0.00,2023-08-17T21:54:04Z,2023-03-19T13:41:43Z
+92.104.184.12,12.184.104.92.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Chur,,i/o timeout,,0.00,2023-08-17T21:55:21Z,2023-03-19T16:51:44Z
+77.109.157.251,77-109-157-251.fiber7.init7.net.,13030,Init7 (Switzerland) Ltd.,CH,Lausanne,,i/o timeout,,0.00,2023-08-17T21:55:47Z,2023-03-19T17:45:45Z
+212.147.24.149,lsne-dial-R-p21.vtx.ch.,12350,VTX Services SA,CH,Horgen,ZyWALL DNS,SERVFAIL for example.com,,0.00,2023-08-17T21:56:12Z,2023-03-19T18:54:51Z
+83.76.94.225,225.94.76.83.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Kreuzlingen,,,false,0.72,2023-08-17T21:56:39Z,2023-03-19T19:55:30Z
+146.4.102.170,170.102.4.146.static.wline.lns.sme.cust.swisscom.ch.,3303,Bluewin,CH,Lampenberg,,i/o timeout,,0.00,2023-08-17T21:56:57Z,2023-03-19T20:12:57Z
+5.145.74.46,46-74-145-5.dyn.cable.fcom.ch.,15600,Quickline AG,CH,Niederbipp,,i/o timeout,,0.41,2023-08-17T21:57:20Z,2023-03-19T21:00:59Z
+80.218.51.166,80-218-51-166.dclient.hispeed.ch.,6830,Liberty Global B.V.,CH,Glarus,,,false,0.64,2023-08-17T21:57:18Z,2023-03-19T21:14:38Z
+213.158.146.26,,15623,Cyberlink AG,CH,Glattbrugg,,i/o timeout,,0.00,2023-08-17T21:58:21Z,2023-03-23T10:44:56Z
+77.109.163.170,,13030,Init7 (Switzerland) Ltd.,CH,Oberrieden,,i/o timeout,,0.00,2023-08-17T21:59:47Z,2023-04-08T12:42:32Z
+212.243.37.115,,3303,Bluewin,CH,Chatelaine,,i/o timeout,,0.00,2023-08-17T22:06:29Z,2014-12-30T19:23:49Z
+46.140.31.138,46-140-31-138.static.cablecom.ch.,6830,Liberty Global B.V.,CH,Zurich,,i/o timeout,,0.00,2023-08-17T21:09:18Z,2015-01-09T00:22:48Z
+91.214.168.175,,6830,Liberty Global B.V.,CH,,,i/o timeout,,0.00,2023-08-17T21:10:05Z,2015-01-10T06:43:54Z
+91.138.126.92,,15600,Quickline AG,CH,Gontenschwil,,i/o timeout,,0.00,2023-08-17T21:11:25Z,2015-01-12T10:57:13Z
+62.2.121.88,62-2-121-88.static.cablecom.ch.,6830,Liberty Global B.V.,CH,Uster,,i/o timeout,,0.00,2023-08-17T21:11:40Z,2015-03-17T21:02:47Z
+46.140.205.124,ns1.exelinfo.ch.,6830,Liberty Global B.V.,CH,Eschenbach,,i/o timeout,,0.00,2023-08-17T21:15:19Z,2017-12-12T18:20:23Z
+212.60.61.246,dns1.quickline.ch.,15600,Quickline AG,CH,Ostermundigen,,connection refused,,0.00,2023-08-17T21:17:40Z,2020-04-05T13:24:17Z
+178.195.195.95,95.195.195.178.dynamic.wline.res.cust.swisscom.ch.,3303,Bluewin,CH,Zurich,,i/o timeout,,0.00,2023-08-17T21:18:46Z,2020-05-27T07:32:31Z
+94.126.23.10,,21069,METANET AG,CH,,,REFUSED for example.com,,0.00,2023-08-17T21:18:42Z,2020-05-30T03:13:11Z

@@ -1,0 +1,2 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+209.59.109.57,209-59-103-057.candw.ag.,11139,CWC-ROC-11139,DM,Roseau,,i/o timeout,,0.01,2021-10-06T14:02:11Z,2021-09-25T16:33:58Z

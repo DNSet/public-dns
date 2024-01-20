@@ -1,0 +1,24 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+194.105.32.2,access.com.mt.,5532,GO p.l.c.,MT,,,,false,1.00,2021-10-03T11:39:11Z,2021-10-03T11:39:11Z
+213.165.179.36,c179-36.i02-5.onvol.net.,12709,Melita Limited,MT,Gzira,,i/o timeout,,0.99,2022-11-11T05:56:24Z,2022-11-05T21:10:56Z
+195.158.87.192,,15735,GO p.l.c.,MT,San Gwann,,,false,0.91,2022-12-06T23:54:56Z,2022-11-30T10:17:00Z
+213.165.182.37,c182-37.i02-6.onvol.net.,12709,Melita Limited,MT,,,,false,0.94,2023-02-19T07:58:52Z,2022-12-29T07:46:16Z
+141.8.70.66,c70-66.i12-18.melita.com.,12709,Melita Limited,MT,Sliema,,i/o timeout,,0.00,2023-02-19T07:59:45Z,2022-12-30T13:59:16Z
+195.158.82.92,,15735,GO p.l.c.,MT,San Gwann,,,false,1.00,2023-03-02T20:45:36Z,2023-03-01T14:53:51Z
+92.251.117.162,c117-162.i07-30.onvol.net.,12709,Melita Limited,MT,Sliema,dnsmasq-2.84rc2,,false,1.00,2023-03-13T06:40:53Z,2023-03-13T06:40:53Z
+84.255.30.153,c30-153.i04-8.onvol.net.,12709,Melita Limited,MT,Swieqi,,,false,1.00,2023-03-13T08:06:35Z,2023-03-13T08:06:35Z
+84.255.33.149,c33-149.i04-9.onvol.net.,12709,Melita Limited,MT,Swieqi,,,false,1.00,2023-03-13T12:07:49Z,2023-03-13T12:07:49Z
+92.251.61.92,c61-92.i07-16.onvol.net.,12709,Melita Limited,MT,L-Iklin,,,false,1.00,2023-03-13T12:14:40Z,2023-03-13T12:14:40Z
+84.255.35.91,c35-91.i04-9.onvol.net.,12709,Melita Limited,MT,Imsida,,,false,1.00,2023-03-13T15:03:12Z,2023-03-13T15:03:12Z
+84.255.36.167,c36-167.i04-10.onvol.net.,12709,Melita Limited,MT,L-Iklin,,,false,1.00,2023-03-15T09:50:00Z,2023-03-13T18:30:37Z
+84.255.41.14,c41-14.i04-11.onvol.net.,12709,Melita Limited,MT,St. Julian's,,,false,1.00,2023-03-15T09:52:54Z,2023-03-13T23:07:21Z
+92.251.117.74,c117-74.i07-30.onvol.net.,12709,Melita Limited,MT,Sliema,,,false,1.00,2023-03-14T06:19:35Z,2023-03-14T06:19:35Z
+85.119.127.60,mx1.aloaha.com.,200805,Melita Limited,MT,,,,false,1.00,2023-03-15T04:52:53Z,2023-03-14T16:42:40Z
+84.255.53.202,c53-202.i04-14.onvol.net.,12709,Melita Limited,MT,Naxxar,,,false,1.00,2023-03-18T02:49:29Z,2023-03-15T04:25:02Z
+213.165.169.162,c169-162.i02-3.onvol.net.,12709,Melita Limited,MT,Pembroke,dnsmasq-2.40,,false,1.00,2023-03-18T02:55:44Z,2023-03-15T15:12:25Z
+84.255.32.87,c32-87.i04-9.onvol.net.,12709,Melita Limited,MT,Swieqi,,,false,0.67,2023-04-19T19:37:24Z,2023-03-16T14:50:11Z
+195.158.94.17,,15735,GO p.l.c.,MT,San Gwann,,,false,0.69,2023-04-21T17:42:07Z,2023-03-16T22:09:30Z
+213.165.181.14,c181-14.i02-6.onvol.net.,12709,Melita Limited,MT,Swieqi,,,false,0.75,2023-04-21T21:48:24Z,2023-03-17T07:14:08Z
+188.172.95.41,s041.95-172-188.epic.com.mt.,33874,Epic Communications Limited,MT,Il-Madliena,,i/o timeout,,0.72,2023-08-17T21:57:41Z,2023-03-19T21:44:41Z
+195.158.110.109,mail.telesystems.com.mt.,15735,GO p.l.c.,MT,Imsida,,i/o timeout,,0.00,2023-08-17T22:06:22Z,2014-12-30T17:20:06Z
+195.158.101.131,mail.koptaco.com.,15735,GO p.l.c.,MT,Imsida,,i/o timeout,,0.00,2023-08-17T21:09:31Z,2015-01-09T09:51:27Z

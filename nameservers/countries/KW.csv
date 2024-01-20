@@ -1,0 +1,34 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+168.187.46.241,,6412,"KW KEMS Block-A, Floor 7, Souq Al-Kabeer Kuwait City, State of Kuwait P O Box 3623, Safat 130",KW,Kuwait City,,i/o timeout,,0.17,2022-12-28T00:07:38Z,2020-09-20T22:32:00Z
+168.187.161.250,,42781,Zajil International Telecom Company KSCC,KW,Salwa,,,false,1.00,2023-02-25T20:53:17Z,2020-11-22T11:36:20Z
+193.33.224.253,,16060,Kuwait Ministry of Finance,KW,,,,false,1.00,2022-08-25T15:51:18Z,2022-08-25T15:51:18Z
+195.88.223.73,,49205,Kuwait Petroleum Corporation,KW,Kuwait City,9.11.37,,false,1.00,2023-02-08T23:54:51Z,2022-10-16T16:46:05Z
+94.187.231.164,,3225,Gulfnet Communications Co. Wll,KW,Kuwait City,,Unexpected result for wikileaks.org: {[[80 81 248 21]]},,0.73,2022-10-25T03:39:24Z,2022-10-21T15:41:57Z
+83.68.167.38,,205554,Kuwait Airways Corp.,KW,,UNKNOWN,,true,1.00,2022-10-26T19:36:42Z,2022-10-26T08:56:21Z
+195.39.131.78,,9155,Quality Net General Trading & Contracting Company,KW,,,i/o timeout,,0.00,2023-02-09T00:11:31Z,2022-11-06T17:30:40Z
+89.203.63.124,,21050,Fast Communication Company Ltd,KW,Kuwait City,,i/o timeout,,0.00,2023-02-09T00:30:23Z,2022-12-04T05:04:47Z
+31.214.75.203,,42961,Mobile Telecommunications Company,KW,Ar Rumaythiyah,,i/o timeout,,0.00,2023-02-19T11:51:28Z,2022-12-04T20:01:44Z
+89.203.3.208,,21050,Fast Communication Company Ltd,KW,Kuwait City,,i/o timeout,,0.00,2023-02-25T21:02:07Z,2022-12-10T21:27:01Z
+62.215.174.121,,21050,Fast Communication Company Ltd,KW,Kuwait City,,,false,0.91,2023-02-19T17:53:41Z,2022-12-11T09:40:10Z
+94.29.153.64,,9155,Quality Net General Trading & Contracting Company,KW,Kuwait City,,i/o timeout,,0.00,2023-02-18T10:13:12Z,2022-12-20T12:57:55Z
+89.203.8.50,,21050,Fast Communication Company Ltd,KW,Kuwait City,,i/o timeout,,0.00,2023-02-18T10:13:23Z,2022-12-20T17:58:15Z
+62.215.64.7,,21050,Fast Communication Company Ltd,KW,Kuwait City,dnsmasq-2.52,,true,0.53,2023-02-19T06:54:35Z,2022-12-24T16:17:19Z
+195.39.155.225,xdsl-195-39-155-225.qualitynet.net.,9155,Quality Net General Trading & Contracting Company,KW,Kuwait City,,i/o timeout,,0.03,2023-02-19T20:01:24Z,2023-01-01T07:36:12Z
+83.96.104.190,,21050,Fast Communication Company Ltd,KW,Kuwait City,,,false,0.20,2023-03-01T05:45:00Z,2023-02-25T03:40:52Z
+78.154.247.48,,9155,Quality Net General Trading & Contracting Company,KW,Kuwait City,none,,false,1.00,2023-03-13T12:07:20Z,2023-03-13T12:07:20Z
+62.150.77.106,,9155,Quality Net General Trading & Contracting Company,KW,,UNKNOWN,,true,1.00,2023-03-15T09:50:23Z,2023-03-13T19:24:32Z
+62.150.254.82,,9155,Quality Net General Trading & Contracting Company,KW,Kuwait City,,i/o timeout,,0.50,2023-03-15T09:51:12Z,2023-03-13T20:26:48Z
+31.214.7.203,,42961,Mobile Telecommunications Company,KW,,,,false,1.00,2023-03-15T09:51:56Z,2023-03-13T21:44:11Z
+84.246.73.7,,39504,KEO International Consultants,KW,,dnsmasq-2.78,,false,1.00,2023-03-15T09:53:35Z,2023-03-14T00:15:44Z
+94.128.29.78,,47589,Kuwait Telecommunication Company (Under Association),KW,,,,false,1.00,2023-03-15T09:54:53Z,2023-03-14T02:15:28Z
+94.187.170.2,,196921,Wireless Mobile Data Company Shareholding Closed,KW,As Salimiyah,,,false,0.97,2023-03-18T02:55:24Z,2023-03-15T14:27:08Z
+83.96.95.14,,21050,Fast Communication Company Ltd,KW,As Salimiyah,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:37:01Z,2023-03-15T21:16:07Z
+62.150.232.120,xdsl-62-150-232-120.qualitynet.net.,47589,Kuwait Telecommunication Company (Under Association),KW,,dnsmasq-2.82,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:39:20Z,2023-03-16T00:49:00Z
+62.150.173.91,xdsl-62-150-173-91.qualitynet.net.,9155,Quality Net General Trading & Contracting Company,KW,Kuwait City,,SERVFAIL for wikileaks.org,,0.93,2023-04-05T00:41:03Z,2023-03-16T03:32:28Z
+78.154.215.142,,9155,Quality Net General Trading & Contracting Company,KW,Kuwait City,,i/o timeout,,0.00,2023-08-12T20:55:11Z,2023-03-18T00:03:46Z
+78.89.157.252,,29357,National Mobile Telecommunications Company K.s.c.p.,KW,Kuwait City,,REFUSED for example.com,,0.00,2023-08-12T21:04:19Z,2023-03-18T16:04:58Z
+83.96.104.7,,21050,Fast Communication Company Ltd,KW,Kuwait City,,,false,0.88,2023-08-17T21:51:34Z,2023-03-19T01:56:56Z
+168.187.234.58,,42781,Zajil International Telecom Company KSCC,KW,Kuwait City,,i/o timeout,,0.00,2023-08-17T22:06:53Z,2015-01-06T01:51:14Z
+139.141.236.131,ns2.cba.edu.kw.,25242,Kuwait University,KW,,,i/o timeout,,0.00,2023-08-17T21:08:02Z,2015-01-06T21:16:24Z
+168.187.46.242,,6412,"KW KEMS Block-A, Floor 7, Souq Al-Kabeer Kuwait City, State of Kuwait P O Box 3623, Safat 130",KW,,,i/o timeout,,0.00,2023-08-17T21:08:21Z,2015-01-07T10:21:05Z
+178.61.135.158,,21050,Fast Communication Company Ltd,KW,Kuwait City,,i/o timeout,,0.00,2023-08-17T21:11:31Z,2015-01-12T17:28:11Z

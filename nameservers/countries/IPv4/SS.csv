@@ -1,0 +1,2 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+169.255.139.67,,36892,IPTECH,SS,Juba,,i/o timeout,,0.00,2023-08-17T21:59:45Z,2023-04-08T10:57:15Z

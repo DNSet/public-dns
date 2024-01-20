@@ -1,0 +1,6 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+102.141.19.178,,36924,GVA-Canalbox,CG,,,,false,0.78,2021-10-06T14:02:31Z,2021-10-05T12:44:00Z
+197.214.248.66,66-248-214-197.r.airtel.cg.,37550,airtelcg,CG,,,,false,1.00,2023-03-15T09:51:32Z,2023-03-13T21:08:54Z
+41.207.125.21,,37019,IAL,CG,,,,false,1.00,2023-03-14T06:40:53Z,2023-03-14T06:40:53Z
+102.223.223.85,,327829,SKYTIC-TELECOM,CG,,,,false,0.70,2023-04-05T00:39:27Z,2023-03-16T00:54:32Z
+102.64.116.251,,328500,AMC-Telecom,CG,,,i/o timeout,,0.00,2023-04-19T19:37:50Z,2023-03-16T15:17:47Z

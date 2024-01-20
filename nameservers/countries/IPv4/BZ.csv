@@ -1,0 +1,4 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+190.197.54.82,digi-ip-82.btl.net.,10269,Belize Telemedia Limited,BZ,Corozal,,,false,1.00,2021-10-18T13:16:32Z,2021-10-18T13:16:32Z
+200.123.208.126,,28094,Southern Cable Network,BZ,Belize City,,i/o timeout,,0.00,2023-02-09T00:08:24Z,2022-10-30T11:02:57Z
+200.32.201.44,digi-ip-44.btl.net.,10269,Belize Telemedia Limited,BZ,,,i/o timeout,,0.89,2023-03-18T02:48:05Z,2023-03-15T02:02:55Z

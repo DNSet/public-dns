@@ -1,0 +1,74 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+45.130.96.25,,57704,SpeedClick for Information Technology and Communication Ltd,PS,,,connection refused,,0.00,2023-04-20T15:46:00Z,2021-01-30T23:51:29Z
+213.244.72.31,gns.paltel.net.,12975,Palestine Telecommunications Company (PALTEL),PS,,9.11.4-P2-RedHat-9.11.4-9.P2.el7,,false,1.00,2021-05-03T22:24:41Z,2021-02-12T17:19:20Z
+188.225.225.25,dns2.alami.net.,12754,Coolnet New Communication Provider,PS,,,,false,1.00,2021-09-27T08:07:42Z,2021-09-26T00:56:57Z
+176.67.59.199,STATIC-176.67.59.199.mada.ps.,51407,Mada ALArab LTD,PS,,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-01T22:59:20Z,2021-10-01T22:59:20Z
+176.67.59.198,STATIC-176.67.59.198.mada.ps.,51407,Mada ALArab LTD,PS,,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-01T23:19:46Z,2021-10-01T23:19:46Z
+176.67.59.196,STATIC-176.67.59.196.mada.ps.,51407,Mada ALArab LTD,PS,,dnsmasq-pi-hole-2.86,,false,1.00,2021-10-01T23:42:02Z,2021-10-01T23:42:02Z
+45.130.97.58,,57704,SpeedClick for Information Technology and Communication Ltd,PS,,,,false,1.00,2021-10-16T13:11:36Z,2021-10-16T05:34:39Z
+212.14.253.242,dns3.gov.ps.,12975,Palestine Telecommunications Company (PALTEL),PS,Jenin,,i/o timeout,,0.00,2023-02-25T20:59:24Z,2022-04-26T00:14:55Z
+1.179.40.70,,12975,Palestine Telecommunications Company (PALTEL),PS,Ramallah,,i/o timeout,,0.00,2023-02-08T23:39:33Z,2022-09-02T03:54:21Z
+5.44.254.159,,210974,AjyalFi Company for Information and Communication Technology LLC,PS,,,,false,1.00,2022-09-08T07:19:34Z,2022-09-08T07:19:34Z
+5.44.254.183,,210974,AjyalFi Company for Information and Communication Technology LLC,PS,,,,false,1.00,2022-09-08T07:19:34Z,2022-09-08T07:19:34Z
+5.44.254.247,,210974,AjyalFi Company for Information and Communication Technology LLC,PS,,,,false,1.00,2022-09-08T07:19:34Z,2022-09-08T07:19:34Z
+5.44.254.179,,210974,AjyalFi Company for Information and Communication Technology LLC,PS,,,,false,1.00,2022-09-08T07:19:34Z,2022-09-08T07:19:34Z
+5.44.254.138,,210974,AjyalFi Company for Information and Communication Technology LLC,PS,,,,false,1.00,2022-09-08T07:19:34Z,2022-09-08T07:19:34Z
+5.44.254.24,,210974,AjyalFi Company for Information and Communication Technology LLC,PS,,,,false,0.91,2022-12-26T07:07:42Z,2022-09-08T07:19:35Z
+5.133.27.13,,57704,SpeedClick for Information Technology and Communication Ltd,PS,Gaza,,,false,1.00,2022-09-08T17:44:24Z,2022-09-08T17:44:24Z
+5.133.27.227,,57704,SpeedClick for Information Technology and Communication Ltd,PS,Gaza,,,false,0.95,2022-09-14T10:43:54Z,2022-09-08T17:44:26Z
+5.133.27.15,,57704,SpeedClick for Information Technology and Communication Ltd,PS,Gaza,,i/o timeout,,0.32,2022-09-23T13:33:27Z,2022-09-08T17:44:27Z
+5.44.254.38,,210974,AjyalFi Company for Information and Communication Technology LLC,PS,,,,false,1.00,2022-09-10T09:50:24Z,2022-09-10T09:50:24Z
+5.133.27.222,,57704,SpeedClick for Information Technology and Communication Ltd,PS,Gaza,,,false,1.00,2022-09-10T21:39:29Z,2022-09-10T21:06:22Z
+5.133.29.1,,57704,SpeedClick for Information Technology and Communication Ltd,PS,Gaza,,,false,1.00,2022-09-10T21:39:31Z,2022-09-10T21:06:23Z
+5.133.30.164,,199046,JetNet for Information Technology and Telecommunications Limited Liability Company,PS,Gaza,dnsmasq-2.76,,false,1.00,2022-09-10T21:39:32Z,2022-09-10T21:06:28Z
+5.133.31.95,,57704,SpeedClick for Information Technology and Communication Ltd,PS,Gaza,dnsmasq-2.76,,false,1.00,2022-09-10T21:39:33Z,2022-09-10T21:06:28Z
+5.133.27.238,,57704,SpeedClick for Information Technology and Communication Ltd,PS,Gaza,,,false,0.97,2022-09-15T11:34:46Z,2022-09-10T21:06:36Z
+5.133.30.22,,199046,JetNet for Information Technology and Telecommunications Limited Liability Company,PS,Gaza,,,false,1.00,2022-09-11T01:39:25Z,2022-09-10T21:06:45Z
+5.133.27.169,,57704,SpeedClick for Information Technology and Communication Ltd,PS,Gaza,,i/o timeout,,0.00,2023-02-14T05:27:57Z,2022-10-15T07:47:58Z
+188.161.226.182,,12975,Palestine Telecommunications Company (PALTEL),PS,Nablus,,connection refused,,0.00,2022-12-20T13:12:29Z,2022-10-19T06:44:38Z
+46.43.93.74,STATIC-46.43.93.74.mada.ps.,51407,Mada ALArab LTD,PS,,,,false,0.85,2022-10-22T18:39:09Z,2022-10-21T13:39:55Z
+77.91.191.136,,12975,Palestine Telecommunications Company (PALTEL),PS,Gaza,,i/o timeout,,0.09,2022-10-28T22:35:52Z,2022-10-24T18:40:33Z
+188.225.155.241,,12754,Coolnet New Communication Provider,PS,,,i/o timeout,,0.02,2022-11-11T00:49:25Z,2022-10-31T02:27:03Z
+213.6.148.73,,12975,Palestine Telecommunications Company (PALTEL),PS,Gaza,,,false,1.00,2022-11-11T00:58:28Z,2022-11-04T04:56:52Z
+185.97.132.99,,60268,Digital Communication Company for Telecommunications and Information Technology LTD,PS,Gaza,,,false,1.00,2023-02-14T05:28:36Z,2022-11-04T15:08:59Z
+185.33.169.123,,60268,Digital Communication Company for Telecommunications and Information Technology LTD,PS,,,i/o timeout,,0.70,2022-12-06T20:47:40Z,2022-11-13T19:39:33Z
+213.6.150.106,,12975,Palestine Telecommunications Company (PALTEL),PS,Gaza,,,true,0.97,2022-12-06T22:00:59Z,2022-11-16T10:04:25Z
+188.225.132.97,,12754,Coolnet New Communication Provider,PS,,,i/o timeout,,0.00,2023-02-09T13:45:03Z,2022-11-17T02:40:34Z
+45.146.15.214,,57704,SpeedClick for Information Technology and Communication Ltd,PS,,,,false,0.69,2022-12-06T23:47:25Z,2022-11-21T04:16:43Z
+213.6.133.27,,12975,Palestine Telecommunications Company (PALTEL),PS,Gaza,,,false,1.00,2022-12-06T23:51:59Z,2022-11-26T09:05:11Z
+213.6.32.10,,12975,Palestine Telecommunications Company (PALTEL),PS,Nablus,,,false,1.00,2022-12-06T23:53:17Z,2022-11-27T20:42:27Z
+188.225.162.124,,12754,Coolnet New Communication Provider,PS,,,i/o timeout,,0.00,2023-03-09T00:01:51Z,2022-12-01T15:49:29Z
+82.213.32.29,,12975,Palestine Telecommunications Company (PALTEL),PS,Tulkarm,,,false,0.00,2023-02-09T00:31:09Z,2022-12-05T14:17:23Z
+213.6.28.69,,12975,Palestine Telecommunications Company (PALTEL),PS,Hebron,,i/o timeout,,0.78,2023-02-19T17:53:38Z,2022-12-12T01:36:44Z
+213.6.20.57,,12975,Palestine Telecommunications Company (PALTEL),PS,Ramallah,,,false,0.96,2023-02-19T06:54:33Z,2022-12-24T21:46:39Z
+213.6.77.30,,12975,Palestine Telecommunications Company (PALTEL),PS,Gaza,,,false,0.96,2023-02-19T06:55:46Z,2022-12-27T07:11:33Z
+188.161.19.119,,12975,Palestine Telecommunications Company (PALTEL),PS,Gaza,,i/o timeout,,0.00,2023-02-19T20:02:08Z,2023-01-02T06:12:21Z
+188.225.167.133,,12754,Coolnet New Communication Provider,PS,,,i/o timeout,,0.02,2023-02-26T09:07:56Z,2023-02-21T01:50:50Z
+213.6.237.191,,12975,Palestine Telecommunications Company (PALTEL),PS,Hebron,,,false,0.91,2023-02-26T09:09:19Z,2023-02-22T16:18:38Z
+185.97.134.246,dcc-185-97-134-246.khanyouns-cust.dcc.ps.,62027,Digital Communication Company for Telecommunications and Information Technology LTD,PS,,,i/o timeout,,0.00,2023-08-17T21:52:24Z,2023-03-09T08:36:19Z
+217.147.3.254,,210116,Quintiez Alfa General Trading Co.,PS,Gaza,,,false,1.00,2023-03-13T08:45:25Z,2023-03-13T05:13:24Z
+217.147.1.206,,210116,Quintiez Alfa General Trading Co.,PS,Gaza,,,false,1.00,2023-03-13T10:54:23Z,2023-03-13T10:54:23Z
+31.223.176.161,,56787,"City Net Informatics, Internet and Communication Technologies and General Trade Ltd.",PS,,,,false,1.00,2023-03-15T09:48:23Z,2023-03-13T16:28:34Z
+45.146.13.7,,57704,SpeedClick for Information Technology and Communication Ltd,PS,,,,false,1.00,2023-03-15T09:53:33Z,2023-03-14T00:01:33Z
+5.44.254.148,,210974,AjyalFi Company for Information and Communication Technology LLC,PS,,,,false,0.80,2023-03-15T04:50:01Z,2023-03-14T12:22:46Z
+45.146.13.204,,57704,SpeedClick for Information Technology and Communication Ltd,PS,,,,false,1.00,2023-03-15T04:51:53Z,2023-03-14T15:40:52Z
+217.147.1.201,,210116,Quintiez Alfa General Trading Co.,PS,Gaza,,,false,1.00,2023-03-15T04:55:04Z,2023-03-14T20:38:28Z
+217.147.2.151,,210116,Quintiez Alfa General Trading Co.,PS,Gaza,,,false,1.00,2023-03-15T09:57:23Z,2023-03-14T21:47:16Z
+193.19.96.121,,60353,Digital Communication Company for Telecommunications and Information Technology LTD,PS,Gaza,,,false,1.00,2023-03-18T02:54:04Z,2023-03-15T12:14:31Z
+217.147.1.31,,210116,Quintiez Alfa General Trading Co.,PS,Gaza,,,false,0.97,2023-04-05T00:36:00Z,2023-03-15T19:42:37Z
+85.114.101.250,250.101.114.85.wisps.fusion.ps.,42314,Fusion Internet Services Company LLC,PS,Gaza,,i/o timeout,,0.96,2023-04-05T00:38:30Z,2023-03-15T23:18:48Z
+217.147.3.188,,210116,Quintiez Alfa General Trading Co.,PS,Gaza,,,false,0.96,2023-04-05T00:38:28Z,2023-03-15T23:27:32Z
+84.242.62.58,,51407,Mada ALArab LTD,PS,,,,false,1.00,2023-04-05T00:41:38Z,2023-03-16T04:14:54Z
+185.33.170.75,dcc-185-33-170-75.north-cust.dcc.ps.,203905,Digital Communication Company for Telecommunications and Information Technology LTD,PS,,,SERVFAIL for wikileaks.org,,0.85,2023-04-05T07:16:12Z,2023-03-16T11:45:28Z
+188.225.253.150,,42314,Fusion Internet Services Company LLC,PS,,,i/o timeout,,0.00,2023-04-19T19:36:03Z,2023-03-16T12:17:01Z
+217.147.0.212,,210116,Quintiez Alfa General Trading Co.,PS,Gaza,,,false,0.72,2023-04-21T21:45:39Z,2023-03-17T02:04:20Z
+5.133.24.37,,57704,SpeedClick for Information Technology and Communication Ltd,PS,Gaza,,,false,0.76,2023-04-21T21:46:41Z,2023-03-17T04:20:34Z
+188.225.253.155,,42314,Fusion Internet Services Company LLC,PS,Gaza,,i/o timeout,,0.00,2023-08-12T21:04:02Z,2023-03-18T15:23:14Z
+212.192.2.8,212-192-2-8.telecomgroupdesign.com.,210974,AjyalFi Company for Information and Communication Technology LLC,PS,Rafah,,connection refused,,0.00,2023-08-12T21:06:35Z,2023-03-18T20:03:14Z
+45.146.13.130,,199046,JetNet for Information Technology and Telecommunications Limited Liability Company,PS,,,connection refused,,0.00,2023-08-17T15:54:35Z,2023-03-19T04:19:59Z
+193.19.96.130,dcc-193-19-96-130.rafah-cust.dcc.ps.,60353,Digital Communication Company for Telecommunications and Information Technology LTD,PS,,,i/o timeout,,0.00,2023-08-17T21:57:40Z,2023-03-19T21:40:33Z
+188.225.202.56,,60636,Coolnet Communications ltd,PS,,,i/o timeout,,0.00,2023-08-17T22:03:04Z,2023-05-05T01:55:58Z
+188.225.179.158,,12754,Coolnet New Communication Provider,PS,Nahal Qatif,,i/o timeout,,0.00,2023-08-17T21:09:06Z,2015-01-08T15:56:57Z
+213.244.66.226,,12975,Palestine Telecommunications Company (PALTEL),PS,Gaza,,i/o timeout,,0.00,2023-08-17T21:14:19Z,2017-09-06T00:46:27Z
+217.66.228.248,,12975,Palestine Telecommunications Company (PALTEL),PS,Ramallah,,i/o timeout,,0.03,2023-08-17T21:14:19Z,2017-09-06T00:55:26Z
+83.244.55.210,Host.vps2.info.,12975,Palestine Telecommunications Company (PALTEL),PS,Hebron,,i/o timeout,,0.00,2023-08-17T21:19:10Z,2020-06-09T02:13:25Z

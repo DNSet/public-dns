@@ -1,0 +1,7 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+41.202.163.74,,33788,KANARTEL,SD,,,Unexpected result for wikileaks.org: {[[195 35 109 53] [141 105 65 113] [185 165 168 41] [195 35 109 44]]},,0.04,2021-09-04T02:45:21Z,2021-06-09T14:12:12Z
+196.202.139.234,ns2.sudatel.sd.,15706,Sudatel,SD,,,,false,0.93,2022-10-27T10:37:35Z,2022-10-24T23:05:33Z
+196.1.210.35,ns1.cbos.gov.sd.,15706,Sudatel,SD,Khartoum,Microsoft DNS 6.1.7601 (1DB15F75),,false,1.00,2022-12-06T22:02:03Z,2022-11-17T12:41:48Z
+196.223.158.58,,37211,MAX-NET-FOR-INTERNET-SERVICES,SD,,,i/o timeout,,0.00,2023-08-17T21:15:24Z,2018-05-04T22:28:48Z
+197.254.225.25,,0,,SD,,,i/o timeout,,0.00,2023-08-17T21:15:24Z,2018-05-04T22:39:21Z
+197.254.225.31,,0,,SD,,,i/o timeout,,0.00,2023-08-17T21:15:24Z,2018-05-04T22:39:22Z

@@ -1,0 +1,28 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+85.94.178.198,m85-94-178-198.andorpac.ad.,6752,"Andorra Telecom, S.a.u.",AD,Andorra la Vella,,Unexpected result for wikileaks.org: {[[51 159 197 136] [80 81 248 21]]},,0.00,2023-01-12T13:28:56Z,2020-08-21T00:05:22Z
+194.158.78.137,ns1.xena.ad.,6752,"Andorra Telecom, S.a.u.",AD,Andorra la Vella,Microsoft DNS 6.1.7601 (1DB15F75),,false,1.00,2023-02-25T20:53:15Z,2020-11-22T11:37:52Z
+185.87.45.163,m-185-87-45-163.andorpac.ad.,6752,"Andorra Telecom, S.a.u.",AD,Andorra la Vella,,i/o timeout,,0.00,2023-03-02T03:47:38Z,2020-12-26T11:27:21Z
+91.187.70.80,m91-187-70-80.andorpac.ad.,6752,Andorra Telecom Sau,AD,Andorra la Vella,,,false,1.00,2021-10-03T05:19:32Z,2021-10-03T05:19:32Z
+185.87.45.230,m-185-87-45-230.andorpac.ad.,6752,Andorra Telecom Sau,AD,Escaldes-Engordany,,i/o timeout,,0.11,2021-11-09T15:06:46Z,2021-10-24T11:24:57Z
+109.111.115.78,,6752,"Andorra Telecom, S.a.u.",AD,,,i/o timeout,,0.00,2023-02-08T23:51:34Z,2022-10-12T16:17:04Z
+46.172.232.102,,6752,"Andorra Telecom, S.a.u.",AD,Andorra la Vella,dnsmasq-2.79,,false,1.00,2022-12-06T22:00:12Z,2022-11-15T11:15:51Z
+91.187.69.112,static-91-187-69-112.andorpac.ad.,6752,"Andorra Telecom, S.a.u.",AD,Andorra la Vella,,i/o timeout,,0.60,2023-02-15T15:53:41Z,2022-12-12T06:50:37Z
+109.111.117.102,static-109-111-117-102.andorpac.ad.,6752,"Andorra Telecom, S.a.u.",AD,,,,false,1.00,2023-02-19T06:54:30Z,2022-12-24T20:39:32Z
+109.111.112.58,static-109.111.112.58.andorpac.ad.,6752,"Andorra Telecom, S.a.u.",AD,Andorra la Vella,,,false,1.00,2023-03-13T13:47:25Z,2023-03-13T13:13:22Z
+85.94.178.206,m85-94-178-206.andorpac.ad.,6752,"Andorra Telecom, S.a.u.",AD,Encamp,,,false,1.00,2023-03-13T13:45:18Z,2023-03-13T13:45:18Z
+85.94.183.234,m85-94-183-234.andorpac.ad.,6752,"Andorra Telecom, S.a.u.",AD,Encamp,,,false,1.00,2023-03-15T09:50:21Z,2023-03-13T19:23:07Z
+85.94.179.38,m85-94-179-38.andorpac.ad.,6752,"Andorra Telecom, S.a.u.",AD,Encamp,,i/o timeout,,0.40,2023-03-15T04:49:55Z,2023-03-14T11:55:46Z
+85.94.182.34,m85-94-182-34.andorpac.ad.,6752,"Andorra Telecom, S.a.u.",AD,Encamp,,,false,1.00,2023-03-15T04:51:59Z,2023-03-14T15:52:49Z
+91.187.75.18,static-91-187-75-18.andorpac.ad.,6752,"Andorra Telecom, S.a.u.",AD,Andorra la Vella,,,false,1.00,2023-03-15T04:52:36Z,2023-03-14T16:44:16Z
+91.187.93.98,shibori.ftth.viamoda.ad.,6752,"Andorra Telecom, S.a.u.",AD,Andorra la Vella,9.11.22,,false,1.00,2023-03-15T04:52:51Z,2023-03-14T17:04:38Z
+91.187.88.33,m91-187-88-33.andorpac.ad.,6752,"Andorra Telecom, S.a.u.",AD,Andorra la Vella,,i/o timeout,,0.60,2023-03-15T09:57:57Z,2023-03-14T22:31:06Z
+91.187.82.123,m91-187-82-123.andorpac.ad.,6752,"Andorra Telecom, S.a.u.",AD,Andorra la Vella,,,false,1.00,2023-03-18T02:48:53Z,2023-03-15T03:39:34Z
+85.94.179.20,m85-94-179-20.andorpac.ad.,6752,"Andorra Telecom, S.a.u.",AD,Encamp,,,false,1.00,2023-03-18T02:49:06Z,2023-03-15T03:58:03Z
+91.187.69.233,static-91-187-69-233.andorpac.ad.,6752,"Andorra Telecom, S.a.u.",AD,Andorra la Vella,,,false,0.66,2023-03-18T02:55:45Z,2023-03-15T15:14:27Z
+185.87.45.150,m-185-87-45-150.andorpac.ad.,6752,"Andorra Telecom, S.a.u.",AD,Andorra la Vella,,,false,0.98,2023-04-12T12:17:23Z,2023-03-16T06:31:16Z
+109.111.117.212,mail.m31estudi.com.,6752,"Andorra Telecom, S.a.u.",AD,,DNSServer,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:44:04Z,2023-03-16T08:24:24Z
+85.94.178.187,m85-94-178-187.andorpac.ad.,6752,"Andorra Telecom, S.a.u.",AD,Encamp,,Unexpected result for rotten.com: {[[146 112 61 106]]},,0.78,2023-04-05T01:53:29Z,2023-03-16T11:07:17Z
+85.94.187.93,m85-94-187-93.andorpac.ad.,6752,"Andorra Telecom, S.a.u.",AD,Encamp,,,false,0.80,2023-04-19T19:36:19Z,2023-03-16T12:52:10Z
+91.187.69.66,static-91-187-69-66.andorpac.ad.,6752,"Andorra Telecom, S.a.u.",AD,Andorra la Vella,,,false,0.63,2023-04-19T19:36:47Z,2023-03-16T13:44:42Z
+185.132.201.202,static-185.132.201.202.andorpac.ad\ .,6752,"Andorra Telecom, S.a.u.",AD,Santa Coloma,,,false,0.73,2023-04-21T21:48:10Z,2023-03-17T07:02:03Z
+85.94.179.243,m85-94-179-243.andorpac.ad.,6752,"Andorra Telecom, S.a.u.",AD,Encamp,,i/o timeout,,0.57,2023-05-08T07:51:43Z,2023-03-17T14:03:10Z

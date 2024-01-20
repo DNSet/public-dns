@@ -1,0 +1,4 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+95.85.108.141,,20661,State Company of Electro Communications Turkmentelecom,TM,Balkanabat,,i/o timeout,,0.00,2022-04-22T07:04:19Z,2020-09-02T19:54:12Z
+217.174.226.78,mail.ak-toprak.com.,20661,State Company of Electro Communications Turkmentelecom,TM,,,i/o timeout,,0.00,2021-09-29T13:01:15Z,2020-11-30T19:24:59Z
+93.171.223.181,,51495,Telephone Network of Ashgabat CJSC,TM,Ashgabat,,i/o timeout,,0.83,2023-03-15T09:49:43Z,2023-03-13T18:11:12Z

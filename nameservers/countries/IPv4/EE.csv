@@ -1,0 +1,30 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+198.180.150.12,rgnet-iad.anycast.censurfridns.dk.,3927,RGnet OU,EE,,9.11.29+dampening,,true,0.98,2021-05-03T22:23:53Z,2021-03-28T20:59:36Z
+46.36.219.173,s97d01d5f.fastvps-server.com.,198068,P.a.g.m. Ou,EE,,dnsmasq-pi-hole-2.85,,false,1.00,2021-10-02T00:07:23Z,2021-10-02T00:07:23Z
+91.146.95.145,95145.fill.ee.,198966,Fill Ltd.,EE,Narva,dnsmasq-pi-hole-2.80,,false,1.00,2021-10-02T16:57:49Z,2021-10-02T16:57:49Z
+5.45.119.243,,198068,P.a.g.m. Ou,EE,,dnsmasq-2.76,,false,1.00,2022-09-08T08:26:41Z,2022-09-08T07:22:37Z
+188.127.234.193,,56694,LLC Smart Ape,EE,,,,false,1.00,2023-02-09T00:04:46Z,2022-10-29T09:39:12Z
+195.80.119.101,ns4.rpz.cert.ee.,8240,Information System Authority,EE,,,SERVFAIL for rotten.com,,0.07,2022-11-14T01:44:51Z,2022-11-12T06:44:19Z
+46.226.143.86,ns3.rpz.cert.ee.,56588,Information System Authority,EE,,,,true,0.92,2023-02-25T20:46:20Z,2023-02-13T13:18:37Z
+195.80.119.99,ns2.rpz.cert.ee.,8240,Information System Authority,EE,Tallinn,,,true,0.94,2023-02-25T20:47:22Z,2023-02-13T13:21:03Z
+46.226.143.83,ns1.rpz.cert.ee.,56588,Information System Authority,EE,,,,true,0.91,2023-02-25T20:47:19Z,2023-02-13T13:21:06Z
+193.109.120.172,Kie2dS.ravensgift.com.,62005,BlueVPS OU,EE,Tallinn,9.11.36-RedHat-9.11.36-7.el8,,true,1.00,2023-02-26T09:09:55Z,2023-02-23T09:12:03Z
+188.127.234.67,,56694,LLC Smart Ape,EE,,,SERVFAIL for wikileaks.org,,0.97,2023-04-04T15:30:41Z,2023-03-13T16:04:46Z
+91.146.86.248,86248.fill.ee.,198966,Fill Ltd.,EE,Narva,dnsmasq-2.71,,false,1.00,2023-03-15T09:51:09Z,2023-03-13T20:33:56Z
+185.9.144.146,s459945.srvape.com.,56694,LLC Smart Ape,EE,,,,false,1.00,2023-03-14T06:20:37Z,2023-03-14T06:20:37Z
+94.198.55.172,s411023.srvape.com.,56694,LLC Smart Ape,EE,,,,false,1.00,2023-03-18T02:54:54Z,2023-03-15T13:19:41Z
+185.155.97.105,,202759,RJ Network OU,EE,,,,false,1.00,2023-03-18T02:55:02Z,2023-03-15T13:54:23Z
+91.146.70.24,70024.fill.ee.,198966,Fill Ltd.,EE,Narva,,,false,1.00,2023-03-18T02:55:17Z,2023-03-15T14:13:26Z
+185.12.236.234,not-assigned-yet.,39823,Compic OU,EE,Tallinn,,,false,1.00,2023-03-18T02:56:10Z,2023-03-15T15:55:58Z
+87.98.5.4,,3327,CITIC Telecom CPC Netherlands B.V.,EE,Tallinn,dnsmasq-2.66,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:35:17Z,2023-03-15T18:26:55Z
+185.157.109.115,185-157-109-115.cust.elevi.ee.,202652,Elevi AS,EE,Võru,,i/o timeout,,0.93,2023-04-05T00:35:34Z,2023-03-15T18:45:08Z
+87.98.5.6,,3327,CITIC Telecom CPC Netherlands B.V.,EE,Tallinn,dnsmasq-2.66,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:36:44Z,2023-03-15T20:54:06Z
+94.198.50.99,s386611.srvape.com.,56694,LLC Smart Ape,EE,,,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:39:13Z,2023-03-16T00:40:32Z
+94.198.55.64,229090.colo.ds.,56694,LLC Smart Ape,EE,,,,false,1.00,2023-04-19T19:38:02Z,2023-03-16T15:46:23Z
+92.62.96.241,,39823,Compic OU,EE,Tallinn,9.16.23,,false,0.72,2023-04-21T21:45:17Z,2023-03-17T01:51:02Z
+185.9.146.47,s570527.srvape.com.,56694,LLC Smart Ape,EE,,,,false,0.75,2023-04-21T21:47:17Z,2023-03-17T05:26:10Z
+85.92.119.108,,210671,Virtuaalinfra OU,EE,,,,false,0.84,2023-04-21T21:49:04Z,2023-03-17T08:25:51Z
+81.90.122.252,81-90-122-252.tll.elisa.ee.,2586,Elisa Eesti AS,EE,Tallinn,,,false,0.81,2023-08-17T21:51:20Z,2023-03-18T16:44:36Z
+37.0.26.82,37-0-26-82.levira.ee.,50794,Levira AS,EE,,,connection refused,,0.00,2023-08-17T15:54:05Z,2023-03-19T03:16:31Z
+81.21.249.157,m81-21-249-157.cust.tele2.ee.,1257,Tele2 SWIPnet,EE,,,connection refused,,0.00,2023-08-17T22:05:04Z,2014-12-29T19:39:45Z
+92.62.96.27,bcast-vl28.fiber.ee.,39823,Compic OU,EE,Tallinn,,i/o timeout,,0.00,2023-08-17T21:11:21Z,2015-01-12T07:22:15Z
