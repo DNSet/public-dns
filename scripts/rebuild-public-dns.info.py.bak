@@ -10,17 +10,11 @@ from typing import List
 
 SCRIPTS = os.path.dirname(__file__)
 BASEDIR = os.path.dirname(SCRIPTS)
-DATADIR = os.path.join(BASEDIR, "nameservers")
-CNTYDIR = os.path.join(DATADIR, "countries")
-IPV4DIR = os.path.join(DATADIR, "countries", "IPv4")
-IPV6DIR = os.path.join(DATADIR, "countries", "IPv6")
-JSONDIR = os.path.join(DATADIR, "json")
-TXTDIR = os.path.join(DATADIR, "txt")
-CSVDIR = os.path.join(DATADIR, "csv")
+DATADIR = os.path.join(BASEDIR, "nameservers", "public-dns")
 
-for _dir in [DATADIR, CNTYDIR, IPV4DIR, IPV6DIR]:
-    if not os.path.exists(_dir):
-        os.mkdir(_dir)
+for _dir in [DATADIR]:
+    if not os.path.exists(DATADIR):
+        os.makedirs(_dir)
 
 FIELDS = ["ip_address", "name", "as_number", "as_org", "country_code", "city",
           "version", "error", "dnssec", "reliability", "checked_at",
