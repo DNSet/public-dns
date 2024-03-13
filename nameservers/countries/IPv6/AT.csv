@@ -1,3 +1,0 @@
-ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
-2001:67c:2b0::2,resolver2.dns.trex.fi.,29432,TREX Regional Exchanges Oy,AT,Vienna,http://www.trex.fi/service/resolvers.html,,true,1.00,2023-02-28T06:47:57Z,2020-12-25T03:17:52Z
-2001:67c:2b0::1,resolver1.dns.trex.fi.,29432,TREX Regional Exchanges Oy,AT,Vienna,http://www.trex.fi/service/resolvers.html,,true,0.98,2023-03-02T20:44:46Z,2023-02-28T18:56:38Z

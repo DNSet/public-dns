@@ -1,5 +1,0 @@
-ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
-217.77.71.33,,16058,Gabon-Telecom,GA,,,Unexpected result for verisignlabs.com: {[[209 131 162 50] [69 58 187 68]]},,0.00,2021-08-24T09:11:01Z,2021-02-12T15:55:19Z
-41.158.1.162,cache1.ib.ga.,16058,Gabon-Telecom,GA,,,,false,1.00,2021-11-09T10:47:27Z,2021-11-09T10:47:27Z
-41.158.1.163,cache2.ib.ga.,16058,Gabon-Telecom,GA,,,,false,1.00,2021-11-09T10:48:26Z,2021-11-09T10:48:26Z
-41.159.47.17,,16058,Gabon-Telecom,GA,Libreville,,i/o timeout,,0.00,2023-08-17T15:55:39Z,2023-03-19T06:21:00Z

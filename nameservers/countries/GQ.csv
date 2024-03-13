@@ -1,3 +1,0 @@
-ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
-102.164.255.149,,37529,GITGE,GQ,,,,false,0.70,2022-11-21T07:32:50Z,2022-10-23T10:55:49Z
-102.164.248.14,,37529,GITGE,GQ,Malabo,,,false,1.00,2023-03-15T04:52:59Z,2023-03-14T17:17:14Z

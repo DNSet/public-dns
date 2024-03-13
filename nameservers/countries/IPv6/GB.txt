@@ -1,5 +1,0 @@
-2a01:7e00::f03c:91ff:feae:d55
-2a01:7e00::f03c:91ff:feae:3d1a
-2001:8b0:978:f4a4::1
-2a02:bf8:aaaa::10
-2a02:bf8:aaaa::11

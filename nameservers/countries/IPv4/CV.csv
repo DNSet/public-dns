@@ -1,8 +1,0 @@
-ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
-41.79.124.10,,37575,TMAIS,CV,Praia,not currently available,REFUSED for example.com,,0.00,2023-03-05T23:47:01Z,2020-09-01T22:55:11Z
-41.221.192.167,,37517,CV-Multimedia,CV,,,,false,1.00,2023-04-20T15:48:23Z,2021-06-09T14:12:13Z
-41.79.125.100,,37575,TMAIS,CV,Praia,,,false,1.00,2023-03-13T08:45:12Z,2023-03-13T05:02:21Z
-41.221.203.153,,37517,CV-Multimedia,CV,,,,false,1.00,2023-03-15T04:53:30Z,2023-03-14T18:01:06Z
-197.255.136.136,bl4.197.255.136.136.dynamic.dsl.cvmultimedia.cv.,37517,CV-Multimedia,CV,,,,false,1.00,2023-03-15T04:53:43Z,2023-03-14T18:17:44Z
-41.221.205.25,bl1.41.221.205.25.dynamic.dsl.cvmultimedia.cv.,37517,CV-Multimedia,CV,,,SERVFAIL for wikileaks.org,,0.97,2023-04-05T00:45:18Z,2023-03-16T10:19:45Z
-197.255.143.103,bl4.197.255.143.103.dynamic.dsl.cvmultimedia.cv.,37517,CV-Multimedia,CV,,,i/o timeout,,0.00,2023-08-17T21:53:06Z,2023-03-16T11:13:31Z

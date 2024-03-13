@@ -1,3 +1,0 @@
-ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
-164.160.8.189,,328196,POWERNET,LR,,,,false,1.00,2023-03-13T03:14:02Z,2023-03-13T03:14:02Z
-197.215.217.251,,37580,ELECTROSHACK,LR,Greenville,,,false,1.00,2023-03-15T04:53:51Z,2023-03-14T18:17:12Z

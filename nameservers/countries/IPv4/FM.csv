@@ -1,2 +1,0 @@
-ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
-119.252.118.7,usda-rd.vdsl.fsmtc.fm.,139759,FSM Telecommunications Corporation,FM,,,i/o timeout,,0.00,2022-08-09T06:24:57Z,2021-09-25T23:44:31Z

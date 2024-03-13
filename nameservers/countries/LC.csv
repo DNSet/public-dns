@@ -1,3 +1,0 @@
-ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
-162.212.13.62,,33582,DIGICEL-OECS,LC,Marigot Bay,,i/o timeout,,0.00,2023-08-17T21:11:54Z,2017-01-08T23:02:16Z
-208.94.176.225,,15344,ASN15344-SLU,LC,Castries,,i/o timeout,,0.00,2023-08-17T21:12:58Z,2017-03-18T22:26:55Z

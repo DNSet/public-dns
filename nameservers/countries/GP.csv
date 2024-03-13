@@ -1,8 +1,0 @@
-ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
-5.187.116.81,,21351,Canal + Telecom SAS,GP,Petit-Bourg,unknown,,false,1.00,2023-02-08T23:44:11Z,2022-09-09T00:18:55Z
-81.248.145.154,apointe-a-pitre-652-1-62-154.w81-248.abo.wanadoo.fr.,3215,Orange,GP,,dnsmasq-2.52,,true,1.00,2022-10-17T22:35:57Z,2022-10-17T21:42:41Z
-81.248.135.231,lpointe-a-pitre-656-1-4-231.w81-248.abo.wanadoo.fr.,3215,Orange,GP,Baie-Mahault,ZyWALL DNS,,false,0.91,2023-03-04T17:46:14Z,2023-03-04T11:42:04Z
-81.248.29.52,lpointe-a-pitre-656-1-35-52.w81-248.abo.wanadoo.fr.,3215,Orange,GP,Baie-Mahault,DNSServer,,false,1.00,2023-03-15T09:58:10Z,2023-03-14T22:56:22Z
-90.15.230.51,lfbn-pap-1-148-51.w90-15.abo.wanadoo.fr.,3215,Orange,GP,Sainte-Anne,Orange,SERVFAIL for wikileaks.org,,0.59,2023-04-05T00:35:24Z,2023-03-15T18:34:11Z
-38.99.118.11,,174,COGENT-174,GP,Pointe-à-Pitre,,,false,1.00,2023-04-05T00:38:07Z,2023-03-15T22:55:26Z
-81.248.142.45,lpointe-a-pitre-656-1-18-45.w81-248.abo.wanadoo.fr.,3215,Orange,GP,Pointe-à-Pitre,,connection refused,,0.00,2023-08-12T21:05:33Z,2023-03-18T17:45:28Z

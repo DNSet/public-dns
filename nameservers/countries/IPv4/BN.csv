@@ -1,9 +1,0 @@
-ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
-202.152.77.212,mail1.bruneipress.com.bn.,10101,UNN,BN,,Microsoft DNS 6.1.7601 (1DB15D39),Unexpected result for wikileaks.org: {[[141 105 65 113] [185 165 168 41] [195 35 109 53] [195 35 109 44]]},,0.00,2021-08-31T17:11:46Z,2021-06-09T14:22:44Z
-202.152.77.213,mail.bruneipress.com.bn.,10101,UNN,BN,Bandar Seri Begawan,,i/o timeout,,0.00,2023-03-05T07:13:39Z,2022-01-25T16:37:21Z
-202.160.40.91,ftth.brunet.bn.,10094,Unified National Networks,BN,Kuala Belait,,,false,1.00,2022-08-24T02:52:45Z,2022-08-24T02:52:45Z
-202.160.38.188,mail.ave.com.bn.,10094,Unified National Networks,BN,Bandar Seri Begawan,9.9.2-P2,,false,1.00,2022-08-24T02:52:48Z,2022-08-24T02:52:48Z
-202.152.80.38,smp-80-38.simpur.net.bn.,10101,UNN,BN,Bandar Seri Begawan,,,false,1.00,2022-08-24T02:53:06Z,2022-08-24T02:53:06Z
-61.6.225.234,234-225.adsl.static.espeed.com.bn.,10094,Unified National Networks,BN,Bandar Seri Begawan,dnsmasq-2.49,,false,1.00,2022-11-02T09:39:21Z,2022-10-27T21:59:46Z
-61.6.225.205,205-225.adsl.static.espeed.com.bn.,10094,Unified National Networks,BN,Bandar Seri Begawan,,i/o timeout,,0.07,2023-02-27T23:59:41Z,2023-02-19T19:38:59Z
-119.160.135.201,201-135.adsl.static.espeed.com.bn.,10094,Unified National Networks,BN,Bandar Seri Begawan,,i/o timeout,,0.00,2023-08-12T21:07:57Z,2023-03-18T22:38:54Z

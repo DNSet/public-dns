@@ -1,4 +1,0 @@
-ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
-102.215.85.114,,329103,NS3-AS,NE,,,,false,1.00,2023-03-15T09:53:14Z,2023-03-13T23:20:15Z
-102.215.86.142,,329103,NS3-AS,NE,,,,false,1.00,2023-03-14T03:20:15Z,2023-03-14T03:20:15Z
-102.215.85.106,,329103,NS3-AS,NE,,,,false,1.00,2023-03-14T05:29:55Z,2023-03-14T05:29:55Z

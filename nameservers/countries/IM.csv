@@ -1,4 +1,0 @@
-ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
-185.246.128.162,,42237,Amati Foundation,IM,,,,false,1.00,2022-10-25T17:40:45Z,2022-10-25T16:48:55Z
-92.39.204.41,adsl92.39.204.41.manx.net.,13122,Manx Telecom Trading Ltd,IM,Isle of Man,,i/o timeout,,0.83,2023-03-18T02:48:22Z,2023-03-15T02:29:43Z
-83.218.22.136,,15766,Domicilium (IOM) Limited,IM,Douglas,dnsmasq-2.48,SERVFAIL for wikileaks.org,,0.96,2023-04-05T00:40:26Z,2023-03-16T02:39:37Z

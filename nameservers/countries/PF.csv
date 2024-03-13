@@ -1,5 +1,0 @@
-ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
-113.197.68.20,gw.viti.pf.,56017,VITI,PF,Papeete,,,true,0.65,2021-10-08T08:02:28Z,2021-06-09T14:17:42Z
-202.3.229.2,ppp.spt-tahiti.pf.,9471,ONATI,PF,Paea,ZyWALL DNS,,false,1.00,2023-03-13T04:32:51Z,2023-03-13T04:32:51Z
-202.90.66.2,resolver03.mana.pf.,9471,ONATI,PF,Papeete,,i/o timeout,,0.00,2023-08-17T21:18:57Z,2020-06-02T22:30:12Z
-202.90.66.60,60.66.90.202.dsl.dyn.mana.pf.,9471,ONATI,PF,Papeete,,i/o timeout,,0.00,2023-08-17T21:18:58Z,2020-06-02T22:31:03Z

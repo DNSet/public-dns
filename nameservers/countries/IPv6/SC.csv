@@ -1,3 +1,0 @@
-ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
-2a09:5302:ffff::ac9,sergeysedoy97.ru.,205090,First Server Limited,SC,,,,true,0.96,2023-03-09T02:44:56Z,2023-03-07T18:48:23Z
-2a09:5302:ffff::aca,sergeysedoy97.ru.,205090,First Server Limited,SC,,,i/o timeout,,0.66,2023-04-05T00:45:40Z,2023-03-16T10:40:29Z

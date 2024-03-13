@@ -1,4 +1,0 @@
-ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
-199.68.195.249,,19626,EVC-AS,BM,Hamilton,,,false,1.00,2022-10-16T06:16:32Z,2022-10-16T06:16:32Z
-209.240.36.197,36-197.cmpool.transact.bm.,32020,TRANSACT-BM-ASN,BM,Hamilton,,i/o timeout,,0.09,2023-03-01T16:47:26Z,2023-02-27T09:59:58Z
-69.17.200.231,dns3.gov.bm.,11269,LINKBERMUDA,BM,Paget,,,false,1.00,2023-03-18T02:50:03Z,2023-03-15T05:35:41Z

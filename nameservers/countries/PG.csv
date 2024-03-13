@@ -1,4 +1,0 @@
-ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
-124.240.199.23,,38009,Telikom PNG Satellite Tier 1 AS Internet Service,PG,Port Moresby,,,false,1.00,2021-09-24T04:28:16Z,2021-09-24T04:28:16Z
-103.83.33.13,ns1.lspngdns.com.,136239,CLICK PACIFIC LTD,PG,,9.9.4-RedHat-9.9.4-72.el7,,false,0.99,2022-12-14T10:06:02Z,2022-11-25T17:50:14Z
-27.122.25.68,pool-2568.datec.net.pg.,55792,Datec-PNG,PG,,,i/o timeout,,0.00,2023-04-20T15:48:04Z,2023-03-08T11:39:13Z

@@ -1,5 +1,0 @@
-ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
-2001:1a68::d911:2244,,15694,ATM S.A.,PL,,atman.pl,,false,1.00,2021-11-09T21:19:43Z,2021-10-02T14:47:39Z
-2001:41d0:601:1100::2a7f,itcentris.email.,16276,OVH SAS,PL,Warsaw,,i/o timeout,,0.67,2021-10-06T14:02:24Z,2021-10-02T19:03:48Z
-2001:67c:21ec::53,dnscache.e-utp.net.,56662,e-utp.net Marcin Gondek,PL,Warsaw,e-utp.net DNS cache PL-2,,true,1.00,2022-02-09T07:09:09Z,2022-02-01T22:17:42Z
-2605:e440:4::1:c0,,26383,ASNET,PL,Warsaw,,i/o timeout,,0.62,2023-04-05T00:45:39Z,2023-03-16T10:40:28Z

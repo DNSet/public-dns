@@ -1,4 +1,0 @@
-ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
-185.121.177.177,anyone.anyqa.st.,204136,Silent Ghost e.U.,AQ,,,i/o timeout,,0.00,2023-04-20T15:41:57Z,2020-11-30T19:15:05Z
-2a05:dfc7:5::5353,anytwo.dnsrec.meo.ws.,205432,William Weber,AQ,,,i/o timeout,,0.00,2023-04-20T15:48:29Z,2021-03-28T21:28:12Z
-2a05:dfc7:5353::53,,204136,Silent Ghost e.U.,AQ,,,,true,1.00,2021-09-27T23:22:58Z,2021-09-27T23:22:58Z

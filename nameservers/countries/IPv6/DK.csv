@@ -1,4 +1,0 @@
-ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
-2a00:fbe0:1:3802::3,,62113,Kracon ApS,DK,,9.11.29+dampening,,true,1.00,2021-05-03T22:24:25Z,2021-03-28T20:59:33Z
-2001:878:0:e000:82:e1:f4:a6,deic-lgb.anycast.censurfridns.dk.,1835,Danish network for Research and Education,DK,,9.11.35+dampening,,true,1.00,2021-11-29T07:31:46Z,2021-09-24T04:08:53Z
-2001:67c:28a4::,,198794,Thomas Steen Rasmussen,DK,,,i/o timeout,,0.00,2023-03-05T07:04:14Z,2021-12-01T23:51:28Z

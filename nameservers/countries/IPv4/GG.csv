@@ -1,3 +1,0 @@
-ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
-88.81.144.211,,8680,Sure (Guernsey) Limited,GG,Guernsey,,,true,1.00,2023-03-13T12:01:45Z,2023-03-13T12:01:45Z
-78.41.5.211,211.5.41.78.jtglobal.com.,8681,JTGlobal,GG,St Peter Port,,i/o timeout,,0.00,2023-08-17T21:12:58Z,2017-03-18T23:27:03Z

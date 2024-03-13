@@ -1,6 +1,0 @@
-ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
-66.249.150.50,dns1.digicelbarbados.net.,35900,DIGI-BDS-ASN,AG,St John's,,,false,1.00,2023-03-01T00:47:11Z,2020-11-22T11:33:48Z
-69.50.69.115,,19246,ACT2000,AG,St John's,,,false,0.59,2021-10-31T09:03:37Z,2021-09-25T20:56:20Z
-66.249.150.51,dns2.digicelbarbados.net.,35900,DIGI-BDS-ASN,AG,St John's,,,false,0.81,2022-08-10T09:30:01Z,2022-04-25T22:38:43Z
-38.131.19.242,,11594,APUA,AG,St John's,,i/o timeout,,0.00,2023-02-09T00:11:25Z,2022-11-06T04:24:02Z
-185.51.61.167,,42065,ZAO ElectronTelecom,AG,,,,false,0.92,2023-02-19T06:55:11Z,2022-12-26T09:04:45Z

@@ -1,4 +1,0 @@
-ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
-213.154.80.203,art-server-001.art-telecom.sn.,8346,Autonomous System,SN,,,,false,1.00,2021-09-24T04:30:49Z,2021-09-24T04:30:49Z
-154.125.35.37,,8346,SONATEL SONATEL-AS Autonomous System,SN,Dakar,,i/o timeout,,0.08,2023-02-26T09:09:57Z,2023-02-23T08:06:54Z
-154.124.116.38,,8346,SONATEL SONATEL-AS Autonomous System,SN,Mbour,,i/o timeout,,0.00,2023-08-17T21:59:35Z,2023-04-07T11:45:11Z

@@ -1,7 +1,0 @@
-ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
-165.56.3.226,,37154,ZAMTEL,ZM,Lusaka,unbound 1.4.22,,false,0.99,2023-02-19T06:55:16Z,2022-12-26T12:45:57Z
-41.60.129.80,mail.zppa.org.zm.,37146,realtime-as,ZM,,,,false,0.96,2023-02-26T09:08:41Z,2023-02-21T20:39:56Z
-41.173.23.150,,30844,Liquid Telecommunications Ltd,ZM,Lusaka,,,false,1.00,2023-03-15T09:51:14Z,2023-03-13T20:38:24Z
-41.175.15.54,,30844,Liquid Telecommunications Ltd,ZM,,,i/o timeout,,0.50,2023-03-15T09:52:22Z,2023-03-13T22:12:37Z
-41.175.25.206,,30844,Liquid Telecommunications Ltd,ZM,Lusaka,,,true,0.84,2023-08-17T20:53:29Z,2023-03-19T12:15:11Z
-41.77.0.216,,37287,ZAIN-ZAMBIA,ZM,,,i/o timeout,,0.00,2023-08-17T22:06:31Z,2014-12-30T19:11:48Z

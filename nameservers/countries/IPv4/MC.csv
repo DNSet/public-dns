@@ -1,3 +1,0 @@
-ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
-194.165.16.66,visit.keznews.com.,48721,Flyservers S.A.,MC,Monaco,9.11.3-1ubuntu1-Ubuntu,,true,1.00,2023-03-15T04:48:15Z,2023-03-14T09:11:27Z
-185.47.116.33,,6758,Monaco Telecom S.A.,MC,,,,false,1.00,2023-08-17T22:00:08Z,2023-04-09T17:06:54Z
