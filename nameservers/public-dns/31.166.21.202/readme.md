@@ -1,0 +1,9 @@
+# Nameserver 31.166.21.202
+
+* as_number: 35819
+* name: Unknown
+* city: Jeddah
+* country: SA
+* organization: Etihad Etisalat, a joint stock company
+* version: dnsmasq-2.52
+* dnssec: true

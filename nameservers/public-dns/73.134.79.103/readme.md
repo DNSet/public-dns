@@ -1,0 +1,9 @@
+# Nameserver 73.134.79.103
+
+* as_number: 7922
+* name: c-73-134-79-103.hsd1.md.comcast.net.
+* city: Washington
+* country: US
+* organization: COMCAST-7922
+* version: dnsmasq-2.83
+* dnssec: false

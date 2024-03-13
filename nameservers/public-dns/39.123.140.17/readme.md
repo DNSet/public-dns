@@ -1,0 +1,9 @@
+# Nameserver 39.123.140.17
+
+* as_number: 9318
+* name: Unknown
+* city: Jeju City
+* country: KR
+* organization: SK Broadband Co Ltd
+* version: Unknown
+* dnssec: false

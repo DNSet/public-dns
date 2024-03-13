@@ -1,0 +1,9 @@
+# Nameserver 91.245.157.39
+
+* as_number: 47914
+* name: Unknown
+* city: Moscow
+* country: RU
+* organization: OOO Creative Direct Marketing Solutions
+* version: Unknown
+* dnssec: true

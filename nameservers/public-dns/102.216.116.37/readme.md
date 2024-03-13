@@ -1,0 +1,9 @@
+# Nameserver 102.216.116.37
+
+* as_number: 329021
+* name: Unknown
+* city: Marsabit
+* country: KE
+* organization: SAVENET-LIMITED
+* version: Unknown
+* dnssec: false

@@ -1,0 +1,9 @@
+# Nameserver 144.48.115.104
+
+* as_number: 58715
+* name: Unknown
+* city: Dhaka
+* country: BD
+* organization: EARTH TELECOMMUNICATION Pvt LTD.
+* version: Unknown
+* dnssec: true

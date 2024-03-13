@@ -1,0 +1,9 @@
+# Nameserver 111.254.67.54
+
+* as_number: 3462
+* name: 111-254-67-54.dynamic-ip.hinet.net.
+* city: Pingtung City
+* country: TW
+* organization: Data Communication Business Group
+* version: Unknown
+* dnssec: Unknown

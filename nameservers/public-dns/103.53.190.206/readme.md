@@ -1,0 +1,9 @@
+# Nameserver 103.53.190.206
+
+* as_number: 38320
+* name: Unknown
+* city: Unknown
+* country: ID
+* organization: PT Maxindo Mitra Solusi
+* version: Unknown
+* dnssec: false

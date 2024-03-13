@@ -1,0 +1,9 @@
+# Nameserver 112.199.109.198
+
+* as_number: 9658
+* name: etpi.mercanrecruit.com.
+* city: Tanza
+* country: PH
+* organization: Eastern Telecoms Phils., Inc.
+* version: 9.11.4-3ubuntu5.4-Ubuntu
+* dnssec: false

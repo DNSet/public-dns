@@ -1,0 +1,9 @@
+# Nameserver 159.253.31.157
+
+* as_number: 42708
+* name: 159-253-31-157-static.glesys.net.
+* city: Stockholm
+* country: SE
+* organization: GleSYS AB
+* version: Unknown
+* dnssec: Unknown

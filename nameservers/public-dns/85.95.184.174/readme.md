@@ -1,0 +1,9 @@
+# Nameserver 85.95.184.174
+
+* as_number: 12389
+* name: 85-95-184-174.saransk.ru.
+* city: Saransk
+* country: RU
+* organization: Rostelecom
+* version: Unknown
+* dnssec: false

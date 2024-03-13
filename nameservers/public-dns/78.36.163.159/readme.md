@@ -1,0 +1,9 @@
+# Nameserver 78.36.163.159
+
+* as_number: 12389
+* name: shpd-78-36-163-159.static.vologda.ru.
+* city: Vologda
+* country: RU
+* organization: Rostelecom
+* version: Unknown
+* dnssec: false

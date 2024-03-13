@@ -1,0 +1,9 @@
+# Nameserver 37.244.146.1
+
+* as_number: 12810
+* name: srv-37-244-146-1.static.a1.hr.
+* city: Nova Gradiska
+* country: HR
+* organization: A1 Hrvatska d.o.o.
+* version: dnsmasq-2.78
+* dnssec: false

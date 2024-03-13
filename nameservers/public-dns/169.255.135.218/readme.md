@@ -1,0 +1,9 @@
+# Nameserver 169.255.135.218
+
+* as_number: 37697
+* name: Unknown
+* city: Maputo
+* country: MZ
+* organization: webmasters
+* version: dnsmasq-2.76
+* dnssec: false

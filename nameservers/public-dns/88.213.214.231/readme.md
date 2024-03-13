@@ -1,0 +1,9 @@
+# Nameserver 88.213.214.231
+
+* as_number: 61071
+* name: Unknown
+* city: Sratsimir
+* country: BG
+* organization: NETBOX LTD
+* version: Unknown
+* dnssec: Unknown

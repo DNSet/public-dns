@@ -1,0 +1,9 @@
+# Nameserver 202.80.247.34
+
+* as_number: 45458
+* name: Unknown
+* city: Unknown
+* country: TH
+* organization: SBN-ISPAWN-ISP and SBN-NIXAWN-NIX
+* version: Unknown
+* dnssec: false

@@ -1,0 +1,9 @@
+# Nameserver 82.208.70.48
+
+* as_number: 12389
+* name: 82-208-70-48.ats36.pppoe.mts-nn.ru.
+* city: Nizhniy Novgorod
+* country: RU
+* organization: Rostelecom
+* version: Unknown
+* dnssec: false

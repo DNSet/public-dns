@@ -1,0 +1,9 @@
+# Nameserver 58.69.236.37
+
+* as_number: 9299
+* name: Unknown
+* city: Quezon City
+* country: PH
+* organization: Philippine Long Distance Telephone Company
+* version: Unknown
+* dnssec: false

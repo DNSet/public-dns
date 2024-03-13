@@ -1,0 +1,9 @@
+# Nameserver 103.175.84.10
+
+* as_number: 147117
+* name: Unknown
+* city: Unknown
+* country: ID
+* organization: PT Blackfaos Data Nusantara
+* version: Unknown
+* dnssec: Unknown

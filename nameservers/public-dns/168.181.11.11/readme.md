@@ -1,0 +1,9 @@
+# Nameserver 168.181.11.11
+
+* as_number: 27843
+* name: Unknown
+* city: Ventanilla
+* country: PE
+* organization: OPTICAL TECHNOLOGIES S.A.C.
+* version: Unknown
+* dnssec: true

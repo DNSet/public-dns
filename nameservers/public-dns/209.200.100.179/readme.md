@@ -1,0 +1,9 @@
+# Nameserver 209.200.100.179
+
+* as_number: 203
+* name: mail.egos4.com.
+* city: Unknown
+* country: US
+* organization: CENTURYLINK-LEGACY-LVLT-203
+* version: Unknown
+* dnssec: false

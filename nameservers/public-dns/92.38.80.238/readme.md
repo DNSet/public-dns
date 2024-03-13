@@ -1,0 +1,9 @@
+# Nameserver 92.38.80.238
+
+* as_number: 31133
+* name: Unknown
+* city: Bryansk
+* country: RU
+* organization: PJSC MegaFon
+* version: dnsmasq-2.76
+* dnssec: Unknown

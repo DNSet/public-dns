@@ -1,0 +1,9 @@
+# Nameserver 94.243.145.78
+
+* as_number: 48249
+* name: Unknown
+* city: Moscow
+* country: RU
+* organization: Capital Telecom Limited Company
+* version: Unknown
+* dnssec: false

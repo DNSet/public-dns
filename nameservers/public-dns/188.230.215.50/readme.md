@@ -1,0 +1,9 @@
+# Nameserver 188.230.215.50
+
+* as_number: 34779
+* name: Unknown
+* city: Ljubljana
+* country: SI
+* organization: T-2, d.o.o.
+* version: Unknown
+* dnssec: Unknown

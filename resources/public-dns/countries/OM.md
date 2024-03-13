@@ -1,0 +1,84 @@
+# OM
+
+List of all [IPv4](#ipv4) and [IPv6](#ipv6) nameservers.
+
+## IPv4
+
+All scores for IPv4: [2](#ipv4-score-2), [4](#ipv4-score-4), [5](#ipv4-score-5), [6](#ipv4-score-6), [7](#ipv4-score-7), [8](#ipv4-score-8), [9](#ipv4-score-9), [10](#ipv4-score-10)
+
+### IPv4 score 10
+* [134.0.202.105](../../../nameservers/public-dns/134.0.202.105/readme.md): 1.0
+* [188.135.12.158](../../../nameservers/public-dns/188.135.12.158/readme.md): 1.0
+* [188.135.14.80](../../../nameservers/public-dns/188.135.14.80/readme.md): 1.0
+* [37.41.114.0](../../../nameservers/public-dns/37.41.114.0/readme.md): 1.0
+* [46.40.213.169](../../../nameservers/public-dns/46.40.213.169/readme.md): 1.0
+* [46.40.213.53](../../../nameservers/public-dns/46.40.213.53/readme.md): 1.0
+* [46.40.219.164](../../../nameservers/public-dns/46.40.219.164/readme.md): 1.0
+* [46.40.246.221](../../../nameservers/public-dns/46.40.246.221/readme.md): 1.0
+* [5.21.241.85](../../../nameservers/public-dns/5.21.241.85/readme.md): 1.0
+* [5.21.241.87](../../../nameservers/public-dns/5.21.241.87/readme.md): 1.0
+* [5.21.242.103](../../../nameservers/public-dns/5.21.242.103/readme.md): 1.0
+* [5.21.242.127](../../../nameservers/public-dns/5.21.242.127/readme.md): 1.0
+* [5.21.242.209](../../../nameservers/public-dns/5.21.242.209/readme.md): 1.0
+* [5.21.242.97](../../../nameservers/public-dns/5.21.242.97/readme.md): 1.0
+* [5.21.243.47](../../../nameservers/public-dns/5.21.243.47/readme.md): 1.0
+* [5.21.5.130](../../../nameservers/public-dns/5.21.5.130/readme.md): 1.0
+* [5.21.5.185](../../../nameservers/public-dns/5.21.5.185/readme.md): 1.0
+* [5.21.5.186](../../../nameservers/public-dns/5.21.5.186/readme.md): 1.0
+* [5.36.19.35](../../../nameservers/public-dns/5.36.19.35/readme.md): 1.0
+* [5.37.224.86](../../../nameservers/public-dns/5.37.224.86/readme.md): 1.0
+* [89.147.180.107](../../../nameservers/public-dns/89.147.180.107/readme.md): 1.0
+* [91.132.64.87](../../../nameservers/public-dns/91.132.64.87/readme.md): 1.0
+
+### IPv4 score 9
+* [188.135.60.222](../../../nameservers/public-dns/188.135.60.222/readme.md): 0.97
+* [188.135.51.143](../../../nameservers/public-dns/188.135.51.143/readme.md): 0.96
+* [85.154.37.161](../../../nameservers/public-dns/85.154.37.161/readme.md): 0.96
+* [89.147.154.110](../../../nameservers/public-dns/89.147.154.110/readme.md): 0.96
+
+### IPv4 score 8
+* [188.135.14.78](../../../nameservers/public-dns/188.135.14.78/readme.md): 0.86
+* [46.40.245.248](../../../nameservers/public-dns/46.40.245.248/readme.md): 0.86
+* [145.255.65.43](../../../nameservers/public-dns/145.255.65.43/readme.md): 0.85
+* [46.40.244.137](../../../nameservers/public-dns/46.40.244.137/readme.md): 0.85
+* [46.40.216.90](../../../nameservers/public-dns/46.40.216.90/readme.md): 0.84
+* [46.40.214.43](../../../nameservers/public-dns/46.40.214.43/readme.md): 0.83
+* [5.21.242.81](../../../nameservers/public-dns/5.21.242.81/readme.md): 0.83
+* [46.40.227.57](../../../nameservers/public-dns/46.40.227.57/readme.md): 0.81
+* [5.21.243.71](../../../nameservers/public-dns/5.21.243.71/readme.md): 0.81
+* [5.36.63.155](../../../nameservers/public-dns/5.36.63.155/readme.md): 0.8
+
+### IPv4 score 7
+* [188.135.50.94](../../../nameservers/public-dns/188.135.50.94/readme.md): 0.79
+* [46.40.218.15](../../../nameservers/public-dns/46.40.218.15/readme.md): 0.77
+* [145.255.72.190](../../../nameservers/public-dns/145.255.72.190/readme.md): 0.74
+* [188.135.49.95](../../../nameservers/public-dns/188.135.49.95/readme.md): 0.74
+* [5.36.1.80](../../../nameservers/public-dns/5.36.1.80/readme.md): 0.72
+* [145.255.67.96](../../../nameservers/public-dns/145.255.67.96/readme.md): 0.71
+
+### IPv4 score 6
+* [5.21.242.111](../../../nameservers/public-dns/5.21.242.111/readme.md): 0.67
+* [188.135.50.138](../../../nameservers/public-dns/188.135.50.138/readme.md): 0.66
+* [188.135.16.72](../../../nameservers/public-dns/188.135.16.72/readme.md): 0.64
+* [188.135.60.42](../../../nameservers/public-dns/188.135.60.42/readme.md): 0.64
+* [188.135.61.168](../../../nameservers/public-dns/188.135.61.168/readme.md): 0.62
+* [188.135.50.178](../../../nameservers/public-dns/188.135.50.178/readme.md): 0.61
+
+### IPv4 score 5
+* [188.135.62.7](../../../nameservers/public-dns/188.135.62.7/readme.md): 0.59
+* [5.21.242.41](../../../nameservers/public-dns/5.21.242.41/readme.md): 0.59
+* [46.40.215.42](../../../nameservers/public-dns/46.40.215.42/readme.md): 0.56
+* [5.36.158.104](../../../nameservers/public-dns/5.36.158.104/readme.md): 0.54
+* [5.36.112.118](../../../nameservers/public-dns/5.36.112.118/readme.md): 0.52
+* [46.40.219.223](../../../nameservers/public-dns/46.40.219.223/readme.md): 0.5
+
+### IPv4 score 4
+* [46.40.244.136](../../../nameservers/public-dns/46.40.244.136/readme.md): 0.46
+* [46.40.247.21](../../../nameservers/public-dns/46.40.247.21/readme.md): 0.45
+
+### IPv4 score 2
+* [46.40.247.116](../../../nameservers/public-dns/46.40.247.116/readme.md): 0.21
+
+## IPv6
+
+No nameserver

@@ -1,0 +1,9 @@
+# Nameserver 117.121.202.89
+
+* as_number: 46029
+* name: Unknown
+* city: Purbalingga
+* country: ID
+* organization: PT. SEKAWAN GLOBAL KOMUNIKA
+* version: Unknown
+* dnssec: Unknown

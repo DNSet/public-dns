@@ -1,0 +1,9 @@
+# Nameserver 1.157.211.206
+
+* as_number: 1221
+* name: cpe-1-157-211-206.nb13.nsw.asp.telstra.net.
+* city: Sydney
+* country: AU
+* organization: Telstra Corporation Ltd
+* version: dnsmasq-
+* dnssec: false

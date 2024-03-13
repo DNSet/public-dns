@@ -1,0 +1,9 @@
+# Nameserver 190.2.239.76
+
+* as_number: 18809
+* name: Unknown
+* city: Unknown
+* country: PA
+* organization: Cable Onda
+* version: dnsmasq-2.40
+* dnssec: true

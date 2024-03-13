@@ -1,0 +1,9 @@
+# Nameserver 62.55.205.97
+
+* as_number: 6805
+* name: Unknown
+* city: Andernach
+* country: DE
+* organization: Telefonica Germany
+* version: Unknown
+* dnssec: false

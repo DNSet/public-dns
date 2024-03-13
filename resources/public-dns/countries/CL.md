@@ -1,0 +1,284 @@
+# CL
+
+List of all [IPv4](#ipv4) and [IPv6](#ipv6) nameservers.
+
+## IPv4
+
+All scores for IPv4: [1](#ipv4-score-1), [2](#ipv4-score-2), [3](#ipv4-score-3), [4](#ipv4-score-4), [5](#ipv4-score-5), [6](#ipv4-score-6), [7](#ipv4-score-7), [8](#ipv4-score-8), [9](#ipv4-score-9), [10](#ipv4-score-10)
+
+### IPv4 score 10
+* [128.201.117.206](../../../nameservers/public-dns/128.201.117.206/readme.md): 1.0
+* [129.151.125.52](../../../nameservers/public-dns/129.151.125.52/readme.md): 1.0
+* [129.222.174.247](../../../nameservers/public-dns/129.222.174.247/readme.md): 1.0
+* [131.0.172.68](../../../nameservers/public-dns/131.0.172.68/readme.md): 1.0
+* [138.0.120.199](../../../nameservers/public-dns/138.0.120.199/readme.md): 1.0
+* [138.219.230.2](../../../nameservers/public-dns/138.219.230.2/readme.md): 1.0
+* [138.255.103.162](../../../nameservers/public-dns/138.255.103.162/readme.md): 1.0
+* [146.155.226.12](../../../nameservers/public-dns/146.155.226.12/readme.md): 1.0
+* [152.230.64.24](../../../nameservers/public-dns/152.230.64.24/readme.md): 1.0
+* [152.231.66.204](../../../nameservers/public-dns/152.231.66.204/readme.md): 1.0
+* [164.77.131.172](../../../nameservers/public-dns/164.77.131.172/readme.md): 1.0
+* [170.82.130.200](../../../nameservers/public-dns/170.82.130.200/readme.md): 1.0
+* [170.82.188.146](../../../nameservers/public-dns/170.82.188.146/readme.md): 1.0
+* [177.221.140.21](../../../nameservers/public-dns/177.221.140.21/readme.md): 1.0
+* [179.56.194.41](../../../nameservers/public-dns/179.56.194.41/readme.md): 1.0
+* [181.118.167.110](../../../nameservers/public-dns/181.118.167.110/readme.md): 1.0
+* [181.212.129.202](../../../nameservers/public-dns/181.212.129.202/readme.md): 1.0
+* [181.212.15.107](../../../nameservers/public-dns/181.212.15.107/readme.md): 1.0
+* [181.212.39.92](../../../nameservers/public-dns/181.212.39.92/readme.md): 1.0
+* [181.212.48.42](../../../nameservers/public-dns/181.212.48.42/readme.md): 1.0
+* [181.212.56.235](../../../nameservers/public-dns/181.212.56.235/readme.md): 1.0
+* [181.212.87.227](../../../nameservers/public-dns/181.212.87.227/readme.md): 1.0
+* [181.226.233.122](../../../nameservers/public-dns/181.226.233.122/readme.md): 1.0
+* [186.10.15.156](../../../nameservers/public-dns/186.10.15.156/readme.md): 1.0
+* [186.10.6.226](../../../nameservers/public-dns/186.10.6.226/readme.md): 1.0
+* [186.103.167.190](../../../nameservers/public-dns/186.103.167.190/readme.md): 1.0
+* [186.103.181.254](../../../nameservers/public-dns/186.103.181.254/readme.md): 1.0
+* [186.103.201.77](../../../nameservers/public-dns/186.103.201.77/readme.md): 1.0
+* [186.103.214.226](../../../nameservers/public-dns/186.103.214.226/readme.md): 1.0
+* [186.103.224.226](../../../nameservers/public-dns/186.103.224.226/readme.md): 1.0
+* [186.148.33.107](../../../nameservers/public-dns/186.148.33.107/readme.md): 1.0
+* [186.64.123.114](../../../nameservers/public-dns/186.64.123.114/readme.md): 1.0
+* [186.64.123.203](../../../nameservers/public-dns/186.64.123.203/readme.md): 1.0
+* [186.64.123.31](../../../nameservers/public-dns/186.64.123.31/readme.md): 1.0
+* [186.65.72.88](../../../nameservers/public-dns/186.65.72.88/readme.md): 1.0
+* [186.67.152.108](../../../nameservers/public-dns/186.67.152.108/readme.md): 1.0
+* [186.67.175.122](../../../nameservers/public-dns/186.67.175.122/readme.md): 1.0
+* [186.67.224.156](../../../nameservers/public-dns/186.67.224.156/readme.md): 1.0
+* [186.67.52.221](../../../nameservers/public-dns/186.67.52.221/readme.md): 1.0
+* [189.126.8.226](../../../nameservers/public-dns/189.126.8.226/readme.md): 1.0
+* [190.110.164.194](../../../nameservers/public-dns/190.110.164.194/readme.md): 1.0
+* [190.110.97.172](../../../nameservers/public-dns/190.110.97.172/readme.md): 1.0
+* [190.114.253.110](../../../nameservers/public-dns/190.114.253.110/readme.md): 1.0
+* [190.114.255.115](../../../nameservers/public-dns/190.114.255.115/readme.md): 1.0
+* [190.13.146.123](../../../nameservers/public-dns/190.13.146.123/readme.md): 1.0
+* [190.13.179.173](../../../nameservers/public-dns/190.13.179.173/readme.md): 1.0
+* [190.151.10.179](../../../nameservers/public-dns/190.151.10.179/readme.md): 1.0
+* [190.151.104.178](../../../nameservers/public-dns/190.151.104.178/readme.md): 1.0
+* [190.151.34.62](../../../nameservers/public-dns/190.151.34.62/readme.md): 1.0
+* [190.151.47.137](../../../nameservers/public-dns/190.151.47.137/readme.md): 1.0
+* [190.151.76.90](../../../nameservers/public-dns/190.151.76.90/readme.md): 1.0
+* [190.151.78.115](../../../nameservers/public-dns/190.151.78.115/readme.md): 1.0
+* [190.153.173.190](../../../nameservers/public-dns/190.153.173.190/readme.md): 1.0
+* [190.163.174.144](../../../nameservers/public-dns/190.163.174.144/readme.md): 1.0
+* [190.163.21.166](../../../nameservers/public-dns/190.163.21.166/readme.md): 1.0
+* [190.171.153.133](../../../nameservers/public-dns/190.171.153.133/readme.md): 1.0
+* [190.196.120.195](../../../nameservers/public-dns/190.196.120.195/readme.md): 1.0
+* [190.208.16.226](../../../nameservers/public-dns/190.208.16.226/readme.md): 1.0
+* [190.215.82.157](../../../nameservers/public-dns/190.215.82.157/readme.md): 1.0
+* [190.216.145.29](../../../nameservers/public-dns/190.216.145.29/readme.md): 1.0
+* [190.4.209.58](../../../nameservers/public-dns/190.4.209.58/readme.md): 1.0
+* [190.45.106.63](../../../nameservers/public-dns/190.45.106.63/readme.md): 1.0
+* [190.46.221.114](../../../nameservers/public-dns/190.46.221.114/readme.md): 1.0
+* [190.46.63.248](../../../nameservers/public-dns/190.46.63.248/readme.md): 1.0
+* [190.54.120.23](../../../nameservers/public-dns/190.54.120.23/readme.md): 1.0
+* [190.6.122.41](../../../nameservers/public-dns/190.6.122.41/readme.md): 1.0
+* [190.8.70.36](../../../nameservers/public-dns/190.8.70.36/readme.md): 1.0
+* [190.96.61.146](../../../nameservers/public-dns/190.96.61.146/readme.md): 1.0
+* [190.96.85.254](../../../nameservers/public-dns/190.96.85.254/readme.md): 1.0
+* [190.96.93.74](../../../nameservers/public-dns/190.96.93.74/readme.md): 1.0
+* [200.10.221.16](../../../nameservers/public-dns/200.10.221.16/readme.md): 1.0
+* [200.111.106.126](../../../nameservers/public-dns/200.111.106.126/readme.md): 1.0
+* [200.111.195.34](../../../nameservers/public-dns/200.111.195.34/readme.md): 1.0
+* [200.111.199.243](../../../nameservers/public-dns/200.111.199.243/readme.md): 1.0
+* [200.111.47.43](../../../nameservers/public-dns/200.111.47.43/readme.md): 1.0
+* [200.111.8.178](../../../nameservers/public-dns/200.111.8.178/readme.md): 1.0
+* [200.114.66.144](../../../nameservers/public-dns/200.114.66.144/readme.md): 1.0
+* [200.12.130.66](../../../nameservers/public-dns/200.12.130.66/readme.md): 1.0
+* [200.2.116.245](../../../nameservers/public-dns/200.2.116.245/readme.md): 1.0
+* [200.27.110.59](../../../nameservers/public-dns/200.27.110.59/readme.md): 1.0
+* [200.27.155.58](../../../nameservers/public-dns/200.27.155.58/readme.md): 1.0
+* [200.27.18.138](../../../nameservers/public-dns/200.27.18.138/readme.md): 1.0
+* [200.27.188.155](../../../nameservers/public-dns/200.27.188.155/readme.md): 1.0
+* [200.29.133.200](../../../nameservers/public-dns/200.29.133.200/readme.md): 1.0
+* [200.42.174.188](../../../nameservers/public-dns/200.42.174.188/readme.md): 1.0
+* [200.54.18.150](../../../nameservers/public-dns/200.54.18.150/readme.md): 1.0
+* [200.54.214.235](../../../nameservers/public-dns/200.54.214.235/readme.md): 1.0
+* [200.54.49.179](../../../nameservers/public-dns/200.54.49.179/readme.md): 1.0
+* [200.54.51.6](../../../nameservers/public-dns/200.54.51.6/readme.md): 1.0
+* [200.54.72.53](../../../nameservers/public-dns/200.54.72.53/readme.md): 1.0
+* [200.54.78.66](../../../nameservers/public-dns/200.54.78.66/readme.md): 1.0
+* [200.54.9.138](../../../nameservers/public-dns/200.54.9.138/readme.md): 1.0
+* [200.63.97.15](../../../nameservers/public-dns/200.63.97.15/readme.md): 1.0
+* [200.68.46.21](../../../nameservers/public-dns/200.68.46.21/readme.md): 1.0
+* [200.72.65.131](../../../nameservers/public-dns/200.72.65.131/readme.md): 1.0
+* [200.73.113.158](../../../nameservers/public-dns/200.73.113.158/readme.md): 1.0
+* [200.73.208.62](../../../nameservers/public-dns/200.73.208.62/readme.md): 1.0
+* [200.91.28.35](../../../nameservers/public-dns/200.91.28.35/readme.md): 1.0
+* [201.148.107.14](../../../nameservers/public-dns/201.148.107.14/readme.md): 1.0
+* [201.187.41.107](../../../nameservers/public-dns/201.187.41.107/readme.md): 1.0
+* [201.219.136.42](../../../nameservers/public-dns/201.219.136.42/readme.md): 1.0
+* [201.219.154.75](../../../nameservers/public-dns/201.219.154.75/readme.md): 1.0
+* [201.221.192.102](../../../nameservers/public-dns/201.221.192.102/readme.md): 1.0
+* [201.236.145.10](../../../nameservers/public-dns/201.236.145.10/readme.md): 1.0
+* [201.236.150.51](../../../nameservers/public-dns/201.236.150.51/readme.md): 1.0
+* [201.236.189.222](../../../nameservers/public-dns/201.236.189.222/readme.md): 1.0
+* [201.236.54.164](../../../nameservers/public-dns/201.236.54.164/readme.md): 1.0
+* [201.238.239.73](../../../nameservers/public-dns/201.238.239.73/readme.md): 1.0
+* [204.199.128.106](../../../nameservers/public-dns/204.199.128.106/readme.md): 1.0
+* [204.199.128.122](../../../nameservers/public-dns/204.199.128.122/readme.md): 1.0
+* [204.199.128.123](../../../nameservers/public-dns/204.199.128.123/readme.md): 1.0
+* [204.199.128.124](../../../nameservers/public-dns/204.199.128.124/readme.md): 1.0
+* [204.199.128.125](../../../nameservers/public-dns/204.199.128.125/readme.md): 1.0
+* [204.199.129.38](../../../nameservers/public-dns/204.199.129.38/readme.md): 1.0
+* [204.199.130.156](../../../nameservers/public-dns/204.199.130.156/readme.md): 1.0
+* [204.199.130.162](../../../nameservers/public-dns/204.199.130.162/readme.md): 1.0
+* [204.199.130.186](../../../nameservers/public-dns/204.199.130.186/readme.md): 1.0
+* [204.199.130.91](../../../nameservers/public-dns/204.199.130.91/readme.md): 1.0
+* [204.199.130.93](../../../nameservers/public-dns/204.199.130.93/readme.md): 1.0
+* [207.248.3.232](../../../nameservers/public-dns/207.248.3.232/readme.md): 1.0
+* [207.248.3.46](../../../nameservers/public-dns/207.248.3.46/readme.md): 1.0
+* [216.155.89.66](../../../nameservers/public-dns/216.155.89.66/readme.md): 1.0
+* [216.241.25.83](../../../nameservers/public-dns/216.241.25.83/readme.md): 1.0
+* [45.160.13.9](../../../nameservers/public-dns/45.160.13.9/readme.md): 1.0
+* [45.160.188.171](../../../nameservers/public-dns/45.160.188.171/readme.md): 1.0
+* [45.160.189.163](../../../nameservers/public-dns/45.160.189.163/readme.md): 1.0
+* [45.165.171.82](../../../nameservers/public-dns/45.165.171.82/readme.md): 1.0
+* [45.228.211.238](../../../nameservers/public-dns/45.228.211.238/readme.md): 1.0
+* [45.236.128.107](../../../nameservers/public-dns/45.236.128.107/readme.md): 1.0
+* [45.238.20.140](../../../nameservers/public-dns/45.238.20.140/readme.md): 1.0
+* [45.4.169.10](../../../nameservers/public-dns/45.4.169.10/readme.md): 1.0
+* [45.65.240.107](../../../nameservers/public-dns/45.65.240.107/readme.md): 1.0
+* [45.7.228.232](../../../nameservers/public-dns/45.7.228.232/readme.md): 1.0
+* [45.7.231.33](../../../nameservers/public-dns/45.7.231.33/readme.md): 1.0
+* [8.242.200.150](../../../nameservers/public-dns/8.242.200.150/readme.md): 1.0
+* [8.242.200.162](../../../nameservers/public-dns/8.242.200.162/readme.md): 1.0
+* [8.242.200.163](../../../nameservers/public-dns/8.242.200.163/readme.md): 1.0
+* [8.242.200.165](../../../nameservers/public-dns/8.242.200.165/readme.md): 1.0
+* [8.242.200.166](../../../nameservers/public-dns/8.242.200.166/readme.md): 1.0
+* [8.242.205.35](../../../nameservers/public-dns/8.242.205.35/readme.md): 1.0
+* [8.242.205.38](../../../nameservers/public-dns/8.242.205.38/readme.md): 1.0
+
+### IPv4 score 9
+* [152.231.93.186](../../../nameservers/public-dns/152.231.93.186/readme.md): 0.99
+* [170.239.84.187](../../../nameservers/public-dns/170.239.84.187/readme.md): 0.99
+* [186.10.127.210](../../../nameservers/public-dns/186.10.127.210/readme.md): 0.99
+* [186.103.142.219](../../../nameservers/public-dns/186.103.142.219/readme.md): 0.99
+* [190.102.233.135](../../../nameservers/public-dns/190.102.233.135/readme.md): 0.99
+* [190.96.94.98](../../../nameservers/public-dns/190.96.94.98/readme.md): 0.99
+* [200.73.84.43](../../../nameservers/public-dns/200.73.84.43/readme.md): 0.99
+* [201.159.170.194](../../../nameservers/public-dns/201.159.170.194/readme.md): 0.99
+* [201.238.224.203](../../../nameservers/public-dns/201.238.224.203/readme.md): 0.99
+* [45.7.229.188](../../../nameservers/public-dns/45.7.229.188/readme.md): 0.99
+* [181.212.113.146](../../../nameservers/public-dns/181.212.113.146/readme.md): 0.98
+* [186.64.123.78](../../../nameservers/public-dns/186.64.123.78/readme.md): 0.98
+* [201.238.243.245](../../../nameservers/public-dns/201.238.243.245/readme.md): 0.98
+* [45.236.184.6](../../../nameservers/public-dns/45.236.184.6/readme.md): 0.98
+* [152.231.78.50](../../../nameservers/public-dns/152.231.78.50/readme.md): 0.97
+* [160.20.189.14](../../../nameservers/public-dns/160.20.189.14/readme.md): 0.97
+* [186.103.223.106](../../../nameservers/public-dns/186.103.223.106/readme.md): 0.97
+* [200.54.146.103](../../../nameservers/public-dns/200.54.146.103/readme.md): 0.97
+* [200.54.234.170](../../../nameservers/public-dns/200.54.234.170/readme.md): 0.97
+* [45.160.15.254](../../../nameservers/public-dns/45.160.15.254/readme.md): 0.97
+* [45.225.184.8](../../../nameservers/public-dns/45.225.184.8/readme.md): 0.97
+* [164.77.241.226](../../../nameservers/public-dns/164.77.241.226/readme.md): 0.96
+* [200.73.251.98](../../../nameservers/public-dns/200.73.251.98/readme.md): 0.96
+* [45.7.231.57](../../../nameservers/public-dns/45.7.231.57/readme.md): 0.96
+* [190.102.241.12](../../../nameservers/public-dns/190.102.241.12/readme.md): 0.95
+* [190.95.64.193](../../../nameservers/public-dns/190.95.64.193/readme.md): 0.95
+* [200.27.71.227](../../../nameservers/public-dns/200.27.71.227/readme.md): 0.95
+* [170.239.84.247](../../../nameservers/public-dns/170.239.84.247/readme.md): 0.94
+* [186.10.112.158](../../../nameservers/public-dns/186.10.112.158/readme.md): 0.94
+* [186.103.198.186](../../../nameservers/public-dns/186.103.198.186/readme.md): 0.94
+* [186.67.26.198](../../../nameservers/public-dns/186.67.26.198/readme.md): 0.94
+* [186.67.45.139](../../../nameservers/public-dns/186.67.45.139/readme.md): 0.94
+* [190.151.20.146](../../../nameservers/public-dns/190.151.20.146/readme.md): 0.94
+* [190.215.50.178](../../../nameservers/public-dns/190.215.50.178/readme.md): 0.94
+* [190.44.171.135](../../../nameservers/public-dns/190.44.171.135/readme.md): 0.94
+* [200.113.61.170](../../../nameservers/public-dns/200.113.61.170/readme.md): 0.94
+* [200.54.2.154](../../../nameservers/public-dns/200.54.2.154/readme.md): 0.94
+* [164.77.90.63](../../../nameservers/public-dns/164.77.90.63/readme.md): 0.93
+* [190.196.44.65](../../../nameservers/public-dns/190.196.44.65/readme.md): 0.93
+* [190.217.155.118](../../../nameservers/public-dns/190.217.155.118/readme.md): 0.93
+* [200.95.184.22](../../../nameservers/public-dns/200.95.184.22/readme.md): 0.93
+* [207.248.3.238](../../../nameservers/public-dns/207.248.3.238/readme.md): 0.93
+* [138.219.229.130](../../../nameservers/public-dns/138.219.229.130/readme.md): 0.92
+* [190.121.4.63](../../../nameservers/public-dns/190.121.4.63/readme.md): 0.92
+* [216.155.92.110](../../../nameservers/public-dns/216.155.92.110/readme.md): 0.92
+* [186.103.130.93](../../../nameservers/public-dns/186.103.130.93/readme.md): 0.91
+* [186.103.224.37](../../../nameservers/public-dns/186.103.224.37/readme.md): 0.91
+* [190.211.250.218](../../../nameservers/public-dns/190.211.250.218/readme.md): 0.91
+* [186.37.123.55](../../../nameservers/public-dns/186.37.123.55/readme.md): 0.9
+* [190.110.122.176](../../../nameservers/public-dns/190.110.122.176/readme.md): 0.9
+* [190.82.70.214](../../../nameservers/public-dns/190.82.70.214/readme.md): 0.9
+
+### IPv4 score 8
+* [179.56.125.105](../../../nameservers/public-dns/179.56.125.105/readme.md): 0.89
+* [181.212.76.218](../../../nameservers/public-dns/181.212.76.218/readme.md): 0.89
+* [186.67.64.251](../../../nameservers/public-dns/186.67.64.251/readme.md): 0.89
+* [201.238.242.38](../../../nameservers/public-dns/201.238.242.38/readme.md): 0.88
+* [45.225.95.171](../../../nameservers/public-dns/45.225.95.171/readme.md): 0.88
+* [152.230.112.34](../../../nameservers/public-dns/152.230.112.34/readme.md): 0.87
+* [186.103.133.91](../../../nameservers/public-dns/186.103.133.91/readme.md): 0.87
+* [186.179.80.106](../../../nameservers/public-dns/186.179.80.106/readme.md): 0.87
+* [186.190.236.11](../../../nameservers/public-dns/186.190.236.11/readme.md): 0.87
+* [186.103.175.74](../../../nameservers/public-dns/186.103.175.74/readme.md): 0.86
+* [201.148.106.124](../../../nameservers/public-dns/201.148.106.124/readme.md): 0.86
+* [45.160.188.63](../../../nameservers/public-dns/45.160.188.63/readme.md): 0.86
+* [152.230.47.28](../../../nameservers/public-dns/152.230.47.28/readme.md): 0.85
+* [200.113.10.155](../../../nameservers/public-dns/200.113.10.155/readme.md): 0.85
+* [190.151.20.148](../../../nameservers/public-dns/190.151.20.148/readme.md): 0.84
+* [190.121.26.11](../../../nameservers/public-dns/190.121.26.11/readme.md): 0.83
+* [164.77.156.235](../../../nameservers/public-dns/164.77.156.235/readme.md): 0.82
+* [201.219.141.195](../../../nameservers/public-dns/201.219.141.195/readme.md): 0.81
+* [181.212.15.98](../../../nameservers/public-dns/181.212.15.98/readme.md): 0.8
+* [45.225.184.145](../../../nameservers/public-dns/45.225.184.145/readme.md): 0.8
+
+### IPv4 score 7
+* [200.54.225.86](../../../nameservers/public-dns/200.54.225.86/readme.md): 0.79
+* [200.68.18.204](../../../nameservers/public-dns/200.68.18.204/readme.md): 0.78
+* [190.215.109.187](../../../nameservers/public-dns/190.215.109.187/readme.md): 0.77
+* [200.72.191.4](../../../nameservers/public-dns/200.72.191.4/readme.md): 0.77
+* [186.190.237.140](../../../nameservers/public-dns/186.190.237.140/readme.md): 0.76
+* [186.67.172.51](../../../nameservers/public-dns/186.67.172.51/readme.md): 0.76
+* [200.111.143.146](../../../nameservers/public-dns/200.111.143.146/readme.md): 0.76
+* [38.7.206.19](../../../nameservers/public-dns/38.7.206.19/readme.md): 0.76
+* [45.225.92.197](../../../nameservers/public-dns/45.225.92.197/readme.md): 0.76
+* [179.57.215.36](../../../nameservers/public-dns/179.57.215.36/readme.md): 0.75
+* [190.13.135.228](../../../nameservers/public-dns/190.13.135.228/readme.md): 0.75
+* [45.160.188.206](../../../nameservers/public-dns/45.160.188.206/readme.md): 0.75
+* [190.82.93.45](../../../nameservers/public-dns/190.82.93.45/readme.md): 0.74
+* [186.67.66.242](../../../nameservers/public-dns/186.67.66.242/readme.md): 0.72
+* [190.215.115.214](../../../nameservers/public-dns/190.215.115.214/readme.md): 0.72
+* [200.54.173.94](../../../nameservers/public-dns/200.54.173.94/readme.md): 0.72
+* [200.54.26.58](../../../nameservers/public-dns/200.54.26.58/readme.md): 0.7
+* [200.95.184.33](../../../nameservers/public-dns/200.95.184.33/readme.md): 0.7
+
+### IPv4 score 6
+* [200.54.64.34](../../../nameservers/public-dns/200.54.64.34/readme.md): 0.68
+* [201.148.107.70](../../../nameservers/public-dns/201.148.107.70/readme.md): 0.67
+* [200.54.194.12](../../../nameservers/public-dns/200.54.194.12/readme.md): 0.64
+* [190.196.58.194](../../../nameservers/public-dns/190.196.58.194/readme.md): 0.63
+* [190.102.250.136](../../../nameservers/public-dns/190.102.250.136/readme.md): 0.62
+* [186.148.211.146](../../../nameservers/public-dns/186.148.211.146/readme.md): 0.61
+* [164.77.182.13](../../../nameservers/public-dns/164.77.182.13/readme.md): 0.6
+* [190.110.98.11](../../../nameservers/public-dns/190.110.98.11/readme.md): 0.6
+
+### IPv4 score 5
+* [200.111.138.194](../../../nameservers/public-dns/200.111.138.194/readme.md): 0.58
+* [190.45.6.137](../../../nameservers/public-dns/190.45.6.137/readme.md): 0.5
+* [200.2.206.207](../../../nameservers/public-dns/200.2.206.207/readme.md): 0.5
+* [200.55.219.195](../../../nameservers/public-dns/200.55.219.195/readme.md): 0.5
+
+### IPv4 score 4
+* [200.72.163.50](../../../nameservers/public-dns/200.72.163.50/readme.md): 0.47
+* [190.4.207.211](../../../nameservers/public-dns/190.4.207.211/readme.md): 0.42
+
+### IPv4 score 3
+* [200.54.22.74](../../../nameservers/public-dns/200.54.22.74/readme.md): 0.34
+* [152.175.5.158](../../../nameservers/public-dns/152.175.5.158/readme.md): 0.33
+* [152.230.113.98](../../../nameservers/public-dns/152.230.113.98/readme.md): 0.33
+* [200.54.42.6](../../../nameservers/public-dns/200.54.42.6/readme.md): 0.33
+* [119.8.150.1](../../../nameservers/public-dns/119.8.150.1/readme.md): 0.32
+
+### IPv4 score 2
+* [200.113.185.227](../../../nameservers/public-dns/200.113.185.227/readme.md): 0.29
+* [164.77.182.11](../../../nameservers/public-dns/164.77.182.11/readme.md): 0.28
+* [216.155.91.134](../../../nameservers/public-dns/216.155.91.134/readme.md): 0.28
+
+### IPv4 score 1
+* [186.156.150.199](../../../nameservers/public-dns/186.156.150.199/readme.md): 0.15
+
+## IPv6
+
+No nameserver

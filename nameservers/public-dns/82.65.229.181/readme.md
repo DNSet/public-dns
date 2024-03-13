@@ -1,0 +1,9 @@
+# Nameserver 82.65.229.181
+
+* as_number: 12322
+* name: 82-65-229-181.subs.proxad.net.
+* city: Unknown
+* country: FR
+* organization: Free SAS
+* version: DNSServer
+* dnssec: false

@@ -1,0 +1,9 @@
+# Nameserver 85.235.49.254
+
+* as_number: 25086
+* name: 85-235-49-254.usp.utk.ru.
+* city: Unknown
+* country: RU
+* organization: MTS PJSC
+* version: Unknown
+* dnssec: Unknown

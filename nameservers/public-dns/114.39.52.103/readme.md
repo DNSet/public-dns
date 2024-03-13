@@ -1,0 +1,9 @@
+# Nameserver 114.39.52.103
+
+* as_number: 3462
+* name: 114-39-52-103.dynamic-ip.hinet.net.
+* city: Kaohsiung City
+* country: TW
+* organization: Data Communication Business Group
+* version: Unknown
+* dnssec: Unknown

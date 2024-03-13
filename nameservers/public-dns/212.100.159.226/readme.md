@@ -1,0 +1,9 @@
+# Nameserver 212.100.159.226
+
+* as_number: 8732
+* name: Unknown
+* city: Moscow
+* country: RU
+* organization: JSC Comcor
+* version: Unknown
+* dnssec: Unknown

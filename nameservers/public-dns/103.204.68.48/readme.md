@@ -1,0 +1,9 @@
+# Nameserver 103.204.68.48
+
+* as_number: 150176
+* name: Unknown
+* city: Unknown
+* country: BD
+* organization: Thunder link Network
+* version: Unknown
+* dnssec: Unknown
