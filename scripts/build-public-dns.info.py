@@ -6,13 +6,20 @@ from typing import Dict
 from typing import Generic
 from typing import Iterator
 from typing import List
+from typing import Optional
+from typing import Sequence
 from typing import TypeVar
 
 from dnsprobe import dnsprobe_nameservers
+from xarg import add_command
+from xarg import argp
+from xarg import commands
+from xarg import run_command
 from xarg import safile
 
-SCRIPTS = os.path.dirname(__file__)
-BASEDIR = os.path.dirname(SCRIPTS)
+SCRIPTS: str = os.path.dirname(__file__)
+ABSPATH: str = os.path.abspath(SCRIPTS)
+BASEDIR: str = os.path.dirname(ABSPATH)
 LT = TypeVar("LT")  # Label type.
 
 
@@ -193,7 +200,7 @@ class CountrySet(Subsets[str]):
 
 class Resources(NameserverSet):
 
-    DATADIR = "resources"
+    DATADIR = "databases"
     NAMEDIR = "nameservers"
 
     def __init__(self, basedir: str, project: str):
@@ -202,34 +209,85 @@ class Resources(NameserverSet):
         self.__project: str = project
         super().__init__()
 
-    @property
-    def datadir(self) -> str:
-        return os.path.join(self.__basedir, self.DATADIR, self.__project)
+    @classmethod
+    def init(cls, basedir: str, project: str):
+        for item in sorted(cls.load(basedir=basedir, project=project),
+                           key=lambda item: item.info.ip_address):
+            item.dump()
 
     @property
-    def namedir(self) -> str:
+    def datasdir(self) -> str:
+        return os.path.join(self.__basedir, self.DATADIR)
+
+    @property
+    def namesdir(self) -> str:
         return os.path.join(self.__basedir, self.NAMEDIR, self.__project)
 
+    @property
+    def indexdir(self) -> str:
+        return os.path.join(self.namesdir, "index")
+
+    @property
+    def entrydir(self) -> str:
+        return os.path.join(self.namesdir, "entry")
+
     def add(self, item: dnsprobe_nameservers.item):
-        path: str = os.path.join(self.namedir, item.ip_address)
+        path: str = os.path.join(self.entrydir, item.ip_address)
         nameserver: Nameserver = Nameserver.load(path, item)
         self.__countries.add(nameserver)
         super().add(nameserver)
 
     def dump(self) -> None:
         title: str = "nameservers"
-        super().dump(os.path.join(self.datadir, f"{title}.md"), title)
-        self.__countries.dump(os.path.join(self.datadir, "countries"))
-        for item in sorted(self, key=lambda item: item.info.ip_address):
-            item.dump()
+        self.__countries.dump(os.path.join(self.indexdir, "countries"))
+        super().dump(os.path.join(self.indexdir, f"{title}.md"), title)
 
     @classmethod
-    def load(cls, basedir: str, project: str, csvfile: str) -> "Resources":
+    def load(cls, basedir: str, project: str) -> "Resources":
         resources = Resources(basedir, project)
-        nameservers = dnsprobe_nameservers(resources.datadir, csvfile)
+        nameservers = dnsprobe_nameservers(resources.datasdir, project)
         for addr in nameservers:
             resources.add(nameservers[addr])
         return resources
 
 
-Resources.load(BASEDIR, "public-dns", "nameservers-all.csv").dump()
+@add_command("init")
+def add_cmd_init(_arg: argp):
+    pass
+
+
+@run_command(add_cmd_init)
+def run_cmd_init(cmds: commands) -> int:
+    Resources.init(BASEDIR, "public-dns")
+    return 0
+
+
+@add_command("dump")
+def add_cmd_dump(_arg: argp):
+    pass
+
+
+@run_command(add_cmd_dump)
+def run_cmd_dump(cmds: commands) -> int:
+    Resources.load(BASEDIR, "public-dns").dump()
+    return 0
+
+
+@add_command("public-dns.info")
+def add_cmd(_arg: argp):
+    pass
+
+
+@run_command(add_cmd, add_cmd_init, add_cmd_dump)
+def run_cmd(cmds: commands) -> int:
+    return 0
+
+
+def main(argv: Optional[Sequence[str]] = None) -> int:
+    cmds = commands()
+    cmds.version = "0.1"
+    return cmds.run(root=add_cmd, argv=argv)
+
+
+if __name__ == "__main__":
+    main()
