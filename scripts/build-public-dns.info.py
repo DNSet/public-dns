@@ -59,7 +59,7 @@ class Nameserver():
         assert safile.create_backup(path)
         with open(path, "w") as whdl:
             whdl.write(text)
-        assert safile.dalete_backup(path)
+        assert safile.delete_backup(path)
 
     @classmethod
     def load(cls, path: str, info: dnsprobe_nameservers.item) -> "Nameserver":
